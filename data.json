@@ -1,0 +1,26 @@
+{
+ "version": 1,
+ "generated_at": "2026-09-15T16:37:17",
+ "items": [
+  {
+   "id": "32780085-90b8-4d08-9dde-4287e8e48970",
+   "index": 1789458890858,
+   "name": "走路",
+   "source": "Mixamo",
+   "race": "人类男",
+   "tags": [],
+   "category": "",
+   "preview_url": "assets/中性/走路/preview.webp",
+   "glb_url": "assets/中性/走路/走路.glb"
+  }
+ ],
+ "enums": {
+  "sources": [
+   "Mixamo"
+  ],
+  "races": [
+   "人类男"
+  ],
+  "tags": []
+ }
+}
