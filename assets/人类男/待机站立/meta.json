@@ -1,0 +1,15 @@
+{
+ "id": "460b127e-b1f4-458f-9dec-3e6ac7e88a19",
+ "index": 1789546828097,
+ "name": "待机站立",
+ "source": "Synty",
+ "race": "人类男",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "站立"
+ ],
+ "category": "",
+ "preview_url": "assets/人类男/待机站立/preview.webp",
+ "glb_url": "assets/人类男/待机站立/待机站立.glb"
+}

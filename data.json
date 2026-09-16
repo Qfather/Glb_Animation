@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-09-16T10:38:58",
+ "generated_at": "2026-09-16T17:17:00",
  "items": [
   {
    "id": "32780085-90b8-4d08-9dde-4287e8e48970",
@@ -39,7 +39,8 @@
    "race": "人类女",
    "fps": "30",
    "tags": [
-    "下蹲"
+    "下蹲",
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人类女/待机/preview.webp",
@@ -53,7 +54,8 @@
    "race": "人类女",
    "fps": "30",
    "tags": [
-    "基础"
+    "待机",
+    "站立"
    ],
    "category": "",
    "preview_url": "assets/人类女/待机_001/preview.webp",
@@ -81,7 +83,8 @@
    "race": "人类女",
    "fps": "30",
    "tags": [
-    "基础"
+    "基础",
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人类女/跳/preview.webp",
@@ -95,7 +98,7 @@
    "race": "人类女",
    "fps": "30",
    "tags": [
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人类女/重着地/preview.webp",
@@ -109,7 +112,7 @@
    "race": "人类女",
    "fps": "30",
    "tags": [
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人类女/中着地/preview.webp",
@@ -123,7 +126,7 @@
    "race": "人类女",
    "fps": "30",
    "tags": [
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人类女/轻着地/preview.webp",
@@ -443,6 +446,417 @@
    "category": "",
    "preview_url": "assets/人类女/走/preview.webp",
    "glb_url": "assets/人类女/走/走.glb"
+  },
+  {
+   "id": "d4ca96d1-75e9-46cf-837a-5452f9c431a7",
+   "index": 1789546715645,
+   "name": "待机_002",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/待机_002/preview.webp",
+   "glb_url": "assets/人类男/待机_002/待机_002.glb"
+  },
+  {
+   "id": "460b127e-b1f4-458f-9dec-3e6ac7e88a19",
+   "index": 1789546828097,
+   "name": "待机站立",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "站立"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/待机站立/preview.webp",
+   "glb_url": "assets/人类男/待机站立/待机站立.glb"
+  },
+  {
+   "id": "3add2d9e-cb8f-4a1d-982e-b6f7b1ed341b",
+   "index": 1789547033689,
+   "name": "坠落_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "空中"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/坠落_001/preview.webp",
+   "glb_url": "assets/人类男/坠落_001/坠落_001.glb"
+  },
+  {
+   "id": "83cea972-3e19-4fd4-b3b1-844b9e21dd75",
+   "index": 1789547110990,
+   "name": "下落_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "空中"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/下落_001/preview.webp",
+   "glb_url": "assets/人类男/下落_001/下落_001.glb"
+  },
+  {
+   "id": "fafdd15a-d7a9-4988-93e3-c7cd847eba8b",
+   "index": 1789547231983,
+   "name": "跳_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/跳_001/preview.webp",
+   "glb_url": "assets/人类男/跳_001/跳_001.glb"
+  },
+  {
+   "id": "e8c4d458-288a-4181-8dd8-bac11f0ccfdb",
+   "index": 1789547318654,
+   "name": "重着地_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/重着地_001/preview.webp",
+   "glb_url": "assets/人类男/重着地_001/重着地_001.glb"
+  },
+  {
+   "id": "933e993a-605a-4e9f-a280-34d665217409",
+   "index": 1789547403503,
+   "name": "中着地_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/中着地_001/preview.webp",
+   "glb_url": "assets/人类男/中着地_001/中着地_001.glb"
+  },
+  {
+   "id": "4394f2d9-e967-4771-b411-c8cd1dbbea65",
+   "index": 1789547656920,
+   "name": "轻着地_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/轻着地_001/preview.webp",
+   "glb_url": "assets/人类男/轻着地_001/轻着地_001.glb"
+  },
+  {
+   "id": "b1d6491e-3e75-4093-996f-e5435cf3e245",
+   "index": 1789547906000,
+   "name": "蹲后_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/蹲后_001/preview.webp",
+   "glb_url": "assets/人类男/蹲后_001/蹲后_001.glb"
+  },
+  {
+   "id": "42a9fb7d-8872-4571-bb0d-666e8ce446ea",
+   "index": 1789547977023,
+   "name": "蹲左_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/蹲左_001/preview.webp",
+   "glb_url": "assets/人类男/蹲左_001/蹲左_001.glb"
+  },
+  {
+   "id": "b2b31ec6-a9c8-4618-bd48-89deac2cdbc4",
+   "index": 1789548044023,
+   "name": "蹲右_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/蹲右_001/preview.webp",
+   "glb_url": "assets/人类男/蹲右_001/蹲右_001.glb"
+  },
+  {
+   "id": "4b8f70df-1db9-4b30-80ca-270b971c6091",
+   "index": 1789548125840,
+   "name": "蹲前_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/蹲前_001/preview.webp",
+   "glb_url": "assets/人类男/蹲前_001/蹲前_001.glb"
+  },
+  {
+   "id": "051656d4-c228-4b9b-be83-dbbdeff743db",
+   "index": 1789548224965,
+   "name": "后跑",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/后跑/preview.webp",
+   "glb_url": "assets/人类男/后跑/后跑.glb"
+  },
+  {
+   "id": "4d91a6ef-7467-4933-828f-142269102fdb",
+   "index": 1789548293782,
+   "name": "左跑",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/左跑/preview.webp",
+   "glb_url": "assets/人类男/左跑/左跑.glb"
+  },
+  {
+   "id": "ed905cd1-1e91-460c-9834-2edfcec833a8",
+   "index": 1789548401414,
+   "name": "右跑",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/右跑/preview.webp",
+   "glb_url": "assets/人类男/右跑/右跑.glb"
+  },
+  {
+   "id": "2ca87032-871f-4e63-982f-765c8371a808",
+   "index": 1789548467517,
+   "name": "跑_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/跑_001/preview.webp",
+   "glb_url": "assets/人类男/跑_001/跑_001.glb"
+  },
+  {
+   "id": "09f587a9-7d94-45c3-9e50-3f61ee5e937f",
+   "index": 1789548586124,
+   "name": "蹲小步后移_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/蹲小步后移_001/preview.webp",
+   "glb_url": "assets/人类男/蹲小步后移_001/蹲小步后移_001.glb"
+  },
+  {
+   "id": "00460cf4-3e7e-4ba9-8d95-12251143aa19",
+   "index": 1789548657195,
+   "name": "蹲小步前移_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/蹲小步前移_001/preview.webp",
+   "glb_url": "assets/人类男/蹲小步前移_001/蹲小步前移_001.glb"
+  },
+  {
+   "id": "970ca60b-698a-4ad7-ba0a-1f2c710df2be",
+   "index": 1789548707365,
+   "name": "蹲小步左移_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/蹲小步左移_001/preview.webp",
+   "glb_url": "assets/人类男/蹲小步左移_001/蹲小步左移_001.glb"
+  },
+  {
+   "id": "22d423da-eb1b-494c-9661-1d6abf57d7c0",
+   "index": 1789548761803,
+   "name": "蹲小步右移_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/蹲小步右移_001/preview.webp",
+   "glb_url": "assets/人类男/蹲小步右移_001/蹲小步右移_001.glb"
+  },
+  {
+   "id": "6cb8afda-f8d6-4bdf-a1e5-a2f52223b162",
+   "index": 1789549541974,
+   "name": "小步后移_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/小步后移_001/preview.webp",
+   "glb_url": "assets/人类男/小步后移_001/小步后移_001.glb"
+  },
+  {
+   "id": "2efe2a99-c338-448e-b956-09cedb60b842",
+   "index": 1789549686380,
+   "name": "小步前移_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/小步前移_001/preview.webp",
+   "glb_url": "assets/人类男/小步前移_001/小步前移_001.glb"
+  },
+  {
+   "id": "709456fb-2fda-487a-8406-4b113d8d0cf9",
+   "index": 1789549797284,
+   "name": "小步左移_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/小步左移_001/preview.webp",
+   "glb_url": "assets/人类男/小步左移_001/小步左移_001.glb"
+  },
+  {
+   "id": "200cc0ae-742f-4a21-92cb-3fd128a82db3",
+   "index": 1789549863180,
+   "name": "小步右移_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/小步右移_001/preview.webp",
+   "glb_url": "assets/人类男/小步右移_001/小步右移_001.glb"
+  },
+  {
+   "id": "0cad2048-1226-4c9f-9901-e3fdc7955018",
+   "index": 1789549933630,
+   "name": "冲刺_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/冲刺_001/preview.webp",
+   "glb_url": "assets/人类男/冲刺_001/冲刺_001.glb"
+  },
+  {
+   "id": "0cd1c5d3-fb11-4434-ad63-d18efad6be88",
+   "index": 1789550018282,
+   "name": "走后",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/走后/preview.webp",
+   "glb_url": "assets/人类男/走后/走后.glb"
+  },
+  {
+   "id": "c646bed9-e5d3-4464-96e6-48679b50c117",
+   "index": 1789550096697,
+   "name": "走左_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动",
+    "站立"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/走左_001/preview.webp",
+   "glb_url": "assets/人类男/走左_001/走左_001.glb"
+  },
+  {
+   "id": "b2c7c758-fafb-4453-b19c-af036748a954",
+   "index": 1789550151849,
+   "name": "走右_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动",
+    "站立"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/走右_001/preview.webp",
+   "glb_url": "assets/人类男/走右_001/走右_001.glb"
+  },
+  {
+   "id": "a5e0f87b-ba61-4b97-adbf-670d748aa5fb",
+   "index": 1789550220644,
+   "name": "走_001",
+   "source": "Synty",
+   "race": "人类男",
+   "fps": "30",
+   "tags": [
+    "移动",
+    "站立"
+   ],
+   "category": "",
+   "preview_url": "assets/人类男/走_001/preview.webp",
+   "glb_url": "assets/人类男/走_001/走_001.glb"
   }
  ],
  "enums": {
@@ -458,9 +872,11 @@
    "下蹲",
    "其他",
    "基础",
+   "待机",
    "移动",
    "空中",
-   "站立"
+   "站立",
+   "跳"
   ],
   "fps": [
    "30",

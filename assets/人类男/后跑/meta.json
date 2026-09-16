@@ -1,0 +1,14 @@
+{
+ "id": "051656d4-c228-4b9b-be83-dbbdeff743db",
+ "index": 1789548224965,
+ "name": "后跑",
+ "source": "Synty",
+ "race": "人类男",
+ "fps": "30",
+ "tags": [
+  "移动"
+ ],
+ "category": "",
+ "preview_url": "assets/人类男/后跑/preview.webp",
+ "glb_url": "assets/人类男/后跑/后跑.glb"
+}

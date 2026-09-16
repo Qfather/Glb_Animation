@@ -35,10 +35,12 @@ def items(): return jsonify(read_data())
 @app.post("/api/upload")
 def upload():
     name=(request.form.get("name") or "").strip()
+    source=request.form.get("source") or ""
     race=request.form.get("race") or ""
     preview=request.files.get("preview")
     glb=request.files.get("glb")
     if not name: return jsonify(error="名称不能为空"),400
+    if source not in read_data().get("enums",{}).get("sources",[]): return jsonify(error="来源必须选择有效枚举"),400
     if race not in DEFAULT_RACES and race not in read_data().get("enums",{}).get("races",[]): return jsonify(error="种族无效"),400
     if not preview or Path(preview.filename or "").suffix.lower()!=".webp": return jsonify(error="预览图必须是 WEBP"),400
     if not glb or Path(glb.filename or "").suffix.lower()!=".glb": return jsonify(error="动画文件必须是 GLB"),400
@@ -50,7 +52,7 @@ def upload():
     fps=request.form.get("fps") or DEFAULT_FPS[0]
     data=read_data()
     if fps not in data.get("enums",{}).get("fps",DEFAULT_FPS): return jsonify(error="FPS 无效"),400
-    item={"id":str(uuid.uuid4()),"index":int(datetime.now().timestamp()*1000),"name":name,"source":request.form.get("source") or "","race":race,"fps":fps,"tags":tags,"category":"","preview_url":f"{key}/preview.webp","glb_url":f"{key}/{safe_name(name)}.glb"}
+    item={"id":str(uuid.uuid4()),"index":int(datetime.now().timestamp()*1000),"name":name,"source":source,"race":race,"fps":fps,"tags":tags,"category":"","preview_url":f"{key}/preview.webp","glb_url":f"{key}/{safe_name(name)}.glb"}
     (folder/"meta.json").write_text(json.dumps(item,ensure_ascii=False,indent=1),encoding="utf-8")
     data["items"]=[*data.get("items",[]),item];enums=data.setdefault("enums",{});enums["races"]=sorted(set(enums.get("races",DEFAULT_RACES)));enums["fps"]=sorted(set(enums.get("fps",DEFAULT_FPS)),key=lambda x:int(x) if str(x).isdigit() else 9999);enums["tags"]=sorted(set(enums.get("tags",[])+tags));data["generated_at"]=datetime.now().isoformat(timespec="seconds")
     DATA.write_text(json.dumps(data,ensure_ascii=False,indent=1),encoding="utf-8")
@@ -84,13 +86,15 @@ def edit_item(item_id):
     data=read_data(); item=next((x for x in data.get("items",[]) if x.get("id")==item_id),None)
     if not item: return jsonify(error="找不到动画"),404
     name=(request.form.get("name") or "").strip()
+    source=request.form.get("source") or ""
     race=request.form.get("race") or ""
-    if not name or race not in read_data().get("enums",{}).get("races",DEFAULT_RACES): return jsonify(error="名称或种族无效"),400
+    enums=read_data().get("enums",{})
+    if not name or source not in enums.get("sources",[]) or race not in enums.get("races",DEFAULT_RACES): return jsonify(error="名称、来源或种族无效"),400
     fps=request.form.get("fps") or str(item.get("fps") or "30")
     if fps not in read_data().get("enums",{}).get("fps",DEFAULT_FPS): return jsonify(error="FPS 无效"),400
     old_folder=ROOT/Path(item["preview_url"]).parent
     old_glb_path=ROOT/Path(item.get("glb_url", ""))
-    item.update(name=name,source=request.form.get("source") or "",race=race,fps=fps,tags=[x.strip() for x in (request.form.get("tags") or "").split(",") if x.strip()]); item.pop("gender",None)
+    item.update(name=name,source=source,race=race,fps=fps,tags=[x.strip() for x in (request.form.get("tags") or "").split(",") if x.strip()]); item.pop("gender",None)
     new_folder=ROOT/"assets"/safe_name(race)/safe_name(name)
     if old_folder.resolve()!=new_folder.resolve():
         if new_folder.exists(): return jsonify(error="目标种族下已存在同名资产"),400
