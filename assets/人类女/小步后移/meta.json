@@ -1,0 +1,15 @@
+{
+ "id": "a2f1413c-3485-4892-9817-17141231bbb4",
+ "index": 1789525371278,
+ "name": "小步后移",
+ "source": "Synty",
+ "race": "人类女",
+ "fps": "30",
+ "tags": [
+  "移动",
+  "站立"
+ ],
+ "category": "",
+ "preview_url": "assets/人类女/小步后移/preview.webp",
+ "glb_url": "assets/人类女/小步后移/小步后移.glb"
+}

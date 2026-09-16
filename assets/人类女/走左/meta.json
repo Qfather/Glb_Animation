@@ -1,0 +1,15 @@
+{
+ "id": "42346eb5-ec65-40e4-940d-e5f80e9c4786",
+ "index": 1789526150676,
+ "name": "走左",
+ "source": "Synty",
+ "race": "人类女",
+ "fps": "30",
+ "tags": [
+  "移动",
+  "站立"
+ ],
+ "category": "",
+ "preview_url": "assets/人类女/走左/preview.webp",
+ "glb_url": "assets/人类女/走左/走左.glb"
+}

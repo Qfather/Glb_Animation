@@ -1,0 +1,15 @@
+{
+ "id": "86fff804-39ab-4054-9d34-c54b4b0652ba",
+ "index": 1789524229527,
+ "name": "跑后",
+ "source": "Synty",
+ "race": "人类女",
+ "fps": "30",
+ "tags": [
+  "移动",
+  "站立"
+ ],
+ "category": "",
+ "preview_url": "assets/人类女/跑后/preview.webp",
+ "glb_url": "assets/人类女/跑后/跑后.glb"
+}

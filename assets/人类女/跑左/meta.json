@@ -1,0 +1,15 @@
+{
+ "id": "08b2b908-5ffe-400b-b1b6-273d2cc8ca5b",
+ "index": 1789523975602,
+ "name": "跑左",
+ "source": "Synty",
+ "race": "人类女",
+ "fps": "30",
+ "tags": [
+  "移动",
+  "站立"
+ ],
+ "category": "",
+ "preview_url": "assets/人类女/跑左/preview.webp",
+ "glb_url": "assets/人类女/跑左/跑左.glb"
+}

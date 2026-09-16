@@ -1,0 +1,15 @@
+{
+ "id": "32780085-90b8-4d08-9dde-4287e8e48970",
+ "index": 1789458890858,
+ "name": "走路",
+ "source": "Mixamo",
+ "race": "人类男",
+ "fps": "60",
+ "tags": [
+  "移动",
+  "站立"
+ ],
+ "category": "",
+ "preview_url": "assets/人类男/走路/preview.webp",
+ "glb_url": "assets/人类男/走路/走路.glb"
+}
