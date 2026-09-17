@@ -1,0 +1,15 @@
+{
+ "id": "815e6d38-42c6-453e-b604-900573583b29",
+ "index": 1789625300474,
+ "name": "向右跑",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "移动",
+  "单手"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/向右跑/preview.webp",
+ "glb_url": "assets/人形/向右跑/向右跑.glb"
+}

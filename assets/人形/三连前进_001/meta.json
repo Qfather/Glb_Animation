@@ -1,0 +1,17 @@
+{
+ "id": "65574834-d888-45fc-98b8-d70b342d5f3f",
+ "index": 1789615383210,
+ "name": "三连前进_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "攻击",
+  "移动",
+  "连击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/三连前进_001/preview.webp",
+ "glb_url": "assets/人形/三连前进_001/三连前进_001.glb"
+}

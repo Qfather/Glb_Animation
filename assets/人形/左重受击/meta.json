@@ -1,0 +1,15 @@
+{
+ "id": "5cdae38d-c23a-4825-92f9-bf7fefe65235",
+ "index": 1789618021914,
+ "name": "左重受击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "受击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左重受击/preview.webp",
+ "glb_url": "assets/人形/左重受击/左重受击.glb"
+}

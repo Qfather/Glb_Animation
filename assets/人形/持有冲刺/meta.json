@@ -1,0 +1,15 @@
+{
+ "id": "7bfe9bc1-b044-4054-9b45-8845c058339c",
+ "index": 1789625407601,
+ "name": "持有冲刺",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "移动"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/持有冲刺/preview.webp",
+ "glb_url": "assets/人形/持有冲刺/持有冲刺.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "f23cd3fd-c816-4369-8380-8f4079a9bcdd",
+ "index": 1789616904643,
+ "name": "死亡向前",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "死亡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/死亡向前/preview.webp",
+ "glb_url": "assets/人形/死亡向前/死亡向前.glb"
+}

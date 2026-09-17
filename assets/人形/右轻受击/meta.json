@@ -1,0 +1,15 @@
+{
+ "id": "cbfcd8b2-e6c6-40a5-b08a-090f911faf40",
+ "index": 1789620036321,
+ "name": "右轻受击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "受击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右轻受击/preview.webp",
+ "glb_url": "assets/人形/右轻受击/右轻受击.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "bedba286-14f0-4593-bc91-7691c3f172ea",
+ "index": 1789617574711,
+ "name": "后倒地站起",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "其他",
+  "单手"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后倒地站起/preview.webp",
+ "glb_url": "assets/人形/后倒地站起/后倒地站起.glb"
+}

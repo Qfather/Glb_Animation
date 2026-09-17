@@ -1,0 +1,15 @@
+{
+ "id": "94a4bda9-ac3f-4945-a239-a79966fd922b",
+ "index": 1789617784324,
+ "name": "右倒地站起",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "其他",
+  "单手"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右倒地站起/preview.webp",
+ "glb_url": "assets/人形/右倒地站起/右倒地站起.glb"
+}

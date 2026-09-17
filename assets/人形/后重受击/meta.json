@@ -1,0 +1,15 @@
+{
+ "id": "9e9ca467-598c-4257-99b6-59c961645071",
+ "index": 1789617881628,
+ "name": "后重受击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击",
+  "单手"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后重受击/preview.webp",
+ "glb_url": "assets/人形/后重受击/后重受击.glb"
+}

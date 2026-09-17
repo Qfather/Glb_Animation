@@ -1,0 +1,15 @@
+{
+ "id": "1f06bdaa-2d31-474d-bd33-ed1ec46b416c",
+ "index": 1789615984203,
+ "name": "攻击_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "攻击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/攻击_003/preview.webp",
+ "glb_url": "assets/人形/攻击_003/攻击_003.glb"
+}

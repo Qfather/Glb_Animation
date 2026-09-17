@@ -1,0 +1,15 @@
+{
+ "id": "f99e9e9f-32a8-4196-98c8-7343fe7ec3d3",
+ "index": 1789620244224,
+ "name": "格挡待机",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "待机"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/格挡待机/preview.webp",
+ "glb_url": "assets/人形/格挡待机/格挡待机.glb"
+}

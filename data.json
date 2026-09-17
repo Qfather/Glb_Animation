@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-09-16T17:17:00",
+ "generated_at": "2026-09-17T14:17:57",
  "items": [
   {
    "id": "32780085-90b8-4d08-9dde-4287e8e48970",
@@ -857,26 +857,828 @@
    "category": "",
    "preview_url": "assets/人类男/走_001/preview.webp",
    "glb_url": "assets/人类男/走_001/走_001.glb"
+  },
+  {
+   "id": "5837f999-1f76-4c4e-b2d1-08be750b7358",
+   "index": 1789614652624,
+   "name": "二连",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "攻击",
+    "连击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连/preview.webp",
+   "glb_url": "assets/人形/二连/二连.glb"
+  },
+  {
+   "id": "a4e6d2b3-1ef4-4225-9e68-fe1f654a1607",
+   "index": 1789614968105,
+   "name": "二连前进",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "攻击",
+    "移动",
+    "连击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连前进/preview.webp",
+   "glb_url": "assets/人形/二连前进/二连前进.glb"
+  },
+  {
+   "id": "7985dac6-99cd-4044-9b95-59f11ac1b129",
+   "index": 1789615110061,
+   "name": "三连前进",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "攻击",
+    "移动",
+    "连击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/三连前进/preview.webp",
+   "glb_url": "assets/人形/三连前进/三连前进.glb"
+  },
+  {
+   "id": "65574834-d888-45fc-98b8-d70b342d5f3f",
+   "index": 1789615383210,
+   "name": "三连前进_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "攻击",
+    "移动",
+    "连击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/三连前进_001/preview.webp",
+   "glb_url": "assets/人形/三连前进_001/三连前进_001.glb"
+  },
+  {
+   "id": "c0403226-2868-423e-9970-b86daff0011d",
+   "index": 1789615450140,
+   "name": "攻击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击/preview.webp",
+   "glb_url": "assets/人形/攻击/攻击.glb"
+  },
+  {
+   "id": "5a6a68ef-e9fe-4e62-b5ff-7e4f1f36017e",
+   "index": 1789615712539,
+   "name": "攻击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_001/preview.webp",
+   "glb_url": "assets/人形/攻击_001/攻击_001.glb"
+  },
+  {
+   "id": "70e3fe15-d890-4433-bc4a-889edb421f22",
+   "index": 1789615907132,
+   "name": "攻击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_002/preview.webp",
+   "glb_url": "assets/人形/攻击_002/攻击_002.glb"
+  },
+  {
+   "id": "1f06bdaa-2d31-474d-bd33-ed1ec46b416c",
+   "index": 1789615984203,
+   "name": "攻击_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_003/preview.webp",
+   "glb_url": "assets/人形/攻击_003/攻击_003.glb"
+  },
+  {
+   "id": "3db141b8-75fa-4d9d-b547-da68b150d315",
+   "index": 1789616240734,
+   "name": "格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "格挡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/格挡/preview.webp",
+   "glb_url": "assets/人形/格挡/格挡.glb"
+  },
+  {
+   "id": "018ffb40-b895-471e-9b12-aa61baa6e3cb",
+   "index": 1789616338712,
+   "name": "下蹲向后",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "单手",
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲向后/preview.webp",
+   "glb_url": "assets/人形/下蹲向后/下蹲向后.glb"
+  },
+  {
+   "id": "6adbad59-02c4-4826-b4d8-09361f74744c",
+   "index": 1789616492406,
+   "name": "下蹲向前",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "单手",
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲向前/preview.webp",
+   "glb_url": "assets/人形/下蹲向前/下蹲向前.glb"
+  },
+  {
+   "id": "4342e046-03f9-40b6-9ccc-5d6a3977c956",
+   "index": 1789616572169,
+   "name": "下蹲待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "单手",
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲待机/preview.webp",
+   "glb_url": "assets/人形/下蹲待机/下蹲待机.glb"
+  },
+  {
+   "id": "5c379179-8294-40a5-8ba2-c127d834cc9a",
+   "index": 1789616648316,
+   "name": "下蹲向左",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "移动",
+    "单手"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲向左/preview.webp",
+   "glb_url": "assets/人形/下蹲向左/下蹲向左.glb"
+  },
+  {
+   "id": "972e5466-f152-46fa-be61-d25585906dc0",
+   "index": 1789616711027,
+   "name": "下蹲向右",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "单手",
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲向右/preview.webp",
+   "glb_url": "assets/人形/下蹲向右/下蹲向右.glb"
+  },
+  {
+   "id": "dae92bc3-d423-4731-885c-894a8a16d380",
+   "index": 1789616825446,
+   "name": "死亡向后",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "死亡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/死亡向后/preview.webp",
+   "glb_url": "assets/人形/死亡向后/死亡向后.glb"
+  },
+  {
+   "id": "f23cd3fd-c816-4369-8380-8f4079a9bcdd",
+   "index": 1789616904643,
+   "name": "死亡向前",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "死亡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/死亡向前/preview.webp",
+   "glb_url": "assets/人形/死亡向前/死亡向前.glb"
+  },
+  {
+   "id": "fcf5698a-6eb1-44bd-bc8f-ae5eefc96bc0",
+   "index": 1789616982068,
+   "name": "死亡向左",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "死亡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/死亡向左/preview.webp",
+   "glb_url": "assets/人形/死亡向左/死亡向左.glb"
+  },
+  {
+   "id": "984d7c4c-0643-40bf-bf4a-f4cc7d9c40fd",
+   "index": 1789617036232,
+   "name": "死亡向右",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "死亡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/死亡向右/preview.webp",
+   "glb_url": "assets/人形/死亡向右/死亡向右.glb"
+  },
+  {
+   "id": "2ceaf1bb-3210-4e56-8f38-b7d3437557e6",
+   "index": 1789617178438,
+   "name": "拿出武器",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "装备"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/拿出武器/preview.webp",
+   "glb_url": "assets/人形/拿出武器/拿出武器.glb"
+  },
+  {
+   "id": "e7eee3e2-e190-44ec-bb3d-20c8b7754069",
+   "index": 1789617322237,
+   "name": "降落",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "空中"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/降落/preview.webp",
+   "glb_url": "assets/人形/降落/降落.glb"
+  },
+  {
+   "id": "bedba286-14f0-4593-bc91-7691c3f172ea",
+   "index": 1789617574711,
+   "name": "后倒地站起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "其他",
+    "单手"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后倒地站起/preview.webp",
+   "glb_url": "assets/人形/后倒地站起/后倒地站起.glb"
+  },
+  {
+   "id": "6ca93ba0-759d-412b-a3eb-d6f46f386d73",
+   "index": 1789617651434,
+   "name": "前倒地站起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "其他",
+    "单手"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前倒地站起/preview.webp",
+   "glb_url": "assets/人形/前倒地站起/前倒地站起.glb"
+  },
+  {
+   "id": "09e2e85d-cd83-436b-a5db-371ea8d4a6bc",
+   "index": 1789617723394,
+   "name": "左倒地站起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "其他",
+    "单手"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左倒地站起/preview.webp",
+   "glb_url": "assets/人形/左倒地站起/左倒地站起.glb"
+  },
+  {
+   "id": "94a4bda9-ac3f-4945-a239-a79966fd922b",
+   "index": 1789617784324,
+   "name": "右倒地站起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "其他",
+    "单手"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右倒地站起/preview.webp",
+   "glb_url": "assets/人形/右倒地站起/右倒地站起.glb"
+  },
+  {
+   "id": "9e9ca467-598c-4257-99b6-59c961645071",
+   "index": 1789617881628,
+   "name": "后重受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击",
+    "单手"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后重受击/preview.webp",
+   "glb_url": "assets/人形/后重受击/后重受击.glb"
+  },
+  {
+   "id": "e83c1939-5fda-4357-bad3-67d0df4f9134",
+   "index": 1789617951720,
+   "name": "前重受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前重受击/preview.webp",
+   "glb_url": "assets/人形/前重受击/前重受击.glb"
+  },
+  {
+   "id": "5cdae38d-c23a-4825-92f9-bf7fefe65235",
+   "index": 1789618021914,
+   "name": "左重受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左重受击/preview.webp",
+   "glb_url": "assets/人形/左重受击/左重受击.glb"
+  },
+  {
+   "id": "6db2392e-2d64-4ec0-9fb6-579157aac89d",
+   "index": 1789618088995,
+   "name": "右重受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右重受击/preview.webp",
+   "glb_url": "assets/人形/右重受击/右重受击.glb"
+  },
+  {
+   "id": "5a2b1d7c-32b4-4808-8416-1cdb421c735d",
+   "index": 1789619889758,
+   "name": "后轻受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后轻受击/preview.webp",
+   "glb_url": "assets/人形/后轻受击/后轻受击.glb"
+  },
+  {
+   "id": "16bc6b3a-5b14-42d4-8227-96776930bd00",
+   "index": 1789619930976,
+   "name": "前轻受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前轻受击/preview.webp",
+   "glb_url": "assets/人形/前轻受击/前轻受击.glb"
+  },
+  {
+   "id": "24ef3fb8-9bc5-47eb-93d0-bae7baa0b3ce",
+   "index": 1789619981038,
+   "name": "左轻受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左轻受击/preview.webp",
+   "glb_url": "assets/人形/左轻受击/左轻受击.glb"
+  },
+  {
+   "id": "cbfcd8b2-e6c6-40a5-b08a-090f911faf40",
+   "index": 1789620036321,
+   "name": "右轻受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右轻受击/preview.webp",
+   "glb_url": "assets/人形/右轻受击/右轻受击.glb"
+  },
+  {
+   "id": "69fbab7d-7a95-4280-9795-ea652d606ea7",
+   "index": 1789620166880,
+   "name": "待机_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/待机_003/preview.webp",
+   "glb_url": "assets/人形/待机_003/待机_003.glb"
+  },
+  {
+   "id": "f99e9e9f-32a8-4196-98c8-7343fe7ec3d3",
+   "index": 1789620244224,
+   "name": "格挡待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/格挡待机/preview.webp",
+   "glb_url": "assets/人形/格挡待机/格挡待机.glb"
+  },
+  {
+   "id": "ecdbba45-819d-4226-aaae-e39d99fd2a95",
+   "index": 1789620307066,
+   "name": "战斗待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/战斗待机/preview.webp",
+   "glb_url": "assets/人形/战斗待机/战斗待机.glb"
+  },
+  {
+   "id": "8916899c-b62b-4c53-9d45-c4382e7cdc0b",
+   "index": 1789620491654,
+   "name": "巡视待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/巡视待机/preview.webp",
+   "glb_url": "assets/人形/巡视待机/巡视待机.glb"
+  },
+  {
+   "id": "ec835e70-c42b-4188-b2d7-24acffe710f7",
+   "index": 1789623520548,
+   "name": "起跳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "空中"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/起跳/preview.webp",
+   "glb_url": "assets/人形/起跳/起跳.glb"
+  },
+  {
+   "id": "1a5be293-45db-4e31-8540-1a08c0019d16",
+   "index": 1789623608584,
+   "name": "重着地_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "空中"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/重着地_002/preview.webp",
+   "glb_url": "assets/人形/重着地_002/重着地_002.glb"
+  },
+  {
+   "id": "aec90990-c333-4f4e-ad78-72d8ba50a9cb",
+   "index": 1789623665329,
+   "name": "轻着地_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "空中"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/轻着地_002/preview.webp",
+   "glb_url": "assets/人形/轻着地_002/轻着地_002.glb"
+  },
+  {
+   "id": "47e78fdd-b8c3-484b-8329-7b9fc28c54d8",
+   "index": 1789623720938,
+   "name": "中着地_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "空中"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/中着地_002/preview.webp",
+   "glb_url": "assets/人形/中着地_002/中着地_002.glb"
+  },
+  {
+   "id": "e5fdb808-66be-48a5-b42e-035be7279c70",
+   "index": 1789623917997,
+   "name": "收起武器",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "装备"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/收起武器/preview.webp",
+   "glb_url": "assets/人形/收起武器/收起武器.glb"
+  },
+  {
+   "id": "f4a08762-8f4c-49b6-a741-22f695620192",
+   "index": 1789625001108,
+   "name": "向后跑",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "移动",
+    "单手"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/向后跑/preview.webp",
+   "glb_url": "assets/人形/向后跑/向后跑.glb"
+  },
+  {
+   "id": "4a48a0c7-2383-4861-97fb-f27ec7e1a303",
+   "index": 1789625083985,
+   "name": "向前跑",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "移动",
+    "单手"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/向前跑/preview.webp",
+   "glb_url": "assets/人形/向前跑/向前跑.glb"
+  },
+  {
+   "id": "8dc6112f-24e2-49bc-affe-791ced301ed9",
+   "index": 1789625175507,
+   "name": "持有跑",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "移动",
+    "单手"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/持有跑/preview.webp",
+   "glb_url": "assets/人形/持有跑/持有跑.glb"
+  },
+  {
+   "id": "523bd0c4-929d-43dd-8a3c-066b135a6f6f",
+   "index": 1789625236393,
+   "name": "向左跑",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/向左跑/preview.webp",
+   "glb_url": "assets/人形/向左跑/向左跑.glb"
+  },
+  {
+   "id": "815e6d38-42c6-453e-b604-900573583b29",
+   "index": 1789625300474,
+   "name": "向右跑",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "移动",
+    "单手"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/向右跑/preview.webp",
+   "glb_url": "assets/人形/向右跑/向右跑.glb"
+  },
+  {
+   "id": "7bfe9bc1-b044-4054-9b45-8845c058339c",
+   "index": 1789625407601,
+   "name": "持有冲刺",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/持有冲刺/preview.webp",
+   "glb_url": "assets/人形/持有冲刺/持有冲刺.glb"
+  },
+  {
+   "id": "a69f6bf8-4393-43d4-93d8-8feed31d86f5",
+   "index": 1789625518530,
+   "name": "向后走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/向后走/preview.webp",
+   "glb_url": "assets/人形/向后走/向后走.glb"
+  },
+  {
+   "id": "133a9550-6ca2-472b-baa9-f26ff7a3316b",
+   "index": 1789625609609,
+   "name": "向前走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/向前走/preview.webp",
+   "glb_url": "assets/人形/向前走/向前走.glb"
+  },
+  {
+   "id": "140b7db0-2827-4726-b4cd-f2b6c94e0d17",
+   "index": 1789625672721,
+   "name": "向前走_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/向前走_001/preview.webp",
+   "glb_url": "assets/人形/向前走_001/向前走_001.glb"
+  },
+  {
+   "id": "534391f3-b479-4f3d-afc5-9a404d2ef0a0",
+   "index": 1789625731535,
+   "name": "向左走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/向左走/preview.webp",
+   "glb_url": "assets/人形/向左走/向左走.glb"
+  },
+  {
+   "id": "8cd3b1d9-76d7-4cb4-ba26-244314f10a88",
+   "index": 1789625848190,
+   "name": "向右走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "单手",
+    "移动"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/向右走/preview.webp",
+   "glb_url": "assets/人形/向右走/向右走.glb"
   }
  ],
  "enums": {
   "sources": [
+   "Humanoid",
    "Mixamo",
    "Synty"
   ],
   "races": [
+   "人形",
    "人类女",
-   "人类男"
+   "人类男",
+   "通用"
   ],
   "tags": [
    "下蹲",
    "其他",
+   "单手",
+   "受击",
    "基础",
    "待机",
+   "攻击",
+   "格挡",
+   "死亡",
    "移动",
    "空中",
    "站立",
-   "跳"
+   "装备",
+   "跳",
+   "连击"
   ],
   "fps": [
    "30",

@@ -1,0 +1,15 @@
+{
+ "id": "aec90990-c333-4f4e-ad78-72d8ba50a9cb",
+ "index": 1789623665329,
+ "name": "轻着地_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "空中"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/轻着地_002/preview.webp",
+ "glb_url": "assets/人形/轻着地_002/轻着地_002.glb"
+}

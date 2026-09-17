@@ -1,0 +1,15 @@
+{
+ "id": "984d7c4c-0643-40bf-bf4a-f4cc7d9c40fd",
+ "index": 1789617036232,
+ "name": "死亡向右",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "死亡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/死亡向右/preview.webp",
+ "glb_url": "assets/人形/死亡向右/死亡向右.glb"
+}

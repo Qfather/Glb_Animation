@@ -1,0 +1,15 @@
+{
+ "id": "e7eee3e2-e190-44ec-bb3d-20c8b7754069",
+ "index": 1789617322237,
+ "name": "降落",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "空中"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/降落/preview.webp",
+ "glb_url": "assets/人形/降落/降落.glb"
+}

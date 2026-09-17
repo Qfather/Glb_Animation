@@ -1,0 +1,15 @@
+{
+ "id": "47e78fdd-b8c3-484b-8329-7b9fc28c54d8",
+ "index": 1789623720938,
+ "name": "中着地_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "空中"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/中着地_002/preview.webp",
+ "glb_url": "assets/人形/中着地_002/中着地_002.glb"
+}

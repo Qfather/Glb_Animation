@@ -1,0 +1,17 @@
+{
+ "id": "a4e6d2b3-1ef4-4225-9e68-fe1f654a1607",
+ "index": 1789614968105,
+ "name": "二连前进",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "攻击",
+  "移动",
+  "连击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/二连前进/preview.webp",
+ "glb_url": "assets/人形/二连前进/二连前进.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "16bc6b3a-5b14-42d4-8227-96776930bd00",
+ "index": 1789619930976,
+ "name": "前轻受击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "受击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前轻受击/preview.webp",
+ "glb_url": "assets/人形/前轻受击/前轻受击.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "140b7db0-2827-4726-b4cd-f2b6c94e0d17",
+ "index": 1789625672721,
+ "name": "向前走_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "移动"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/向前走_001/preview.webp",
+ "glb_url": "assets/人形/向前走_001/向前走_001.glb"
+}

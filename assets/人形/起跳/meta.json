@@ -1,0 +1,15 @@
+{
+ "id": "ec835e70-c42b-4188-b2d7-24acffe710f7",
+ "index": 1789623520548,
+ "name": "起跳",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "空中"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/起跳/preview.webp",
+ "glb_url": "assets/人形/起跳/起跳.glb"
+}

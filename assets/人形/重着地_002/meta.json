@@ -1,0 +1,15 @@
+{
+ "id": "1a5be293-45db-4e31-8540-1a08c0019d16",
+ "index": 1789623608584,
+ "name": "重着地_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "空中"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/重着地_002/preview.webp",
+ "glb_url": "assets/人形/重着地_002/重着地_002.glb"
+}

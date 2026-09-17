@@ -1,0 +1,15 @@
+{
+ "id": "8cd3b1d9-76d7-4cb4-ba26-244314f10a88",
+ "index": 1789625848190,
+ "name": "向右走",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "移动"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/向右走/preview.webp",
+ "glb_url": "assets/人形/向右走/向右走.glb"
+}

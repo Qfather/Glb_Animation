@@ -1,0 +1,15 @@
+{
+ "id": "2ceaf1bb-3210-4e56-8f38-b7d3437557e6",
+ "index": 1789617178438,
+ "name": "拿出武器",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "装备"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/拿出武器/preview.webp",
+ "glb_url": "assets/人形/拿出武器/拿出武器.glb"
+}

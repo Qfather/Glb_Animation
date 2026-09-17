@@ -1,0 +1,15 @@
+{
+ "id": "6ca93ba0-759d-412b-a3eb-d6f46f386d73",
+ "index": 1789617651434,
+ "name": "前倒地站起",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "其他",
+  "单手"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前倒地站起/preview.webp",
+ "glb_url": "assets/人形/前倒地站起/前倒地站起.glb"
+}

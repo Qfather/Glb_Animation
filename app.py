@@ -111,6 +111,23 @@ def edit_item(item_id):
     data["generated_at"]=datetime.now().isoformat(timespec="seconds"); DATA.write_text(json.dumps(data,ensure_ascii=False,indent=1),encoding="utf-8"); (folder/"meta.json").write_text(json.dumps(item,ensure_ascii=False,indent=1),encoding="utf-8")
     return jsonify(item=item)
 
+@app.put("/api/items/batch")
+def batch_edit():
+    body=request.get_json(silent=True) or {}
+    ids=set(body.get("ids") or [])
+    tags=[str(x).strip() for x in (body.get("tags") or []) if str(x).strip()]
+    data=read_data(); items=[x for x in data.get("items",[]) if x.get("id") in ids]
+    if not items: return jsonify(error="没有选择动画"),400
+    enum_tags=set(data.get("enums",{}).get("tags",[]))
+    if any(tag not in enum_tags for tag in tags): return jsonify(error="包含无效标签"),400
+    for item in items:
+        item["tags"]=list(dict.fromkeys([*item.get("tags",[]),*tags]))
+        folder=ROOT/Path(item["preview_url"]).parent
+        if (folder/"meta.json").exists(): (folder/"meta.json").write_text(json.dumps(item,ensure_ascii=False,indent=1),encoding="utf-8")
+    data["generated_at"]=datetime.now().isoformat(timespec="seconds")
+    DATA.write_text(json.dumps(data,ensure_ascii=False,indent=1),encoding="utf-8")
+    return jsonify(items=items)
+
 @app.get("/")
 def index(): return send_from_directory(ROOT,"index.html")
 

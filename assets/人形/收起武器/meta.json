@@ -1,0 +1,15 @@
+{
+ "id": "e5fdb808-66be-48a5-b42e-035be7279c70",
+ "index": 1789623917997,
+ "name": "收起武器",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "装备"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/收起武器/preview.webp",
+ "glb_url": "assets/人形/收起武器/收起武器.glb"
+}

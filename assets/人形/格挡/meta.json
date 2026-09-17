@@ -1,0 +1,15 @@
+{
+ "id": "3db141b8-75fa-4d9d-b547-da68b150d315",
+ "index": 1789616240734,
+ "name": "格挡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "格挡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/格挡/preview.webp",
+ "glb_url": "assets/人形/格挡/格挡.glb"
+}

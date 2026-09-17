@@ -1,0 +1,16 @@
+{
+ "id": "5837f999-1f76-4c4e-b2d1-08be750b7358",
+ "index": 1789614652624,
+ "name": "二连",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "单手",
+  "攻击",
+  "连击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/二连/preview.webp",
+ "glb_url": "assets/人形/二连/二连.glb"
+}

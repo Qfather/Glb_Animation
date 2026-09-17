@@ -1,0 +1,16 @@
+{
+ "id": "972e5466-f152-46fa-be61-d25585906dc0",
+ "index": 1789616711027,
+ "name": "下蹲向右",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "单手",
+  "移动"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲向右/preview.webp",
+ "glb_url": "assets/人形/下蹲向右/下蹲向右.glb"
+}

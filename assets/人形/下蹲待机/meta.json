@@ -1,0 +1,16 @@
+{
+ "id": "4342e046-03f9-40b6-9ccc-5d6a3977c956",
+ "index": 1789616572169,
+ "name": "下蹲待机",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "单手",
+  "待机"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲待机/preview.webp",
+ "glb_url": "assets/人形/下蹲待机/下蹲待机.glb"
+}
