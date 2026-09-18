@@ -1,0 +1,16 @@
+{
+ "id": "27270bce-eba4-4e77-9e05-bd0d9b190879",
+ "index": 1789694949361,
+ "name": "下蹲瞄准左移",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "手枪",
+  "走"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲瞄准左移/preview.webp",
+ "glb_url": "assets/人形/下蹲瞄准左移/下蹲瞄准左移.glb"
+}

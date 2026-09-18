@@ -1,0 +1,15 @@
+{
+ "id": "a3acc54b-3c73-42f4-b33a-cc16637e9e55",
+ "index": 1789713803215,
+ "name": "隐蔽左观察",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/隐蔽左观察/preview.webp",
+ "glb_url": "assets/人形/隐蔽左观察/隐蔽左观察.glb"
+}

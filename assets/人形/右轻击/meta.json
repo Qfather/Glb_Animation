@@ -1,0 +1,15 @@
+{
+ "id": "b7c42dfc-652b-438e-b252-642c83920262",
+ "index": 1789713112686,
+ "name": "右轻击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击",
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右轻击/preview.webp",
+ "glb_url": "assets/人形/右轻击/右轻击.glb"
+}

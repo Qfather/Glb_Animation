@@ -1,0 +1,15 @@
+{
+ "id": "0cced1e8-f5bb-4f84-aee4-0464cdaea2f0",
+ "index": 1789716761792,
+ "name": "投掷",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "投掷"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/投掷/preview.webp",
+ "glb_url": "assets/人形/投掷/投掷.glb"
+}

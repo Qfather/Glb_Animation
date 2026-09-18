@@ -1,0 +1,15 @@
+{
+ "id": "4888979c-58d5-4d89-80b3-ac7c13e33d3e",
+ "index": 1789702544539,
+ "name": "左翻滚",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "翻滚"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左翻滚/preview.webp",
+ "glb_url": "assets/人形/左翻滚/左翻滚.glb"
+}

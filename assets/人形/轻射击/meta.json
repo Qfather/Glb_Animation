@@ -1,0 +1,15 @@
+{
+ "id": "c25356f2-7a76-45fd-9a46-979ce97de17f",
+ "index": 1789715893822,
+ "name": "轻射击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "攻击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/轻射击/preview.webp",
+ "glb_url": "assets/人形/轻射击/轻射击.glb"
+}

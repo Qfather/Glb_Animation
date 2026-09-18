@@ -1,0 +1,14 @@
+{
+ "id": "37365d31-1acb-4acf-ac37-8d7c286a626a",
+ "index": 1789715244981,
+ "name": "右跨栏",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右跨栏/preview.webp",
+ "glb_url": "assets/人形/右跨栏/右跨栏.glb"
+}

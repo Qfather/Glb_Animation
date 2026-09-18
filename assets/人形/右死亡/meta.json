@@ -1,0 +1,15 @@
+{
+ "id": "deaa2ca2-7083-45f9-b383-925668620042",
+ "index": 1789702194646,
+ "name": "右死亡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "死亡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右死亡/preview.webp",
+ "glb_url": "assets/人形/右死亡/右死亡.glb"
+}

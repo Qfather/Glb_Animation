@@ -1,0 +1,15 @@
+{
+ "id": "b11be0b4-bc30-42eb-86bd-076bcbef3ff8",
+ "index": 1789715127060,
+ "name": "近战连击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "攻击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/近战连击/preview.webp",
+ "glb_url": "assets/人形/近战连击/近战连击.glb"
+}

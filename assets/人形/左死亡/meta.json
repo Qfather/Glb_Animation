@@ -1,0 +1,15 @@
+{
+ "id": "394a5aad-e8e5-447b-8b42-a871d35b3364",
+ "index": 1789702139390,
+ "name": "左死亡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "死亡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左死亡/preview.webp",
+ "glb_url": "assets/人形/左死亡/左死亡.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "c10a61c9-18ca-4ac2-b25a-3389f3782835",
+ "index": 1789714279145,
+ "name": "隐蔽右观察待机",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/隐蔽右观察待机/preview.webp",
+ "glb_url": "assets/人形/隐蔽右观察待机/隐蔽右观察待机.glb"
+}

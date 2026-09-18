@@ -1,0 +1,15 @@
+{
+ "id": "6c48a468-57c4-4643-9029-7ecea7999757",
+ "index": 1789717105345,
+ "name": "后走瞄准",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "走"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后走瞄准/preview.webp",
+ "glb_url": "assets/人形/后走瞄准/后走瞄准.glb"
+}

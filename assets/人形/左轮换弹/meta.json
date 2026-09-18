@@ -1,0 +1,15 @@
+{
+ "id": "a985ea03-3d85-4930-9358-39c26bfc3df4",
+ "index": 1789715603021,
+ "name": "左轮换弹",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "装备"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左轮换弹/preview.webp",
+ "glb_url": "assets/人形/左轮换弹/左轮换弹.glb"
+}

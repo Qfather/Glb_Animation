@@ -1,0 +1,15 @@
+{
+ "id": "45e27cee-03fc-4faf-869c-65b5321ad408",
+ "index": 1789712147389,
+ "name": "前起身",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "起身"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前起身/preview.webp",
+ "glb_url": "assets/人形/前起身/前起身.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "1ee28319-28d9-48cb-9c37-012bb4ad7506",
+ "index": 1789716697713,
+ "name": "隐蔽左投掷",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "投掷"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/隐蔽左投掷/preview.webp",
+ "glb_url": "assets/人形/隐蔽左投掷/隐蔽左投掷.glb"
+}

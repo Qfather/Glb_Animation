@@ -1,0 +1,15 @@
+{
+ "id": "004a305e-dc9a-4250-bc84-fda924554081",
+ "index": 1789694869601,
+ "name": "下蹲隐蔽起身",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲隐蔽起身/preview.webp",
+ "glb_url": "assets/人形/下蹲隐蔽起身/下蹲隐蔽起身.glb"
+}

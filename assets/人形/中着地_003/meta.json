@@ -1,0 +1,15 @@
+{
+ "id": "59747e19-efe6-4a05-a7bd-3f8397352db9",
+ "index": 1789714962903,
+ "name": "中着地_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "空中"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/中着地_003/preview.webp",
+ "glb_url": "assets/人形/中着地_003/中着地_003.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "dea0d919-5192-47e0-b40d-f8140ad9836b",
+ "index": 1789715758617,
+ "name": "前跑瞄准",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "跑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前跑瞄准/preview.webp",
+ "glb_url": "assets/人形/前跑瞄准/前跑瞄准.glb"
+}

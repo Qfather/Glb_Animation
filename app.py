@@ -60,7 +60,7 @@ def upload():
 
 @app.route("/api/enums", methods=["POST", "PUT", "DELETE"])
 def add_enum():
-    body=request.get_json(silent=True) or {}; kind=body.get("kind"); value=(body.get("value") or "").strip(); old=(body.get("old") or "").strip()
+    body=request.get_json(silent=True) or {}; kind=body.get("kind"); value=(body.get("value") or "").strip(); old=(body.get("old") or "").strip(); force=bool(body.get("force"))
     if kind not in ("sources","races","tags","fps") or not value: return jsonify(error="枚举参数无效"),400
     data=read_data(); enums=data.setdefault("enums",{}); values=list(enums.get(kind,DEFAULT_FPS if kind=="fps" else DEFAULT_RACES if kind=="races" else []))
     if request.method=="PUT":
@@ -72,7 +72,11 @@ def add_enum():
             if kind=="tags": item["tags"]=[value if x==old else x for x in item.get("tags",[])]
             elif item.get(field)==old: item[field]=value
     elif request.method=="DELETE":
-        if any((value in item.get("tags",[]) if kind=="tags" else item.get("race" if kind=="races" else "source")==value) for item in data.get("items",[])): return jsonify(error="该枚举仍被动画使用，不能删除"),400
+        used=[item for item in data.get("items",[]) if (value in item.get("tags",[]) if kind=="tags" else item.get("race" if kind=="races" else "source")==value)]
+        if used and kind!="tags": return jsonify(error="该枚举仍被动画使用，不能删除",used=[item.get("name") for item in used]),400
+        if used and not force: return jsonify(error="该标签正在被以下动画使用",used=[item.get("name") for item in used],confirm=True),409
+        if kind=="tags":
+            for item in used: item["tags"]=[tag for tag in item.get("tags",[]) if tag!=value]
         values=[x for x in values if x!=value]
     elif value not in values: values.append(value)
     enums[kind]=sorted(set(values)); DATA.write_text(json.dumps(data,ensure_ascii=False,indent=1),encoding="utf-8")

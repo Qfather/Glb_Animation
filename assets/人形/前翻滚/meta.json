@@ -1,0 +1,15 @@
+{
+ "id": "bed0e00c-c2dd-417a-a578-a7712748e3f1",
+ "index": 1789702492133,
+ "name": "前翻滚",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "翻滚"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前翻滚/preview.webp",
+ "glb_url": "assets/人形/前翻滚/前翻滚.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "6d8bf12f-2974-41fb-a5b8-506f55899922",
+ "index": 1789714803418,
+ "name": "起跳_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "空中"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/起跳_001/preview.webp",
+ "glb_url": "assets/人形/起跳_001/起跳_001.glb"
+}

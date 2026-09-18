@@ -1,0 +1,16 @@
+{
+ "id": "9156ef24-43f1-4a5b-bd68-cdccd791e6fb",
+ "index": 1789716989112,
+ "name": "下蹲滚地投掷",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "手枪",
+  "投掷"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲滚地投掷/preview.webp",
+ "glb_url": "assets/人形/下蹲滚地投掷/下蹲滚地投掷.glb"
+}

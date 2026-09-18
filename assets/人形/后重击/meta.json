@@ -1,0 +1,15 @@
+{
+ "id": "0aa6c8dc-e337-47e2-bf28-83381433b864",
+ "index": 1789712359899,
+ "name": "后重击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击",
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后重击/preview.webp",
+ "glb_url": "assets/人形/后重击/后重击.glb"
+}

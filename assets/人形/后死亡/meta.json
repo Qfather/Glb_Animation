@@ -1,0 +1,15 @@
+{
+ "id": "00bebf25-a529-4670-b38f-412e93ca530a",
+ "index": 1789700009618,
+ "name": "后死亡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "死亡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后死亡/preview.webp",
+ "glb_url": "assets/人形/后死亡/后死亡.glb"
+}

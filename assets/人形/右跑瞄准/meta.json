@@ -1,0 +1,15 @@
+{
+ "id": "5ba994cd-207f-4e91-a94e-0ef27ba01fad",
+ "index": 1789715847234,
+ "name": "右跑瞄准",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "跑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右跑瞄准/preview.webp",
+ "glb_url": "assets/人形/右跑瞄准/右跑瞄准.glb"
+}

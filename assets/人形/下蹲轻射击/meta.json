@@ -1,0 +1,16 @@
+{
+ "id": "69494cca-5877-484e-9118-98bd9e9e85d5",
+ "index": 1789715932912,
+ "name": "下蹲轻射击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "手枪",
+  "攻击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲轻射击/preview.webp",
+ "glb_url": "assets/人形/下蹲轻射击/下蹲轻射击.glb"
+}

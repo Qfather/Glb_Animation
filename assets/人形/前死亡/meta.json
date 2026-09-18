@@ -1,0 +1,15 @@
+{
+ "id": "d4e61078-2cde-4711-98df-9cf90533c01b",
+ "index": 1789701369557,
+ "name": "前死亡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "死亡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前死亡/preview.webp",
+ "glb_url": "assets/人形/前死亡/前死亡.glb"
+}

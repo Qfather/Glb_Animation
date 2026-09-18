@@ -1,0 +1,15 @@
+{
+ "id": "8801bcbb-f571-48bc-89a1-eb6ae943c5b5",
+ "index": 1789714860606,
+ "name": "重着地_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "空中"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/重着地_003/preview.webp",
+ "glb_url": "assets/人形/重着地_003/重着地_003.glb"
+}

@@ -1,0 +1,14 @@
+{
+ "id": "5eaad263-afe1-4ac0-b14a-6b5124b69ef6",
+ "index": 1789713558042,
+ "name": "右出现",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右出现/preview.webp",
+ "glb_url": "assets/人形/右出现/右出现.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "e5f5ed5e-97a9-425b-b927-f9528b6d6f65",
+ "index": 1789703355488,
+ "name": "拿出枪",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "装备"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/拿出枪/preview.webp",
+ "glb_url": "assets/人形/拿出枪/拿出枪.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "00beef32-80f4-4a92-9b6c-9c78189fa43c",
+ "index": 1789716063608,
+ "name": "下蹲中射击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "手枪",
+  "攻击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲中射击/preview.webp",
+ "glb_url": "assets/人形/下蹲中射击/下蹲中射击.glb"
+}

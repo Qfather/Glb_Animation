@@ -1,0 +1,14 @@
+{
+ "id": "a08b7764-1198-4102-af73-b8819018f481",
+ "index": 1789715188144,
+ "name": "左跨栏",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左跨栏/preview.webp",
+ "glb_url": "assets/人形/左跨栏/左跨栏.glb"
+}

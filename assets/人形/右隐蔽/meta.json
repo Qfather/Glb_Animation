@@ -1,0 +1,14 @@
+{
+ "id": "59f4c9f1-5cdb-4b6e-9edc-1e8e7504681e",
+ "index": 1789713375019,
+ "name": "右隐蔽",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右隐蔽/preview.webp",
+ "glb_url": "assets/人形/右隐蔽/右隐蔽.glb"
+}

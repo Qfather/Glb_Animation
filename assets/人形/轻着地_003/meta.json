@@ -1,0 +1,15 @@
+{
+ "id": "79a27e16-68f7-466b-a7c1-17800bd7195b",
+ "index": 1789714913038,
+ "name": "轻着地_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "空中"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/轻着地_003/preview.webp",
+ "glb_url": "assets/人形/轻着地_003/轻着地_003.glb"
+}

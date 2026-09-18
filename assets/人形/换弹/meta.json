@@ -1,0 +1,15 @@
+{
+ "id": "a52b1e65-336b-4133-8028-a2ebb88c4113",
+ "index": 1789715430428,
+ "name": "换弹",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "装备"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/换弹/preview.webp",
+ "glb_url": "assets/人形/换弹/换弹.glb"
+}

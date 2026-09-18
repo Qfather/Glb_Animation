@@ -1,0 +1,15 @@
+{
+ "id": "c25ec29c-e096-4e42-9ad5-ccc12eaff7d4",
+ "index": 1789715327430,
+ "name": "收武器",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "装备"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/收武器/preview.webp",
+ "glb_url": "assets/人形/收武器/收武器.glb"
+}

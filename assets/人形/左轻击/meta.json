@@ -1,0 +1,15 @@
+{
+ "id": "78166428-b970-4ed2-bf82-c25bf1300c6c",
+ "index": 1789712744532,
+ "name": "左轻击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击",
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左轻击/preview.webp",
+ "glb_url": "assets/人形/左轻击/左轻击.glb"
+}

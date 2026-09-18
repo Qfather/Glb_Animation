@@ -1,0 +1,15 @@
+{
+ "id": "242a0882-7fc3-4ccc-95f0-264f5a73dad5",
+ "index": 1789716158886,
+ "name": "下蹲隐蔽右移",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "走"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲隐蔽右移/preview.webp",
+ "glb_url": "assets/人形/下蹲隐蔽右移/下蹲隐蔽右移.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "0e68a5af-cd32-434a-a889-b1a5254f22d3",
+ "index": 1789716022349,
+ "name": "中射击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "攻击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/中射击/preview.webp",
+ "glb_url": "assets/人形/中射击/中射击.glb"
+}

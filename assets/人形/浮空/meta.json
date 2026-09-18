@@ -1,0 +1,15 @@
+{
+ "id": "154e43df-22cc-4627-88af-c7f18a70b5c9",
+ "index": 1789703437924,
+ "name": "浮空",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "空中"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/浮空/preview.webp",
+ "glb_url": "assets/人形/浮空/浮空.glb"
+}

@@ -1,0 +1,14 @@
+{
+ "id": "aefac251-7756-4f92-8816-cab7df1c5860",
+ "index": 1789713915763,
+ "name": "转身",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/转身/preview.webp",
+ "glb_url": "assets/人形/转身/转身.glb"
+}

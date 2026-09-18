@@ -1,0 +1,15 @@
+{
+ "id": "150cd718-4914-4b23-bee8-46ace40cbd33",
+ "index": 1789717050889,
+ "name": "滚地投掷",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "投掷"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/滚地投掷/preview.webp",
+ "glb_url": "assets/人形/滚地投掷/滚地投掷.glb"
+}

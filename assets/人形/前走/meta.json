@@ -1,0 +1,15 @@
+{
+ "id": "7fa6805f-a5cf-47a3-8379-f3dc51d6ba5b",
+ "index": 1789718350744,
+ "name": "前走",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "手枪",
+  "走"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前走/preview.webp",
+ "glb_url": "assets/人形/前走/前走.glb"
+}
