@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "单手",
-  "空中"
+  "跳"
  ],
  "category": "",
  "preview_url": "assets/人形/轻着地_002/preview.webp",
- "glb_url": "assets/人形/轻着地_002/轻着地_002.glb"
+ "glb_url": "assets/人形/轻着地_002/轻着地_002.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

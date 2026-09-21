@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "手枪",
   "爬"
  ],
  "category": "",
  "preview_url": "assets/人形/双手爬/preview.webp",
- "glb_url": "assets/人形/双手爬/双手爬.glb"
+ "glb_url": "assets/人形/双手爬/双手爬.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

@@ -1,0 +1,18 @@
+{
+ "id": "c2d2b36c-7256-43f6-901f-f5599e1787c2",
+ "index": 1789950896518,
+ "name": "跳劈",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "跳"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/跳劈/preview.webp",
+ "glb_url": "assets/人形/跳劈/跳劈.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

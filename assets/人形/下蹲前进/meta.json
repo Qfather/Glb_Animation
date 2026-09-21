@@ -7,10 +7,12 @@
  "fps": "30",
  "tags": [
   "下蹲",
-  "手枪",
   "走"
  ],
  "category": "",
  "preview_url": "assets/人形/下蹲前进/preview.webp",
- "glb_url": "assets/人形/下蹲前进/下蹲前进.glb"
+ "glb_url": "assets/人形/下蹲前进/下蹲前进.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

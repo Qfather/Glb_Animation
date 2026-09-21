@@ -1,0 +1,17 @@
+{
+ "id": "fa7dff2a-085c-4eb4-9ded-b4a75fd612d1",
+ "index": 1789952749337,
+ "name": "左跑_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左跑_001/preview.webp",
+ "glb_url": "assets/人形/左跑_001/左跑_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

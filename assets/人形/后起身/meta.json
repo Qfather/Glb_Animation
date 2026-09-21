@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "手枪",
   "起身"
  ],
  "category": "",
  "preview_url": "assets/人形/后起身/preview.webp",
- "glb_url": "assets/人形/后起身/后起身.glb"
+ "glb_url": "assets/人形/后起身/后起身.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

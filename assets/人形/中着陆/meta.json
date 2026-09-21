@@ -1,0 +1,17 @@
+{
+ "id": "1fb72570-2552-4236-9114-2071bef3f9b2",
+ "index": 1789951383293,
+ "name": "中着陆",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/中着陆/preview.webp",
+ "glb_url": "assets/人形/中着陆/中着陆.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

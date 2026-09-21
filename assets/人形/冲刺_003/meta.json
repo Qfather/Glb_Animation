@@ -1,0 +1,17 @@
+{
+ "id": "285ba512-808b-460e-aa15-d08d7127bb10",
+ "index": 1789953463959,
+ "name": "冲刺_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/冲刺_003/preview.webp",
+ "glb_url": "assets/人形/冲刺_003/冲刺_003.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

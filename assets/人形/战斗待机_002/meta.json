@@ -1,0 +1,17 @@
+{
+ "id": "e5922b78-775a-490d-8a4d-a3b88a7ba06d",
+ "index": 1789884807763,
+ "name": "战斗待机_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/战斗待机_002/preview.webp",
+ "glb_url": "assets/人形/战斗待机_002/战斗待机_002.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": "42fe4273-9410-4d9d-9266-1c914b5ed30b",
+ "index": 1789868148701,
+ "name": "后死",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "死亡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后死/preview.webp",
+ "glb_url": "assets/人形/后死/后死.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

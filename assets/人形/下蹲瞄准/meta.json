@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "下蹲",
-  "手枪"
+  "下蹲"
  ],
  "category": "",
  "preview_url": "assets/人形/下蹲瞄准/preview.webp",
- "glb_url": "assets/人形/下蹲瞄准/下蹲瞄准.glb"
+ "glb_url": "assets/人形/下蹲瞄准/下蹲瞄准.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

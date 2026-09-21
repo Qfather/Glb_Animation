@@ -6,11 +6,13 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "单手",
   "攻击",
   "连击"
  ],
  "category": "",
  "preview_url": "assets/人形/二连/preview.webp",
- "glb_url": "assets/人形/二连/二连.glb"
+ "glb_url": "assets/人形/二连/二连.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

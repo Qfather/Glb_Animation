@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "走",
-  "单手"
+  "走"
  ],
  "category": "",
  "preview_url": "assets/人形/向前跑/preview.webp",
- "glb_url": "assets/人形/向前跑/向前跑.glb"
+ "glb_url": "assets/人形/向前跑/向前跑.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

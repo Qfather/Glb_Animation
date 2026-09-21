@@ -1,0 +1,17 @@
+{
+ "id": "6a330817-8c12-4abf-841e-71ef56eebee6",
+ "index": 1789883138399,
+ "name": "浮空_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/浮空_001/preview.webp",
+ "glb_url": "assets/人形/浮空_001/浮空_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

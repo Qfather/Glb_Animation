@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "手枪",
   "走"
  ],
  "category": "",
  "preview_url": "assets/人形/隐蔽左移/preview.webp",
- "glb_url": "assets/人形/隐蔽左移/隐蔽左移.glb"
+ "glb_url": "assets/人形/隐蔽左移/隐蔽左移.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

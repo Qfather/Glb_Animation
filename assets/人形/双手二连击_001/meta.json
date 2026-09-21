@@ -1,0 +1,18 @@
+{
+ "id": "ecc2b6b9-d461-490e-af81-0a6abe9bc152",
+ "index": 1789723934592,
+ "name": "双手二连击_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/双手二连击_001/preview.webp",
+ "glb_url": "assets/人形/双手二连击_001/双手二连击_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

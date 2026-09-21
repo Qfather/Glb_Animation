@@ -1,0 +1,17 @@
+{
+ "id": "23510086-90a0-4c7e-a403-d0873c716ce1",
+ "index": 1789868229622,
+ "name": "前死",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "死亡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前死/preview.webp",
+ "glb_url": "assets/人形/前死/前死.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

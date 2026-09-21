@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "走",
-  "单手"
+  "走"
  ],
  "category": "",
  "preview_url": "assets/人形/持有跑/preview.webp",
- "glb_url": "assets/人形/持有跑/持有跑.glb"
+ "glb_url": "assets/人形/持有跑/持有跑.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

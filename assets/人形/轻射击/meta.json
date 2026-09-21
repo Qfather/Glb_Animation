@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "手枪",
   "攻击"
  ],
  "category": "",
  "preview_url": "assets/人形/轻射击/preview.webp",
- "glb_url": "assets/人形/轻射击/轻射击.glb"
+ "glb_url": "assets/人形/轻射击/轻射击.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

@@ -1,0 +1,17 @@
+{
+ "id": "00470e5e-1d97-4abc-96c8-3248d92d0e9b",
+ "index": 1789864878423,
+ "name": "格挡_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "格挡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/格挡_001/preview.webp",
+ "glb_url": "assets/人形/格挡_001/格挡_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

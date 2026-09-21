@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "手枪",
   "死亡"
  ],
  "category": "",
  "preview_url": "assets/人形/后死亡/preview.webp",
- "glb_url": "assets/人形/后死亡/后死亡.glb"
+ "glb_url": "assets/人形/后死亡/后死亡.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

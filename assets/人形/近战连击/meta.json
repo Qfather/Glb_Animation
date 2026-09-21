@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "手枪",
   "攻击"
  ],
  "category": "",
  "preview_url": "assets/人形/近战连击/preview.webp",
- "glb_url": "assets/人形/近战连击/近战连击.glb"
+ "glb_url": "assets/人形/近战连击/近战连击.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

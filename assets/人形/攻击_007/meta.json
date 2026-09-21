@@ -1,0 +1,17 @@
+{
+ "id": "a98d3400-445b-4a4d-ad9f-696a191e4750",
+ "index": 1789864461971,
+ "name": "攻击_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/攻击_007/preview.webp",
+ "glb_url": "assets/人形/攻击_007/攻击_007.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

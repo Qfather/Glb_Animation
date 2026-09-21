@@ -1,0 +1,17 @@
+{
+ "id": "ca385814-ebca-4f7f-84f5-03ebbd830acd",
+ "index": 1789883004470,
+ "name": "拿出大剑",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装备"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/拿出大剑/preview.webp",
+ "glb_url": "assets/人形/拿出大剑/拿出大剑.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

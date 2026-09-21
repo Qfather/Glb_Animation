@@ -1,0 +1,17 @@
+{
+ "id": "ada9824b-d723-4e27-9166-996c6d6eafe0",
+ "index": 1789953228559,
+ "name": "跑_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/跑_002/preview.webp",
+ "glb_url": "assets/人形/跑_002/跑_002.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

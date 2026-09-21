@@ -1,0 +1,17 @@
+{
+ "id": "e6b05656-780f-43c8-bf62-c2d5b277c2e6",
+ "index": 1789883723451,
+ "name": "后轻受击_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后轻受击_001/preview.webp",
+ "glb_url": "assets/人形/后轻受击_001/后轻受击_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

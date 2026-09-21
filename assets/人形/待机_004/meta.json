@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "待机",
-  "手枪"
+  "待机"
  ],
  "category": "",
  "preview_url": "assets/人形/待机_004/preview.webp",
- "glb_url": "assets/人形/待机_004/待机_004.glb"
+ "glb_url": "assets/人形/待机_004/待机_004.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

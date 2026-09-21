@@ -1,0 +1,17 @@
+{
+ "id": "089f592f-5436-4dde-af82-cdd77dc51958",
+ "index": 1789883772734,
+ "name": "前重受击_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前重受击_001/preview.webp",
+ "glb_url": "assets/人形/前重受击_001/前重受击_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

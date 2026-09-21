@@ -7,10 +7,12 @@
  "fps": "30",
  "tags": [
   "下蹲",
-  "单手",
   "走"
  ],
  "category": "",
  "preview_url": "assets/人形/下蹲向前/preview.webp",
- "glb_url": "assets/人形/下蹲向前/下蹲向前.glb"
+ "glb_url": "assets/人形/下蹲向前/下蹲向前.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

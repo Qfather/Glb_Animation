@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "单手",
   "死亡"
  ],
  "category": "",
  "preview_url": "assets/人形/死亡向后/preview.webp",
- "glb_url": "assets/人形/死亡向后/死亡向后.glb"
+ "glb_url": "assets/人形/死亡向后/死亡向后.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

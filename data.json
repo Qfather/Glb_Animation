@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-09-18T16:01:35",
+ "generated_at": "2026-09-21T09:33:58",
  "items": [
   {
    "id": "32780085-90b8-4d08-9dde-4287e8e48970",
@@ -14,7 +14,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/走路/preview.webp",
-   "glb_url": "assets/人类男/走路/走路.glb"
+   "glb_url": "assets/人类男/走路/走路.glb",
+   "weapons": []
   },
   {
    "id": "ef52883e-eb16-4d68-8a7e-e8161e6a51cc",
@@ -24,11 +25,12 @@
    "race": "人类女",
    "fps": "30",
    "tags": [
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人类女/下落/preview.webp",
-   "glb_url": "assets/人类女/下落/下落.glb"
+   "glb_url": "assets/人类女/下落/下落.glb",
+   "weapons": []
   },
   {
    "id": "ef2e1a6d-763a-42ed-9164-a6c09e9db27f",
@@ -43,7 +45,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/待机/preview.webp",
-   "glb_url": "assets/人类女/待机/待机.glb"
+   "glb_url": "assets/人类女/待机/待机.glb",
+   "weapons": []
   },
   {
    "id": "b54e2373-77d5-4bf8-9ed9-07abbc286815",
@@ -57,7 +60,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/待机_001/preview.webp",
-   "glb_url": "assets/人类女/待机_001/待机_001.glb"
+   "glb_url": "assets/人类女/待机_001/待机_001.glb",
+   "weapons": []
   },
   {
    "id": "dab40d79-aaa6-41f0-9497-a4707faffe81",
@@ -67,11 +71,12 @@
    "race": "人类女",
    "fps": "30",
    "tags": [
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人类女/坠落/preview.webp",
-   "glb_url": "assets/人类女/坠落/坠落.glb"
+   "glb_url": "assets/人类女/坠落/坠落.glb",
+   "weapons": []
   },
   {
    "id": "e8826b3c-d8da-4c6a-852c-1a2cb767a798",
@@ -86,7 +91,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/跳/preview.webp",
-   "glb_url": "assets/人类女/跳/跳.glb"
+   "glb_url": "assets/人类女/跳/跳.glb",
+   "weapons": []
   },
   {
    "id": "3d461ef6-db52-4745-a897-bf3c0e55e5c1",
@@ -100,7 +106,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/重着地/preview.webp",
-   "glb_url": "assets/人类女/重着地/重着地.glb"
+   "glb_url": "assets/人类女/重着地/重着地.glb",
+   "weapons": []
   },
   {
    "id": "7f0baa52-3197-4ea8-9d44-974eac843969",
@@ -114,7 +121,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/中着地/preview.webp",
-   "glb_url": "assets/人类女/中着地/中着地.glb"
+   "glb_url": "assets/人类女/中着地/中着地.glb",
+   "weapons": []
   },
   {
    "id": "b2f52a10-578c-49d6-bfa6-3b5ee0f926ae",
@@ -128,7 +136,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/轻着地/preview.webp",
-   "glb_url": "assets/人类女/轻着地/轻着地.glb"
+   "glb_url": "assets/人类女/轻着地/轻着地.glb",
+   "weapons": []
   },
   {
    "id": "d3becb65-d297-4b67-8c16-b5cfe5bd16a9",
@@ -143,7 +152,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/蹲左/preview.webp",
-   "glb_url": "assets/人类女/蹲左/蹲左.glb"
+   "glb_url": "assets/人类女/蹲左/蹲左.glb",
+   "weapons": []
   },
   {
    "id": "9095a567-f62a-4b3a-9e62-be55bdda7416",
@@ -158,7 +168,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/蹲后/preview.webp",
-   "glb_url": "assets/人类女/蹲后/蹲后.glb"
+   "glb_url": "assets/人类女/蹲后/蹲后.glb",
+   "weapons": []
   },
   {
    "id": "c4fce93e-8af2-4342-b5a1-805291c6acfa",
@@ -173,7 +184,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/蹲右/preview.webp",
-   "glb_url": "assets/人类女/蹲右/蹲右.glb"
+   "glb_url": "assets/人类女/蹲右/蹲右.glb",
+   "weapons": []
   },
   {
    "id": "7b828638-e277-41b7-bde1-9fa69ad032cc",
@@ -188,7 +200,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/蹲前/preview.webp",
-   "glb_url": "assets/人类女/蹲前/蹲前.glb"
+   "glb_url": "assets/人类女/蹲前/蹲前.glb",
+   "weapons": []
   },
   {
    "id": "08b2b908-5ffe-400b-b1b6-273d2cc8ca5b",
@@ -202,7 +215,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/跑左/preview.webp",
-   "glb_url": "assets/人类女/跑左/跑左.glb"
+   "glb_url": "assets/人类女/跑左/跑左.glb",
+   "weapons": []
   },
   {
    "id": "ea06b7f8-af93-4d14-8748-4c02ad8be6ef",
@@ -216,7 +230,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/跑右/preview.webp",
-   "glb_url": "assets/人类女/跑右/跑右.glb"
+   "glb_url": "assets/人类女/跑右/跑右.glb",
+   "weapons": []
   },
   {
    "id": "16108119-3eff-484c-9ab0-6b198671b848",
@@ -230,7 +245,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/跑/preview.webp",
-   "glb_url": "assets/人类女/跑/跑.glb"
+   "glb_url": "assets/人类女/跑/跑.glb",
+   "weapons": []
   },
   {
    "id": "86fff804-39ab-4054-9d34-c54b4b0652ba",
@@ -244,7 +260,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/跑后/preview.webp",
-   "glb_url": "assets/人类女/跑后/跑后.glb"
+   "glb_url": "assets/人类女/跑后/跑后.glb",
+   "weapons": []
   },
   {
    "id": "50245fc8-d98d-4476-86f6-93ff9c3b123d",
@@ -259,7 +276,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/蹲小步后移/preview.webp",
-   "glb_url": "assets/人类女/蹲小步后移/蹲小步后移.glb"
+   "glb_url": "assets/人类女/蹲小步后移/蹲小步后移.glb",
+   "weapons": []
   },
   {
    "id": "0575d134-85c5-4695-a7a3-b119e4196504",
@@ -274,7 +292,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/蹲小步前移/preview.webp",
-   "glb_url": "assets/人类女/蹲小步前移/蹲小步前移.glb"
+   "glb_url": "assets/人类女/蹲小步前移/蹲小步前移.glb",
+   "weapons": []
   },
   {
    "id": "b9fff139-cc53-42a6-bfc3-4604ddb57a97",
@@ -289,7 +308,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/蹲小步左移/preview.webp",
-   "glb_url": "assets/人类女/蹲小步左移/蹲小步左移.glb"
+   "glb_url": "assets/人类女/蹲小步左移/蹲小步左移.glb",
+   "weapons": []
   },
   {
    "id": "185b35e6-16c9-41d1-b5bc-6f4743980cdf",
@@ -304,7 +324,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/蹲小步右移/preview.webp",
-   "glb_url": "assets/人类女/蹲小步右移/蹲小步右移.glb"
+   "glb_url": "assets/人类女/蹲小步右移/蹲小步右移.glb",
+   "weapons": []
   },
   {
    "id": "a2f1413c-3485-4892-9817-17141231bbb4",
@@ -318,7 +339,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/小步后移/preview.webp",
-   "glb_url": "assets/人类女/小步后移/小步后移.glb"
+   "glb_url": "assets/人类女/小步后移/小步后移.glb",
+   "weapons": []
   },
   {
    "id": "b353e75c-0850-4e5f-a241-59317bd5b6d1",
@@ -332,7 +354,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/小步前移/preview.webp",
-   "glb_url": "assets/人类女/小步前移/小步前移.glb"
+   "glb_url": "assets/人类女/小步前移/小步前移.glb",
+   "weapons": []
   },
   {
    "id": "7555354e-7650-4e17-82e7-8a5f3498dbe0",
@@ -346,7 +369,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/小步左移/preview.webp",
-   "glb_url": "assets/人类女/小步左移/小步左移.glb"
+   "glb_url": "assets/人类女/小步左移/小步左移.glb",
+   "weapons": []
   },
   {
    "id": "a42c9f43-87fc-4b09-bd98-a481fa46a16b",
@@ -360,7 +384,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/小步右移/preview.webp",
-   "glb_url": "assets/人类女/小步右移/小步右移.glb"
+   "glb_url": "assets/人类女/小步右移/小步右移.glb",
+   "weapons": []
   },
   {
    "id": "f7669b7f-a4e4-4f37-8e7e-be287b8cda75",
@@ -374,7 +399,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/冲刺/preview.webp",
-   "glb_url": "assets/人类女/冲刺/冲刺.glb"
+   "glb_url": "assets/人类女/冲刺/冲刺.glb",
+   "weapons": []
   },
   {
    "id": "3a0dea83-e256-4ee8-986a-747ea3670c55",
@@ -388,7 +414,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/走后/preview.webp",
-   "glb_url": "assets/人类女/走后/走后.glb"
+   "glb_url": "assets/人类女/走后/走后.glb",
+   "weapons": []
   },
   {
    "id": "42346eb5-ec65-40e4-940d-e5f80e9c4786",
@@ -402,7 +429,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/走左/preview.webp",
-   "glb_url": "assets/人类女/走左/走左.glb"
+   "glb_url": "assets/人类女/走左/走左.glb",
+   "weapons": []
   },
   {
    "id": "be6c738f-39bb-4de1-8cd1-524535ea61ad",
@@ -416,7 +444,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/走右/preview.webp",
-   "glb_url": "assets/人类女/走右/走右.glb"
+   "glb_url": "assets/人类女/走右/走右.glb",
+   "weapons": []
   },
   {
    "id": "f53831e9-5b34-43eb-ae4a-718d0fe4c60e",
@@ -430,7 +459,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类女/走/preview.webp",
-   "glb_url": "assets/人类女/走/走.glb"
+   "glb_url": "assets/人类女/走/走.glb",
+   "weapons": []
   },
   {
    "id": "d4ca96d1-75e9-46cf-837a-5452f9c431a7",
@@ -445,7 +475,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/待机_002/preview.webp",
-   "glb_url": "assets/人类男/待机_002/待机_002.glb"
+   "glb_url": "assets/人类男/待机_002/待机_002.glb",
+   "weapons": []
   },
   {
    "id": "460b127e-b1f4-458f-9dec-3e6ac7e88a19",
@@ -459,7 +490,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/待机站立/preview.webp",
-   "glb_url": "assets/人类男/待机站立/待机站立.glb"
+   "glb_url": "assets/人类男/待机站立/待机站立.glb",
+   "weapons": []
   },
   {
    "id": "3add2d9e-cb8f-4a1d-982e-b6f7b1ed341b",
@@ -469,11 +501,12 @@
    "race": "人类男",
    "fps": "30",
    "tags": [
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人类男/坠落_001/preview.webp",
-   "glb_url": "assets/人类男/坠落_001/坠落_001.glb"
+   "glb_url": "assets/人类男/坠落_001/坠落_001.glb",
+   "weapons": []
   },
   {
    "id": "83cea972-3e19-4fd4-b3b1-844b9e21dd75",
@@ -483,11 +516,12 @@
    "race": "人类男",
    "fps": "30",
    "tags": [
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人类男/下落_001/preview.webp",
-   "glb_url": "assets/人类男/下落_001/下落_001.glb"
+   "glb_url": "assets/人类男/下落_001/下落_001.glb",
+   "weapons": []
   },
   {
    "id": "fafdd15a-d7a9-4988-93e3-c7cd847eba8b",
@@ -501,7 +535,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/跳_001/preview.webp",
-   "glb_url": "assets/人类男/跳_001/跳_001.glb"
+   "glb_url": "assets/人类男/跳_001/跳_001.glb",
+   "weapons": []
   },
   {
    "id": "e8c4d458-288a-4181-8dd8-bac11f0ccfdb",
@@ -515,7 +550,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/重着地_001/preview.webp",
-   "glb_url": "assets/人类男/重着地_001/重着地_001.glb"
+   "glb_url": "assets/人类男/重着地_001/重着地_001.glb",
+   "weapons": []
   },
   {
    "id": "933e993a-605a-4e9f-a280-34d665217409",
@@ -529,7 +565,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/中着地_001/preview.webp",
-   "glb_url": "assets/人类男/中着地_001/中着地_001.glb"
+   "glb_url": "assets/人类男/中着地_001/中着地_001.glb",
+   "weapons": []
   },
   {
    "id": "4394f2d9-e967-4771-b411-c8cd1dbbea65",
@@ -543,7 +580,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/轻着地_001/preview.webp",
-   "glb_url": "assets/人类男/轻着地_001/轻着地_001.glb"
+   "glb_url": "assets/人类男/轻着地_001/轻着地_001.glb",
+   "weapons": []
   },
   {
    "id": "b1d6491e-3e75-4093-996f-e5435cf3e245",
@@ -557,7 +595,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/蹲后_001/preview.webp",
-   "glb_url": "assets/人类男/蹲后_001/蹲后_001.glb"
+   "glb_url": "assets/人类男/蹲后_001/蹲后_001.glb",
+   "weapons": []
   },
   {
    "id": "42a9fb7d-8872-4571-bb0d-666e8ce446ea",
@@ -571,7 +610,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/蹲左_001/preview.webp",
-   "glb_url": "assets/人类男/蹲左_001/蹲左_001.glb"
+   "glb_url": "assets/人类男/蹲左_001/蹲左_001.glb",
+   "weapons": []
   },
   {
    "id": "b2b31ec6-a9c8-4618-bd48-89deac2cdbc4",
@@ -585,7 +625,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/蹲右_001/preview.webp",
-   "glb_url": "assets/人类男/蹲右_001/蹲右_001.glb"
+   "glb_url": "assets/人类男/蹲右_001/蹲右_001.glb",
+   "weapons": []
   },
   {
    "id": "4b8f70df-1db9-4b30-80ca-270b971c6091",
@@ -599,7 +640,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/蹲前_001/preview.webp",
-   "glb_url": "assets/人类男/蹲前_001/蹲前_001.glb"
+   "glb_url": "assets/人类男/蹲前_001/蹲前_001.glb",
+   "weapons": []
   },
   {
    "id": "051656d4-c228-4b9b-be83-dbbdeff743db",
@@ -613,7 +655,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/后跑/preview.webp",
-   "glb_url": "assets/人类男/后跑/后跑.glb"
+   "glb_url": "assets/人类男/后跑/后跑.glb",
+   "weapons": []
   },
   {
    "id": "4d91a6ef-7467-4933-828f-142269102fdb",
@@ -627,7 +670,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/左跑/preview.webp",
-   "glb_url": "assets/人类男/左跑/左跑.glb"
+   "glb_url": "assets/人类男/左跑/左跑.glb",
+   "weapons": []
   },
   {
    "id": "ed905cd1-1e91-460c-9834-2edfcec833a8",
@@ -641,7 +685,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/右跑/preview.webp",
-   "glb_url": "assets/人类男/右跑/右跑.glb"
+   "glb_url": "assets/人类男/右跑/右跑.glb",
+   "weapons": []
   },
   {
    "id": "2ca87032-871f-4e63-982f-765c8371a808",
@@ -655,7 +700,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/跑_001/preview.webp",
-   "glb_url": "assets/人类男/跑_001/跑_001.glb"
+   "glb_url": "assets/人类男/跑_001/跑_001.glb",
+   "weapons": []
   },
   {
    "id": "09f587a9-7d94-45c3-9e50-3f61ee5e937f",
@@ -669,7 +715,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/蹲小步后移_001/preview.webp",
-   "glb_url": "assets/人类男/蹲小步后移_001/蹲小步后移_001.glb"
+   "glb_url": "assets/人类男/蹲小步后移_001/蹲小步后移_001.glb",
+   "weapons": []
   },
   {
    "id": "00460cf4-3e7e-4ba9-8d95-12251143aa19",
@@ -683,7 +730,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/蹲小步前移_001/preview.webp",
-   "glb_url": "assets/人类男/蹲小步前移_001/蹲小步前移_001.glb"
+   "glb_url": "assets/人类男/蹲小步前移_001/蹲小步前移_001.glb",
+   "weapons": []
   },
   {
    "id": "970ca60b-698a-4ad7-ba0a-1f2c710df2be",
@@ -697,7 +745,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/蹲小步左移_001/preview.webp",
-   "glb_url": "assets/人类男/蹲小步左移_001/蹲小步左移_001.glb"
+   "glb_url": "assets/人类男/蹲小步左移_001/蹲小步左移_001.glb",
+   "weapons": []
   },
   {
    "id": "22d423da-eb1b-494c-9661-1d6abf57d7c0",
@@ -711,7 +760,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/蹲小步右移_001/preview.webp",
-   "glb_url": "assets/人类男/蹲小步右移_001/蹲小步右移_001.glb"
+   "glb_url": "assets/人类男/蹲小步右移_001/蹲小步右移_001.glb",
+   "weapons": []
   },
   {
    "id": "6cb8afda-f8d6-4bdf-a1e5-a2f52223b162",
@@ -725,7 +775,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/小步后移_001/preview.webp",
-   "glb_url": "assets/人类男/小步后移_001/小步后移_001.glb"
+   "glb_url": "assets/人类男/小步后移_001/小步后移_001.glb",
+   "weapons": []
   },
   {
    "id": "2efe2a99-c338-448e-b956-09cedb60b842",
@@ -739,7 +790,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/小步前移_001/preview.webp",
-   "glb_url": "assets/人类男/小步前移_001/小步前移_001.glb"
+   "glb_url": "assets/人类男/小步前移_001/小步前移_001.glb",
+   "weapons": []
   },
   {
    "id": "709456fb-2fda-487a-8406-4b113d8d0cf9",
@@ -753,7 +805,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/小步左移_001/preview.webp",
-   "glb_url": "assets/人类男/小步左移_001/小步左移_001.glb"
+   "glb_url": "assets/人类男/小步左移_001/小步左移_001.glb",
+   "weapons": []
   },
   {
    "id": "200cc0ae-742f-4a21-92cb-3fd128a82db3",
@@ -767,7 +820,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/小步右移_001/preview.webp",
-   "glb_url": "assets/人类男/小步右移_001/小步右移_001.glb"
+   "glb_url": "assets/人类男/小步右移_001/小步右移_001.glb",
+   "weapons": []
   },
   {
    "id": "0cad2048-1226-4c9f-9901-e3fdc7955018",
@@ -781,7 +835,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/冲刺_001/preview.webp",
-   "glb_url": "assets/人类男/冲刺_001/冲刺_001.glb"
+   "glb_url": "assets/人类男/冲刺_001/冲刺_001.glb",
+   "weapons": []
   },
   {
    "id": "0cd1c5d3-fb11-4434-ad63-d18efad6be88",
@@ -795,7 +850,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/走后/preview.webp",
-   "glb_url": "assets/人类男/走后/走后.glb"
+   "glb_url": "assets/人类男/走后/走后.glb",
+   "weapons": []
   },
   {
    "id": "c646bed9-e5d3-4464-96e6-48679b50c117",
@@ -809,7 +865,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/走左_001/preview.webp",
-   "glb_url": "assets/人类男/走左_001/走左_001.glb"
+   "glb_url": "assets/人类男/走左_001/走左_001.glb",
+   "weapons": []
   },
   {
    "id": "b2c7c758-fafb-4453-b19c-af036748a954",
@@ -823,7 +880,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/走右_001/preview.webp",
-   "glb_url": "assets/人类男/走右_001/走右_001.glb"
+   "glb_url": "assets/人类男/走右_001/走右_001.glb",
+   "weapons": []
   },
   {
    "id": "a5e0f87b-ba61-4b97-adbf-670d748aa5fb",
@@ -837,7 +895,8 @@
    ],
    "category": "",
    "preview_url": "assets/人类男/走_001/preview.webp",
-   "glb_url": "assets/人类男/走_001/走_001.glb"
+   "glb_url": "assets/人类男/走_001/走_001.glb",
+   "weapons": []
   },
   {
    "id": "5837f999-1f76-4c4e-b2d1-08be750b7358",
@@ -847,13 +906,15 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "攻击",
     "连击"
    ],
    "category": "",
    "preview_url": "assets/人形/二连/preview.webp",
-   "glb_url": "assets/人形/二连/二连.glb"
+   "glb_url": "assets/人形/二连/二连.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "a4e6d2b3-1ef4-4225-9e68-fe1f654a1607",
@@ -863,14 +924,16 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "攻击",
     "走",
     "连击"
    ],
    "category": "",
    "preview_url": "assets/人形/二连前进/preview.webp",
-   "glb_url": "assets/人形/二连前进/二连前进.glb"
+   "glb_url": "assets/人形/二连前进/二连前进.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "7985dac6-99cd-4044-9b95-59f11ac1b129",
@@ -880,14 +943,16 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "攻击",
     "走",
     "连击"
    ],
    "category": "",
    "preview_url": "assets/人形/三连前进/preview.webp",
-   "glb_url": "assets/人形/三连前进/三连前进.glb"
+   "glb_url": "assets/人形/三连前进/三连前进.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "65574834-d888-45fc-98b8-d70b342d5f3f",
@@ -897,14 +962,16 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "攻击",
     "走",
     "连击"
    ],
    "category": "",
    "preview_url": "assets/人形/三连前进_001/preview.webp",
-   "glb_url": "assets/人形/三连前进_001/三连前进_001.glb"
+   "glb_url": "assets/人形/三连前进_001/三连前进_001.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "c0403226-2868-423e-9970-b86daff0011d",
@@ -914,12 +981,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/攻击/preview.webp",
-   "glb_url": "assets/人形/攻击/攻击.glb"
+   "glb_url": "assets/人形/攻击/攻击.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "5a6a68ef-e9fe-4e62-b5ff-7e4f1f36017e",
@@ -929,12 +998,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/攻击_001/preview.webp",
-   "glb_url": "assets/人形/攻击_001/攻击_001.glb"
+   "glb_url": "assets/人形/攻击_001/攻击_001.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "70e3fe15-d890-4433-bc4a-889edb421f22",
@@ -944,12 +1015,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/攻击_002/preview.webp",
-   "glb_url": "assets/人形/攻击_002/攻击_002.glb"
+   "glb_url": "assets/人形/攻击_002/攻击_002.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "1f06bdaa-2d31-474d-bd33-ed1ec46b416c",
@@ -959,12 +1032,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/攻击_003/preview.webp",
-   "glb_url": "assets/人形/攻击_003/攻击_003.glb"
+   "glb_url": "assets/人形/攻击_003/攻击_003.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "3db141b8-75fa-4d9d-b547-da68b150d315",
@@ -974,12 +1049,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "格挡"
    ],
    "category": "",
    "preview_url": "assets/人形/格挡/preview.webp",
-   "glb_url": "assets/人形/格挡/格挡.glb"
+   "glb_url": "assets/人形/格挡/格挡.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "018ffb40-b895-471e-9b12-aa61baa6e3cb",
@@ -990,12 +1067,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "单手",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲向后/preview.webp",
-   "glb_url": "assets/人形/下蹲向后/下蹲向后.glb"
+   "glb_url": "assets/人形/下蹲向后/下蹲向后.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "6adbad59-02c4-4826-b4d8-09361f74744c",
@@ -1006,12 +1085,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "单手",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲向前/preview.webp",
-   "glb_url": "assets/人形/下蹲向前/下蹲向前.glb"
+   "glb_url": "assets/人形/下蹲向前/下蹲向前.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "4342e046-03f9-40b6-9ccc-5d6a3977c956",
@@ -1022,12 +1103,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "单手",
     "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲待机/preview.webp",
-   "glb_url": "assets/人形/下蹲待机/下蹲待机.glb"
+   "glb_url": "assets/人形/下蹲待机/下蹲待机.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "5c379179-8294-40a5-8ba2-c127d834cc9a",
@@ -1038,12 +1121,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "走",
-    "单手"
+    "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲向左/preview.webp",
-   "glb_url": "assets/人形/下蹲向左/下蹲向左.glb"
+   "glb_url": "assets/人形/下蹲向左/下蹲向左.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "972e5466-f152-46fa-be61-d25585906dc0",
@@ -1054,12 +1139,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "单手",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲向右/preview.webp",
-   "glb_url": "assets/人形/下蹲向右/下蹲向右.glb"
+   "glb_url": "assets/人形/下蹲向右/下蹲向右.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "dae92bc3-d423-4731-885c-894a8a16d380",
@@ -1069,12 +1156,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "死亡"
    ],
    "category": "",
    "preview_url": "assets/人形/死亡向后/preview.webp",
-   "glb_url": "assets/人形/死亡向后/死亡向后.glb"
+   "glb_url": "assets/人形/死亡向后/死亡向后.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "f23cd3fd-c816-4369-8380-8f4079a9bcdd",
@@ -1084,12 +1173,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "死亡"
    ],
    "category": "",
    "preview_url": "assets/人形/死亡向前/preview.webp",
-   "glb_url": "assets/人形/死亡向前/死亡向前.glb"
+   "glb_url": "assets/人形/死亡向前/死亡向前.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "fcf5698a-6eb1-44bd-bc8f-ae5eefc96bc0",
@@ -1099,12 +1190,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "死亡"
    ],
    "category": "",
    "preview_url": "assets/人形/死亡向左/preview.webp",
-   "glb_url": "assets/人形/死亡向左/死亡向左.glb"
+   "glb_url": "assets/人形/死亡向左/死亡向左.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "984d7c4c-0643-40bf-bf4a-f4cc7d9c40fd",
@@ -1114,12 +1207,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "死亡"
    ],
    "category": "",
    "preview_url": "assets/人形/死亡向右/preview.webp",
-   "glb_url": "assets/人形/死亡向右/死亡向右.glb"
+   "glb_url": "assets/人形/死亡向右/死亡向右.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "2ceaf1bb-3210-4e56-8f38-b7d3437557e6",
@@ -1129,12 +1224,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "装备"
    ],
    "category": "",
    "preview_url": "assets/人形/拿出武器/preview.webp",
-   "glb_url": "assets/人形/拿出武器/拿出武器.glb"
+   "glb_url": "assets/人形/拿出武器/拿出武器.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "e7eee3e2-e190-44ec-bb3d-20c8b7754069",
@@ -1144,12 +1241,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人形/降落/preview.webp",
-   "glb_url": "assets/人形/降落/降落.glb"
+   "glb_url": "assets/人形/降落/降落.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "bedba286-14f0-4593-bc91-7691c3f172ea",
@@ -1159,13 +1258,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "其他",
-    "单手",
     "起身"
    ],
    "category": "",
    "preview_url": "assets/人形/后倒地站起/preview.webp",
-   "glb_url": "assets/人形/后倒地站起/后倒地站起.glb"
+   "glb_url": "assets/人形/后倒地站起/后倒地站起.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "6ca93ba0-759d-412b-a3eb-d6f46f386d73",
@@ -1175,13 +1275,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "其他",
-    "单手",
     "起身"
    ],
    "category": "",
    "preview_url": "assets/人形/前倒地站起/preview.webp",
-   "glb_url": "assets/人形/前倒地站起/前倒地站起.glb"
+   "glb_url": "assets/人形/前倒地站起/前倒地站起.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "09e2e85d-cd83-436b-a5db-371ea8d4a6bc",
@@ -1191,13 +1292,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "其他",
-    "单手",
     "起身"
    ],
    "category": "",
    "preview_url": "assets/人形/左倒地站起/preview.webp",
-   "glb_url": "assets/人形/左倒地站起/左倒地站起.glb"
+   "glb_url": "assets/人形/左倒地站起/左倒地站起.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "94a4bda9-ac3f-4945-a239-a79966fd922b",
@@ -1207,13 +1309,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "其他",
-    "单手",
     "起身"
    ],
    "category": "",
    "preview_url": "assets/人形/右倒地站起/preview.webp",
-   "glb_url": "assets/人形/右倒地站起/右倒地站起.glb"
+   "glb_url": "assets/人形/右倒地站起/右倒地站起.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "9e9ca467-598c-4257-99b6-59c961645071",
@@ -1223,12 +1326,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "受击",
-    "单手"
+    "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/后重受击/preview.webp",
-   "glb_url": "assets/人形/后重受击/后重受击.glb"
+   "glb_url": "assets/人形/后重受击/后重受击.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "e83c1939-5fda-4357-bad3-67d0df4f9134",
@@ -1238,12 +1343,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/前重受击/preview.webp",
-   "glb_url": "assets/人形/前重受击/前重受击.glb"
+   "glb_url": "assets/人形/前重受击/前重受击.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "5cdae38d-c23a-4825-92f9-bf7fefe65235",
@@ -1253,12 +1360,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/左重受击/preview.webp",
-   "glb_url": "assets/人形/左重受击/左重受击.glb"
+   "glb_url": "assets/人形/左重受击/左重受击.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "6db2392e-2d64-4ec0-9fb6-579157aac89d",
@@ -1268,12 +1377,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/右重受击/preview.webp",
-   "glb_url": "assets/人形/右重受击/右重受击.glb"
+   "glb_url": "assets/人形/右重受击/右重受击.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "5a2b1d7c-32b4-4808-8416-1cdb421c735d",
@@ -1283,12 +1394,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/后轻受击/preview.webp",
-   "glb_url": "assets/人形/后轻受击/后轻受击.glb"
+   "glb_url": "assets/人形/后轻受击/后轻受击.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "16bc6b3a-5b14-42d4-8227-96776930bd00",
@@ -1298,12 +1411,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/前轻受击/preview.webp",
-   "glb_url": "assets/人形/前轻受击/前轻受击.glb"
+   "glb_url": "assets/人形/前轻受击/前轻受击.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "24ef3fb8-9bc5-47eb-93d0-bae7baa0b3ce",
@@ -1313,12 +1428,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/左轻受击/preview.webp",
-   "glb_url": "assets/人形/左轻受击/左轻受击.glb"
+   "glb_url": "assets/人形/左轻受击/左轻受击.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "cbfcd8b2-e6c6-40a5-b08a-090f911faf40",
@@ -1328,12 +1445,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/右轻受击/preview.webp",
-   "glb_url": "assets/人形/右轻受击/右轻受击.glb"
+   "glb_url": "assets/人形/右轻受击/右轻受击.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "69fbab7d-7a95-4280-9795-ea652d606ea7",
@@ -1343,12 +1462,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/待机_003/preview.webp",
-   "glb_url": "assets/人形/待机_003/待机_003.glb"
+   "glb_url": "assets/人形/待机_003/待机_003.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "f99e9e9f-32a8-4196-98c8-7343fe7ec3d3",
@@ -1358,12 +1479,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/格挡待机/preview.webp",
-   "glb_url": "assets/人形/格挡待机/格挡待机.glb"
+   "glb_url": "assets/人形/格挡待机/格挡待机.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "ecdbba45-819d-4226-aaae-e39d99fd2a95",
@@ -1373,12 +1496,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/战斗待机/preview.webp",
-   "glb_url": "assets/人形/战斗待机/战斗待机.glb"
+   "glb_url": "assets/人形/战斗待机/战斗待机.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "8916899c-b62b-4c53-9d45-c4382e7cdc0b",
@@ -1388,12 +1513,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/巡视待机/preview.webp",
-   "glb_url": "assets/人形/巡视待机/巡视待机.glb"
+   "glb_url": "assets/人形/巡视待机/巡视待机.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "ec835e70-c42b-4188-b2d7-24acffe710f7",
@@ -1403,12 +1530,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人形/起跳/preview.webp",
-   "glb_url": "assets/人形/起跳/起跳.glb"
+   "glb_url": "assets/人形/起跳/起跳.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "1a5be293-45db-4e31-8540-1a08c0019d16",
@@ -1418,12 +1547,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人形/重着地_002/preview.webp",
-   "glb_url": "assets/人形/重着地_002/重着地_002.glb"
+   "glb_url": "assets/人形/重着地_002/重着地_002.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "aec90990-c333-4f4e-ad78-72d8ba50a9cb",
@@ -1433,12 +1564,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人形/轻着地_002/preview.webp",
-   "glb_url": "assets/人形/轻着地_002/轻着地_002.glb"
+   "glb_url": "assets/人形/轻着地_002/轻着地_002.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "47e78fdd-b8c3-484b-8329-7b9fc28c54d8",
@@ -1448,12 +1581,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人形/中着地_002/preview.webp",
-   "glb_url": "assets/人形/中着地_002/中着地_002.glb"
+   "glb_url": "assets/人形/中着地_002/中着地_002.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "e5fdb808-66be-48a5-b42e-035be7279c70",
@@ -1463,12 +1598,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "装备"
    ],
    "category": "",
    "preview_url": "assets/人形/收起武器/preview.webp",
-   "glb_url": "assets/人形/收起武器/收起武器.glb"
+   "glb_url": "assets/人形/收起武器/收起武器.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "f4a08762-8f4c-49b6-a741-22f695620192",
@@ -1478,12 +1615,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "走",
-    "单手"
+    "走"
    ],
    "category": "",
    "preview_url": "assets/人形/向后跑/preview.webp",
-   "glb_url": "assets/人形/向后跑/向后跑.glb"
+   "glb_url": "assets/人形/向后跑/向后跑.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "4a48a0c7-2383-4861-97fb-f27ec7e1a303",
@@ -1493,12 +1632,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "走",
-    "单手"
+    "走"
    ],
    "category": "",
    "preview_url": "assets/人形/向前跑/preview.webp",
-   "glb_url": "assets/人形/向前跑/向前跑.glb"
+   "glb_url": "assets/人形/向前跑/向前跑.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "8dc6112f-24e2-49bc-affe-791ced301ed9",
@@ -1508,12 +1649,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "走",
-    "单手"
+    "走"
    ],
    "category": "",
    "preview_url": "assets/人形/持有跑/preview.webp",
-   "glb_url": "assets/人形/持有跑/持有跑.glb"
+   "glb_url": "assets/人形/持有跑/持有跑.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "523bd0c4-929d-43dd-8a3c-066b135a6f6f",
@@ -1523,12 +1666,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/向左跑/preview.webp",
-   "glb_url": "assets/人形/向左跑/向左跑.glb"
+   "glb_url": "assets/人形/向左跑/向左跑.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "815e6d38-42c6-453e-b604-900573583b29",
@@ -1538,12 +1683,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "走",
-    "单手"
+    "走"
    ],
    "category": "",
    "preview_url": "assets/人形/向右跑/preview.webp",
-   "glb_url": "assets/人形/向右跑/向右跑.glb"
+   "glb_url": "assets/人形/向右跑/向右跑.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "7bfe9bc1-b044-4054-9b45-8845c058339c",
@@ -1553,12 +1700,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/持有冲刺/preview.webp",
-   "glb_url": "assets/人形/持有冲刺/持有冲刺.glb"
+   "glb_url": "assets/人形/持有冲刺/持有冲刺.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "a69f6bf8-4393-43d4-93d8-8feed31d86f5",
@@ -1568,12 +1717,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/向后走/preview.webp",
-   "glb_url": "assets/人形/向后走/向后走.glb"
+   "glb_url": "assets/人形/向后走/向后走.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "133a9550-6ca2-472b-baa9-f26ff7a3316b",
@@ -1583,12 +1734,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/向前走/preview.webp",
-   "glb_url": "assets/人形/向前走/向前走.glb"
+   "glb_url": "assets/人形/向前走/向前走.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "140b7db0-2827-4726-b4cd-f2b6c94e0d17",
@@ -1598,12 +1751,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/向前走_001/preview.webp",
-   "glb_url": "assets/人形/向前走_001/向前走_001.glb"
+   "glb_url": "assets/人形/向前走_001/向前走_001.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "534391f3-b479-4f3d-afc5-9a404d2ef0a0",
@@ -1613,12 +1768,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/向左走/preview.webp",
-   "glb_url": "assets/人形/向左走/向左走.glb"
+   "glb_url": "assets/人形/向左走/向左走.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "8cd3b1d9-76d7-4cb4-ba26-244314f10a88",
@@ -1628,12 +1785,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "单手",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/向右走/preview.webp",
-   "glb_url": "assets/人形/向右走/向右走.glb"
+   "glb_url": "assets/人形/向右走/向右走.glb",
+   "weapons": [
+    "单手近战"
+   ]
   },
   {
    "id": "be2669ca-a052-4cd4-87a9-c88ad11a5666",
@@ -1643,12 +1802,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "爬"
    ],
    "category": "",
    "preview_url": "assets/人形/单手爬/preview.webp",
-   "glb_url": "assets/人形/单手爬/单手爬.glb"
+   "glb_url": "assets/人形/单手爬/单手爬.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "60692cb4-eddb-4c33-ba9e-dea96745ac49",
@@ -1658,12 +1819,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "爬"
    ],
    "category": "",
    "preview_url": "assets/人形/双手爬/preview.webp",
-   "glb_url": "assets/人形/双手爬/双手爬.glb"
+   "glb_url": "assets/人形/双手爬/双手爬.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "4ced232f-cf75-421e-b05a-203947d2a9a7",
@@ -1673,12 +1836,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "爬"
    ],
    "category": "",
    "preview_url": "assets/人形/左脚上台阶/preview.webp",
-   "glb_url": "assets/人形/左脚上台阶/左脚上台阶.glb"
+   "glb_url": "assets/人形/左脚上台阶/左脚上台阶.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "8c7c3cb6-7ced-481e-a1cb-7eee49a71176",
@@ -1688,12 +1853,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "爬"
    ],
    "category": "",
    "preview_url": "assets/人形/右脚上台阶/preview.webp",
-   "glb_url": "assets/人形/右脚上台阶/右脚上台阶.glb"
+   "glb_url": "assets/人形/右脚上台阶/右脚上台阶.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "b4345d9f-cf97-475f-b3d3-1ba1d340c85d",
@@ -1703,12 +1870,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "下蹲",
-    "手枪"
+    "下蹲"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲瞄准/preview.webp",
-   "glb_url": "assets/人形/下蹲瞄准/下蹲瞄准.glb"
+   "glb_url": "assets/人形/下蹲瞄准/下蹲瞄准.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "2d5d5c41-562f-44f8-b708-6c16722f64d4",
@@ -1719,12 +1888,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲后退/preview.webp",
-   "glb_url": "assets/人形/下蹲后退/下蹲后退.glb"
+   "glb_url": "assets/人形/下蹲后退/下蹲后退.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "d1f8c5cb-bef4-4514-9165-a19512b75f45",
@@ -1735,12 +1906,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲瞄准后退/preview.webp",
-   "glb_url": "assets/人形/下蹲瞄准后退/下蹲瞄准后退.glb"
+   "glb_url": "assets/人形/下蹲瞄准后退/下蹲瞄准后退.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "02a829b2-48ca-48c8-843d-e54343b69f53",
@@ -1751,12 +1924,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲前进/preview.webp",
-   "glb_url": "assets/人形/下蹲前进/下蹲前进.glb"
+   "glb_url": "assets/人形/下蹲前进/下蹲前进.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "dfe2758a-ef39-4a90-9c4a-d6f527d1ff08",
@@ -1767,12 +1942,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲瞄准前进/preview.webp",
-   "glb_url": "assets/人形/下蹲瞄准前进/下蹲瞄准前进.glb"
+   "glb_url": "assets/人形/下蹲瞄准前进/下蹲瞄准前进.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "b5e9beb3-5539-4615-a530-24a35ed1d18e",
@@ -1783,12 +1960,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲隐蔽/preview.webp",
-   "glb_url": "assets/人形/下蹲隐蔽/下蹲隐蔽.glb"
+   "glb_url": "assets/人形/下蹲隐蔽/下蹲隐蔽.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "12f48b85-47e9-4e16-bef1-d3ac96fa396c",
@@ -1799,12 +1978,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲待机_001/preview.webp",
-   "glb_url": "assets/人形/下蹲待机_001/下蹲待机_001.glb"
+   "glb_url": "assets/人形/下蹲待机_001/下蹲待机_001.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "c78e916a-e622-4a5b-a286-bd1e960130de",
@@ -1815,12 +1996,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲巡视待机/preview.webp",
-   "glb_url": "assets/人形/下蹲巡视待机/下蹲巡视待机.glb"
+   "glb_url": "assets/人形/下蹲巡视待机/下蹲巡视待机.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "e7895452-ab98-4c50-a7fe-5142e5bd834c",
@@ -1831,12 +2014,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲隐蔽待机/preview.webp",
-   "glb_url": "assets/人形/下蹲隐蔽待机/下蹲隐蔽待机.glb"
+   "glb_url": "assets/人形/下蹲隐蔽待机/下蹲隐蔽待机.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "004a305e-dc9a-4250-bc84-fda924554081",
@@ -1846,12 +2031,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "下蹲",
-    "手枪"
+    "下蹲"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲隐蔽起身/preview.webp",
-   "glb_url": "assets/人形/下蹲隐蔽起身/下蹲隐蔽起身.glb"
+   "glb_url": "assets/人形/下蹲隐蔽起身/下蹲隐蔽起身.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "27270bce-eba4-4e77-9e05-bd0d9b190879",
@@ -1862,12 +2049,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲瞄准左移/preview.webp",
-   "glb_url": "assets/人形/下蹲瞄准左移/下蹲瞄准左移.glb"
+   "glb_url": "assets/人形/下蹲瞄准左移/下蹲瞄准左移.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "76a233df-8797-4db6-be98-5ef3acf2b036",
@@ -1878,12 +2067,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲瞄准右移/preview.webp",
-   "glb_url": "assets/人形/下蹲瞄准右移/下蹲瞄准右移.glb"
+   "glb_url": "assets/人形/下蹲瞄准右移/下蹲瞄准右移.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "00bebf25-a529-4670-b38f-412e93ca530a",
@@ -1893,12 +2084,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "死亡"
    ],
    "category": "",
    "preview_url": "assets/人形/后死亡/preview.webp",
-   "glb_url": "assets/人形/后死亡/后死亡.glb"
+   "glb_url": "assets/人形/后死亡/后死亡.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "d4e61078-2cde-4711-98df-9cf90533c01b",
@@ -1908,12 +2101,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "死亡"
    ],
    "category": "",
    "preview_url": "assets/人形/前死亡/preview.webp",
-   "glb_url": "assets/人形/前死亡/前死亡.glb"
+   "glb_url": "assets/人形/前死亡/前死亡.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "394a5aad-e8e5-447b-8b42-a871d35b3364",
@@ -1923,12 +2118,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "死亡"
    ],
    "category": "",
    "preview_url": "assets/人形/左死亡/preview.webp",
-   "glb_url": "assets/人形/左死亡/左死亡.glb"
+   "glb_url": "assets/人形/左死亡/左死亡.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "deaa2ca2-7083-45f9-b383-925668620042",
@@ -1938,12 +2135,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "死亡"
    ],
    "category": "",
    "preview_url": "assets/人形/右死亡/preview.webp",
-   "glb_url": "assets/人形/右死亡/右死亡.glb"
+   "glb_url": "assets/人形/右死亡/右死亡.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "db2bcc9e-575f-4302-8512-15a392b087e6",
@@ -1953,12 +2152,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "翻滚"
    ],
    "category": "",
    "preview_url": "assets/人形/后翻滚/preview.webp",
-   "glb_url": "assets/人形/后翻滚/后翻滚.glb"
+   "glb_url": "assets/人形/后翻滚/后翻滚.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "bed0e00c-c2dd-417a-a578-a7712748e3f1",
@@ -1968,12 +2169,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "翻滚"
    ],
    "category": "",
    "preview_url": "assets/人形/前翻滚/preview.webp",
-   "glb_url": "assets/人形/前翻滚/前翻滚.glb"
+   "glb_url": "assets/人形/前翻滚/前翻滚.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "4888979c-58d5-4d89-80b3-ac7c13e33d3e",
@@ -1983,12 +2186,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "翻滚"
    ],
    "category": "",
    "preview_url": "assets/人形/左翻滚/preview.webp",
-   "glb_url": "assets/人形/左翻滚/左翻滚.glb"
+   "glb_url": "assets/人形/左翻滚/左翻滚.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "6fe1eb5d-ce4e-409c-8ab5-26cd3cfb3f1d",
@@ -1998,12 +2203,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "翻滚"
    ],
    "category": "",
    "preview_url": "assets/人形/右翻滚/preview.webp",
-   "glb_url": "assets/人形/右翻滚/右翻滚.glb"
+   "glb_url": "assets/人形/右翻滚/右翻滚.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "e5f5ed5e-97a9-425b-b927-f9528b6d6f65",
@@ -2013,12 +2220,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "装备"
    ],
    "category": "",
    "preview_url": "assets/人形/拿出枪/preview.webp",
-   "glb_url": "assets/人形/拿出枪/拿出枪.glb"
+   "glb_url": "assets/人形/拿出枪/拿出枪.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "154e43df-22cc-4627-88af-c7f18a70b5c9",
@@ -2028,12 +2237,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人形/浮空/preview.webp",
-   "glb_url": "assets/人形/浮空/浮空.glb"
+   "glb_url": "assets/人形/浮空/浮空.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "16142a16-ab98-4b91-9dfd-621478cb5e67",
@@ -2043,12 +2254,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "起身"
    ],
    "category": "",
    "preview_url": "assets/人形/后起身/preview.webp",
-   "glb_url": "assets/人形/后起身/后起身.glb"
+   "glb_url": "assets/人形/后起身/后起身.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "45e27cee-03fc-4faf-869c-65b5321ad408",
@@ -2058,12 +2271,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "起身"
    ],
    "category": "",
    "preview_url": "assets/人形/前起身/preview.webp",
-   "glb_url": "assets/人形/前起身/前起身.glb"
+   "glb_url": "assets/人形/前起身/前起身.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "54fd7372-8494-493f-96e1-c6199eb9b82e",
@@ -2073,12 +2288,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "起身"
    ],
    "category": "",
    "preview_url": "assets/人形/左起身/preview.webp",
-   "glb_url": "assets/人形/左起身/左起身.glb"
+   "glb_url": "assets/人形/左起身/左起身.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "fab4c748-04ea-4f41-8efc-ff8ea3d6882c",
@@ -2088,12 +2305,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "起身"
    ],
    "category": "",
    "preview_url": "assets/人形/右起身/preview.webp",
-   "glb_url": "assets/人形/右起身/右起身.glb"
+   "glb_url": "assets/人形/右起身/右起身.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "0aa6c8dc-e337-47e2-bf28-83381433b864",
@@ -2103,12 +2322,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "受击",
-    "手枪"
+    "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/后重击/preview.webp",
-   "glb_url": "assets/人形/后重击/后重击.glb"
+   "glb_url": "assets/人形/后重击/后重击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "bf83026e-8b26-4854-9689-4a969a3c3900",
@@ -2118,12 +2339,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "受击",
-    "手枪"
+    "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/后轻击/preview.webp",
-   "glb_url": "assets/人形/后轻击/后轻击.glb"
+   "glb_url": "assets/人形/后轻击/后轻击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "73f2269a-a1e4-4dea-98fb-5857b7d8bfac",
@@ -2133,12 +2356,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "受击",
-    "手枪"
+    "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/前重击/preview.webp",
-   "glb_url": "assets/人形/前重击/前重击.glb"
+   "glb_url": "assets/人形/前重击/前重击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "5f82c456-8369-4f93-879b-29ec06972632",
@@ -2148,12 +2373,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "受击",
-    "手枪"
+    "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/前轻击/preview.webp",
-   "glb_url": "assets/人形/前轻击/前轻击.glb"
+   "glb_url": "assets/人形/前轻击/前轻击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "8f36e912-60ff-40ea-a7c0-f9b184cad4ca",
@@ -2163,12 +2390,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "受击",
-    "手枪"
+    "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/左重击/preview.webp",
-   "glb_url": "assets/人形/左重击/左重击.glb"
+   "glb_url": "assets/人形/左重击/左重击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "78166428-b970-4ed2-bf82-c25bf1300c6c",
@@ -2178,12 +2407,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "受击",
-    "手枪"
+    "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/左轻击/preview.webp",
-   "glb_url": "assets/人形/左轻击/左轻击.glb"
+   "glb_url": "assets/人形/左轻击/左轻击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "f4a0f122-22c0-4581-af65-272654bc2b4a",
@@ -2193,12 +2424,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "受击",
-    "手枪"
+    "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/右重击/preview.webp",
-   "glb_url": "assets/人形/右重击/右重击.glb"
+   "glb_url": "assets/人形/右重击/右重击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "b7c42dfc-652b-438e-b252-642c83920262",
@@ -2208,12 +2441,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "受击",
-    "手枪"
+    "受击"
    ],
    "category": "",
    "preview_url": "assets/人形/右轻击/preview.webp",
-   "glb_url": "assets/人形/右轻击/右轻击.glb"
+   "glb_url": "assets/人形/右轻击/右轻击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "3a3780ce-4ad3-4d74-aea0-de5743504f76",
@@ -2223,12 +2458,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "下蹲",
-    "手枪"
+    "下蹲"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲左隐蔽/preview.webp",
-   "glb_url": "assets/人形/下蹲左隐蔽/下蹲左隐蔽.glb"
+   "glb_url": "assets/人形/下蹲左隐蔽/下蹲左隐蔽.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "fd837d3b-3ebd-4216-942b-40b045a3eced",
@@ -2237,12 +2474,13 @@
    "source": "Humanoid",
    "race": "人形",
    "fps": "30",
-   "tags": [
-    "手枪"
-   ],
+   "tags": [],
    "category": "",
    "preview_url": "assets/人形/左隐蔽/preview.webp",
-   "glb_url": "assets/人形/左隐蔽/左隐蔽.glb"
+   "glb_url": "assets/人形/左隐蔽/左隐蔽.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "70d27860-af4b-4206-a46b-34ceb16ef58f",
@@ -2252,12 +2490,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "下蹲",
-    "手枪"
+    "下蹲"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲右隐蔽/preview.webp",
-   "glb_url": "assets/人形/下蹲右隐蔽/下蹲右隐蔽.glb"
+   "glb_url": "assets/人形/下蹲右隐蔽/下蹲右隐蔽.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "59f4c9f1-5cdb-4b6e-9edc-1e8e7504681e",
@@ -2266,12 +2506,13 @@
    "source": "Humanoid",
    "race": "人形",
    "fps": "30",
-   "tags": [
-    "手枪"
-   ],
+   "tags": [],
    "category": "",
    "preview_url": "assets/人形/右隐蔽/preview.webp",
-   "glb_url": "assets/人形/右隐蔽/右隐蔽.glb"
+   "glb_url": "assets/人形/右隐蔽/右隐蔽.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "9323aa48-540f-407d-8991-f1b87821867a",
@@ -2281,12 +2522,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "下蹲",
-    "手枪"
+    "下蹲"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲左出现/preview.webp",
-   "glb_url": "assets/人形/下蹲左出现/下蹲左出现.glb"
+   "glb_url": "assets/人形/下蹲左出现/下蹲左出现.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "64977624-3360-4a82-8297-a51b3101804e",
@@ -2295,12 +2538,13 @@
    "source": "Humanoid",
    "race": "人形",
    "fps": "30",
-   "tags": [
-    "手枪"
-   ],
+   "tags": [],
    "category": "",
    "preview_url": "assets/人形/左出现/preview.webp",
-   "glb_url": "assets/人形/左出现/左出现.glb"
+   "glb_url": "assets/人形/左出现/左出现.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "21f97a66-0d44-4420-8693-2f58b981864e",
@@ -2310,12 +2554,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "下蹲",
-    "手枪"
+    "下蹲"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲右出现/preview.webp",
-   "glb_url": "assets/人形/下蹲右出现/下蹲右出现.glb"
+   "glb_url": "assets/人形/下蹲右出现/下蹲右出现.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "5eaad263-afe1-4ac0-b14a-6b5124b69ef6",
@@ -2324,12 +2570,13 @@
    "source": "Humanoid",
    "race": "人形",
    "fps": "30",
-   "tags": [
-    "手枪"
-   ],
+   "tags": [],
    "category": "",
    "preview_url": "assets/人形/右出现/preview.webp",
-   "glb_url": "assets/人形/右出现/右出现.glb"
+   "glb_url": "assets/人形/右出现/右出现.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "b500ad3b-a653-4bef-9d56-73df1cd312fa",
@@ -2339,12 +2586,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/投掷瞄准/preview.webp",
-   "glb_url": "assets/人形/投掷瞄准/投掷瞄准.glb"
+   "glb_url": "assets/人形/投掷瞄准/投掷瞄准.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "4fdc7432-2c33-4462-8841-cdb54e69da57",
@@ -2354,12 +2603,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "下蹲",
-    "手枪"
+    "下蹲"
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽右观察/preview.webp",
-   "glb_url": "assets/人形/隐蔽右观察/隐蔽右观察.glb"
+   "glb_url": "assets/人形/隐蔽右观察/隐蔽右观察.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "d326a22d-7b8f-4793-806c-10750e6f482c",
@@ -2368,12 +2619,13 @@
    "source": "Humanoid",
    "race": "人形",
    "fps": "30",
-   "tags": [
-    "手枪"
-   ],
+   "tags": [],
    "category": "",
    "preview_url": "assets/人形/隐蔽右观察_001/preview.webp",
-   "glb_url": "assets/人形/隐蔽右观察_001/隐蔽右观察_001.glb"
+   "glb_url": "assets/人形/隐蔽右观察_001/隐蔽右观察_001.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "a3acc54b-3c73-42f4-b33a-cc16637e9e55",
@@ -2383,12 +2635,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "下蹲",
-    "手枪"
+    "下蹲"
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽左观察/preview.webp",
-   "glb_url": "assets/人形/隐蔽左观察/隐蔽左观察.glb"
+   "glb_url": "assets/人形/隐蔽左观察/隐蔽左观察.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "161d8dd4-0687-4c65-a183-0d6293be7ae7",
@@ -2397,12 +2651,13 @@
    "source": "Humanoid",
    "race": "人形",
    "fps": "30",
-   "tags": [
-    "手枪"
-   ],
+   "tags": [],
    "category": "",
    "preview_url": "assets/人形/隐蔽左观察_001/preview.webp",
-   "glb_url": "assets/人形/隐蔽左观察_001/隐蔽左观察_001.glb"
+   "glb_url": "assets/人形/隐蔽左观察_001/隐蔽左观察_001.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "aefac251-7756-4f92-8816-cab7df1c5860",
@@ -2411,12 +2666,13 @@
    "source": "Humanoid",
    "race": "人形",
    "fps": "30",
-   "tags": [
-    "手枪"
-   ],
+   "tags": [],
    "category": "",
    "preview_url": "assets/人形/转身/preview.webp",
-   "glb_url": "assets/人形/转身/转身.glb"
+   "glb_url": "assets/人形/转身/转身.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "a9ad0dd1-003e-42b4-9fde-a3242675dfb3",
@@ -2426,12 +2682,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/瞄准待机/preview.webp",
-   "glb_url": "assets/人形/瞄准待机/瞄准待机.glb"
+   "glb_url": "assets/人形/瞄准待机/瞄准待机.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "29b73e39-c4d2-4e07-995c-c75850132a26",
@@ -2442,12 +2700,14 @@
    "fps": "30",
    "tags": [
     "待机",
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/投掷待机/preview.webp",
-   "glb_url": "assets/人形/投掷待机/投掷待机.glb"
+   "glb_url": "assets/人形/投掷待机/投掷待机.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "918e880b-0a14-4482-b5be-6a591e262fdb",
@@ -2457,12 +2717,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/待机_004/preview.webp",
-   "glb_url": "assets/人形/待机_004/待机_004.glb"
+   "glb_url": "assets/人形/待机_004/待机_004.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "8860926b-9659-420f-92d6-34be12b8a8fe",
@@ -2472,12 +2734,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/巡视待机_001/preview.webp",
-   "glb_url": "assets/人形/巡视待机_001/巡视待机_001.glb"
+   "glb_url": "assets/人形/巡视待机_001/巡视待机_001.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "f7dd15ca-45c2-4109-922d-91e8ba8c1776",
@@ -2488,12 +2752,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲隐蔽右观察待机/preview.webp",
-   "glb_url": "assets/人形/下蹲隐蔽右观察待机/下蹲隐蔽右观察待机.glb"
+   "glb_url": "assets/人形/下蹲隐蔽右观察待机/下蹲隐蔽右观察待机.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "c10a61c9-18ca-4ac2-b25a-3389f3782835",
@@ -2503,12 +2769,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽右观察待机/preview.webp",
-   "glb_url": "assets/人形/隐蔽右观察待机/隐蔽右观察待机.glb"
+   "glb_url": "assets/人形/隐蔽右观察待机/隐蔽右观察待机.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "784eb8cc-9389-4253-acce-c61b1c0dfe50",
@@ -2519,12 +2787,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲隐蔽左观察待机/preview.webp",
-   "glb_url": "assets/人形/下蹲隐蔽左观察待机/下蹲隐蔽左观察待机.glb"
+   "glb_url": "assets/人形/下蹲隐蔽左观察待机/下蹲隐蔽左观察待机.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "030e94bd-326c-4ca9-9096-dcf4c3923bcc",
@@ -2534,12 +2804,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽左观察待机/preview.webp",
-   "glb_url": "assets/人形/隐蔽左观察待机/隐蔽左观察待机.glb"
+   "glb_url": "assets/人形/隐蔽左观察待机/隐蔽左观察待机.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "15e71de8-07f1-4b21-aa86-3699dd34c25c",
@@ -2549,12 +2821,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/待机_005/preview.webp",
-   "glb_url": "assets/人形/待机_005/待机_005.glb"
+   "glb_url": "assets/人形/待机_005/待机_005.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "1b9c2b8d-e605-4c6c-8771-96f337136b75",
@@ -2564,12 +2838,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "待机",
-    "手枪"
+    "待机"
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽待机/preview.webp",
-   "glb_url": "assets/人形/隐蔽待机/隐蔽待机.glb"
+   "glb_url": "assets/人形/隐蔽待机/隐蔽待机.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "6d8bf12f-2974-41fb-a5b8-506f55899922",
@@ -2579,12 +2855,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人形/起跳_001/preview.webp",
-   "glb_url": "assets/人形/起跳_001/起跳_001.glb"
+   "glb_url": "assets/人形/起跳_001/起跳_001.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "8801bcbb-f571-48bc-89a1-eb6ae943c5b5",
@@ -2594,12 +2872,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人形/重着地_003/preview.webp",
-   "glb_url": "assets/人形/重着地_003/重着地_003.glb"
+   "glb_url": "assets/人形/重着地_003/重着地_003.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "79a27e16-68f7-466b-a7c1-17800bd7195b",
@@ -2609,12 +2889,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人形/轻着地_003/preview.webp",
-   "glb_url": "assets/人形/轻着地_003/轻着地_003.glb"
+   "glb_url": "assets/人形/轻着地_003/轻着地_003.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "59747e19-efe6-4a05-a7bd-3f8397352db9",
@@ -2624,12 +2906,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
-    "空中"
+    "跳"
    ],
    "category": "",
    "preview_url": "assets/人形/中着地_003/preview.webp",
-   "glb_url": "assets/人形/中着地_003/中着地_003.glb"
+   "glb_url": "assets/人形/中着地_003/中着地_003.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "7ffa650c-df1b-4c8f-86be-171b46ed0d17",
@@ -2639,12 +2923,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/近战攻击/preview.webp",
-   "glb_url": "assets/人形/近战攻击/近战攻击.glb"
+   "glb_url": "assets/人形/近战攻击/近战攻击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "563bc7f7-7ab0-4c8d-9bb3-5f4328d0bd84",
@@ -2654,12 +2940,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/近战攻击_001/preview.webp",
-   "glb_url": "assets/人形/近战攻击_001/近战攻击_001.glb"
+   "glb_url": "assets/人形/近战攻击_001/近战攻击_001.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "b11be0b4-bc30-42eb-86bd-076bcbef3ff8",
@@ -2669,12 +2957,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/近战连击/preview.webp",
-   "glb_url": "assets/人形/近战连击/近战连击.glb"
+   "glb_url": "assets/人形/近战连击/近战连击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "a08b7764-1198-4102-af73-b8819018f481",
@@ -2683,12 +2973,13 @@
    "source": "Humanoid",
    "race": "人形",
    "fps": "30",
-   "tags": [
-    "手枪"
-   ],
+   "tags": [],
    "category": "",
    "preview_url": "assets/人形/左跨栏/preview.webp",
-   "glb_url": "assets/人形/左跨栏/左跨栏.glb"
+   "glb_url": "assets/人形/左跨栏/左跨栏.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "37365d31-1acb-4acf-ac37-8d7c286a626a",
@@ -2697,12 +2988,13 @@
    "source": "Humanoid",
    "race": "人形",
    "fps": "30",
-   "tags": [
-    "手枪"
-   ],
+   "tags": [],
    "category": "",
    "preview_url": "assets/人形/右跨栏/preview.webp",
-   "glb_url": "assets/人形/右跨栏/右跨栏.glb"
+   "glb_url": "assets/人形/右跨栏/右跨栏.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "c25ec29c-e096-4e42-9ad5-ccc12eaff7d4",
@@ -2712,12 +3004,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "装备"
    ],
    "category": "",
    "preview_url": "assets/人形/收武器/preview.webp",
-   "glb_url": "assets/人形/收武器/收武器.glb"
+   "glb_url": "assets/人形/收武器/收武器.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "a52b1e65-336b-4133-8028-a2ebb88c4113",
@@ -2727,12 +3021,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "装备"
    ],
    "category": "",
    "preview_url": "assets/人形/换弹/preview.webp",
-   "glb_url": "assets/人形/换弹/换弹.glb"
+   "glb_url": "assets/人形/换弹/换弹.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "a985ea03-3d85-4930-9358-39c26bfc3df4",
@@ -2742,12 +3038,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "装备"
    ],
    "category": "",
    "preview_url": "assets/人形/左轮换弹/preview.webp",
-   "glb_url": "assets/人形/左轮换弹/左轮换弹.glb"
+   "glb_url": "assets/人形/左轮换弹/左轮换弹.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "4d82ba03-599b-4883-801e-45437d278f8b",
@@ -2757,12 +3055,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/后跑瞄准/preview.webp",
-   "glb_url": "assets/人形/后跑瞄准/后跑瞄准.glb"
+   "glb_url": "assets/人形/后跑瞄准/后跑瞄准.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "2ae75432-6385-458e-b32d-cb98904bf93b",
@@ -2772,12 +3072,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "跑"
    ],
    "category": "",
    "preview_url": "assets/人形/前跑/preview.webp",
-   "glb_url": "assets/人形/前跑/前跑.glb"
+   "glb_url": "assets/人形/前跑/前跑.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "dea0d919-5192-47e0-b40d-f8140ad9836b",
@@ -2787,12 +3089,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "跑"
    ],
    "category": "",
    "preview_url": "assets/人形/前跑瞄准/preview.webp",
-   "glb_url": "assets/人形/前跑瞄准/前跑瞄准.glb"
+   "glb_url": "assets/人形/前跑瞄准/前跑瞄准.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "3f27c98f-26cc-4027-890b-fea6151c8aee",
@@ -2802,12 +3106,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "跑"
    ],
    "category": "",
    "preview_url": "assets/人形/左跑瞄准/preview.webp",
-   "glb_url": "assets/人形/左跑瞄准/左跑瞄准.glb"
+   "glb_url": "assets/人形/左跑瞄准/左跑瞄准.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "5ba994cd-207f-4e91-a94e-0ef27ba01fad",
@@ -2817,12 +3123,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "跑"
    ],
    "category": "",
    "preview_url": "assets/人形/右跑瞄准/preview.webp",
-   "glb_url": "assets/人形/右跑瞄准/右跑瞄准.glb"
+   "glb_url": "assets/人形/右跑瞄准/右跑瞄准.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "c25356f2-7a76-45fd-9a46-979ce97de17f",
@@ -2832,12 +3140,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/轻射击/preview.webp",
-   "glb_url": "assets/人形/轻射击/轻射击.glb"
+   "glb_url": "assets/人形/轻射击/轻射击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "69494cca-5877-484e-9118-98bd9e9e85d5",
@@ -2848,12 +3158,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲轻射击/preview.webp",
-   "glb_url": "assets/人形/下蹲轻射击/下蹲轻射击.glb"
+   "glb_url": "assets/人形/下蹲轻射击/下蹲轻射击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "0e68a5af-cd32-434a-a889-b1a5254f22d3",
@@ -2863,12 +3175,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/中射击/preview.webp",
-   "glb_url": "assets/人形/中射击/中射击.glb"
+   "glb_url": "assets/人形/中射击/中射击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "00beef32-80f4-4a92-9b6c-9c78189fa43c",
@@ -2879,12 +3193,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "攻击"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲中射击/preview.webp",
-   "glb_url": "assets/人形/下蹲中射击/下蹲中射击.glb"
+   "glb_url": "assets/人形/下蹲中射击/下蹲中射击.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "d781e16e-6587-404e-9a4b-51abab035d0b",
@@ -2894,12 +3210,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "跑"
    ],
    "category": "",
    "preview_url": "assets/人形/冲刺_002/preview.webp",
-   "glb_url": "assets/人形/冲刺_002/冲刺_002.glb"
+   "glb_url": "assets/人形/冲刺_002/冲刺_002.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "242a0882-7fc3-4ccc-95f0-264f5a73dad5",
@@ -2914,7 +3232,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲隐蔽右移/preview.webp",
-   "glb_url": "assets/人形/下蹲隐蔽右移/下蹲隐蔽右移.glb"
+   "glb_url": "assets/人形/下蹲隐蔽右移/下蹲隐蔽右移.glb",
+   "weapons": []
   },
   {
    "id": "177e4609-46f8-4677-9001-4ec2c765595b",
@@ -2924,12 +3243,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽右移/preview.webp",
-   "glb_url": "assets/人形/隐蔽右移/隐蔽右移.glb"
+   "glb_url": "assets/人形/隐蔽右移/隐蔽右移.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "35086deb-d6b3-42b3-ad20-eb0de668e15a",
@@ -2940,12 +3261,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲隐蔽左移/preview.webp",
-   "glb_url": "assets/人形/下蹲隐蔽左移/下蹲隐蔽左移.glb"
+   "glb_url": "assets/人形/下蹲隐蔽左移/下蹲隐蔽左移.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "f25f2d99-51ba-45bc-a42b-03b894812c53",
@@ -2955,12 +3278,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽左移/preview.webp",
-   "glb_url": "assets/人形/隐蔽左移/隐蔽左移.glb"
+   "glb_url": "assets/人形/隐蔽左移/隐蔽左移.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "e66c197f-2f89-43de-9b68-f57d1a23b6ea",
@@ -2971,12 +3296,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲隐蔽右投掷/preview.webp",
-   "glb_url": "assets/人形/下蹲隐蔽右投掷/下蹲隐蔽右投掷.glb"
+   "glb_url": "assets/人形/下蹲隐蔽右投掷/下蹲隐蔽右投掷.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "373ce8b7-c7f3-45d1-acc9-b541e15c6919",
@@ -2986,12 +3313,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽右投掷/preview.webp",
-   "glb_url": "assets/人形/隐蔽右投掷/隐蔽右投掷.glb"
+   "glb_url": "assets/人形/隐蔽右投掷/隐蔽右投掷.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "71b05d3c-1234-492b-8abd-19242c44cb09",
@@ -3002,12 +3331,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲隐蔽左投掷/preview.webp",
-   "glb_url": "assets/人形/下蹲隐蔽左投掷/下蹲隐蔽左投掷.glb"
+   "glb_url": "assets/人形/下蹲隐蔽左投掷/下蹲隐蔽左投掷.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "1ee28319-28d9-48cb-9c37-012bb4ad7506",
@@ -3017,12 +3348,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽左投掷/preview.webp",
-   "glb_url": "assets/人形/隐蔽左投掷/隐蔽左投掷.glb"
+   "glb_url": "assets/人形/隐蔽左投掷/隐蔽左投掷.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "0cced1e8-f5bb-4f84-aee4-0464cdaea2f0",
@@ -3032,12 +3365,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/投掷/preview.webp",
-   "glb_url": "assets/人形/投掷/投掷.glb"
+   "glb_url": "assets/人形/投掷/投掷.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "83d9ef42-6a21-4b76-9c75-df8b7e6d78f2",
@@ -3047,12 +3382,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲投掷/preview.webp",
-   "glb_url": "assets/人形/下蹲投掷/下蹲投掷.glb"
+   "glb_url": "assets/人形/下蹲投掷/下蹲投掷.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "51b0fd88-78dd-423f-819d-ecf089ef34be",
@@ -3062,12 +3399,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/轻投掷/preview.webp",
-   "glb_url": "assets/人形/轻投掷/轻投掷.glb"
+   "glb_url": "assets/人形/轻投掷/轻投掷.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "9156ef24-43f1-4a5b-bd68-cdccd791e6fb",
@@ -3078,12 +3417,14 @@
    "fps": "30",
    "tags": [
     "下蹲",
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲滚地投掷/preview.webp",
-   "glb_url": "assets/人形/下蹲滚地投掷/下蹲滚地投掷.glb"
+   "glb_url": "assets/人形/下蹲滚地投掷/下蹲滚地投掷.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "150cd718-4914-4b23-bee8-46ace40cbd33",
@@ -3093,12 +3434,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "投掷"
    ],
    "category": "",
    "preview_url": "assets/人形/滚地投掷/preview.webp",
-   "glb_url": "assets/人形/滚地投掷/滚地投掷.glb"
+   "glb_url": "assets/人形/滚地投掷/滚地投掷.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "6c48a468-57c4-4643-9029-7ecea7999757",
@@ -3108,12 +3451,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/后走瞄准/preview.webp",
-   "glb_url": "assets/人形/后走瞄准/后走瞄准.glb"
+   "glb_url": "assets/人形/后走瞄准/后走瞄准.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "7fa6805f-a5cf-47a3-8379-f3dc51d6ba5b",
@@ -3123,12 +3468,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/前走/preview.webp",
-   "glb_url": "assets/人形/前走/前走.glb"
+   "glb_url": "assets/人形/前走/前走.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "fd102529-1084-4572-a193-6a807268df80",
@@ -3138,12 +3485,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/前走瞄准/preview.webp",
-   "glb_url": "assets/人形/前走瞄准/前走瞄准.glb"
+   "glb_url": "assets/人形/前走瞄准/前走瞄准.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "d7ba4e75-4aa5-4339-8a0d-fea60183ab01",
@@ -3153,12 +3502,14 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/左走瞄准/preview.webp",
-   "glb_url": "assets/人形/左走瞄准/左走瞄准.glb"
+   "glb_url": "assets/人形/左走瞄准/左走瞄准.glb",
+   "weapons": [
+    "手枪"
+   ]
   },
   {
    "id": "b634f7ff-a74b-4c33-9157-9653f3262fcd",
@@ -3168,12 +3519,1198 @@
    "race": "人形",
    "fps": "30",
    "tags": [
-    "手枪",
     "走"
    ],
    "category": "",
    "preview_url": "assets/人形/右走瞄准/preview.webp",
-   "glb_url": "assets/人形/右走瞄准/右走瞄准.glb"
+   "glb_url": "assets/人形/右走瞄准/右走瞄准.glb",
+   "weapons": [
+    "手枪"
+   ]
+  },
+  {
+   "id": "8bb7234f-72a2-4892-8d25-5f270ed88d99",
+   "index": 1789723789678,
+   "name": "双手二连击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/双手二连击/preview.webp",
+   "glb_url": "assets/人形/双手二连击/双手二连击.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "ecc2b6b9-d461-490e-af81-0a6abe9bc152",
+   "index": 1789723934592,
+   "name": "双手二连击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/双手二连击_001/preview.webp",
+   "glb_url": "assets/人形/双手二连击_001/双手二连击_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "a4be6172-1b06-43b7-a50f-20a0650fd0f7",
+   "index": 1789725158570,
+   "name": "三连",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/三连/preview.webp",
+   "glb_url": "assets/人形/三连/三连.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "5a422ada-067e-444b-bbdf-4ef417a81b6f",
+   "index": 1789725233394,
+   "name": "攻击_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_004/preview.webp",
+   "glb_url": "assets/人形/攻击_004/攻击_004.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "4e67b050-92f3-4f9b-9a0f-e7ebb720a7d0",
+   "index": 1789725324293,
+   "name": "攻击_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_005/preview.webp",
+   "glb_url": "assets/人形/攻击_005/攻击_005.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "75507903-7bbe-43d6-8c50-aee084d284b4",
+   "index": 1789864409850,
+   "name": "攻击_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_006/preview.webp",
+   "glb_url": "assets/人形/攻击_006/攻击_006.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "a98d3400-445b-4a4d-ad9f-696a191e4750",
+   "index": 1789864461971,
+   "name": "攻击_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_007/preview.webp",
+   "glb_url": "assets/人形/攻击_007/攻击_007.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "975b7dea-aa47-4f4c-bfe5-82da97ec0c42",
+   "index": 1789864517797,
+   "name": "攻击_008",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_008/preview.webp",
+   "glb_url": "assets/人形/攻击_008/攻击_008.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "846fe929-bef8-422b-93d9-26c0ca3b4074",
+   "index": 1789864591847,
+   "name": "攻击_009",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_009/preview.webp",
+   "glb_url": "assets/人形/攻击_009/攻击_009.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "375fffeb-4226-483b-ae02-e6d1d6dd74b1",
+   "index": 1789864651163,
+   "name": "攻击_010",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_010/preview.webp",
+   "glb_url": "assets/人形/攻击_010/攻击_010.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "728617e3-1ad1-4535-9960-f105f98c5bc8",
+   "index": 1789864716988,
+   "name": "攻击_011",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_011/preview.webp",
+   "glb_url": "assets/人形/攻击_011/攻击_011.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "ceb0ca6c-d0b7-4e87-9be5-9cd57b1236c3",
+   "index": 1789864817073,
+   "name": "攻击_012",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_012/preview.webp",
+   "glb_url": "assets/人形/攻击_012/攻击_012.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "00470e5e-1d97-4abc-96c8-3248d92d0e9b",
+   "index": 1789864878423,
+   "name": "格挡_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "格挡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/格挡_001/preview.webp",
+   "glb_url": "assets/人形/格挡_001/格挡_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "683fe91c-6058-42ed-902b-1ad464d1efde",
+   "index": 1789867203114,
+   "name": "下蹲后移",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲后移/preview.webp",
+   "glb_url": "assets/人形/下蹲后移/下蹲后移.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "f5fbb69f-335f-4b4d-b41b-cd5886580e22",
+   "index": 1789867354069,
+   "name": "下蹲前移",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲前移/preview.webp",
+   "glb_url": "assets/人形/下蹲前移/下蹲前移.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "c3bbd730-3610-4b8e-a85a-23783313b331",
+   "index": 1789867417424,
+   "name": "下蹲左移",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲左移/preview.webp",
+   "glb_url": "assets/人形/下蹲左移/下蹲左移.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "bb2b96f2-2f91-4807-a465-45c97be8c220",
+   "index": 1789867485937,
+   "name": "下蹲右移",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲右移/preview.webp",
+   "glb_url": "assets/人形/下蹲右移/下蹲右移.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "42fe4273-9410-4d9d-9266-1c914b5ed30b",
+   "index": 1789868148701,
+   "name": "后死",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后死/preview.webp",
+   "glb_url": "assets/人形/后死/后死.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "23510086-90a0-4c7e-a403-d0873c716ce1",
+   "index": 1789868229622,
+   "name": "前死",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前死/preview.webp",
+   "glb_url": "assets/人形/前死/前死.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "6239644f-517a-4cf6-8504-11df0fabf7c2",
+   "index": 1789868912081,
+   "name": "左死",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左死/preview.webp",
+   "glb_url": "assets/人形/左死/左死.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "7c29d002-308f-403e-a2cf-d980896d3eb9",
+   "index": 1789869129942,
+   "name": "右死",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右死/preview.webp",
+   "glb_url": "assets/人形/右死/右死.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "c79e4979-5be8-4f3b-add5-2751b1c066f4",
+   "index": 1789869540899,
+   "name": "后闪",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "闪避"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后闪/preview.webp",
+   "glb_url": "assets/人形/后闪/后闪.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "c507d18a-3a5d-429a-be8c-f81e41a495e8",
+   "index": 1789873777605,
+   "name": "前闪",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "闪避"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前闪/preview.webp",
+   "glb_url": "assets/人形/前闪/前闪.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "ca385814-ebca-4f7f-84f5-03ebbd830acd",
+   "index": 1789883004470,
+   "name": "拿出大剑",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "装备"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/拿出大剑/preview.webp",
+   "glb_url": "assets/人形/拿出大剑/拿出大剑.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "6a330817-8c12-4abf-841e-71ef56eebee6",
+   "index": 1789883138399,
+   "name": "浮空_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/浮空_001/preview.webp",
+   "glb_url": "assets/人形/浮空_001/浮空_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "48019c40-8afa-4e80-8a63-e79bac2d7d98",
+   "index": 1789883221136,
+   "name": "后起身_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后起身_001/preview.webp",
+   "glb_url": "assets/人形/后起身_001/后起身_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "6a1584b1-eb7f-4372-8432-38bc0c21b75a",
+   "index": 1789883289583,
+   "name": "前起身_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前起身_001/preview.webp",
+   "glb_url": "assets/人形/前起身_001/前起身_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "82dc3f7a-7010-4fdc-ae56-34247e4abb68",
+   "index": 1789883371330,
+   "name": "左起身_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左起身_001/preview.webp",
+   "glb_url": "assets/人形/左起身_001/左起身_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "fcf024cc-14e5-4c4a-9cf7-49b42fd0dc32",
+   "index": 1789883469235,
+   "name": "右起身_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右起身_001/preview.webp",
+   "glb_url": "assets/人形/右起身_001/右起身_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "473ece16-12d8-4af2-ad8c-bd6f21eecf0f",
+   "index": 1789883617892,
+   "name": "后重受击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后重受击_001/preview.webp",
+   "glb_url": "assets/人形/后重受击_001/后重受击_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "e6b05656-780f-43c8-bf62-c2d5b277c2e6",
+   "index": 1789883723451,
+   "name": "后轻受击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后轻受击_001/preview.webp",
+   "glb_url": "assets/人形/后轻受击_001/后轻受击_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "089f592f-5436-4dde-af82-cdd77dc51958",
+   "index": 1789883772734,
+   "name": "前重受击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前重受击_001/preview.webp",
+   "glb_url": "assets/人形/前重受击_001/前重受击_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "876b6cea-a5cd-4069-943c-545d97f8a6eb",
+   "index": 1789883821449,
+   "name": "前轻受击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前轻受击_001/preview.webp",
+   "glb_url": "assets/人形/前轻受击_001/前轻受击_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "09280936-3f41-49e0-bef6-4d2f94b0821e",
+   "index": 1789883912623,
+   "name": "左重受击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左重受击_001/preview.webp",
+   "glb_url": "assets/人形/左重受击_001/左重受击_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "075efb76-41d9-4347-804c-2df11d45d7b3",
+   "index": 1789883961344,
+   "name": "左轻受击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左轻受击_001/preview.webp",
+   "glb_url": "assets/人形/左轻受击_001/左轻受击_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "1bcb8a19-8018-4409-8a1f-6bed49534b1a",
+   "index": 1789884078175,
+   "name": "右重受击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右重受击_001/preview.webp",
+   "glb_url": "assets/人形/右重受击_001/右重受击_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "9371ebfc-3911-4ef0-b069-ffb174d8e565",
+   "index": 1789884201739,
+   "name": "右轻受击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右轻受击_001/preview.webp",
+   "glb_url": "assets/人形/右轻受击_001/右轻受击_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "85a22e95-813c-4141-ae04-cc80890956c2",
+   "index": 1789884280332,
+   "name": "战斗待机_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/战斗待机_001/preview.webp",
+   "glb_url": "assets/人形/战斗待机_001/战斗待机_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "15ed6375-ac29-444d-aba4-b5e716b1d9ed",
+   "index": 1789884499892,
+   "name": "待机_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/待机_006/preview.webp",
+   "glb_url": "assets/人形/待机_006/待机_006.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "e5922b78-775a-490d-8a4d-a3b88a7ba06d",
+   "index": 1789884807763,
+   "name": "战斗待机_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/战斗待机_002/preview.webp",
+   "glb_url": "assets/人形/战斗待机_002/战斗待机_002.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "5e09b838-c2e1-4acf-b5d8-0c03435ec1e6",
+   "index": 1789884942544,
+   "name": "待机_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/待机_007/preview.webp",
+   "glb_url": "assets/人形/待机_007/待机_007.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "0ffa979b-e169-450b-a872-592e1fbe5148",
+   "index": 1789885136301,
+   "name": "战斗待机_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/战斗待机_003/preview.webp",
+   "glb_url": "assets/人形/战斗待机_003/战斗待机_003.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "dd9caf50-a237-4516-be7c-ffb49b3c8337",
+   "index": 1789885250684,
+   "name": "下蹲待机_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲待机_002/preview.webp",
+   "glb_url": "assets/人形/下蹲待机_002/下蹲待机_002.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "6fd2fa8e-e75b-405c-93b2-aa4d885873af",
+   "index": 1789885528536,
+   "name": "下蹲巡视待机_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲巡视待机_001/preview.webp",
+   "glb_url": "assets/人形/下蹲巡视待机_001/下蹲巡视待机_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "c2bf4905-a0e2-4ed7-8343-bff7c44994dd",
+   "index": 1789885768000,
+   "name": "巡视待机_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/巡视待机_002/preview.webp",
+   "glb_url": "assets/人形/巡视待机_002/巡视待机_002.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "f09d54fa-7db3-457d-b363-f70c14404aab",
+   "index": 1789885841836,
+   "name": "待机_008",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/待机_008/preview.webp",
+   "glb_url": "assets/人形/待机_008/待机_008.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "c2d2b36c-7256-43f6-901f-f5599e1787c2",
+   "index": 1789950896518,
+   "name": "跳劈",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "跳"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/跳劈/preview.webp",
+   "glb_url": "assets/人形/跳劈/跳劈.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "858ec4ee-c620-43fe-a0bc-aad38ccaea5c",
+   "index": 1789950957810,
+   "name": "起跳_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/起跳_002/preview.webp",
+   "glb_url": "assets/人形/起跳_002/起跳_002.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "820cc268-68a1-4bc6-a9db-ac6da4027cb2",
+   "index": 1789951041302,
+   "name": "重着陆",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/重着陆/preview.webp",
+   "glb_url": "assets/人形/重着陆/重着陆.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "488d1d85-967a-4230-b69b-6a6ebce7ba37",
+   "index": 1789951323446,
+   "name": "轻着陆",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/轻着陆/preview.webp",
+   "glb_url": "assets/人形/轻着陆/轻着陆.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "1fb72570-2552-4236-9114-2071bef3f9b2",
+   "index": 1789951383293,
+   "name": "中着陆",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/中着陆/preview.webp",
+   "glb_url": "assets/人形/中着陆/中着陆.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "9e71e128-efcf-4ede-a14f-e555f0ecb8f4",
+   "index": 1789951447527,
+   "name": "前格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "格挡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前格挡/preview.webp",
+   "glb_url": "assets/人形/前格挡/前格挡.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "52dd0629-2f79-4e65-89e8-791622d038bb",
+   "index": 1789951540201,
+   "name": "左格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "格挡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左格挡/preview.webp",
+   "glb_url": "assets/人形/左格挡/左格挡.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "d798906a-7bd5-45e8-b222-d8406389b9eb",
+   "index": 1789951704771,
+   "name": "右格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "格挡"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右格挡/preview.webp",
+   "glb_url": "assets/人形/右格挡/右格挡.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "1d3045d2-de42-43f0-a82b-60317a1297c2",
+   "index": 1789951972626,
+   "name": "收起武器_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "装备"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/收起武器_001/preview.webp",
+   "glb_url": "assets/人形/收起武器_001/收起武器_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "7b9a20d1-2574-44ec-9446-d90aea786a23",
+   "index": 1789952049224,
+   "name": "后跑_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后跑_001/preview.webp",
+   "glb_url": "assets/人形/后跑_001/后跑_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "bce0f842-a752-4775-b241-deb6e707ba4e",
+   "index": 1789952311439,
+   "name": "前跑_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前跑_001/preview.webp",
+   "glb_url": "assets/人形/前跑_001/前跑_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "fa7dff2a-085c-4eb4-9ded-b4a75fd612d1",
+   "index": 1789952749337,
+   "name": "左跑_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左跑_001/preview.webp",
+   "glb_url": "assets/人形/左跑_001/左跑_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "ada9824b-d723-4e27-9166-996c6d6eafe0",
+   "index": 1789953228559,
+   "name": "跑_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/跑_002/preview.webp",
+   "glb_url": "assets/人形/跑_002/跑_002.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "9c2948c5-de52-4558-b241-d7eba0dcff93",
+   "index": 1789953314880,
+   "name": "右跑_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右跑_001/preview.webp",
+   "glb_url": "assets/人形/右跑_001/右跑_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "285ba512-808b-460e-aa15-d08d7127bb10",
+   "index": 1789953463959,
+   "name": "冲刺_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/冲刺_003/preview.webp",
+   "glb_url": "assets/人形/冲刺_003/冲刺_003.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "89c755fc-e3a8-4864-971f-22ce72b6de42",
+   "index": 1789953532918,
+   "name": "嘲讽",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽/preview.webp",
+   "glb_url": "assets/人形/嘲讽/嘲讽.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "05022c5f-d81d-40ca-8311-32e533c9c4d8",
+   "index": 1789953661668,
+   "name": "嘲讽_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_001/preview.webp",
+   "glb_url": "assets/人形/嘲讽_001/嘲讽_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "a1db5add-b6c1-4a18-8687-1136c59424d7",
+   "index": 1789953876533,
+   "name": "后走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后走/preview.webp",
+   "glb_url": "assets/人形/后走/后走.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "fc0ecdd5-379e-4aaf-abd8-315bf2e5c788",
+   "index": 1789953954252,
+   "name": "后走_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后走_001/preview.webp",
+   "glb_url": "assets/人形/后走_001/后走_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "eb7fe7bf-fcf1-4f4d-bd7c-a83631bc33a5",
+   "index": 1789954052681,
+   "name": "前走战斗",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "走"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前走战斗/preview.webp",
+   "glb_url": "assets/人形/前走战斗/前走战斗.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "93217448-46ba-4e92-8580-bf7095e93139",
+   "index": 1789954160328,
+   "name": "前走_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前走_001/preview.webp",
+   "glb_url": "assets/人形/前走_001/前走_001.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "d3ff19b9-bcc4-48ba-8967-94203abc4ec3",
+   "index": 1789954377413,
+   "name": "左走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左走/preview.webp",
+   "glb_url": "assets/人形/左走/左走.glb",
+   "weapons": [
+    "双手近战"
+   ]
+  },
+  {
+   "id": "da8c91d6-19c9-4619-8ec6-6e322e2e629d",
+   "index": 1789954438087,
+   "name": "右走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右走/preview.webp",
+   "glb_url": "assets/人形/右走/右走.glb",
+   "weapons": [
+    "双手近战"
+   ]
   }
  ],
  "enums": {
@@ -3189,30 +4726,34 @@
    "通用"
   ],
   "tags": [
+   "攻击",
    "下蹲",
-   "其他",
-   "单手",
    "受击",
    "基础",
+   "嘲讽",
    "待机",
-   "手枪",
    "投掷",
-   "攻击",
    "格挡",
    "死亡",
    "爬",
-   "空中",
    "翻滚",
    "装备",
    "走",
    "起身",
    "跑",
    "跳",
-   "连击"
+   "连击",
+   "闪避"
   ],
   "fps": [
    "30",
    "60"
+  ],
+  "weapons": [
+   "单手近战",
+   "双手近战",
+   "手枪",
+   "步枪"
   ]
  }
 }

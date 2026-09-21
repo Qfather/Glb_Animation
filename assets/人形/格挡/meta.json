@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "单手",
   "格挡"
  ],
  "category": "",
  "preview_url": "assets/人形/格挡/preview.webp",
- "glb_url": "assets/人形/格挡/格挡.glb"
+ "glb_url": "assets/人形/格挡/格挡.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

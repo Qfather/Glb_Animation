@@ -1,0 +1,17 @@
+{
+ "id": "c79e4979-5be8-4f3b-add5-2751b1c066f4",
+ "index": 1789869540899,
+ "name": "后闪",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "闪避"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后闪/preview.webp",
+ "glb_url": "assets/人形/后闪/后闪.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

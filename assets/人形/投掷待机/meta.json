@@ -7,10 +7,12 @@
  "fps": "30",
  "tags": [
   "待机",
-  "手枪",
   "投掷"
  ],
  "category": "",
  "preview_url": "assets/人形/投掷待机/preview.webp",
- "glb_url": "assets/人形/投掷待机/投掷待机.glb"
+ "glb_url": "assets/人形/投掷待机/投掷待机.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

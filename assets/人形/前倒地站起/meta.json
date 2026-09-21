@@ -6,11 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "其他",
-  "单手",
   "起身"
  ],
  "category": "",
  "preview_url": "assets/人形/前倒地站起/preview.webp",
- "glb_url": "assets/人形/前倒地站起/前倒地站起.glb"
+ "glb_url": "assets/人形/前倒地站起/前倒地站起.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

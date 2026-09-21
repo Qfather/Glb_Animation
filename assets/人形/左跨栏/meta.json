@@ -5,10 +5,11 @@
  "source": "Humanoid",
  "race": "人形",
  "fps": "30",
- "tags": [
-  "手枪"
- ],
+ "tags": [],
  "category": "",
  "preview_url": "assets/人形/左跨栏/preview.webp",
- "glb_url": "assets/人形/左跨栏/左跨栏.glb"
+ "glb_url": "assets/人形/左跨栏/左跨栏.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

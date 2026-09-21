@@ -1,0 +1,17 @@
+{
+ "id": "75507903-7bbe-43d6-8c50-aee084d284b4",
+ "index": 1789864409850,
+ "name": "攻击_006",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/攻击_006/preview.webp",
+ "glb_url": "assets/人形/攻击_006/攻击_006.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

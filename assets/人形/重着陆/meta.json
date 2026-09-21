@@ -1,0 +1,17 @@
+{
+ "id": "820cc268-68a1-4bc6-a9db-ac6da4027cb2",
+ "index": 1789951041302,
+ "name": "重着陆",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/重着陆/preview.webp",
+ "glb_url": "assets/人形/重着陆/重着陆.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

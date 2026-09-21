@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "单手",
   "待机"
  ],
  "category": "",
  "preview_url": "assets/人形/巡视待机/preview.webp",
- "glb_url": "assets/人形/巡视待机/巡视待机.glb"
+ "glb_url": "assets/人形/巡视待机/巡视待机.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

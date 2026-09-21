@@ -1,0 +1,18 @@
+{
+ "id": "c3bbd730-3610-4b8e-a85a-23783313b331",
+ "index": 1789867417424,
+ "name": "下蹲左移",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "走"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲左移/preview.webp",
+ "glb_url": "assets/人形/下蹲左移/下蹲左移.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

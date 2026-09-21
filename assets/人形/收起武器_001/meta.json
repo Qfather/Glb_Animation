@@ -1,0 +1,17 @@
+{
+ "id": "1d3045d2-de42-43f0-a82b-60317a1297c2",
+ "index": 1789951972626,
+ "name": "收起武器_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装备"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/收起武器_001/preview.webp",
+ "glb_url": "assets/人形/收起武器_001/收起武器_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

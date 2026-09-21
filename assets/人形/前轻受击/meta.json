@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "单手",
   "受击"
  ],
  "category": "",
  "preview_url": "assets/人形/前轻受击/preview.webp",
- "glb_url": "assets/人形/前轻受击/前轻受击.glb"
+ "glb_url": "assets/人形/前轻受击/前轻受击.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

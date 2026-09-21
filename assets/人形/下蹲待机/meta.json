@@ -7,10 +7,12 @@
  "fps": "30",
  "tags": [
   "下蹲",
-  "单手",
   "待机"
  ],
  "category": "",
  "preview_url": "assets/人形/下蹲待机/preview.webp",
- "glb_url": "assets/人形/下蹲待机/下蹲待机.glb"
+ "glb_url": "assets/人形/下蹲待机/下蹲待机.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

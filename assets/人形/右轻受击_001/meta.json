@@ -1,0 +1,17 @@
+{
+ "id": "9371ebfc-3911-4ef0-b069-ffb174d8e565",
+ "index": 1789884201739,
+ "name": "右轻受击_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右轻受击_001/preview.webp",
+ "glb_url": "assets/人形/右轻受击_001/右轻受击_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

@@ -6,9 +6,10 @@
  "race": "人类男",
  "fps": "30",
  "tags": [
-  "空中"
+  "跳"
  ],
  "category": "",
  "preview_url": "assets/人类男/下落_001/preview.webp",
- "glb_url": "assets/人类男/下落_001/下落_001.glb"
+ "glb_url": "assets/人类男/下落_001/下落_001.glb",
+ "weapons": []
 }

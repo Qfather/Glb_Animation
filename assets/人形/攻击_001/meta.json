@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "单手",
   "攻击"
  ],
  "category": "",
  "preview_url": "assets/人形/攻击_001/preview.webp",
- "glb_url": "assets/人形/攻击_001/攻击_001.glb"
+ "glb_url": "assets/人形/攻击_001/攻击_001.glb",
+ "weapons": [
+  "单手近战"
+ ]
 }

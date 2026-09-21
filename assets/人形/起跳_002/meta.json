@@ -1,0 +1,17 @@
+{
+ "id": "858ec4ee-c620-43fe-a0bc-aad38ccaea5c",
+ "index": 1789950957810,
+ "name": "起跳_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/起跳_002/preview.webp",
+ "glb_url": "assets/人形/起跳_002/起跳_002.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

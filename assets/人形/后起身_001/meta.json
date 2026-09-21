@@ -1,0 +1,17 @@
+{
+ "id": "48019c40-8afa-4e80-8a63-e79bac2d7d98",
+ "index": 1789883221136,
+ "name": "后起身_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "起身"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后起身_001/preview.webp",
+ "glb_url": "assets/人形/后起身_001/后起身_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

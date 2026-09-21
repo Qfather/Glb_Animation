@@ -1,0 +1,17 @@
+{
+ "id": "d798906a-7bd5-45e8-b222-d8406389b9eb",
+ "index": 1789951704771,
+ "name": "右格挡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "格挡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右格挡/preview.webp",
+ "glb_url": "assets/人形/右格挡/右格挡.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

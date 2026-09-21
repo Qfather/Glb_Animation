@@ -6,9 +6,10 @@
  "race": "人类女",
  "fps": "30",
  "tags": [
-  "空中"
+  "跳"
  ],
  "category": "",
  "preview_url": "assets/人类女/坠落/preview.webp",
- "glb_url": "assets/人类女/坠落/坠落.glb"
+ "glb_url": "assets/人类女/坠落/坠落.glb",
+ "weapons": []
 }

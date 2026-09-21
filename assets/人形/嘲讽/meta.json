@@ -1,0 +1,17 @@
+{
+ "id": "89c755fc-e3a8-4864-971f-22ce72b6de42",
+ "index": 1789953532918,
+ "name": "嘲讽",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "嘲讽"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/嘲讽/preview.webp",
+ "glb_url": "assets/人形/嘲讽/嘲讽.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

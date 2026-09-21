@@ -7,10 +7,12 @@
  "fps": "30",
  "tags": [
   "下蹲",
-  "手枪",
   "投掷"
  ],
  "category": "",
  "preview_url": "assets/人形/下蹲滚地投掷/preview.webp",
- "glb_url": "assets/人形/下蹲滚地投掷/下蹲滚地投掷.glb"
+ "glb_url": "assets/人形/下蹲滚地投掷/下蹲滚地投掷.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

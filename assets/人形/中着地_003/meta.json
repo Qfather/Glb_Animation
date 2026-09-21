@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "手枪",
-  "空中"
+  "跳"
  ],
  "category": "",
  "preview_url": "assets/人形/中着地_003/preview.webp",
- "glb_url": "assets/人形/中着地_003/中着地_003.glb"
+ "glb_url": "assets/人形/中着地_003/中着地_003.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

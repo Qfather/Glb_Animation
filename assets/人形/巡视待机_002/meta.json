@@ -1,0 +1,17 @@
+{
+ "id": "c2bf4905-a0e2-4ed7-8343-bff7c44994dd",
+ "index": 1789885768000,
+ "name": "巡视待机_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/巡视待机_002/preview.webp",
+ "glb_url": "assets/人形/巡视待机_002/巡视待机_002.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

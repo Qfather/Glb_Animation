@@ -1,0 +1,17 @@
+{
+ "id": "fc0ecdd5-379e-4aaf-abd8-315bf2e5c788",
+ "index": 1789953954252,
+ "name": "后走_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后走_001/preview.webp",
+ "glb_url": "assets/人形/后走_001/后走_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

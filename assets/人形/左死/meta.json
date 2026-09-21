@@ -1,0 +1,17 @@
+{
+ "id": "6239644f-517a-4cf6-8504-11df0fabf7c2",
+ "index": 1789868912081,
+ "name": "左死",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "死亡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左死/preview.webp",
+ "glb_url": "assets/人形/左死/左死.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

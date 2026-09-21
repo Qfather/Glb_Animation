@@ -1,0 +1,17 @@
+{
+ "id": "9e71e128-efcf-4ede-a14f-e555f0ecb8f4",
+ "index": 1789951447527,
+ "name": "前格挡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "格挡"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前格挡/preview.webp",
+ "glb_url": "assets/人形/前格挡/前格挡.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

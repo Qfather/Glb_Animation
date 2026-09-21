@@ -1,0 +1,17 @@
+{
+ "id": "6a1584b1-eb7f-4372-8432-38bc0c21b75a",
+ "index": 1789883289583,
+ "name": "前起身_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "起身"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前起身_001/preview.webp",
+ "glb_url": "assets/人形/前起身_001/前起身_001.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

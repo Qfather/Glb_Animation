@@ -6,10 +6,12 @@
  "race": "人形",
  "fps": "30",
  "tags": [
-  "受击",
-  "手枪"
+  "受击"
  ],
  "category": "",
  "preview_url": "assets/人形/右轻击/preview.webp",
- "glb_url": "assets/人形/右轻击/右轻击.glb"
+ "glb_url": "assets/人形/右轻击/右轻击.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

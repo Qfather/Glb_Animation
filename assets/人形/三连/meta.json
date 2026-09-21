@@ -1,0 +1,18 @@
+{
+ "id": "a4be6172-1b06-43b7-a50f-20a0650fd0f7",
+ "index": 1789725158570,
+ "name": "三连",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/三连/preview.webp",
+ "glb_url": "assets/人形/三连/三连.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}

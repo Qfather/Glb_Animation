@@ -7,10 +7,12 @@
  "fps": "30",
  "tags": [
   "下蹲",
-  "待机",
-  "手枪"
+  "待机"
  ],
  "category": "",
  "preview_url": "assets/人形/下蹲隐蔽左观察待机/preview.webp",
- "glb_url": "assets/人形/下蹲隐蔽左观察待机/下蹲隐蔽左观察待机.glb"
+ "glb_url": "assets/人形/下蹲隐蔽左观察待机/下蹲隐蔽左观察待机.glb",
+ "weapons": [
+  "手枪"
+ ]
 }

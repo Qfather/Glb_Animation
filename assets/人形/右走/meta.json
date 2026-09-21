@@ -1,0 +1,17 @@
+{
+ "id": "da8c91d6-19c9-4619-8ec6-6e322e2e629d",
+ "index": 1789954438087,
+ "name": "右走",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右走/preview.webp",
+ "glb_url": "assets/人形/右走/右走.glb",
+ "weapons": [
+  "双手近战"
+ ]
+}
