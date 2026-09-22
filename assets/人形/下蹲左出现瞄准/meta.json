@@ -1,0 +1,17 @@
+{
+ "id": "3e45f9a0-c431-498c-948f-c8dd7e260ffc",
+ "index": 1790041353978,
+ "name": "下蹲左出现瞄准",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲左出现瞄准/preview.webp",
+ "glb_url": "assets/人形/下蹲左出现瞄准/下蹲左出现瞄准.glb"
+}

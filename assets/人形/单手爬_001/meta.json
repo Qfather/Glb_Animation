@@ -1,0 +1,17 @@
+{
+ "id": "dc6c8777-34c2-4ab2-8697-ebd74e8f972c",
+ "index": 1789958864115,
+ "name": "单手爬_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/单手爬_001/preview.webp",
+ "glb_url": "assets/人形/单手爬_001/单手爬_001.glb"
+}

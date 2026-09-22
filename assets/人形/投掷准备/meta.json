@@ -1,0 +1,17 @@
+{
+ "id": "1f15b666-e1e2-4e68-a62d-d3e4fcde9c11",
+ "index": 1790042880136,
+ "name": "投掷准备",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "投掷"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/投掷准备/preview.webp",
+ "glb_url": "assets/人形/投掷准备/投掷准备.glb"
+}

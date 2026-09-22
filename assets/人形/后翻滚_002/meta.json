@@ -1,0 +1,17 @@
+{
+ "id": "d5c3a955-c082-41ab-b82d-a64d78500af7",
+ "index": 1790036821776,
+ "name": "后翻滚_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "闪避"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后翻滚_002/preview.webp",
+ "glb_url": "assets/人形/后翻滚_002/后翻滚_002.glb"
+}

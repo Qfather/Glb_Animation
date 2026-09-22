@@ -1,0 +1,17 @@
+{
+ "id": "fd33cd55-9b73-4787-b2e4-84fced680e01",
+ "index": 1790065384974,
+ "name": "巡视待机_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/巡视待机_003/preview.webp",
+ "glb_url": "assets/人形/巡视待机_003/巡视待机_003.glb"
+}

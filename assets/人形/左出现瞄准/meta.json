@@ -1,0 +1,15 @@
+{
+ "id": "81ae2cb4-e10d-4bb8-935d-173a2405a3d9",
+ "index": 1790041498972,
+ "name": "左出现瞄准",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左出现瞄准/preview.webp",
+ "glb_url": "assets/人形/左出现瞄准/左出现瞄准.glb"
+}

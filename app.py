@@ -116,6 +116,7 @@ def edit_item(item_id):
     race=request.form.get("race") or ""
     enums=read_data().get("enums",{})
     if not name or source not in enums.get("sources",[]) or race not in enums.get("races",DEFAULT_RACES): return jsonify(error="名称、来源或种族无效"),400
+    name=unique_name(name,[x for x in data.get("items",[]) if x.get("id")!=item_id])
     fps=request.form.get("fps") or str(item.get("fps") or "30")
     if fps not in read_data().get("enums",{}).get("fps",DEFAULT_FPS): return jsonify(error="FPS 无效"),400
     old_folder=ROOT/Path(item["preview_url"]).parent

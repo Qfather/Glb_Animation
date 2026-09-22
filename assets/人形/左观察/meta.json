@@ -1,0 +1,17 @@
+{
+ "id": "9e919658-85fd-4663-a530-3fe9b5e167c2",
+ "index": 1790065624806,
+ "name": "左观察",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左观察/preview.webp",
+ "glb_url": "assets/人形/左观察/左观察.glb"
+}

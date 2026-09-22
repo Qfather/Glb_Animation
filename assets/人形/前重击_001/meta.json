@@ -1,0 +1,17 @@
+{
+ "id": "4f918b5d-6dae-4925-9f40-c11c7676d067",
+ "index": 1790037972354,
+ "name": "前重击_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前重击_001/preview.webp",
+ "glb_url": "assets/人形/前重击_001/前重击_001.glb"
+}

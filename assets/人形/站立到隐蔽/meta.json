@@ -1,0 +1,17 @@
+{
+ "id": "bbf443e6-f9f2-465e-b815-a6521fdb6e0e",
+ "index": 1790065936101,
+ "name": "站立到隐蔽",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/站立到隐蔽/preview.webp",
+ "glb_url": "assets/人形/站立到隐蔽/站立到隐蔽.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5389a479-bdec-4c02-8244-28dbcce5495d",
+ "index": 1790043049428,
+ "name": "隐蔽左观察_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/隐蔽左观察_002/preview.webp",
+ "glb_url": "assets/人形/隐蔽左观察_002/隐蔽左观察_002.glb"
+}

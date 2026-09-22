@@ -1,0 +1,17 @@
+{
+ "id": "269dccaf-b387-4aba-a7a3-86d82f61f56f",
+ "index": 1789970235449,
+ "name": "隐蔽出现",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/隐蔽出现/preview.webp",
+ "glb_url": "assets/人形/隐蔽出现/隐蔽出现.glb"
+}

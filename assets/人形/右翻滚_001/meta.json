@@ -1,0 +1,17 @@
+{
+ "id": "c1bd36f6-eac6-4ce3-887e-48a500f4f8c6",
+ "index": 1790036985597,
+ "name": "右翻滚_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "闪避"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右翻滚_001/preview.webp",
+ "glb_url": "assets/人形/右翻滚_001/右翻滚_001.glb"
+}

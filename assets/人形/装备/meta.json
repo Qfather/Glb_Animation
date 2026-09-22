@@ -1,0 +1,17 @@
+{
+ "id": "6400f65c-e594-4c76-b89e-179c380d4d24",
+ "index": 1790037081675,
+ "name": "装备",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装备"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/装备/preview.webp",
+ "glb_url": "assets/人形/装备/装备.glb"
+}

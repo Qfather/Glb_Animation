@@ -1,0 +1,18 @@
+{
+ "id": "7cff50ee-a55d-49f5-abff-980080682179",
+ "index": 1789966141930,
+ "name": "下蹲瞄准后退_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "走"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲瞄准后退_001/preview.webp",
+ "glb_url": "assets/人形/下蹲瞄准后退_001/下蹲瞄准后退_001.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "1d4f98e5-b46e-4a2d-8216-16ef64c6c6f1",
+ "index": 1789980596315,
+ "name": "右死_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "死亡"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右死_001/preview.webp",
+ "glb_url": "assets/人形/右死_001/右死_001.glb"
+}

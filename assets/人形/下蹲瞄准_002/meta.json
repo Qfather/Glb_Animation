@@ -1,0 +1,17 @@
+{
+ "id": "b772c485-171c-49e9-bb33-c94c36c438eb",
+ "index": 1789970664340,
+ "name": "下蹲瞄准_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲瞄准_002/preview.webp",
+ "glb_url": "assets/人形/下蹲瞄准_002/下蹲瞄准_002.glb"
+}
