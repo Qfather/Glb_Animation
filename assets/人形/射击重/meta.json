@@ -1,0 +1,17 @@
+{
+ "id": "aebc1c1c-923a-4e8d-a0ba-845d0fbe566c",
+ "index": 1790127127485,
+ "name": "射击重",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/射击重/preview.webp",
+ "glb_url": "assets/人形/射击重/射击重.glb"
+}

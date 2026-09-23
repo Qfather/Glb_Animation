@@ -1,0 +1,17 @@
+{
+ "id": "23c2df1a-8fce-401c-ad2d-f473a9ddb076",
+ "index": 1790125820668,
+ "name": "收起武器_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/收起武器_002/preview.webp",
+ "glb_url": "assets/人形/收起武器_002/收起武器_002.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "de448f90-3694-4fb8-86e1-287c0c50f64b",
+ "index": 1790127624206,
+ "name": "冲刺_004",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/冲刺_004/preview.webp",
+ "glb_url": "assets/人形/冲刺_004/冲刺_004.glb"
+}

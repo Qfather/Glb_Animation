@@ -1,0 +1,17 @@
+{
+ "id": "88f33616-f9c1-4885-8184-2eb5325f6795",
+ "index": 1790129269650,
+ "name": "投出",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "投掷"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/投出/preview.webp",
+ "glb_url": "assets/人形/投出/投出.glb"
+}

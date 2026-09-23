@@ -1,0 +1,17 @@
+{
+ "id": "11e06032-4360-407e-8b39-d589b4e61cdf",
+ "index": 1790126087482,
+ "name": "换弹_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/换弹_001/preview.webp",
+ "glb_url": "assets/人形/换弹_001/换弹_001.glb"
+}

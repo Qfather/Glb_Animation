@@ -1,0 +1,17 @@
+{
+ "id": "364c3045-e7b0-4c1b-82a1-a97417f61d15",
+ "index": 1790125045496,
+ "name": "近战攻击_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/近战攻击_003/preview.webp",
+ "glb_url": "assets/人形/近战攻击_003/近战攻击_003.glb"
+}

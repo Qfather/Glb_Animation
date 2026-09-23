@@ -1,0 +1,18 @@
+{
+ "id": "379156a6-fba8-4aa6-8664-7e903b8483ba",
+ "index": 1790129474476,
+ "name": "下蹲平行投",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "投掷"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲平行投/preview.webp",
+ "glb_url": "assets/人形/下蹲平行投/下蹲平行投.glb"
+}

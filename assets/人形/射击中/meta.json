@@ -1,0 +1,17 @@
+{
+ "id": "d0172ac3-0e8d-4096-aa33-21734466bf53",
+ "index": 1790127570497,
+ "name": "射击中",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/射击中/preview.webp",
+ "glb_url": "assets/人形/射击中/射击中.glb"
+}

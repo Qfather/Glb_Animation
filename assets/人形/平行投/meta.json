@@ -1,0 +1,17 @@
+{
+ "id": "545f08b2-44f2-4738-ba1f-dfcec7839984",
+ "index": 1790129591950,
+ "name": "平行投",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "投掷"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/平行投/preview.webp",
+ "glb_url": "assets/人形/平行投/平行投.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "c42d7ec7-d665-431c-bd84-f46b23b5c80c",
+ "index": 1790127236177,
+ "name": "下蹲射击重",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "步枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲射击重/preview.webp",
+ "glb_url": "assets/人形/下蹲射击重/下蹲射击重.glb"
+}
