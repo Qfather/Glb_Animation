@@ -1,0 +1,15 @@
+{
+ "id": "44cad2f3-60f6-4f0a-a377-1b5ec961a0ba",
+ "index": 1790212171430,
+ "name": "跳跃",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/跳跃/preview.webp",
+ "glb_url": "assets/哥布林/跳跃/跳跃.glb"
+}

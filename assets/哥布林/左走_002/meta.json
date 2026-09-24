@@ -1,0 +1,15 @@
+{
+ "id": "d8edd958-fb60-4830-b0d9-8e7874f01427",
+ "index": 1790214229775,
+ "name": "左走_002",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/左走_002/preview.webp",
+ "glb_url": "assets/哥布林/左走_002/左走_002.glb"
+}

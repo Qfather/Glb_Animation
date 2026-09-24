@@ -1,0 +1,15 @@
+{
+ "id": "d66fd7e1-eda6-4c5f-98a5-a5dcc53005cb",
+ "index": 1790211590280,
+ "name": "烦躁待机",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/烦躁待机/preview.webp",
+ "glb_url": "assets/哥布林/烦躁待机/烦躁待机.glb"
+}

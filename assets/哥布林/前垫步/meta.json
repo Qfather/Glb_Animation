@@ -1,0 +1,15 @@
+{
+ "id": "502518da-8ae5-4e33-97ad-3acd904c6c9f",
+ "index": 1790213928737,
+ "name": "前垫步",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/前垫步/preview.webp",
+ "glb_url": "assets/哥布林/前垫步/前垫步.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "25ee5df5-9a73-490e-aa18-fa3f4a933283",
+ "index": 1790214015104,
+ "name": "右垫步",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/右垫步/preview.webp",
+ "glb_url": "assets/哥布林/右垫步/右垫步.glb"
+}

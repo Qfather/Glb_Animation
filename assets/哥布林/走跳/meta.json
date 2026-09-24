@@ -1,0 +1,16 @@
+{
+ "id": "3b684ded-9d02-427b-bc49-76eec2abd9a7",
+ "index": 1790212715925,
+ "name": "走跳",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "走",
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/走跳/preview.webp",
+ "glb_url": "assets/哥布林/走跳/走跳.glb"
+}

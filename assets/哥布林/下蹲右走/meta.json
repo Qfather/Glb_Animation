@@ -1,0 +1,16 @@
+{
+ "id": "2ce4e8db-88ae-4c79-b114-473ec136a2ec",
+ "index": 1790213349078,
+ "name": "下蹲右走",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "走",
+  "下蹲"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/下蹲右走/preview.webp",
+ "glb_url": "assets/哥布林/下蹲右走/下蹲右走.glb"
+}

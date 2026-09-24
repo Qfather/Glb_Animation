@@ -1,0 +1,15 @@
+{
+ "id": "97177fc7-419b-4d05-923d-76be634b6dad",
+ "index": 1790211982606,
+ "name": "降落_001",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/降落_001/preview.webp",
+ "glb_url": "assets/哥布林/降落_001/降落_001.glb"
+}

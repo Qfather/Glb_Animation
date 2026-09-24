@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-09-23T10:32:15",
+ "generated_at": "2026-09-24T09:44:42",
  "items": [
   {
    "id": "32780085-90b8-4d08-9dde-4287e8e48970",
@@ -6501,6 +6501,544 @@
    "category": "",
    "preview_url": "assets/人形/右走_001/preview.webp",
    "glb_url": "assets/人形/右走_001/右走_001.glb"
+  },
+  {
+   "id": "069a9deb-4374-44dc-aabc-18b8c40b6593",
+   "index": 1790211494683,
+   "name": "下蹲待机_004",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/下蹲待机_004/preview.webp",
+   "glb_url": "assets/哥布林/下蹲待机_004/下蹲待机_004.glb"
+  },
+  {
+   "id": "d66fd7e1-eda6-4c5f-98a5-a5dcc53005cb",
+   "index": 1790211590280,
+   "name": "烦躁待机",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/烦躁待机/preview.webp",
+   "glb_url": "assets/哥布林/烦躁待机/烦躁待机.glb"
+  },
+  {
+   "id": "6156d812-7345-4c54-b528-b6cbdb04f2db",
+   "index": 1790211730300,
+   "name": "挠痒待机",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/挠痒待机/preview.webp",
+   "glb_url": "assets/哥布林/挠痒待机/挠痒待机.glb"
+  },
+  {
+   "id": "5020ea11-9e01-42e8-8270-3c2fa1820062",
+   "index": 1790211849090,
+   "name": "挥手打击待机",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/挥手打击待机/preview.webp",
+   "glb_url": "assets/哥布林/挥手打击待机/挥手打击待机.glb"
+  },
+  {
+   "id": "ecb5f281-0246-422e-8e15-47074515e626",
+   "index": 1790211913106,
+   "name": "待机_011",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/待机_011/preview.webp",
+   "glb_url": "assets/哥布林/待机_011/待机_011.glb"
+  },
+  {
+   "id": "97177fc7-419b-4d05-923d-76be634b6dad",
+   "index": 1790211982606,
+   "name": "降落_001",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/降落_001/preview.webp",
+   "glb_url": "assets/哥布林/降落_001/降落_001.glb"
+  },
+  {
+   "id": "1c6f414f-9433-419e-956a-a8860322fcda",
+   "index": 1790212047778,
+   "name": "轻降落",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/轻降落/preview.webp",
+   "glb_url": "assets/哥布林/轻降落/轻降落.glb"
+  },
+  {
+   "id": "44cad2f3-60f6-4f0a-a377-1b5ec961a0ba",
+   "index": 1790212171430,
+   "name": "跳跃",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/跳跃/preview.webp",
+   "glb_url": "assets/哥布林/跳跃/跳跃.glb"
+  },
+  {
+   "id": "d971fbd2-0056-4f9c-bbb0-ba48e1f5da7b",
+   "index": 1790212560557,
+   "name": "跑跳",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跑",
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/跑跳/preview.webp",
+   "glb_url": "assets/哥布林/跑跳/跑跳.glb"
+  },
+  {
+   "id": "8006c8e9-6da9-48a4-b7c8-d5169a6ff676",
+   "index": 1790212657595,
+   "name": "冲刺跳",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跑",
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/冲刺跳/preview.webp",
+   "glb_url": "assets/哥布林/冲刺跳/冲刺跳.glb"
+  },
+  {
+   "id": "3b684ded-9d02-427b-bc49-76eec2abd9a7",
+   "index": 1790212715925,
+   "name": "走跳",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走",
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/走跳/preview.webp",
+   "glb_url": "assets/哥布林/走跳/走跳.glb"
+  },
+  {
+   "id": "543f04e9-6a4e-4e91-a6a5-9d42d61ae44c",
+   "index": 1790212798137,
+   "name": "重着陆_002",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/重着陆_002/preview.webp",
+   "glb_url": "assets/哥布林/重着陆_002/重着陆_002.glb"
+  },
+  {
+   "id": "7387cba8-ba84-4c7e-9744-588c56ae978d",
+   "index": 1790213001893,
+   "name": "中着陆_002",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/中着陆_002/preview.webp",
+   "glb_url": "assets/哥布林/中着陆_002/中着陆_002.glb"
+  },
+  {
+   "id": "e62b9625-a0bf-4420-8082-1ac9a9178a6c",
+   "index": 1790213046569,
+   "name": "轻着陆_002",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/轻着陆_002/preview.webp",
+   "glb_url": "assets/哥布林/轻着陆_002/轻着陆_002.glb"
+  },
+  {
+   "id": "1fd673f4-7b9b-40de-93ea-1675618ce2fb",
+   "index": 1790213140153,
+   "name": "下蹲后走",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/下蹲后走/preview.webp",
+   "glb_url": "assets/哥布林/下蹲后走/下蹲后走.glb"
+  },
+  {
+   "id": "e431c452-e903-4aa5-8a6f-c5c84c9c365c",
+   "index": 1790213214032,
+   "name": "下蹲前走",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/下蹲前走/preview.webp",
+   "glb_url": "assets/哥布林/下蹲前走/下蹲前走.glb"
+  },
+  {
+   "id": "45d8e354-0154-4852-8f08-0e5e7d602b9c",
+   "index": 1790213301515,
+   "name": "下蹲左走",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/下蹲左走/preview.webp",
+   "glb_url": "assets/哥布林/下蹲左走/下蹲左走.glb"
+  },
+  {
+   "id": "2ce4e8db-88ae-4c79-b114-473ec136a2ec",
+   "index": 1790213349078,
+   "name": "下蹲右走",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/下蹲右走/preview.webp",
+   "glb_url": "assets/哥布林/下蹲右走/下蹲右走.glb"
+  },
+  {
+   "id": "5e456e48-650a-4cee-821b-ccfd0b355959",
+   "index": 1790213413430,
+   "name": "后跑_002",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/后跑_002/preview.webp",
+   "glb_url": "assets/哥布林/后跑_002/后跑_002.glb"
+  },
+  {
+   "id": "dc2771a1-328f-42f2-91f7-9e530724045f",
+   "index": 1790213467258,
+   "name": "前跑_003",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/前跑_003/preview.webp",
+   "glb_url": "assets/哥布林/前跑_003/前跑_003.glb"
+  },
+  {
+   "id": "82235af8-f872-4622-83e5-89839b964126",
+   "index": 1790213513589,
+   "name": "左跑_003",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/左跑_003/preview.webp",
+   "glb_url": "assets/哥布林/左跑_003/左跑_003.glb"
+  },
+  {
+   "id": "3a5fdb08-0da6-4136-9bdc-6f3d7a32a0c9",
+   "index": 1790213564791,
+   "name": "右跑_003",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/右跑_003/preview.webp",
+   "glb_url": "assets/哥布林/右跑_003/右跑_003.glb"
+  },
+  {
+   "id": "02459b93-9c52-4f2d-b213-dfd0e7bf97b5",
+   "index": 1790213698733,
+   "name": "下蹲垫步后走",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/下蹲垫步后走/preview.webp",
+   "glb_url": "assets/哥布林/下蹲垫步后走/下蹲垫步后走.glb"
+  },
+  {
+   "id": "537a16e9-3480-42a5-833e-7b5490ed14d5",
+   "index": 1790213749812,
+   "name": "下蹲垫步前走",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/下蹲垫步前走/preview.webp",
+   "glb_url": "assets/哥布林/下蹲垫步前走/下蹲垫步前走.glb"
+  },
+  {
+   "id": "3a8d6de6-967c-4f56-8e90-4e49259e3a1a",
+   "index": 1790213802880,
+   "name": "下蹲垫步左走",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/下蹲垫步左走/preview.webp",
+   "glb_url": "assets/哥布林/下蹲垫步左走/下蹲垫步左走.glb"
+  },
+  {
+   "id": "ea37225c-b631-4749-a3d6-cb43bc8a0626",
+   "index": 1790213838145,
+   "name": "下蹲垫步右走",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/下蹲垫步右走/preview.webp",
+   "glb_url": "assets/哥布林/下蹲垫步右走/下蹲垫步右走.glb"
+  },
+  {
+   "id": "c0bedb8e-2cb1-4545-9c04-31af6ddbec34",
+   "index": 1790213882173,
+   "name": "后垫步",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/后垫步/preview.webp",
+   "glb_url": "assets/哥布林/后垫步/后垫步.glb"
+  },
+  {
+   "id": "502518da-8ae5-4e33-97ad-3acd904c6c9f",
+   "index": 1790213928737,
+   "name": "前垫步",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/前垫步/preview.webp",
+   "glb_url": "assets/哥布林/前垫步/前垫步.glb"
+  },
+  {
+   "id": "c0a86c6e-39fe-48b1-98f9-bafff60ed345",
+   "index": 1790213965285,
+   "name": "左垫步",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/左垫步/preview.webp",
+   "glb_url": "assets/哥布林/左垫步/左垫步.glb"
+  },
+  {
+   "id": "25ee5df5-9a73-490e-aa18-fa3f4a933283",
+   "index": 1790214015104,
+   "name": "右垫步",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/右垫步/preview.webp",
+   "glb_url": "assets/哥布林/右垫步/右垫步.glb"
+  },
+  {
+   "id": "67acc3b1-543b-4d1b-8fdc-02046fbc39d8",
+   "index": 1790214060090,
+   "name": "冲刺_005",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/冲刺_005/preview.webp",
+   "glb_url": "assets/哥布林/冲刺_005/冲刺_005.glb"
+  },
+  {
+   "id": "106dbe01-ca4e-42d0-be4c-830bfc6e77d6",
+   "index": 1790214138565,
+   "name": "后走_002",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/后走_002/preview.webp",
+   "glb_url": "assets/哥布林/后走_002/后走_002.glb"
+  },
+  {
+   "id": "826bc19b-947f-4bcb-9f45-361f642c0ee7",
+   "index": 1790214188259,
+   "name": "前走_003",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/前走_003/preview.webp",
+   "glb_url": "assets/哥布林/前走_003/前走_003.glb"
+  },
+  {
+   "id": "d8edd958-fb60-4830-b0d9-8e7874f01427",
+   "index": 1790214229775,
+   "name": "左走_002",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/左走_002/preview.webp",
+   "glb_url": "assets/哥布林/左走_002/左走_002.glb"
+  },
+  {
+   "id": "0de5b005-711e-429c-81ca-bea2a925fb8e",
+   "index": 1790214282441,
+   "name": "右走_002",
+   "source": "Synty",
+   "race": "哥布林",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/哥布林/右走_002/preview.webp",
+   "glb_url": "assets/哥布林/右走_002/右走_002.glb"
   }
  ],
  "enums": {
@@ -6513,7 +7051,8 @@
    "人形",
    "人类女",
    "人类男",
-   "通用"
+   "通用",
+   "哥布林"
   ],
   "tags": [
    "攻击",

@@ -1,0 +1,15 @@
+{
+ "id": "6156d812-7345-4c54-b528-b6cbdb04f2db",
+ "index": 1790211730300,
+ "name": "挠痒待机",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/挠痒待机/preview.webp",
+ "glb_url": "assets/哥布林/挠痒待机/挠痒待机.glb"
+}

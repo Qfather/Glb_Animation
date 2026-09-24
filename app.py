@@ -10,6 +10,7 @@ DATA=ROOT/"data.json"
 DEFAULT_RACES=["人类","兽人","精灵","机器人","中性","其他"]
 DEFAULT_FPS=["30","60"]
 DEFAULT_WEAPONS=["单手","双手","手枪"]
+MAX_GLB_SIZE=300*1024
 app=Flask(__name__, static_folder=None)
 
 def read_data():
@@ -54,6 +55,9 @@ def upload():
     if race not in DEFAULT_RACES and race not in read_data().get("enums",{}).get("races",[]): return jsonify(error="种族无效"),400
     if not preview or Path(preview.filename or "").suffix.lower()!=".webp": return jsonify(error="预览图必须是 WEBP"),400
     if not glb or Path(glb.filename or "").suffix.lower()!=".glb": return jsonify(error="动画文件必须是 GLB"),400
+    if glb.content_length is not None and glb.content_length>MAX_GLB_SIZE: return jsonify(error="GLB 文件超过 300 KB，上传失败"),413
+    glb.stream.seek(0,2); glb_size=glb.stream.tell(); glb.stream.seek(0)
+    if glb_size>MAX_GLB_SIZE: return jsonify(error="GLB 文件超过 300 KB，上传失败"),413
     data=read_data(); name=unique_name(name,data.get("items",[]))
     tags=[x.strip() for x in (request.form.get("tags") or "").split(",") if x.strip()]
     weapons=[x.strip() for x in (request.form.get("weapons") or "").split(",") if x.strip()]
@@ -121,6 +125,10 @@ def edit_item(item_id):
     if fps not in read_data().get("enums",{}).get("fps",DEFAULT_FPS): return jsonify(error="FPS 无效"),400
     old_folder=ROOT/Path(item["preview_url"]).parent
     old_glb_path=ROOT/Path(item.get("glb_url", ""))
+    new_glb_upload=request.files.get("glb")
+    if new_glb_upload:
+        new_glb_upload.stream.seek(0,2); glb_size=new_glb_upload.stream.tell(); new_glb_upload.stream.seek(0)
+        if glb_size>MAX_GLB_SIZE: return jsonify(error="GLB 文件超过 300 KB，上传失败"),413
     tags=[x.strip() for x in (request.form.get("tags") or "").split(",") if x.strip()]
     weapons=[x.strip() for x in (request.form.get("weapons") or "").split(",") if x.strip()]
     if any(x not in enums.get("weapons",DEFAULT_WEAPONS) for x in weapons): return jsonify(error="武器标签无效"),400
@@ -134,8 +142,8 @@ def edit_item(item_id):
     if request.files.get("preview"): request.files["preview"].save(folder/"preview.webp")
     old_glb=folder/old_glb_path.name
     new_glb=folder/(safe_name(name)+".glb")
-    if request.files.get("glb"):
-        request.files["glb"].save(new_glb)
+    if new_glb_upload:
+        new_glb_upload.save(new_glb)
     elif old_glb.exists() and old_glb.resolve()!=new_glb.resolve(): old_glb.rename(new_glb)
     item["glb_url"]=(Path("assets")/safe_name(race)/safe_name(name)/(safe_name(name)+".glb")).as_posix()
     data["generated_at"]=datetime.now().isoformat(timespec="seconds"); DATA.write_text(json.dumps(data,ensure_ascii=False,indent=1),encoding="utf-8"); (folder/"meta.json").write_text(json.dumps(item,ensure_ascii=False,indent=1),encoding="utf-8")

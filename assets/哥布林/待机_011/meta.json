@@ -1,0 +1,15 @@
+{
+ "id": "ecb5f281-0246-422e-8e15-47074515e626",
+ "index": 1790211913106,
+ "name": "待机_011",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/待机_011/preview.webp",
+ "glb_url": "assets/哥布林/待机_011/待机_011.glb"
+}

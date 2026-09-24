@@ -1,0 +1,16 @@
+{
+ "id": "5020ea11-9e01-42e8-8270-3c2fa1820062",
+ "index": 1790211849090,
+ "name": "挥手打击待机",
+ "source": "Synty",
+ "race": "哥布林",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/哥布林/挥手打击待机/preview.webp",
+ "glb_url": "assets/哥布林/挥手打击待机/挥手打击待机.glb"
+}
