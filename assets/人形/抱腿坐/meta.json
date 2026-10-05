@@ -1,0 +1,15 @@
+{
+ "id": "9264fa4d-0f9a-42f5-ae5b-bbd670c9f25e",
+ "index": 1791188612819,
+ "name": "抱腿坐",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "篝火"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/抱腿坐/preview.webp",
+ "glb_url": "assets/人形/抱腿坐/抱腿坐.glb"
+}

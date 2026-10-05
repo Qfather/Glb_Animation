@@ -1,0 +1,15 @@
+{
+ "id": "67b3eeea-6869-458c-a25b-2505f2072981",
+ "index": 1791188671130,
+ "name": "添柴_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "篝火"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/添柴_001/preview.webp",
+ "glb_url": "assets/人形/添柴_001/添柴_001.glb"
+}

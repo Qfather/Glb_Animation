@@ -1,0 +1,15 @@
+{
+ "id": "a1664e16-a871-4b2e-baf2-14b7e07d5230",
+ "index": 1791188412361,
+ "name": "生火",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "篝火"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/生火/preview.webp",
+ "glb_url": "assets/人形/生火/生火.glb"
+}

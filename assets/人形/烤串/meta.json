@@ -1,0 +1,15 @@
+{
+ "id": "5fe847f6-c5f7-4ffe-b96d-8b8f49c1394f",
+ "index": 1791188508307,
+ "name": "烤串",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "篝火"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/烤串/preview.webp",
+ "glb_url": "assets/人形/烤串/烤串.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5bc1e7cc-da0e-4278-bb17-4a3da74c09f5",
+ "index": 1791188590078,
+ "name": "起床",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "篝火"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/起床/preview.webp",
+ "glb_url": "assets/人形/起床/起床.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5c4fc8ba-8e17-4bef-9588-7ca4d830e94a",
+ "index": 1791188644261,
+ "name": "睡觉_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "篝火"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/睡觉_001/preview.webp",
+ "glb_url": "assets/人形/睡觉_001/睡觉_001.glb"
+}

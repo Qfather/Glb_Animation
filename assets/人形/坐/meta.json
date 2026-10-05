@@ -1,0 +1,15 @@
+{
+ "id": "18a8cbd9-e183-4b90-bb26-50ef61a32568",
+ "index": 1791188627084,
+ "name": "坐",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "篝火"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/坐/preview.webp",
+ "glb_url": "assets/人形/坐/坐.glb"
+}

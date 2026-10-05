@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-10-05T16:11:46",
+ "generated_at": "2026-10-05T16:24:37",
  "items": [
   {
    "id": "32780085-90b8-4d08-9dde-4287e8e48970",
@@ -10072,6 +10072,216 @@
    "category": "",
    "preview_url": "assets/人形/右走_004/preview.webp",
    "glb_url": "assets/人形/右走_004/右走_004.glb"
+  },
+  {
+   "id": "a1664e16-a871-4b2e-baf2-14b7e07d5230",
+   "index": 1791188412361,
+   "name": "生火",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/生火/preview.webp",
+   "glb_url": "assets/人形/生火/生火.glb"
+  },
+  {
+   "id": "5fe847f6-c5f7-4ffe-b96d-8b8f49c1394f",
+   "index": 1791188508307,
+   "name": "烤串",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/烤串/preview.webp",
+   "glb_url": "assets/人形/烤串/烤串.glb"
+  },
+  {
+   "id": "04975a8a-a23c-40c2-8b57-01a13d625480",
+   "index": 1791188537830,
+   "name": "单膝待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/单膝待机/preview.webp",
+   "glb_url": "assets/人形/单膝待机/单膝待机.glb"
+  },
+  {
+   "id": "3341f8d8-ca25-45db-bc8c-383c57b6f3d5",
+   "index": 1791188543336,
+   "name": "单膝烤串",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/单膝烤串/preview.webp",
+   "glb_url": "assets/人形/单膝烤串/单膝烤串.glb"
+  },
+  {
+   "id": "0604117a-4796-481d-88ed-4aa2a65b0404",
+   "index": 1791188567348,
+   "name": "单膝站起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/单膝站起/preview.webp",
+   "glb_url": "assets/人形/单膝站起/单膝站起.glb"
+  },
+  {
+   "id": "aab656e5-d1ba-4fd1-a2e1-d2341cb6373b",
+   "index": 1791188580006,
+   "name": "睡觉",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/睡觉/preview.webp",
+   "glb_url": "assets/人形/睡觉/睡觉.glb"
+  },
+  {
+   "id": "5bc1e7cc-da0e-4278-bb17-4a3da74c09f5",
+   "index": 1791188590078,
+   "name": "起床",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/起床/preview.webp",
+   "glb_url": "assets/人形/起床/起床.glb"
+  },
+  {
+   "id": "4b0e29df-2e64-45e1-b7e5-4621b1814ff2",
+   "index": 1791188597846,
+   "name": "半躺休息",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/半躺休息/preview.webp",
+   "glb_url": "assets/人形/半躺休息/半躺休息.glb"
+  },
+  {
+   "id": "9264fa4d-0f9a-42f5-ae5b-bbd670c9f25e",
+   "index": 1791188612819,
+   "name": "抱腿坐",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/抱腿坐/preview.webp",
+   "glb_url": "assets/人形/抱腿坐/抱腿坐.glb"
+  },
+  {
+   "id": "18a8cbd9-e183-4b90-bb26-50ef61a32568",
+   "index": 1791188627084,
+   "name": "坐",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/坐/preview.webp",
+   "glb_url": "assets/人形/坐/坐.glb"
+  },
+  {
+   "id": "5c4fc8ba-8e17-4bef-9588-7ca4d830e94a",
+   "index": 1791188644261,
+   "name": "睡觉_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/睡觉_001/preview.webp",
+   "glb_url": "assets/人形/睡觉_001/睡觉_001.glb"
+  },
+  {
+   "id": "6f2cc496-d5ba-4184-b004-e86f4304ffab",
+   "index": 1791188651241,
+   "name": "吃",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/吃/preview.webp",
+   "glb_url": "assets/人形/吃/吃.glb"
+  },
+  {
+   "id": "1d2cabc1-29ff-4e7e-a324-b71435dee820",
+   "index": 1791188660048,
+   "name": "添柴",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/添柴/preview.webp",
+   "glb_url": "assets/人形/添柴/添柴.glb"
+  },
+  {
+   "id": "67b3eeea-6869-458c-a25b-2505f2072981",
+   "index": 1791188671130,
+   "name": "添柴_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "篝火"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/添柴_001/preview.webp",
+   "glb_url": "assets/人形/添柴_001/添柴_001.glb"
   }
  ],
  "enums": {
@@ -10104,7 +10314,8 @@
    "装配",
    "起身",
    "连击",
-   "闪避"
+   "闪避",
+   "篝火"
   ],
   "fps": [
    "30",

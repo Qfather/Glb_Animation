@@ -1,0 +1,15 @@
+{
+ "id": "0604117a-4796-481d-88ed-4aa2a65b0404",
+ "index": 1791188567348,
+ "name": "单膝站起",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "篝火"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/单膝站起/preview.webp",
+ "glb_url": "assets/人形/单膝站起/单膝站起.glb"
+}
