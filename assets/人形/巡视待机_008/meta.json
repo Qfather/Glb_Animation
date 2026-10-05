@@ -1,0 +1,16 @@
+{
+ "id": "a2f51802-fac1-4d70-a02c-703bab452964",
+ "index": 1791191356717,
+ "name": "巡视待机_008",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/巡视待机_008/preview.webp",
+ "glb_url": "assets/人形/巡视待机_008/巡视待机_008.glb"
+}

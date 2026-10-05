@@ -1,0 +1,15 @@
+{
+ "id": "42b0fbae-0c2b-418f-bc12-ae9bd11f49e5",
+ "index": 1791191806096,
+ "name": "跳_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/跳_003/preview.webp",
+ "glb_url": "assets/人形/跳_003/跳_003.glb"
+}

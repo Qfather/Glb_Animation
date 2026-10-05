@@ -1,0 +1,15 @@
+{
+ "id": "929297d7-e2b3-4af6-89fc-52b1501f1f0c",
+ "index": 1791191854369,
+ "name": "单手右跨栏",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/单手右跨栏/preview.webp",
+ "glb_url": "assets/人形/单手右跨栏/单手右跨栏.glb"
+}

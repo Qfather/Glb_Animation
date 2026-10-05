@@ -1,0 +1,15 @@
+{
+ "id": "adf6a4aa-95bb-4373-b512-3ea6e97db116",
+ "index": 1791191755961,
+ "name": "隐蔽",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/隐蔽/preview.webp",
+ "glb_url": "assets/人形/隐蔽/隐蔽.glb"
+}

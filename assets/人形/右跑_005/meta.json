@@ -1,0 +1,15 @@
+{
+ "id": "4309fe65-97ae-44a2-8088-5b6a1c015993",
+ "index": 1791191906644,
+ "name": "右跑_005",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/右跑_005/preview.webp",
+ "glb_url": "assets/人形/右跑_005/右跑_005.glb"
+}

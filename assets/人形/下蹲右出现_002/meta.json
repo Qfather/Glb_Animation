@@ -1,0 +1,15 @@
+{
+ "id": "5e65247c-575f-4659-91f2-95f7bf2593ff",
+ "index": 1791191531289,
+ "name": "下蹲右出现_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/下蹲右出现_002/preview.webp",
+ "glb_url": "assets/人形/下蹲右出现_002/下蹲右出现_002.glb"
+}

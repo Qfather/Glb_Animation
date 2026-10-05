@@ -1,0 +1,16 @@
+{
+ "id": "e5765815-6c9d-4723-ac48-2665546a71f4",
+ "index": 1791191368043,
+ "name": "右走_005",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/右走_005/preview.webp",
+ "glb_url": "assets/人形/右走_005/右走_005.glb"
+}

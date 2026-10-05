@@ -1,0 +1,16 @@
+{
+ "id": "32329e77-1d22-4896-bf31-fdd69bcc3f79",
+ "index": 1791191393544,
+ "name": "下投掷_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "投掷"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/下投掷_001/preview.webp",
+ "glb_url": "assets/人形/下投掷_001/下投掷_001.glb"
+}

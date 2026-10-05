@@ -1,0 +1,15 @@
+{
+ "id": "c9ec173d-c11e-4bfe-9522-2254b2579e95",
+ "index": 1791191989326,
+ "name": "投掷_004",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "投掷"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/投掷_004/preview.webp",
+ "glb_url": "assets/人形/投掷_004/投掷_004.glb"
+}
