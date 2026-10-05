@@ -1,0 +1,18 @@
+{
+ "id": "12e0aba9-19fa-4132-830c-f3c29fb79f69",
+ "index": 1791185503990,
+ "name": "下蹲装箭",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "装配"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲装箭/preview.webp",
+ "glb_url": "assets/人形/下蹲装箭/下蹲装箭.glb"
+}

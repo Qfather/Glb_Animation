@@ -1,0 +1,17 @@
+{
+ "id": "966223d8-3f5e-47b6-960b-7f526aea3e19",
+ "index": 1791186651757,
+ "name": "后起身_004",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "起身"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后起身_004/preview.webp",
+ "glb_url": "assets/人形/后起身_004/后起身_004.glb"
+}

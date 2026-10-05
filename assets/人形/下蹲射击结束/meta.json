@@ -1,0 +1,18 @@
+{
+ "id": "5ca4fd2a-f22e-4dc4-8e9e-ce8abb9bb428",
+ "index": 1791186420500,
+ "name": "下蹲射击结束",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "下蹲"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲射击结束/preview.webp",
+ "glb_url": "assets/人形/下蹲射击结束/下蹲射击结束.glb"
+}

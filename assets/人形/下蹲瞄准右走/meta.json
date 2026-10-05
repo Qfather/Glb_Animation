@@ -1,0 +1,18 @@
+{
+ "id": "17a8610a-6116-4b87-9bcd-c8cee32d9cf2",
+ "index": 1791186369404,
+ "name": "下蹲瞄准右走",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走",
+  "下蹲"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲瞄准右走/preview.webp",
+ "glb_url": "assets/人形/下蹲瞄准右走/下蹲瞄准右走.glb"
+}

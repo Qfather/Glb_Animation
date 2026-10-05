@@ -1,0 +1,17 @@
+{
+ "id": "b427fd3e-23be-4cac-9e4c-57ae8b223e96",
+ "index": 1791187184848,
+ "name": "左重击_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左重击_003/preview.webp",
+ "glb_url": "assets/人形/左重击_003/左重击_003.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5429cbb7-ff69-4d7f-812f-f0086718c18a",
+ "index": 1791187853113,
+ "name": "瞄准前走_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/瞄准前走_002/preview.webp",
+ "glb_url": "assets/人形/瞄准前走_002/瞄准前走_002.glb"
+}

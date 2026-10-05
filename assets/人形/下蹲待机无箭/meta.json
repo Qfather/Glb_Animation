@@ -1,0 +1,18 @@
+{
+ "id": "f455725a-936e-4b74-b108-c863bdddbed4",
+ "index": 1791186298172,
+ "name": "下蹲待机无箭",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "下蹲"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲待机无箭/preview.webp",
+ "glb_url": "assets/人形/下蹲待机无箭/下蹲待机无箭.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "1c904775-7526-4bd1-9509-ef6e8e3757e8",
+ "index": 1791187787378,
+ "name": "射击开始",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/射击开始/preview.webp",
+ "glb_url": "assets/人形/射击开始/射击开始.glb"
+}

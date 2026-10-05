@@ -1,0 +1,17 @@
+{
+ "id": "20aefc05-04d5-4638-8d73-b0b533319d40",
+ "index": 1791187777067,
+ "name": "完整射击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/完整射击/preview.webp",
+ "glb_url": "assets/人形/完整射击/完整射击.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "f8525eab-9a16-4837-b71c-ef74fcaeae2f",
+ "index": 1791187783475,
+ "name": "射击结束",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/射击结束/preview.webp",
+ "glb_url": "assets/人形/射击结束/射击结束.glb"
+}

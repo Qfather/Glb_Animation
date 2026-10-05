@@ -1,0 +1,18 @@
+{
+ "id": "462b0159-46a8-467b-a964-80aca08ce9e9",
+ "index": 1791186449837,
+ "name": "下蹲开始射击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "下蹲"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲开始射击/preview.webp",
+ "glb_url": "assets/人形/下蹲开始射击/下蹲开始射击.glb"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "1cbe35be-40fd-4b54-a8ac-373f70453378",
+ "index": 1791185574257,
+ "name": "下蹲前走_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走",
+  "下蹲"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲前走_001/preview.webp",
+ "glb_url": "assets/人形/下蹲前走_001/下蹲前走_001.glb"
+}

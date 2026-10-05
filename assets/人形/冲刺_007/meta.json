@@ -1,0 +1,17 @@
+{
+ "id": "d0b6b2ee-63eb-4df7-abe5-6d6d3573d434",
+ "index": 1791187714875,
+ "name": "冲刺_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/冲刺_007/preview.webp",
+ "glb_url": "assets/人形/冲刺_007/冲刺_007.glb"
+}

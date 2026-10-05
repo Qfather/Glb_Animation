@@ -1,0 +1,18 @@
+{
+ "id": "293f9cea-eb98-421a-b7cf-34a5911c1663",
+ "index": 1791187621897,
+ "name": "拉弓",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "装配"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/拉弓/preview.webp",
+ "glb_url": "assets/人形/拉弓/拉弓.glb"
+}

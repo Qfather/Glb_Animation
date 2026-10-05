@@ -1,0 +1,18 @@
+{
+ "id": "3690cd03-8313-4c77-8c77-b885c6440ee0",
+ "index": 1791185544324,
+ "name": "下蹲拿弓",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "装配"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲拿弓/preview.webp",
+ "glb_url": "assets/人形/下蹲拿弓/下蹲拿弓.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "6fc50e90-3ee3-4205-b73f-ded7cf93760a",
+ "index": 1791187906348,
+ "name": "右走_004",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右走_004/preview.webp",
+ "glb_url": "assets/人形/右走_004/右走_004.glb"
+}

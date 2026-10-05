@@ -1,0 +1,18 @@
+{
+ "id": "392a0a5d-f24a-4c39-a008-e05ecdd30acd",
+ "index": 1791186240171,
+ "name": "下蹲待机_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "下蹲"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲待机_007/preview.webp",
+ "glb_url": "assets/人形/下蹲待机_007/下蹲待机_007.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "35594573-2db2-4a27-946d-7eea99c5322d",
+ "index": 1791187169682,
+ "name": "前轻击_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前轻击_002/preview.webp",
+ "glb_url": "assets/人形/前轻击_002/前轻击_002.glb"
+}

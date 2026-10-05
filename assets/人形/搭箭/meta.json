@@ -1,0 +1,17 @@
+{
+ "id": "e9ee8382-a07d-42f8-a276-41a3f823c283",
+ "index": 1791186611225,
+ "name": "搭箭",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "弓箭"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/搭箭/preview.webp",
+ "glb_url": "assets/人形/搭箭/搭箭.glb"
+}
