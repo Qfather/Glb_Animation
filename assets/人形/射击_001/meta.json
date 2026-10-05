@@ -1,0 +1,17 @@
+{
+ "id": "c53229b1-6596-4658-8739-a6cac1651791",
+ "index": 1791179725552,
+ "name": "射击_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/射击_001/preview.webp",
+ "glb_url": "assets/人形/射击_001/射击_001.glb"
+}

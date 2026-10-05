@@ -1,0 +1,18 @@
+{
+ "id": "39d309e1-1e3d-4c0a-bd22-e604cab0730d",
+ "index": 1791164412285,
+ "name": "下蹲前进_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走",
+  "下蹲"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲前进_003/preview.webp",
+ "glb_url": "assets/人形/下蹲前进_003/下蹲前进_003.glb"
+}

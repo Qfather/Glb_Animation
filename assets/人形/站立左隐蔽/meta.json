@@ -1,0 +1,15 @@
+{
+ "id": "3a3a85b7-d46e-4bcb-ad47-4512df5ce9a8",
+ "index": 1791172645522,
+ "name": "站立左隐蔽",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/站立左隐蔽/preview.webp",
+ "glb_url": "assets/人形/站立左隐蔽/站立左隐蔽.glb"
+}

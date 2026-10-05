@@ -1,0 +1,17 @@
+{
+ "id": "c39e3d61-c77b-4380-b610-ba57ba236441",
+ "index": 1791164769107,
+ "name": "下蹲隐蔽出现",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲隐蔽出现/preview.webp",
+ "glb_url": "assets/人形/下蹲隐蔽出现/下蹲隐蔽出现.glb"
+}

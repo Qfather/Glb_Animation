@@ -1,0 +1,17 @@
+{
+ "id": "d6369ca2-fbe6-4832-ae63-121d64198a7e",
+ "index": 1791179321490,
+ "name": "跳_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/跳_002/preview.webp",
+ "glb_url": "assets/人形/跳_002/跳_002.glb"
+}

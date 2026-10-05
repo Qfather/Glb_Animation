@@ -1,0 +1,18 @@
+{
+ "id": "e62b0498-f535-4ab3-ae06-7a08a380c8e5",
+ "index": 1791184238734,
+ "name": "下蹲隐蔽左走",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走",
+  "下蹲"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲隐蔽左走/preview.webp",
+ "glb_url": "assets/人形/下蹲隐蔽左走/下蹲隐蔽左走.glb"
+}

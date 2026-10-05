@@ -1,0 +1,17 @@
+{
+ "id": "15cdd723-594a-40d8-bd95-7e3a406dc047",
+ "index": 1791179520413,
+ "name": "右手跨栏",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右手跨栏/preview.webp",
+ "glb_url": "assets/人形/右手跨栏/右手跨栏.glb"
+}

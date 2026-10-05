@@ -1,0 +1,18 @@
+{
+ "id": "366801bf-fafc-4b01-b373-07dea2e708cf",
+ "index": 1791164271918,
+ "name": "瞄准下蹲前进",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走",
+  "下蹲"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/瞄准下蹲前进/preview.webp",
+ "glb_url": "assets/人形/瞄准下蹲前进/瞄准下蹲前进.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "c4517bb7-bff6-4292-983b-7ec260c4e39f",
+ "index": 1791165997435,
+ "name": "装备_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/装备_001/preview.webp",
+ "glb_url": "assets/人形/装备_001/装备_001.glb"
+}

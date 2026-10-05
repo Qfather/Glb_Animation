@@ -1,0 +1,17 @@
+{
+ "id": "e8cffea5-3eaa-444a-a675-fb253250656d",
+ "index": 1791172741242,
+ "name": "下蹲左出现_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲左出现_001/preview.webp",
+ "glb_url": "assets/人形/下蹲左出现_001/下蹲左出现_001.glb"
+}

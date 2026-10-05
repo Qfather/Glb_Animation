@@ -1,0 +1,17 @@
+{
+ "id": "88efcb05-f771-4bf7-91b8-0813d7722d26",
+ "index": 1791179307814,
+ "name": "站立隐蔽待机",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/站立隐蔽待机/preview.webp",
+ "glb_url": "assets/人形/站立隐蔽待机/站立隐蔽待机.glb"
+}

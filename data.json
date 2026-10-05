@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-09-24T09:44:42",
+ "generated_at": "2026-10-05T15:27:48",
  "items": [
   {
    "id": "32780085-90b8-4d08-9dde-4287e8e48970",
@@ -7039,6 +7039,1691 @@
    "category": "",
    "preview_url": "assets/哥布林/右走_002/preview.webp",
    "glb_url": "assets/哥布林/右走_002/右走_002.glb"
+  },
+  {
+   "id": "25ded508-a5f4-4050-ae58-832eb18391ba",
+   "index": 1791163546192,
+   "name": "单手爬_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/单手爬_002/preview.webp",
+   "glb_url": "assets/人形/单手爬_002/单手爬_002.glb"
+  },
+  {
+   "id": "d82c97c2-73f5-49bc-80e0-0779a8c461ca",
+   "index": 1791163663972,
+   "name": "双手爬_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/双手爬_002/preview.webp",
+   "glb_url": "assets/人形/双手爬_002/双手爬_002.glb"
+  },
+  {
+   "id": "2fbe375b-d91c-4244-9505-68600860bc11",
+   "index": 1791163765189,
+   "name": "左脚上台阶_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左脚上台阶_002/preview.webp",
+   "glb_url": "assets/人形/左脚上台阶_002/左脚上台阶_002.glb"
+  },
+  {
+   "id": "abfef1f5-9ac3-48cc-8a35-990a500ee88a",
+   "index": 1791163819431,
+   "name": "右脚上台阶_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右脚上台阶_002/preview.webp",
+   "glb_url": "assets/人形/右脚上台阶_002/右脚上台阶_002.glb"
+  },
+  {
+   "id": "21f22777-1e8a-408b-ab43-66121dd5d75b",
+   "index": 1791163906118,
+   "name": "下蹲瞄准_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲瞄准_003/preview.webp",
+   "glb_url": "assets/人形/下蹲瞄准_003/下蹲瞄准_003.glb"
+  },
+  {
+   "id": "5b84ed16-0287-4d79-ad52-750f07d73512",
+   "index": 1791163953176,
+   "name": "瞄准下蹲后退",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/瞄准下蹲后退/preview.webp",
+   "glb_url": "assets/人形/瞄准下蹲后退/瞄准下蹲后退.glb"
+  },
+  {
+   "id": "ad522584-f7d8-4962-a8cd-c3509265c3ee",
+   "index": 1791164185154,
+   "name": "下蹲后退_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲后退_002/preview.webp",
+   "glb_url": "assets/人形/下蹲后退_002/下蹲后退_002.glb"
+  },
+  {
+   "id": "366801bf-fafc-4b01-b373-07dea2e708cf",
+   "index": 1791164271918,
+   "name": "瞄准下蹲前进",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/瞄准下蹲前进/preview.webp",
+   "glb_url": "assets/人形/瞄准下蹲前进/瞄准下蹲前进.glb"
+  },
+  {
+   "id": "39d309e1-1e3d-4c0a-bd22-e604cab0730d",
+   "index": 1791164412285,
+   "name": "下蹲前进_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲前进_003/preview.webp",
+   "glb_url": "assets/人形/下蹲前进_003/下蹲前进_003.glb"
+  },
+  {
+   "id": "761795b1-bb4c-420f-98e2-7fc161ca95cf",
+   "index": 1791164474655,
+   "name": "下蹲隐蔽_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲隐蔽_002/preview.webp",
+   "glb_url": "assets/人形/下蹲隐蔽_002/下蹲隐蔽_002.glb"
+  },
+  {
+   "id": "d1b2cce6-40b7-4ea5-8476-f95ec5688cd0",
+   "index": 1791164545507,
+   "name": "下蹲待机_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲待机_005/preview.webp",
+   "glb_url": "assets/人形/下蹲待机_005/下蹲待机_005.glb"
+  },
+  {
+   "id": "a6980fb9-af8c-4f28-b280-3744cb3c036d",
+   "index": 1791164642647,
+   "name": "下蹲巡视待机_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲巡视待机_003/preview.webp",
+   "glb_url": "assets/人形/下蹲巡视待机_003/下蹲巡视待机_003.glb"
+  },
+  {
+   "id": "74837bb0-d024-4edc-b118-e6248eb124d4",
+   "index": 1791164707829,
+   "name": "下蹲隐蔽待机_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲隐蔽待机_003/preview.webp",
+   "glb_url": "assets/人形/下蹲隐蔽待机_003/下蹲隐蔽待机_003.glb"
+  },
+  {
+   "id": "c39e3d61-c77b-4380-b610-ba57ba236441",
+   "index": 1791164769107,
+   "name": "下蹲隐蔽出现",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲隐蔽出现/preview.webp",
+   "glb_url": "assets/人形/下蹲隐蔽出现/下蹲隐蔽出现.glb"
+  },
+  {
+   "id": "ebe3875f-df63-4d7d-ba2f-fdf88ebc35db",
+   "index": 1791165021853,
+   "name": "下蹲左移_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲左移_001/preview.webp",
+   "glb_url": "assets/人形/下蹲左移_001/下蹲左移_001.glb"
+  },
+  {
+   "id": "1b5982bf-001a-4cc5-9cc9-a289e0730a1e",
+   "index": 1791165078922,
+   "name": "下蹲右移_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲右移_001/preview.webp",
+   "glb_url": "assets/人形/下蹲右移_001/下蹲右移_001.glb"
+  },
+  {
+   "id": "25816260-3f59-4ecb-98ab-3494be796e0d",
+   "index": 1791165211967,
+   "name": "后死_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后死_002/preview.webp",
+   "glb_url": "assets/人形/后死_002/后死_002.glb"
+  },
+  {
+   "id": "fbb31792-726f-4766-90e9-b4a7d6bb3d08",
+   "index": 1791165292892,
+   "name": "前死_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前死_002/preview.webp",
+   "glb_url": "assets/人形/前死_002/前死_002.glb"
+  },
+  {
+   "id": "d004b385-53a6-4aea-a261-8645c7e9e25b",
+   "index": 1791165375963,
+   "name": "左死_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左死_002/preview.webp",
+   "glb_url": "assets/人形/左死_002/左死_002.glb"
+  },
+  {
+   "id": "a936143b-f233-4442-b2f7-90f264d1db5a",
+   "index": 1791165444870,
+   "name": "右死_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右死_002/preview.webp",
+   "glb_url": "assets/人形/右死_002/右死_002.glb"
+  },
+  {
+   "id": "aadde846-a8d0-444b-ab89-6731a63d5daa",
+   "index": 1791165609474,
+   "name": "后翻滚_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "闪避"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后翻滚_003/preview.webp",
+   "glb_url": "assets/人形/后翻滚_003/后翻滚_003.glb"
+  },
+  {
+   "id": "cf2c43c2-d195-4cac-b157-867f6ea1f6bd",
+   "index": 1791165675969,
+   "name": "前翻滚_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "闪避"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前翻滚_002/preview.webp",
+   "glb_url": "assets/人形/前翻滚_002/前翻滚_002.glb"
+  },
+  {
+   "id": "8cde2a97-da74-4282-b963-e6f7a0f12d4b",
+   "index": 1791165745506,
+   "name": "左翻滚_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "闪避"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左翻滚_002/preview.webp",
+   "glb_url": "assets/人形/左翻滚_002/左翻滚_002.glb"
+  },
+  {
+   "id": "7582489f-9316-45f8-9bac-ec79e176985c",
+   "index": 1791165845619,
+   "name": "右翻滚_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "闪避"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右翻滚_002/preview.webp",
+   "glb_url": "assets/人形/右翻滚_002/右翻滚_002.glb"
+  },
+  {
+   "id": "c4517bb7-bff6-4292-983b-7ec260c4e39f",
+   "index": 1791165997435,
+   "name": "装备_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "装配"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/装备_001/preview.webp",
+   "glb_url": "assets/人形/装备_001/装备_001.glb"
+  },
+  {
+   "id": "91660701-8e98-42f0-bdca-229150eca228",
+   "index": 1791166083552,
+   "name": "浮空_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/浮空_003/preview.webp",
+   "glb_url": "assets/人形/浮空_003/浮空_003.glb"
+  },
+  {
+   "id": "7402e983-c3a9-4680-abad-fdd470fd1f4f",
+   "index": 1791166461649,
+   "name": "后起身_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后起身_003/preview.webp",
+   "glb_url": "assets/人形/后起身_003/后起身_003.glb"
+  },
+  {
+   "id": "b541e488-3956-4d18-af48-8e9795c88cfa",
+   "index": 1791166517445,
+   "name": "前起身_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前起身_003/preview.webp",
+   "glb_url": "assets/人形/前起身_003/前起身_003.glb"
+  },
+  {
+   "id": "e2b9809f-23da-4a85-b1ce-1512abc67044",
+   "index": 1791166598854,
+   "name": "左起身_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左起身_003/preview.webp",
+   "glb_url": "assets/人形/左起身_003/左起身_003.glb"
+  },
+  {
+   "id": "06982812-93fc-442b-9bf8-a227287a6336",
+   "index": 1791166766795,
+   "name": "右起身_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右起身_003/preview.webp",
+   "glb_url": "assets/人形/右起身_003/右起身_003.glb"
+  },
+  {
+   "id": "34b87fc6-696f-40d9-a6c0-92d2f696e5b5",
+   "index": 1791166847523,
+   "name": "后重受击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后重受击_002/preview.webp",
+   "glb_url": "assets/人形/后重受击_002/后重受击_002.glb"
+  },
+  {
+   "id": "b4bbc6a5-2b9b-4adb-ac96-3ab93d36feaf",
+   "index": 1791166911901,
+   "name": "后轻受击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后轻受击_002/preview.webp",
+   "glb_url": "assets/人形/后轻受击_002/后轻受击_002.glb"
+  },
+  {
+   "id": "71b084f4-b786-4734-8f30-641810acec3b",
+   "index": 1791166998486,
+   "name": "前重受击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前重受击_002/preview.webp",
+   "glb_url": "assets/人形/前重受击_002/前重受击_002.glb"
+  },
+  {
+   "id": "8e2e917b-4e19-43f3-81dd-caeba0052185",
+   "index": 1791167719022,
+   "name": "前轻受击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前轻受击_002/preview.webp",
+   "glb_url": "assets/人形/前轻受击_002/前轻受击_002.glb"
+  },
+  {
+   "id": "19da494d-a6eb-417b-9ee0-3ed1983e1163",
+   "index": 1791167786428,
+   "name": "左重受击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左重受击_002/preview.webp",
+   "glb_url": "assets/人形/左重受击_002/左重受击_002.glb"
+  },
+  {
+   "id": "be8858f6-61a5-4976-8453-4e357fbfe788",
+   "index": 1791167866142,
+   "name": "左轻受击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左轻受击_002/preview.webp",
+   "glb_url": "assets/人形/左轻受击_002/左轻受击_002.glb"
+  },
+  {
+   "id": "371537a6-0e57-4ccf-b372-8978b204a569",
+   "index": 1791167968528,
+   "name": "右重受击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右重受击_002/preview.webp",
+   "glb_url": "assets/人形/右重受击_002/右重受击_002.glb"
+  },
+  {
+   "id": "38f00472-5a1c-430d-a7e5-da701a67e36f",
+   "index": 1791168020449,
+   "name": "右轻受击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右轻受击_002/preview.webp",
+   "glb_url": "assets/人形/右轻受击_002/右轻受击_002.glb"
+  },
+  {
+   "id": "1b110369-9a50-44cd-be38-5a233621a333",
+   "index": 1791168189381,
+   "name": "下蹲瞄准隐蔽",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲瞄准隐蔽/preview.webp",
+   "glb_url": "assets/人形/下蹲瞄准隐蔽/下蹲瞄准隐蔽.glb"
+  },
+  {
+   "id": "3a3a85b7-d46e-4bcb-ad47-4512df5ce9a8",
+   "index": 1791172645522,
+   "name": "站立左隐蔽",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/站立左隐蔽/preview.webp",
+   "glb_url": "assets/人形/站立左隐蔽/站立左隐蔽.glb"
+  },
+  {
+   "id": "a82cc7e8-df24-40ef-b088-97d971cd198e",
+   "index": 1791172666222,
+   "name": "下蹲右隐蔽_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲右隐蔽_002/preview.webp",
+   "glb_url": "assets/人形/下蹲右隐蔽_002/下蹲右隐蔽_002.glb"
+  },
+  {
+   "id": "e5f7fc44-1529-47c0-9a73-d91201de201b",
+   "index": 1791172696880,
+   "name": "站立右隐蔽",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/站立右隐蔽/preview.webp",
+   "glb_url": "assets/人形/站立右隐蔽/站立右隐蔽.glb"
+  },
+  {
+   "id": "e8cffea5-3eaa-444a-a675-fb253250656d",
+   "index": 1791172741242,
+   "name": "下蹲左出现_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲左出现_001/preview.webp",
+   "glb_url": "assets/人形/下蹲左出现_001/下蹲左出现_001.glb"
+  },
+  {
+   "id": "e5866624-42e1-472f-b485-48fadd7f469f",
+   "index": 1791172756346,
+   "name": "站立左出现",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/站立左出现/preview.webp",
+   "glb_url": "assets/人形/站立左出现/站立左出现.glb"
+  },
+  {
+   "id": "f73cecaf-77e2-42c8-99f2-eedff278c59d",
+   "index": 1791172778010,
+   "name": "下蹲右出现_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲右出现_001/preview.webp",
+   "glb_url": "assets/人形/下蹲右出现_001/下蹲右出现_001.glb"
+  },
+  {
+   "id": "83d39a5a-5ea1-458b-a93e-146153c6f02c",
+   "index": 1791172797379,
+   "name": "站立右出现",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/站立右出现/preview.webp",
+   "glb_url": "assets/人形/站立右出现/站立右出现.glb"
+  },
+  {
+   "id": "37b88167-5711-4b67-9186-a0b17a7eb1da",
+   "index": 1791172829373,
+   "name": "投掷瞄准_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/投掷瞄准_001/preview.webp",
+   "glb_url": "assets/人形/投掷瞄准_001/投掷瞄准_001.glb"
+  },
+  {
+   "id": "0f509794-2590-40eb-a150-2f1aff56f70c",
+   "index": 1791172849764,
+   "name": "下蹲左观察_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲左观察_001/preview.webp",
+   "glb_url": "assets/人形/下蹲左观察_001/下蹲左观察_001.glb"
+  },
+  {
+   "id": "f3f3f1a2-d6ad-4613-8319-2ac57584dfe0",
+   "index": 1791172879588,
+   "name": "站立左观察",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/站立左观察/preview.webp",
+   "glb_url": "assets/人形/站立左观察/站立左观察.glb"
+  },
+  {
+   "id": "0ebce1e4-bef7-4722-87e8-31b6e90f6da0",
+   "index": 1791172896828,
+   "name": "下蹲右观察",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲右观察/preview.webp",
+   "glb_url": "assets/人形/下蹲右观察/下蹲右观察.glb"
+  },
+  {
+   "id": "7830019e-649c-4d26-9f49-acb0f1e18f4a",
+   "index": 1791172910464,
+   "name": "站立右观察",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/站立右观察/preview.webp",
+   "glb_url": "assets/人形/站立右观察/站立右观察.glb"
+  },
+  {
+   "id": "0c22baa1-3894-4603-95eb-8dbb3fe13f94",
+   "index": 1791172943329,
+   "name": "转身_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/转身_002/preview.webp",
+   "glb_url": "assets/人形/转身_002/转身_002.glb"
+  },
+  {
+   "id": "f8dbaf2d-da68-4fd8-8b0d-875b07715908",
+   "index": 1791172960968,
+   "name": "待机瞄准",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/待机瞄准/preview.webp",
+   "glb_url": "assets/人形/待机瞄准/待机瞄准.glb"
+  },
+  {
+   "id": "54de6fca-8e0a-4b82-b7d7-2b91a9753c60",
+   "index": 1791172980216,
+   "name": "投掷待机_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/投掷待机_002/preview.webp",
+   "glb_url": "assets/人形/投掷待机_002/投掷待机_002.glb"
+  },
+  {
+   "id": "4de0ac9b-1960-437c-b8f3-6e3a0d1efb63",
+   "index": 1791179134293,
+   "name": "待机_012",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/待机_012/preview.webp",
+   "glb_url": "assets/人形/待机_012/待机_012.glb"
+  },
+  {
+   "id": "920c81e8-2b49-4771-a5e9-3cd4965900e6",
+   "index": 1791179146627,
+   "name": "巡视待机_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/巡视待机_004/preview.webp",
+   "glb_url": "assets/人形/巡视待机_004/巡视待机_004.glb"
+  },
+  {
+   "id": "2802f383-8cfd-4041-89f4-2c2187edbcf3",
+   "index": 1791179190708,
+   "name": "下蹲隐蔽左观察_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲隐蔽左观察_001/preview.webp",
+   "glb_url": "assets/人形/下蹲隐蔽左观察_001/下蹲隐蔽左观察_001.glb"
+  },
+  {
+   "id": "19fb2a58-9ca9-4df9-9799-e88171861e18",
+   "index": 1791179214267,
+   "name": "站立隐蔽左观察",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/站立隐蔽左观察/preview.webp",
+   "glb_url": "assets/人形/站立隐蔽左观察/站立隐蔽左观察.glb"
+  },
+  {
+   "id": "9e942ade-9ed3-447d-b270-57741d92c978",
+   "index": 1791179232558,
+   "name": "下蹲隐蔽右观察_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲隐蔽右观察_002/preview.webp",
+   "glb_url": "assets/人形/下蹲隐蔽右观察_002/下蹲隐蔽右观察_002.glb"
+  },
+  {
+   "id": "0426139d-0eb9-40b2-ae21-43e37e0cd3e9",
+   "index": 1791179256430,
+   "name": "站立隐蔽右观察",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/站立隐蔽右观察/preview.webp",
+   "glb_url": "assets/人形/站立隐蔽右观察/站立隐蔽右观察.glb"
+  },
+  {
+   "id": "5a7f3241-8703-4f65-bdee-1bdbc98af18f",
+   "index": 1791179276588,
+   "name": "站立到隐蔽_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/站立到隐蔽_001/preview.webp",
+   "glb_url": "assets/人形/站立到隐蔽_001/站立到隐蔽_001.glb"
+  },
+  {
+   "id": "9b2a0545-cbf0-4514-93a1-864e4f0119a1",
+   "index": 1791179291256,
+   "name": "待机_013",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/待机_013/preview.webp",
+   "glb_url": "assets/人形/待机_013/待机_013.glb"
+  },
+  {
+   "id": "88efcb05-f771-4bf7-91b8-0813d7722d26",
+   "index": 1791179307814,
+   "name": "站立隐蔽待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/站立隐蔽待机/preview.webp",
+   "glb_url": "assets/人形/站立隐蔽待机/站立隐蔽待机.glb"
+  },
+  {
+   "id": "d6369ca2-fbe6-4832-ae63-121d64198a7e",
+   "index": 1791179321490,
+   "name": "跳_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/跳_002/preview.webp",
+   "glb_url": "assets/人形/跳_002/跳_002.glb"
+  },
+  {
+   "id": "899e75e7-9a6c-45ae-ab3f-5ff79f8b67e2",
+   "index": 1791179345491,
+   "name": "重着陆_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/重着陆_003/preview.webp",
+   "glb_url": "assets/人形/重着陆_003/重着陆_003.glb"
+  },
+  {
+   "id": "fad8eb78-f899-45c9-bf1b-7eaae92d0c77",
+   "index": 1791179366288,
+   "name": "轻着陆_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/轻着陆_003/preview.webp",
+   "glb_url": "assets/人形/轻着陆_003/轻着陆_003.glb"
+  },
+  {
+   "id": "1876c30c-0411-4f51-a16c-8d68d1ccf40a",
+   "index": 1791179380247,
+   "name": "中着陆_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/中着陆_003/preview.webp",
+   "glb_url": "assets/人形/中着陆_003/中着陆_003.glb"
+  },
+  {
+   "id": "c72763c1-d21c-45f0-9100-370a9e3aaab2",
+   "index": 1791179477991,
+   "name": "近战攻击_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/近战攻击_004/preview.webp",
+   "glb_url": "assets/人形/近战攻击_004/近战攻击_004.glb"
+  },
+  {
+   "id": "34427206-b466-45d8-bf70-461e6724ee7d",
+   "index": 1791179503726,
+   "name": "左手跨栏",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左手跨栏/preview.webp",
+   "glb_url": "assets/人形/左手跨栏/左手跨栏.glb"
+  },
+  {
+   "id": "15cdd723-594a-40d8-bd95-7e3a406dc047",
+   "index": 1791179520413,
+   "name": "右手跨栏",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右手跨栏/preview.webp",
+   "glb_url": "assets/人形/右手跨栏/右手跨栏.glb"
+  },
+  {
+   "id": "036f3202-8a21-4ee6-8a69-8eb20e3b2da1",
+   "index": 1791179554811,
+   "name": "收起武器_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "装配"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/收起武器_003/preview.webp",
+   "glb_url": "assets/人形/收起武器_003/收起武器_003.glb"
+  },
+  {
+   "id": "c5f4c492-9f0e-40fd-b436-e4dfc6bc3717",
+   "index": 1791179572492,
+   "name": "装弹",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "装配"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/装弹/preview.webp",
+   "glb_url": "assets/人形/装弹/装弹.glb"
+  },
+  {
+   "id": "7d99150b-1696-40ff-8109-30483a30f79b",
+   "index": 1791179601776,
+   "name": "装弹后面",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "装配"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/装弹后面/preview.webp",
+   "glb_url": "assets/人形/装弹后面/装弹后面.glb"
+  },
+  {
+   "id": "41860229-9671-4789-a575-3c268d54b209",
+   "index": 1791179618563,
+   "name": "瞄准后跑_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/瞄准后跑_001/preview.webp",
+   "glb_url": "assets/人形/瞄准后跑_001/瞄准后跑_001.glb"
+  },
+  {
+   "id": "e44d8a40-0c66-45dc-996a-f0787c58a723",
+   "index": 1791179635038,
+   "name": "瞄准前跑_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/瞄准前跑_001/preview.webp",
+   "glb_url": "assets/人形/瞄准前跑_001/瞄准前跑_001.glb"
+  },
+  {
+   "id": "4b7457a7-756a-4792-81f7-d7b6cf28b0be",
+   "index": 1791179647222,
+   "name": "前跑_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前跑_004/preview.webp",
+   "glb_url": "assets/人形/前跑_004/前跑_004.glb"
+  },
+  {
+   "id": "43307de9-24c0-4d5c-8bdc-a32a88d8ba3d",
+   "index": 1791179666167,
+   "name": "瞄准左跑",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/瞄准左跑/preview.webp",
+   "glb_url": "assets/人形/瞄准左跑/瞄准左跑.glb"
+  },
+  {
+   "id": "6ec8160f-c527-4ad0-b6a5-9f257a503893",
+   "index": 1791179680437,
+   "name": "瞄准右跑",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/瞄准右跑/preview.webp",
+   "glb_url": "assets/人形/瞄准右跑/瞄准右跑.glb"
+  },
+  {
+   "id": "c53229b1-6596-4658-8739-a6cac1651791",
+   "index": 1791179725552,
+   "name": "射击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/射击_001/preview.webp",
+   "glb_url": "assets/人形/射击_001/射击_001.glb"
+  },
+  {
+   "id": "2e7aee5d-11f8-4b8c-adee-eca858a36c2b",
+   "index": 1791184211234,
+   "name": "冲刺_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/冲刺_006/preview.webp",
+   "glb_url": "assets/人形/冲刺_006/冲刺_006.glb"
+  },
+  {
+   "id": "e62b0498-f535-4ab3-ae06-7a08a380c8e5",
+   "index": 1791184238734,
+   "name": "下蹲隐蔽左走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲隐蔽左走/preview.webp",
+   "glb_url": "assets/人形/下蹲隐蔽左走/下蹲隐蔽左走.glb"
+  },
+  {
+   "id": "106b0355-5e8f-4871-bc57-81be13b45920",
+   "index": 1791184257073,
+   "name": "隐蔽左走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/隐蔽左走/preview.webp",
+   "glb_url": "assets/人形/隐蔽左走/隐蔽左走.glb"
+  },
+  {
+   "id": "62a8dd2b-2419-4689-ad12-16074d38818c",
+   "index": 1791184275149,
+   "name": "下蹲隐蔽右走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲隐蔽右走/preview.webp",
+   "glb_url": "assets/人形/下蹲隐蔽右走/下蹲隐蔽右走.glb"
+  },
+  {
+   "id": "3524cf46-135f-45d8-9355-174dada00fd8",
+   "index": 1791184290672,
+   "name": "隐蔽右走",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/隐蔽右走/preview.webp",
+   "glb_url": "assets/人形/隐蔽右走/隐蔽右走.glb"
+  },
+  {
+   "id": "9a6633ee-a05f-46f6-bccd-1f568c232edb",
+   "index": 1791184322466,
+   "name": "下蹲隐蔽投掷",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲隐蔽投掷/preview.webp",
+   "glb_url": "assets/人形/下蹲隐蔽投掷/下蹲隐蔽投掷.glb"
+  },
+  {
+   "id": "55822036-b2a6-4aa9-8eb6-cda84e94592f",
+   "index": 1791184528649,
+   "name": "隐蔽左投掷_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/隐蔽左投掷_002/preview.webp",
+   "glb_url": "assets/人形/隐蔽左投掷_002/隐蔽左投掷_002.glb"
+  },
+  {
+   "id": "07b54759-259f-4f58-ad6f-5c9c3b1ec613",
+   "index": 1791184546791,
+   "name": "下蹲隐蔽右投掷_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲隐蔽右投掷_002/preview.webp",
+   "glb_url": "assets/人形/下蹲隐蔽右投掷_002/下蹲隐蔽右投掷_002.glb"
+  },
+  {
+   "id": "1149396b-0d27-43d9-ac97-0963e7fdf837",
+   "index": 1791184573384,
+   "name": "隐蔽右投掷_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/隐蔽右投掷_002/preview.webp",
+   "glb_url": "assets/人形/隐蔽右投掷_002/隐蔽右投掷_002.glb"
+  },
+  {
+   "id": "00e22c11-9b96-41b7-b966-fdf13140c302",
+   "index": 1791184589710,
+   "name": "投掷_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/投掷_001/preview.webp",
+   "glb_url": "assets/人形/投掷_001/投掷_001.glb"
+  },
+  {
+   "id": "e2d5e2b7-0dff-4ad2-9f42-91944bf45d27",
+   "index": 1791184612161,
+   "name": "下蹲中投掷",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲中投掷/preview.webp",
+   "glb_url": "assets/人形/下蹲中投掷/下蹲中投掷.glb"
+  },
+  {
+   "id": "4cdbf698-8e8f-457f-af7c-adfa2be1575e",
+   "index": 1791184626674,
+   "name": "中投掷",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/中投掷/preview.webp",
+   "glb_url": "assets/人形/中投掷/中投掷.glb"
+  },
+  {
+   "id": "5af2dbf3-4050-4ff3-9313-2f430fa1e80e",
+   "index": 1791184642137,
+   "name": "下蹲下投掷",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "下蹲",
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲下投掷/preview.webp",
+   "glb_url": "assets/人形/下蹲下投掷/下蹲下投掷.glb"
+  },
+  {
+   "id": "cb21a26a-48c4-4f5f-a5ce-bf8b8f1be13a",
+   "index": 1791184654818,
+   "name": "下投掷",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "投掷"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下投掷/preview.webp",
+   "glb_url": "assets/人形/下投掷/下投掷.glb"
+  },
+  {
+   "id": "c5d0f245-24bf-4372-8818-7b0dd44c1a3e",
+   "index": 1791184674255,
+   "name": "瞄准后走_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/瞄准后走_001/preview.webp",
+   "glb_url": "assets/人形/瞄准后走_001/瞄准后走_001.glb"
+  },
+  {
+   "id": "92fa05c7-bc42-41db-a677-1545e96e68be",
+   "index": 1791184686976,
+   "name": "后走_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后走_003/preview.webp",
+   "glb_url": "assets/人形/后走_003/后走_003.glb"
+  },
+  {
+   "id": "e13a8577-7839-4d5a-8f6d-e33e4937bcba",
+   "index": 1791184707824,
+   "name": "瞄准前走_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/瞄准前走_001/preview.webp",
+   "glb_url": "assets/人形/瞄准前走_001/瞄准前走_001.glb"
+  },
+  {
+   "id": "830ec4fc-0c45-4c24-86de-2a66a5c9c507",
+   "index": 1791185232403,
+   "name": "前走_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前走_004/preview.webp",
+   "glb_url": "assets/人形/前走_004/前走_004.glb"
+  },
+  {
+   "id": "7431f21d-749f-433e-99de-1f059f68e048",
+   "index": 1791185255737,
+   "name": "左走_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左走_003/preview.webp",
+   "glb_url": "assets/人形/左走_003/左走_003.glb"
+  },
+  {
+   "id": "4ef47f7d-a84f-47e3-b268-399adfe14e24",
+   "index": 1791185268325,
+   "name": "右走_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "火箭筒"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右走_003/preview.webp",
+   "glb_url": "assets/人形/右走_003/右走_003.glb"
   }
  ],
  "enums": {
@@ -7081,7 +8766,8 @@
    "单手近战",
    "双手近战",
    "手枪",
-   "步枪"
+   "步枪",
+   "火箭筒"
   ]
  }
 }

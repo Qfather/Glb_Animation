@@ -1,0 +1,17 @@
+{
+ "id": "7d99150b-1696-40ff-8109-30483a30f79b",
+ "index": 1791179601776,
+ "name": "装弹后面",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/装弹后面/preview.webp",
+ "glb_url": "assets/人形/装弹后面/装弹后面.glb"
+}

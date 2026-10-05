@@ -1,0 +1,17 @@
+{
+ "id": "b541e488-3956-4d18-af48-8e9795c88cfa",
+ "index": 1791166517445,
+ "name": "前起身_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "起身"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前起身_003/preview.webp",
+ "glb_url": "assets/人形/前起身_003/前起身_003.glb"
+}

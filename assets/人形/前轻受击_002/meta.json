@@ -1,0 +1,17 @@
+{
+ "id": "8e2e917b-4e19-43f3-81dd-caeba0052185",
+ "index": 1791167719022,
+ "name": "前轻受击_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前轻受击_002/preview.webp",
+ "glb_url": "assets/人形/前轻受击_002/前轻受击_002.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "cf2c43c2-d195-4cac-b157-867f6ea1f6bd",
+ "index": 1791165675969,
+ "name": "前翻滚_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "闪避"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前翻滚_002/preview.webp",
+ "glb_url": "assets/人形/前翻滚_002/前翻滚_002.glb"
+}

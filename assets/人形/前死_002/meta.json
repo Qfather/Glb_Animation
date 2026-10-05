@@ -1,0 +1,17 @@
+{
+ "id": "fbb31792-726f-4766-90e9-b4a7d6bb3d08",
+ "index": 1791165292892,
+ "name": "前死_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "死亡"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前死_002/preview.webp",
+ "glb_url": "assets/人形/前死_002/前死_002.glb"
+}

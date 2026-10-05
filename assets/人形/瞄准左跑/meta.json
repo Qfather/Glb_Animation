@@ -1,0 +1,17 @@
+{
+ "id": "43307de9-24c0-4d5c-8bdc-a32a88d8ba3d",
+ "index": 1791179666167,
+ "name": "瞄准左跑",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/瞄准左跑/preview.webp",
+ "glb_url": "assets/人形/瞄准左跑/瞄准左跑.glb"
+}

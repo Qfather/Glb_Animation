@@ -1,0 +1,17 @@
+{
+ "id": "4de0ac9b-1960-437c-b8f3-6e3a0d1efb63",
+ "index": 1791179134293,
+ "name": "待机_012",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/待机_012/preview.webp",
+ "glb_url": "assets/人形/待机_012/待机_012.glb"
+}

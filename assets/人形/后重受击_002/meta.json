@@ -1,0 +1,17 @@
+{
+ "id": "34b87fc6-696f-40d9-a6c0-92d2f696e5b5",
+ "index": 1791166847523,
+ "name": "后重受击_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后重受击_002/preview.webp",
+ "glb_url": "assets/人形/后重受击_002/后重受击_002.glb"
+}

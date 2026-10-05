@@ -1,0 +1,15 @@
+{
+ "id": "5a7f3241-8703-4f65-bdee-1bdbc98af18f",
+ "index": 1791179276588,
+ "name": "站立到隐蔽_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/站立到隐蔽_001/preview.webp",
+ "glb_url": "assets/人形/站立到隐蔽_001/站立到隐蔽_001.glb"
+}

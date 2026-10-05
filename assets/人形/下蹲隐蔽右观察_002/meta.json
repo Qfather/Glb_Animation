@@ -1,0 +1,18 @@
+{
+ "id": "9e942ade-9ed3-447d-b270-57741d92c978",
+ "index": 1791179232558,
+ "name": "下蹲隐蔽右观察_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "下蹲"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲隐蔽右观察_002/preview.webp",
+ "glb_url": "assets/人形/下蹲隐蔽右观察_002/下蹲隐蔽右观察_002.glb"
+}

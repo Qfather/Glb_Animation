@@ -1,0 +1,17 @@
+{
+ "id": "91660701-8e98-42f0-bdca-229150eca228",
+ "index": 1791166083552,
+ "name": "浮空_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/浮空_003/preview.webp",
+ "glb_url": "assets/人形/浮空_003/浮空_003.glb"
+}

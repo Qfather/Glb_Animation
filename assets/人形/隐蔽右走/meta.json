@@ -1,0 +1,17 @@
+{
+ "id": "3524cf46-135f-45d8-9355-174dada00fd8",
+ "index": 1791184290672,
+ "name": "隐蔽右走",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/隐蔽右走/preview.webp",
+ "glb_url": "assets/人形/隐蔽右走/隐蔽右走.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "38f00472-5a1c-430d-a7e5-da701a67e36f",
+ "index": 1791168020449,
+ "name": "右轻受击_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右轻受击_002/preview.webp",
+ "glb_url": "assets/人形/右轻受击_002/右轻受击_002.glb"
+}

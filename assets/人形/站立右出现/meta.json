@@ -1,0 +1,15 @@
+{
+ "id": "83d39a5a-5ea1-458b-a93e-146153c6f02c",
+ "index": 1791172797379,
+ "name": "站立右出现",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/站立右出现/preview.webp",
+ "glb_url": "assets/人形/站立右出现/站立右出现.glb"
+}

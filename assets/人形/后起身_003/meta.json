@@ -1,0 +1,17 @@
+{
+ "id": "7402e983-c3a9-4680-abad-fdd470fd1f4f",
+ "index": 1791166461649,
+ "name": "后起身_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "起身"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后起身_003/preview.webp",
+ "glb_url": "assets/人形/后起身_003/后起身_003.glb"
+}

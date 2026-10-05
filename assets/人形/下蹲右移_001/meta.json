@@ -1,0 +1,18 @@
+{
+ "id": "1b5982bf-001a-4cc5-9cc9-a289e0730a1e",
+ "index": 1791165078922,
+ "name": "下蹲右移_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走",
+  "下蹲"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲右移_001/preview.webp",
+ "glb_url": "assets/人形/下蹲右移_001/下蹲右移_001.glb"
+}

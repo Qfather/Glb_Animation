@@ -1,0 +1,17 @@
+{
+ "id": "37b88167-5711-4b67-9186-a0b17a7eb1da",
+ "index": 1791172829373,
+ "name": "投掷瞄准_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "投掷"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/投掷瞄准_001/preview.webp",
+ "glb_url": "assets/人形/投掷瞄准_001/投掷瞄准_001.glb"
+}

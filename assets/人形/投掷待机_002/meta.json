@@ -1,0 +1,18 @@
+{
+ "id": "54de6fca-8e0a-4b82-b7d7-2b91a9753c60",
+ "index": 1791172980216,
+ "name": "投掷待机_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "投掷"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/投掷待机_002/preview.webp",
+ "glb_url": "assets/人形/投掷待机_002/投掷待机_002.glb"
+}

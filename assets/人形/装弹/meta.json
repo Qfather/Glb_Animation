@@ -1,0 +1,17 @@
+{
+ "id": "c5f4c492-9f0e-40fd-b436-e4dfc6bc3717",
+ "index": 1791179572492,
+ "name": "装弹",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/装弹/preview.webp",
+ "glb_url": "assets/人形/装弹/装弹.glb"
+}

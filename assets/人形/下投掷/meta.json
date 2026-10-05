@@ -1,0 +1,17 @@
+{
+ "id": "cb21a26a-48c4-4f5f-a5ce-bf8b8f1be13a",
+ "index": 1791184654818,
+ "name": "下投掷",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "投掷"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下投掷/preview.webp",
+ "glb_url": "assets/人形/下投掷/下投掷.glb"
+}

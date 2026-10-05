@@ -1,0 +1,15 @@
+{
+ "id": "7830019e-649c-4d26-9f49-acb0f1e18f4a",
+ "index": 1791172910464,
+ "name": "站立右观察",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/站立右观察/preview.webp",
+ "glb_url": "assets/人形/站立右观察/站立右观察.glb"
+}

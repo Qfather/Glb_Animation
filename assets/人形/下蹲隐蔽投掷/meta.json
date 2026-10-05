@@ -1,0 +1,18 @@
+{
+ "id": "9a6633ee-a05f-46f6-bccd-1f568c232edb",
+ "index": 1791184322466,
+ "name": "下蹲隐蔽投掷",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "投掷"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲隐蔽投掷/preview.webp",
+ "glb_url": "assets/人形/下蹲隐蔽投掷/下蹲隐蔽投掷.glb"
+}

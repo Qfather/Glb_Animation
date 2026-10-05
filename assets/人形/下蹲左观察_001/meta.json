@@ -1,0 +1,17 @@
+{
+ "id": "0f509794-2590-40eb-a150-2f1aff56f70c",
+ "index": 1791172849764,
+ "name": "下蹲左观察_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲"
+ ],
+ "weapons": [
+  "火箭筒"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下蹲左观察_001/preview.webp",
+ "glb_url": "assets/人形/下蹲左观察_001/下蹲左观察_001.glb"
+}
