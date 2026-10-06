@@ -1,0 +1,16 @@
+{
+ "id": "c101836c-ffcf-4775-9340-e154bd94f311",
+ "index": 1791254644207,
+ "name": "巡视待机_010",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/巡视待机_010/preview.webp",
+ "glb_url": "assets/人形/巡视待机_010/巡视待机_010.glb"
+}

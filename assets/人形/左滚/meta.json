@@ -1,0 +1,17 @@
+{
+ "id": "edcad938-d713-4463-b17b-1feecd628547",
+ "index": 1791255185885,
+ "name": "左滚",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "闪避"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左滚/preview.webp",
+ "glb_url": "assets/人形/左滚/左滚.glb"
+}

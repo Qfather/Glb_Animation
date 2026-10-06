@@ -1,0 +1,15 @@
+{
+ "id": "1a066563-2e31-4134-a2ef-1f299e996459",
+ "index": 1791256365451,
+ "name": "死亡",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "死亡"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/死亡/preview.webp",
+ "glb_url": "assets/人形怪物/死亡/死亡.glb"
+}

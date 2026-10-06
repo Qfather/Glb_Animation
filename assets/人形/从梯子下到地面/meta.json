@@ -1,0 +1,15 @@
+{
+ "id": "d0708110-2760-46ba-9928-42e8c0344b4d",
+ "index": 1791254473769,
+ "name": "从梯子下到地面",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/从梯子下到地面/preview.webp",
+ "glb_url": "assets/人形/从梯子下到地面/从梯子下到地面.glb"
+}

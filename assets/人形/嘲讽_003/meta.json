@@ -1,0 +1,17 @@
+{
+ "id": "79d07427-f367-41d9-b282-e4a910a74c33",
+ "index": 1791255965195,
+ "name": "嘲讽_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "嘲讽"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/嘲讽_003/preview.webp",
+ "glb_url": "assets/人形/嘲讽_003/嘲讽_003.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "bfa08653-0f9c-49f9-b0e9-4c900abff6de",
+ "index": 1791256286075,
+ "name": "跳双爪",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/跳双爪/preview.webp",
+ "glb_url": "assets/人形怪物/跳双爪/跳双爪.glb"
+}

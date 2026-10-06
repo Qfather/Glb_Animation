@@ -1,0 +1,17 @@
+{
+ "id": "8db4696a-8abe-42ad-a06e-648d8bc9a68c",
+ "index": 1791256021571,
+ "name": "右走_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右走_007/preview.webp",
+ "glb_url": "assets/人形/右走_007/右走_007.glb"
+}

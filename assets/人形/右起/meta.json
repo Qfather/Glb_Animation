@@ -1,0 +1,17 @@
+{
+ "id": "7269e1ef-701a-475a-9a33-be58d5a47703",
+ "index": 1791255253937,
+ "name": "右起",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "起身"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右起/preview.webp",
+ "glb_url": "assets/人形/右起/右起.glb"
+}

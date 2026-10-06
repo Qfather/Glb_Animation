@@ -1,0 +1,17 @@
+{
+ "id": "1564d20a-bdb3-4b12-8fa8-5d41a9d3e308",
+ "index": 1791255907082,
+ "name": "粉碎！",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/粉碎/preview.webp",
+ "glb_url": "assets/人形/粉碎/粉碎.glb"
+}

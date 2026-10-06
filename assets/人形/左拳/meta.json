@@ -1,0 +1,17 @@
+{
+ "id": "cbc6f9eb-fcd3-4f94-80b6-6575e9cbbb42",
+ "index": 1791255714690,
+ "name": "左拳",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左拳/preview.webp",
+ "glb_url": "assets/人形/左拳/左拳.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "5ca6fb0f-4923-459d-8ece-8626d0720af7",
+ "index": 1791254709541,
+ "name": "墙上左跳起",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳",
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/墙上左跳起/preview.webp",
+ "glb_url": "assets/人形/墙上左跳起/墙上左跳起.glb"
+}

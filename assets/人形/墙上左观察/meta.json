@@ -1,0 +1,16 @@
+{
+ "id": "db3db13a-3531-4900-85aa-0be03fd4e6cd",
+ "index": 1791254657386,
+ "name": "墙上左观察",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/墙上左观察/preview.webp",
+ "glb_url": "assets/人形/墙上左观察/墙上左观察.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "c8c490c4-5fef-4416-8798-30399db8bd44",
+ "index": 1791254407367,
+ "name": "开始下梯子",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/开始下梯子/preview.webp",
+ "glb_url": "assets/人形/开始下梯子/开始下梯子.glb"
+}

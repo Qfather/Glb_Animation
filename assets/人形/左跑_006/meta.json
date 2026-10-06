@@ -1,0 +1,17 @@
+{
+ "id": "96795920-1c12-4f3a-9be5-1fe7afc43e6f",
+ "index": 1791255900166,
+ "name": "左跑_006",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左跑_006/preview.webp",
+ "glb_url": "assets/人形/左跑_006/左跑_006.glb"
+}

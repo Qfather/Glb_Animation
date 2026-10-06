@@ -1,0 +1,15 @@
+{
+ "id": "4aa5e72f-9af1-4814-ab21-df28c44ff373",
+ "index": 1791256846680,
+ "name": "咆哮_001",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "嘲讽"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/咆哮_001/preview.webp",
+ "glb_url": "assets/人形怪物/咆哮_001/咆哮_001.glb"
+}

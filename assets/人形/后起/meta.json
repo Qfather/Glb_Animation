@@ -1,0 +1,17 @@
+{
+ "id": "9443eedd-7ddb-4e6f-9f8b-a9857ad5da90",
+ "index": 1791255230776,
+ "name": "后起",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "起身"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后起/preview.webp",
+ "glb_url": "assets/人形/后起/后起.glb"
+}

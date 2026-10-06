@@ -1,0 +1,15 @@
+{
+ "id": "cf1fc6ca-6a0a-4fa6-a48b-1278089e33b3",
+ "index": 1791254874772,
+ "name": "上爬",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/上爬/preview.webp",
+ "glb_url": "assets/人形/上爬/上爬.glb"
+}

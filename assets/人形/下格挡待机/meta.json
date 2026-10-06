@@ -1,0 +1,18 @@
+{
+ "id": "65fa0e74-068b-4dce-a685-9cde45f1d651",
+ "index": 1791255342062,
+ "name": "下格挡待机",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "格挡"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/下格挡待机/preview.webp",
+ "glb_url": "assets/人形/下格挡待机/下格挡待机.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "8d052df2-f538-41a3-a0c0-d6bbf990971d",
+ "index": 1791256564453,
+ "name": "巡视待机_011",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/巡视待机_011/preview.webp",
+ "glb_url": "assets/人形怪物/巡视待机_011/巡视待机_011.glb"
+}

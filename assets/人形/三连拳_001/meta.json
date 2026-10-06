@@ -1,0 +1,18 @@
+{
+ "id": "c401b7bc-4276-4b0d-97d5-7f440a6221f9",
+ "index": 1791255495898,
+ "name": "三连拳_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/三连拳_001/preview.webp",
+ "glb_url": "assets/人形/三连拳_001/三连拳_001.glb"
+}

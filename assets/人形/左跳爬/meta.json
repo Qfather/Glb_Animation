@@ -1,0 +1,16 @@
+{
+ "id": "fa4b2644-a70e-45db-aa6d-aa842e84eac8",
+ "index": 1791254906108,
+ "name": "左跳爬",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳",
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/左跳爬/preview.webp",
+ "glb_url": "assets/人形/左跳爬/左跳爬.glb"
+}

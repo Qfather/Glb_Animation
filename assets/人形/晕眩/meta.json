@@ -1,0 +1,17 @@
+{
+ "id": "338390ef-0ee2-41f2-98a3-af604702aafc",
+ "index": 1791255941776,
+ "name": "晕眩",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/晕眩/preview.webp",
+ "glb_url": "assets/人形/晕眩/晕眩.glb"
+}

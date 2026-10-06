@@ -1,0 +1,15 @@
+{
+ "id": "f6e6dc40-4266-4965-80d3-ba23039b7496",
+ "index": 1791256527220,
+ "name": "后击",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/后击/preview.webp",
+ "glb_url": "assets/人形怪物/后击/后击.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "23fb6b00-35fc-46e9-a046-5bddfd0db21a",
+ "index": 1791255847965,
+ "name": "右中踢",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右中踢/preview.webp",
+ "glb_url": "assets/人形/右中踢/右中踢.glb"
+}

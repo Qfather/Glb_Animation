@@ -1,0 +1,15 @@
+{
+ "id": "a515a3b7-ab96-43f5-bb0f-94e7486ae79c",
+ "index": 1791257092243,
+ "name": "左走_008",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/左走_008/preview.webp",
+ "glb_url": "assets/人形怪物/左走_008/左走_008.glb"
+}

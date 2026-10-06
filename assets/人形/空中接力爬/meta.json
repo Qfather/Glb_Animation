@@ -1,0 +1,15 @@
+{
+ "id": "b2af0316-bb25-44be-8e52-25229ba121bb",
+ "index": 1791254546965,
+ "name": "空中接力爬",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/空中接力爬/preview.webp",
+ "glb_url": "assets/人形/空中接力爬/空中接力爬.glb"
+}

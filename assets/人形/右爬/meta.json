@@ -1,0 +1,15 @@
+{
+ "id": "938f3c26-2f8d-4f5a-a438-ef3d3c4ce263",
+ "index": 1791254870367,
+ "name": "右爬",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/右爬/preview.webp",
+ "glb_url": "assets/人形/右爬/右爬.glb"
+}

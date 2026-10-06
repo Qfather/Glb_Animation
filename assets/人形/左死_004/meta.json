@@ -1,0 +1,17 @@
+{
+ "id": "798a054a-5b4a-4c7e-b86f-af22db8baefb",
+ "index": 1791255161847,
+ "name": "左死_004",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "死亡"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左死_004/preview.webp",
+ "glb_url": "assets/人形/左死_004/左死_004.glb"
+}

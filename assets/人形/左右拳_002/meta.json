@@ -1,0 +1,18 @@
+{
+ "id": "573ebba7-4a32-4fa8-99ef-7fb94bad4a26",
+ "index": 1791255440523,
+ "name": "左右拳_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左右拳_002/preview.webp",
+ "glb_url": "assets/人形/左右拳_002/左右拳_002.glb"
+}

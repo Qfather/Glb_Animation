@@ -1,0 +1,17 @@
+{
+ "id": "26c54768-6ff0-4431-beb5-c75076b5803b",
+ "index": 1791255831586,
+ "name": "右中勾拳",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右中勾拳/preview.webp",
+ "glb_url": "assets/人形/右中勾拳/右中勾拳.glb"
+}

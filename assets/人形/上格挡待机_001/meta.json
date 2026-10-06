@@ -1,0 +1,18 @@
+{
+ "id": "c47f15bd-971e-4b01-ae26-55392e390bfc",
+ "index": 1791255314154,
+ "name": "上格挡待机_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "格挡"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/上格挡待机_001/preview.webp",
+ "glb_url": "assets/人形/上格挡待机_001/上格挡待机_001.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "8281d713-0f08-435b-8c78-f89b11ea1feb",
+ "index": 1791254574399,
+ "name": "墙上松左手观察",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/墙上松左手观察/preview.webp",
+ "glb_url": "assets/人形/墙上松左手观察/墙上松左手观察.glb"
+}

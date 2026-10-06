@@ -1,0 +1,17 @@
+{
+ "id": "0eab8626-5461-4da6-9ef9-33686ece68a6",
+ "index": 1791255354801,
+ "name": "攻击待机",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/攻击待机/preview.webp",
+ "glb_url": "assets/人形/攻击待机/攻击待机.glb"
+}

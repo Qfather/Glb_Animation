@@ -1,0 +1,15 @@
+{
+ "id": "5d29e46d-8bb7-44b1-a694-52afd2595ef4",
+ "index": 1791256331512,
+ "name": "右爪",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/右爪/preview.webp",
+ "glb_url": "assets/人形怪物/右爪/右爪.glb"
+}

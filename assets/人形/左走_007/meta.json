@@ -1,0 +1,17 @@
+{
+ "id": "2ca5b6bb-d7a9-46bf-8475-010a69876d26",
+ "index": 1791256017793,
+ "name": "左走_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左走_007/preview.webp",
+ "glb_url": "assets/人形/左走_007/左走_007.glb"
+}

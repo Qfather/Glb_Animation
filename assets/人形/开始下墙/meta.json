@@ -1,0 +1,15 @@
+{
+ "id": "07e768c2-c4ce-42a0-a09a-1ecbee7be62e",
+ "index": 1791254441083,
+ "name": "开始下墙",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/开始下墙/preview.webp",
+ "glb_url": "assets/人形/开始下墙/开始下墙.glb"
+}

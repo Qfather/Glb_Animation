@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-10-05T17:21:05",
+ "generated_at": "2026-10-06T11:24:55",
  "items": [
   {
    "id": "32780085-90b8-4d08-9dde-4287e8e48970",
@@ -11210,6 +11210,2519 @@
    "category": "",
    "preview_url": "assets/人形/右走_006/preview.webp",
    "glb_url": "assets/人形/右走_006/右走_006.glb"
+  },
+  {
+   "id": "01d660a9-0cf1-4f89-ad09-fb5588724b1e",
+   "index": 1791254311971,
+   "name": "下梯子",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/下梯子/preview.webp",
+   "glb_url": "assets/人形/下梯子/下梯子.glb"
+  },
+  {
+   "id": "ebb18a9b-07eb-4faa-b0a8-c559024c8ad9",
+   "index": 1791254328798,
+   "name": "单手爬_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/单手爬_003/preview.webp",
+   "glb_url": "assets/人形/单手爬_003/单手爬_003.glb"
+  },
+  {
+   "id": "65a3f3a4-ca04-44a3-b6ed-89f366894333",
+   "index": 1791254345177,
+   "name": "双手爬_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/双手爬_003/preview.webp",
+   "glb_url": "assets/人形/双手爬_003/双手爬_003.glb"
+  },
+  {
+   "id": "61f3f464-1f86-4a6d-bd14-28ad8efd7dc5",
+   "index": 1791254354807,
+   "name": "左脚上台阶_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/左脚上台阶_003/preview.webp",
+   "glb_url": "assets/人形/左脚上台阶_003/左脚上台阶_003.glb"
+  },
+  {
+   "id": "c18fc1b0-e0b4-4aa5-8544-d60a08a815da",
+   "index": 1791254374993,
+   "name": "右脚上台阶_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/右脚上台阶_003/preview.webp",
+   "glb_url": "assets/人形/右脚上台阶_003/右脚上台阶_003.glb"
+  },
+  {
+   "id": "4575bd50-8aea-4a9a-aeba-b56294ae559d",
+   "index": 1791254380537,
+   "name": "上梯子",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/上梯子/preview.webp",
+   "glb_url": "assets/人形/上梯子/上梯子.glb"
+  },
+  {
+   "id": "73ad3ccd-05cb-4f19-a41a-580d33c50050",
+   "index": 1791254385689,
+   "name": "进入梯子",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/进入梯子/preview.webp",
+   "glb_url": "assets/人形/进入梯子/进入梯子.glb"
+  },
+  {
+   "id": "c8c490c4-5fef-4416-8798-30399db8bd44",
+   "index": 1791254407367,
+   "name": "开始下梯子",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/开始下梯子/preview.webp",
+   "glb_url": "assets/人形/开始下梯子/开始下梯子.glb"
+  },
+  {
+   "id": "d4fc527e-c8b0-4b6b-8ada-f1adfc47b0a8",
+   "index": 1791254423802,
+   "name": "开始爬墙",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/开始爬墙/preview.webp",
+   "glb_url": "assets/人形/开始爬墙/开始爬墙.glb"
+  },
+  {
+   "id": "07e768c2-c4ce-42a0-a09a-1ecbee7be62e",
+   "index": 1791254441083,
+   "name": "开始下墙",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/开始下墙/preview.webp",
+   "glb_url": "assets/人形/开始下墙/开始下墙.glb"
+  },
+  {
+   "id": "37ed8304-a990-4915-b789-b38f06bb8fbe",
+   "index": 1791254446332,
+   "name": "从墙跳下",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/从墙跳下/preview.webp",
+   "glb_url": "assets/人形/从墙跳下/从墙跳下.glb"
+  },
+  {
+   "id": "d0708110-2760-46ba-9928-42e8c0344b4d",
+   "index": 1791254473769,
+   "name": "从梯子下到地面",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/从梯子下到地面/preview.webp",
+   "glb_url": "assets/人形/从梯子下到地面/从梯子下到地面.glb"
+  },
+  {
+   "id": "ae0c188c-b159-43a4-a475-d8a1193ec311",
+   "index": 1791254494347,
+   "name": "梯子上到顶",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/梯子上到顶/preview.webp",
+   "glb_url": "assets/人形/梯子上到顶/梯子上到顶.glb"
+  },
+  {
+   "id": "14ae68aa-652b-416e-b4a8-14a907b43796",
+   "index": 1791254514693,
+   "name": "下墙",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/下墙/preview.webp",
+   "glb_url": "assets/人形/下墙/下墙.glb"
+  },
+  {
+   "id": "e808b488-cf70-42a0-a2c9-5ef6715561d7",
+   "index": 1791254530300,
+   "name": "上墙",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/上墙/preview.webp",
+   "glb_url": "assets/人形/上墙/上墙.glb"
+  },
+  {
+   "id": "e17eeebc-700b-4892-9b41-7a922e9e688a",
+   "index": 1791254536623,
+   "name": "浮空_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/浮空_005/preview.webp",
+   "glb_url": "assets/人形/浮空_005/浮空_005.glb"
+  },
+  {
+   "id": "b2af0316-bb25-44be-8e52-25229ba121bb",
+   "index": 1791254546965,
+   "name": "空中接力爬",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/空中接力爬/preview.webp",
+   "glb_url": "assets/人形/空中接力爬/空中接力爬.glb"
+  },
+  {
+   "id": "8281d713-0f08-435b-8c78-f89b11ea1feb",
+   "index": 1791254574399,
+   "name": "墙上松左手观察",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/墙上松左手观察/preview.webp",
+   "glb_url": "assets/人形/墙上松左手观察/墙上松左手观察.glb"
+  },
+  {
+   "id": "bb630b4c-83d4-4244-be01-5642661a78ea",
+   "index": 1791254600537,
+   "name": "墙上松右手观察",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/墙上松右手观察/preview.webp",
+   "glb_url": "assets/人形/墙上松右手观察/墙上松右手观察.glb"
+  },
+  {
+   "id": "38896c2d-fe74-42ee-9da1-6efefccdf133",
+   "index": 1791254610009,
+   "name": "待机呼吸",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/待机呼吸/preview.webp",
+   "glb_url": "assets/人形/待机呼吸/待机呼吸.glb"
+  },
+  {
+   "id": "533c5029-7759-436a-b70f-c7fd0c578e7d",
+   "index": 1791254623792,
+   "name": "梯子待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/梯子待机/preview.webp",
+   "glb_url": "assets/人形/梯子待机/梯子待机.glb"
+  },
+  {
+   "id": "eda3b5f3-cb6a-469e-8d72-046f91fa1a41",
+   "index": 1791254635221,
+   "name": "梯子待机_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/梯子待机_001/preview.webp",
+   "glb_url": "assets/人形/梯子待机_001/梯子待机_001.glb"
+  },
+  {
+   "id": "c101836c-ffcf-4775-9340-e154bd94f311",
+   "index": 1791254644207,
+   "name": "巡视待机_010",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/巡视待机_010/preview.webp",
+   "glb_url": "assets/人形/巡视待机_010/巡视待机_010.glb"
+  },
+  {
+   "id": "db3db13a-3531-4900-85aa-0be03fd4e6cd",
+   "index": 1791254657386,
+   "name": "墙上左观察",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/墙上左观察/preview.webp",
+   "glb_url": "assets/人形/墙上左观察/墙上左观察.glb"
+  },
+  {
+   "id": "68fc1328-845d-481d-b6aa-ac51c8885c65",
+   "index": 1791254697855,
+   "name": "墙上右观察",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/墙上右观察/preview.webp",
+   "glb_url": "assets/人形/墙上右观察/墙上右观察.glb"
+  },
+  {
+   "id": "6ac7e518-2fa1-4ca1-8e17-39bfc8d43de4",
+   "index": 1791254702719,
+   "name": "墙上待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/墙上待机/preview.webp",
+   "glb_url": "assets/人形/墙上待机/墙上待机.glb"
+  },
+  {
+   "id": "5ca6fb0f-4923-459d-8ece-8626d0720af7",
+   "index": 1791254709541,
+   "name": "墙上左跳起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳",
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/墙上左跳起/preview.webp",
+   "glb_url": "assets/人形/墙上左跳起/墙上左跳起.glb"
+  },
+  {
+   "id": "37c6204e-0e6c-46ba-8a4b-03abddd16bd1",
+   "index": 1791254732570,
+   "name": "墙上右跳起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳",
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/墙上右跳起/preview.webp",
+   "glb_url": "assets/人形/墙上右跳起/墙上右跳起.glb"
+  },
+  {
+   "id": "14144670-3707-44d4-b7a6-14e99f712f35",
+   "index": 1791254738020,
+   "name": "起跳_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/起跳_004/preview.webp",
+   "glb_url": "assets/人形/起跳_004/起跳_004.glb"
+  },
+  {
+   "id": "1ecaabb7-b6d4-44d2-881d-d05246f1091e",
+   "index": 1791254801284,
+   "name": "重着陆_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/重着陆_005/preview.webp",
+   "glb_url": "assets/人形/重着陆_005/重着陆_005.glb"
+  },
+  {
+   "id": "d847410c-fabd-47c9-98b0-8ec0d0b3df76",
+   "index": 1791254816163,
+   "name": "轻着陆_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/轻着陆_005/preview.webp",
+   "glb_url": "assets/人形/轻着陆_005/轻着陆_005.glb"
+  },
+  {
+   "id": "2414b55e-7679-41c9-80c3-734c6c921040",
+   "index": 1791254821940,
+   "name": "中着陆_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/中着陆_005/preview.webp",
+   "glb_url": "assets/人形/中着陆_005/中着陆_005.glb"
+  },
+  {
+   "id": "6b5c59c8-07f7-4fb2-8719-bd45ff5eea19",
+   "index": 1791254842771,
+   "name": "下墙_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/下墙_001/preview.webp",
+   "glb_url": "assets/人形/下墙_001/下墙_001.glb"
+  },
+  {
+   "id": "1ca6b622-1823-4a22-8cd6-a8fcaa444d75",
+   "index": 1791254865260,
+   "name": "左爬",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/左爬/preview.webp",
+   "glb_url": "assets/人形/左爬/左爬.glb"
+  },
+  {
+   "id": "938f3c26-2f8d-4f5a-a438-ef3d3c4ce263",
+   "index": 1791254870367,
+   "name": "右爬",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/右爬/preview.webp",
+   "glb_url": "assets/人形/右爬/右爬.glb"
+  },
+  {
+   "id": "cf1fc6ca-6a0a-4fa6-a48b-1278089e33b3",
+   "index": 1791254874772,
+   "name": "上爬",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/上爬/preview.webp",
+   "glb_url": "assets/人形/上爬/上爬.glb"
+  },
+  {
+   "id": "f5a80650-8ed6-40b6-bc81-9b6243874673",
+   "index": 1791254887508,
+   "name": "下跳爬",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳",
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/下跳爬/preview.webp",
+   "glb_url": "assets/人形/下跳爬/下跳爬.glb"
+  },
+  {
+   "id": "fa4b2644-a70e-45db-aa6d-aa842e84eac8",
+   "index": 1791254906108,
+   "name": "左跳爬",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳",
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/左跳爬/preview.webp",
+   "glb_url": "assets/人形/左跳爬/左跳爬.glb"
+  },
+  {
+   "id": "87e8df42-dceb-4ff3-8db5-11716b00b568",
+   "index": 1791254914636,
+   "name": "右跳爬",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳",
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/右跳爬/preview.webp",
+   "glb_url": "assets/人形/右跳爬/右跳爬.glb"
+  },
+  {
+   "id": "7a9d04c2-7ccb-485d-b108-4f8cec3935a8",
+   "index": 1791254923506,
+   "name": "上跳爬",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跳",
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/上跳爬/preview.webp",
+   "glb_url": "assets/人形/上跳爬/上跳爬.glb"
+  },
+  {
+   "id": "f6af02cd-6b59-4572-a6ac-68b818ba6998",
+   "index": 1791254994724,
+   "name": "左右踢",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右踢/preview.webp",
+   "glb_url": "assets/人形/左右踢/左右踢.glb"
+  },
+  {
+   "id": "48cdec80-c63d-4b72-9b77-49196076ef95",
+   "index": 1791255011164,
+   "name": "左右踢_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右踢_001/preview.webp",
+   "glb_url": "assets/人形/左右踢_001/左右踢_001.glb"
+  },
+  {
+   "id": "6fedbd8b-93ed-43ef-9f20-1e015add89c1",
+   "index": 1791255022498,
+   "name": "旋风腿",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/旋风腿/preview.webp",
+   "glb_url": "assets/人形/旋风腿/旋风腿.glb"
+  },
+  {
+   "id": "49c80b61-6245-41f1-a123-d4d79ff1f134",
+   "index": 1791255033169,
+   "name": "高格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/高格挡/preview.webp",
+   "glb_url": "assets/人形/高格挡/高格挡.glb"
+  },
+  {
+   "id": "d7870285-15bd-4b66-8414-9872dd473bc3",
+   "index": 1791255054090,
+   "name": "中格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/中格挡/preview.webp",
+   "glb_url": "assets/人形/中格挡/中格挡.glb"
+  },
+  {
+   "id": "c5b2541a-b465-40c9-9709-d4a27b75bd3a",
+   "index": 1791255070982,
+   "name": "抱紧",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/抱紧/preview.webp",
+   "glb_url": "assets/人形/抱紧/抱紧.glb"
+  },
+  {
+   "id": "36d57fa2-24a6-4d84-82f2-12053041a42a",
+   "index": 1791255151820,
+   "name": "后死_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后死_004/preview.webp",
+   "glb_url": "assets/人形/后死_004/后死_004.glb"
+  },
+  {
+   "id": "7b805a2e-affb-4e6f-aff1-a863ac28c049",
+   "index": 1791255157802,
+   "name": "前死_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前死_004/preview.webp",
+   "glb_url": "assets/人形/前死_004/前死_004.glb"
+  },
+  {
+   "id": "798a054a-5b4a-4c7e-b86f-af22db8baefb",
+   "index": 1791255161847,
+   "name": "左死_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左死_004/preview.webp",
+   "glb_url": "assets/人形/左死_004/左死_004.glb"
+  },
+  {
+   "id": "048494be-212e-4cdb-911a-14b87fa81135",
+   "index": 1791255165768,
+   "name": "右死_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右死_004/preview.webp",
+   "glb_url": "assets/人形/右死_004/右死_004.glb"
+  },
+  {
+   "id": "c561e817-9760-48dc-98e1-8c7f73a2a222",
+   "index": 1791255176288,
+   "name": "后滚",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "闪避"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后滚/preview.webp",
+   "glb_url": "assets/人形/后滚/后滚.glb"
+  },
+  {
+   "id": "0213b380-138b-4d90-a1c5-dcf7a7e1f32d",
+   "index": 1791255181377,
+   "name": "前滚",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "闪避"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前滚/preview.webp",
+   "glb_url": "assets/人形/前滚/前滚.glb"
+  },
+  {
+   "id": "edcad938-d713-4463-b17b-1feecd628547",
+   "index": 1791255185885,
+   "name": "左滚",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "闪避"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左滚/preview.webp",
+   "glb_url": "assets/人形/左滚/左滚.glb"
+  },
+  {
+   "id": "4970af1a-297d-4348-9940-83286449f0c7",
+   "index": 1791255190539,
+   "name": "右滚",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "闪避"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右滚/preview.webp",
+   "glb_url": "assets/人形/右滚/右滚.glb"
+  },
+  {
+   "id": "c7859896-5813-440b-aef9-2a86271f7144",
+   "index": 1791255220279,
+   "name": "能量拳头",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/能量拳头/preview.webp",
+   "glb_url": "assets/人形/能量拳头/能量拳头.glb"
+  },
+  {
+   "id": "9443eedd-7ddb-4e6f-9f8b-a9857ad5da90",
+   "index": 1791255230776,
+   "name": "后起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后起/preview.webp",
+   "glb_url": "assets/人形/后起/后起.glb"
+  },
+  {
+   "id": "7aee625c-eae7-4865-b2a2-b2f690b4de56",
+   "index": 1791255235558,
+   "name": "前起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前起/preview.webp",
+   "glb_url": "assets/人形/前起/前起.glb"
+  },
+  {
+   "id": "730f0148-d016-4b80-913b-aa462167f3b4",
+   "index": 1791255250146,
+   "name": "左起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左起/preview.webp",
+   "glb_url": "assets/人形/左起/左起.glb"
+  },
+  {
+   "id": "7269e1ef-701a-475a-9a33-be58d5a47703",
+   "index": 1791255253937,
+   "name": "右起",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右起/preview.webp",
+   "glb_url": "assets/人形/右起/右起.glb"
+  },
+  {
+   "id": "40c56d3d-7a2d-48cc-883c-deddbeaa8f6a",
+   "index": 1791255271673,
+   "name": "后重击_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后重击_004/preview.webp",
+   "glb_url": "assets/人形/后重击_004/后重击_004.glb"
+  },
+  {
+   "id": "01a82a05-6c72-463d-af79-0e56d58d40ff",
+   "index": 1791255277620,
+   "name": "后轻击_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后轻击_004/preview.webp",
+   "glb_url": "assets/人形/后轻击_004/后轻击_004.glb"
+  },
+  {
+   "id": "51392e14-faa2-4479-9f5e-06e8a3d158f5",
+   "index": 1791255284333,
+   "name": "前重击_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前重击_004/preview.webp",
+   "glb_url": "assets/人形/前重击_004/前重击_004.glb"
+  },
+  {
+   "id": "3db54073-ab7b-4366-a37a-988e2c24f546",
+   "index": 1791255288913,
+   "name": "前轻击_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前轻击_004/preview.webp",
+   "glb_url": "assets/人形/前轻击_004/前轻击_004.glb"
+  },
+  {
+   "id": "5cb852b7-3901-4f52-86ee-898c9e296c1f",
+   "index": 1791255292821,
+   "name": "左重击_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左重击_005/preview.webp",
+   "glb_url": "assets/人形/左重击_005/左重击_005.glb"
+  },
+  {
+   "id": "af1ec0a0-c360-4f44-82e2-6bdaaadc6963",
+   "index": 1791255296543,
+   "name": "左轻击_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左轻击_004/preview.webp",
+   "glb_url": "assets/人形/左轻击_004/左轻击_004.glb"
+  },
+  {
+   "id": "dd36b915-68c6-4796-a168-b186cee72c70",
+   "index": 1791255301372,
+   "name": "右重击_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右重击_003/preview.webp",
+   "glb_url": "assets/人形/右重击_003/右重击_003.glb"
+  },
+  {
+   "id": "317e0d26-476d-43cb-aac5-afc908d41895",
+   "index": 1791255306855,
+   "name": "右轻击_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右轻击_004/preview.webp",
+   "glb_url": "assets/人形/右轻击_004/右轻击_004.glb"
+  },
+  {
+   "id": "c47f15bd-971e-4b01-ae26-55392e390bfc",
+   "index": 1791255314154,
+   "name": "上格挡待机_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "格挡"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/上格挡待机_001/preview.webp",
+   "glb_url": "assets/人形/上格挡待机_001/上格挡待机_001.glb"
+  },
+  {
+   "id": "65fa0e74-068b-4dce-a685-9cde45f1d651",
+   "index": 1791255342062,
+   "name": "下格挡待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机",
+    "格挡"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下格挡待机/preview.webp",
+   "glb_url": "assets/人形/下格挡待机/下格挡待机.glb"
+  },
+  {
+   "id": "0eab8626-5461-4da6-9ef9-33686ece68a6",
+   "index": 1791255354801,
+   "name": "攻击待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击待机/preview.webp",
+   "glb_url": "assets/人形/攻击待机/攻击待机.glb"
+  },
+  {
+   "id": "8ff0ff43-fd65-4c1d-b464-f37299dd9727",
+   "index": 1791255380571,
+   "name": "轻拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/轻拳/preview.webp",
+   "glb_url": "assets/人形/轻拳/轻拳.glb"
+  },
+  {
+   "id": "0a7162b1-7720-4909-9a1e-f89e3bc21918",
+   "index": 1791255384888,
+   "name": "直拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/直拳/preview.webp",
+   "glb_url": "assets/人形/直拳/直拳.glb"
+  },
+  {
+   "id": "fba5ebf5-9b58-4278-99a6-bf25d452e26d",
+   "index": 1791255411636,
+   "name": "左右拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右拳/preview.webp",
+   "glb_url": "assets/人形/左右拳/左右拳.glb"
+  },
+  {
+   "id": "892a2aa0-28ca-4e0d-b9f0-c465e897dc0e",
+   "index": 1791255433143,
+   "name": "左右拳_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右拳_001/preview.webp",
+   "glb_url": "assets/人形/左右拳_001/左右拳_001.glb"
+  },
+  {
+   "id": "573ebba7-4a32-4fa8-99ef-7fb94bad4a26",
+   "index": 1791255440523,
+   "name": "左右拳_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右拳_002/preview.webp",
+   "glb_url": "assets/人形/左右拳_002/左右拳_002.glb"
+  },
+  {
+   "id": "c8ccaf5a-3502-4de9-a31f-4c8f56b062eb",
+   "index": 1791255446058,
+   "name": "左右拳_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右拳_003/preview.webp",
+   "glb_url": "assets/人形/左右拳_003/左右拳_003.glb"
+  },
+  {
+   "id": "e706fc07-f799-4084-aa2f-2d386c53f03a",
+   "index": 1791255457280,
+   "name": "左右拳下踢",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右拳下踢/preview.webp",
+   "glb_url": "assets/人形/左右拳下踢/左右拳下踢.glb"
+  },
+  {
+   "id": "87227bef-6b5d-4951-b406-c0d5937ddae1",
+   "index": 1791255470518,
+   "name": "四连拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/四连拳/preview.webp",
+   "glb_url": "assets/人形/四连拳/四连拳.glb"
+  },
+  {
+   "id": "7552935a-a6dd-47a6-bd8b-3a20c1b06bb7",
+   "index": 1791255484879,
+   "name": "三连拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/三连拳/preview.webp",
+   "glb_url": "assets/人形/三连拳/三连拳.glb"
+  },
+  {
+   "id": "c401b7bc-4276-4b0d-97d5-7f440a6221f9",
+   "index": 1791255495898,
+   "name": "三连拳_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/三连拳_001/preview.webp",
+   "glb_url": "assets/人形/三连拳_001/三连拳_001.glb"
+  },
+  {
+   "id": "962424d8-bca1-48fe-9e5b-e081d58c2b23",
+   "index": 1791255513671,
+   "name": "四连拳_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/四连拳_001/preview.webp",
+   "glb_url": "assets/人形/四连拳_001/四连拳_001.glb"
+  },
+  {
+   "id": "5b15e316-0808-4754-ba3c-3333fc89734d",
+   "index": 1791255524530,
+   "name": "左右拳下踢_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右拳下踢_001/preview.webp",
+   "glb_url": "assets/人形/左右拳下踢_001/左右拳下踢_001.glb"
+  },
+  {
+   "id": "928e72bb-dd22-41b4-bc91-0b0cdb226c03",
+   "index": 1791255539385,
+   "name": "左右拳膝撞",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右拳膝撞/preview.webp",
+   "glb_url": "assets/人形/左右拳膝撞/左右拳膝撞.glb"
+  },
+  {
+   "id": "a314b028-ecd3-4107-9665-35e285a7d482",
+   "index": 1791255568240,
+   "name": "左右拳_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右拳_004/preview.webp",
+   "glb_url": "assets/人形/左右拳_004/左右拳_004.glb"
+  },
+  {
+   "id": "65ead4dc-35c2-42d3-852c-e7c3555db4f2",
+   "index": 1791255582340,
+   "name": "左右勾拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右勾拳/preview.webp",
+   "glb_url": "assets/人形/左右勾拳/左右勾拳.glb"
+  },
+  {
+   "id": "4acdb9e1-d393-4d2c-8be4-ec6fe6b2e7da",
+   "index": 1791255594002,
+   "name": "左右上勾拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左右上勾拳/preview.webp",
+   "glb_url": "assets/人形/左右上勾拳/左右上勾拳.glb"
+  },
+  {
+   "id": "04294267-3a26-4163-9cc2-f75b3d825a6f",
+   "index": 1791255607722,
+   "name": "左踢",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左踢/preview.webp",
+   "glb_url": "assets/人形/左踢/左踢.glb"
+  },
+  {
+   "id": "ae9184ab-5382-4cb8-b718-b529189c083d",
+   "index": 1791255627970,
+   "name": "左中拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左中拳/preview.webp",
+   "glb_url": "assets/人形/左中拳/左中拳.glb"
+  },
+  {
+   "id": "3f592a14-b6e7-4817-8e81-178c4caecfa1",
+   "index": 1791255641841,
+   "name": "左勾拳_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左勾拳_001/preview.webp",
+   "glb_url": "assets/人形/左勾拳_001/左勾拳_001.glb"
+  },
+  {
+   "id": "f1956be8-76b6-4fbc-8747-2360e1342ea8",
+   "index": 1791255660041,
+   "name": "左中勾拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左中勾拳/preview.webp",
+   "glb_url": "assets/人形/左中勾拳/左中勾拳.glb"
+  },
+  {
+   "id": "05b66b85-57a0-491b-a8ac-f62ed94d12e4",
+   "index": 1791255673023,
+   "name": "左上勾拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左上勾拳/preview.webp",
+   "glb_url": "assets/人形/左上勾拳/左上勾拳.glb"
+  },
+  {
+   "id": "0184b6cb-a162-4520-9576-88d4b9d62346",
+   "index": 1791255686908,
+   "name": "左正蹬",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左正蹬/preview.webp",
+   "glb_url": "assets/人形/左正蹬/左正蹬.glb"
+  },
+  {
+   "id": "5da47379-acc4-46e5-ad8f-6c2c282fd74e",
+   "index": 1791255701205,
+   "name": "左高踢",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左高踢/preview.webp",
+   "glb_url": "assets/人形/左高踢/左高踢.glb"
+  },
+  {
+   "id": "cbc6f9eb-fcd3-4f94-80b6-6575e9cbbb42",
+   "index": 1791255714690,
+   "name": "左拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左拳/preview.webp",
+   "glb_url": "assets/人形/左拳/左拳.glb"
+  },
+  {
+   "id": "1c2f9e2d-41e8-4c03-9e36-ba6a94a8ebb8",
+   "index": 1791255734465,
+   "name": "右盖帽",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右盖帽/preview.webp",
+   "glb_url": "assets/人形/右盖帽/右盖帽.glb"
+  },
+  {
+   "id": "570e3356-4014-4682-b76e-5dcb169a71e7",
+   "index": 1791255775306,
+   "name": "右蓄力重拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右蓄力重拳/preview.webp",
+   "glb_url": "assets/人形/右蓄力重拳/右蓄力重拳.glb"
+  },
+  {
+   "id": "0a806e13-204e-4745-8bc7-d393df515198",
+   "index": 1791255791498,
+   "name": "右正蹬",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右正蹬/preview.webp",
+   "glb_url": "assets/人形/右正蹬/右正蹬.glb"
+  },
+  {
+   "id": "3196279c-46e4-42df-ba8c-c375997a8717",
+   "index": 1791255808268,
+   "name": "右拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右拳/preview.webp",
+   "glb_url": "assets/人形/右拳/右拳.glb"
+  },
+  {
+   "id": "a0b6120d-f9e4-4708-b612-c56c2764255a",
+   "index": 1791255815640,
+   "name": "右前拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右前拳/preview.webp",
+   "glb_url": "assets/人形/右前拳/右前拳.glb"
+  },
+  {
+   "id": "a9d28de0-72d2-4372-be01-ed32375b6960",
+   "index": 1791255821456,
+   "name": "右勾拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右勾拳/preview.webp",
+   "glb_url": "assets/人形/右勾拳/右勾拳.glb"
+  },
+  {
+   "id": "26c54768-6ff0-4431-beb5-c75076b5803b",
+   "index": 1791255831586,
+   "name": "右中勾拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右中勾拳/preview.webp",
+   "glb_url": "assets/人形/右中勾拳/右中勾拳.glb"
+  },
+  {
+   "id": "1bb853b7-4cc9-4cd9-a7ae-878b891e120c",
+   "index": 1791255836200,
+   "name": "右上勾拳",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右上勾拳/preview.webp",
+   "glb_url": "assets/人形/右上勾拳/右上勾拳.glb"
+  },
+  {
+   "id": "23fb6b00-35fc-46e9-a046-5bddfd0db21a",
+   "index": 1791255847965,
+   "name": "右中踢",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右中踢/preview.webp",
+   "glb_url": "assets/人形/右中踢/右中踢.glb"
+  },
+  {
+   "id": "570ec4fe-0642-4949-b4f7-22f503245e27",
+   "index": 1791255860570,
+   "name": "右拳_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右拳_001/preview.webp",
+   "glb_url": "assets/人形/右拳_001/右拳_001.glb"
+  },
+  {
+   "id": "d366e331-aae5-41a5-bc14-e3f4314b8d34",
+   "index": 1791255884288,
+   "name": "后跑_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后跑_005/preview.webp",
+   "glb_url": "assets/人形/后跑_005/后跑_005.glb"
+  },
+  {
+   "id": "2ea80cae-8283-4e6a-a3d9-bca58bc88d28",
+   "index": 1791255892432,
+   "name": "前跑_010",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前跑_010/preview.webp",
+   "glb_url": "assets/人形/前跑_010/前跑_010.glb"
+  },
+  {
+   "id": "96795920-1c12-4f3a-9be5-1fe7afc43e6f",
+   "index": 1791255900166,
+   "name": "左跑_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左跑_006/preview.webp",
+   "glb_url": "assets/人形/左跑_006/左跑_006.glb"
+  },
+  {
+   "id": "2bc1063d-2d91-41ee-abed-7d6c747d6840",
+   "index": 1791255904538,
+   "name": "右跑_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右跑_006/preview.webp",
+   "glb_url": "assets/人形/右跑_006/右跑_006.glb"
+  },
+  {
+   "id": "1564d20a-bdb3-4b12-8fa8-5d41a9d3e308",
+   "index": 1791255907082,
+   "name": "粉碎！",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/粉碎/preview.webp",
+   "glb_url": "assets/人形/粉碎/粉碎.glb"
+  },
+  {
+   "id": "338390ef-0ee2-41f2-98a3-af604702aafc",
+   "index": 1791255941776,
+   "name": "晕眩",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/晕眩/preview.webp",
+   "glb_url": "assets/人形/晕眩/晕眩.glb"
+  },
+  {
+   "id": "3abcff01-0741-4a10-8ccb-083c6986e773",
+   "index": 1791255960969,
+   "name": "嘲讽_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_002/preview.webp",
+   "glb_url": "assets/人形/嘲讽_002/嘲讽_002.glb"
+  },
+  {
+   "id": "79d07427-f367-41d9-b282-e4a910a74c33",
+   "index": 1791255965195,
+   "name": "嘲讽_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_003/preview.webp",
+   "glb_url": "assets/人形/嘲讽_003/嘲讽_003.glb"
+  },
+  {
+   "id": "94146b22-c0e8-4582-9fc6-ae71e8916dc5",
+   "index": 1791255969651,
+   "name": "嘲讽_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_004/preview.webp",
+   "glb_url": "assets/人形/嘲讽_004/嘲讽_004.glb"
+  },
+  {
+   "id": "65af4c4c-0c0e-4dc3-a04e-ec70d7712377",
+   "index": 1791255972649,
+   "name": "嘲讽_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_005/preview.webp",
+   "glb_url": "assets/人形/嘲讽_005/嘲讽_005.glb"
+  },
+  {
+   "id": "18b6f6c1-a11f-4c8f-ba0f-5ca8c6e37ef5",
+   "index": 1791255996903,
+   "name": "嘲讽_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_006/preview.webp",
+   "glb_url": "assets/人形/嘲讽_006/嘲讽_006.glb"
+  },
+  {
+   "id": "8b388bd2-3615-4ad4-a85a-9ead843677d0",
+   "index": 1791256007148,
+   "name": "后走_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后走_007/preview.webp",
+   "glb_url": "assets/人形/后走_007/后走_007.glb"
+  },
+  {
+   "id": "6c041537-b93b-4f96-ae57-739e9c48d78d",
+   "index": 1791256012823,
+   "name": "前走_009",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前走_009/preview.webp",
+   "glb_url": "assets/人形/前走_009/前走_009.glb"
+  },
+  {
+   "id": "2ca5b6bb-d7a9-46bf-8475-010a69876d26",
+   "index": 1791256017793,
+   "name": "左走_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左走_007/preview.webp",
+   "glb_url": "assets/人形/左走_007/左走_007.glb"
+  },
+  {
+   "id": "8db4696a-8abe-42ad-a06e-648d8bc9a68c",
+   "index": 1791256021571,
+   "name": "右走_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "格斗"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右走_007/preview.webp",
+   "glb_url": "assets/人形/右走_007/右走_007.glb"
+  },
+  {
+   "id": "d5c48e0f-a7ed-43c5-a4ef-c6384b6ba525",
+   "index": 1791256241193,
+   "name": "两连击",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/两连击/preview.webp",
+   "glb_url": "assets/人形怪物/两连击/两连击.glb"
+  },
+  {
+   "id": "6351618c-23c2-4ef0-a824-118cf9cbe075",
+   "index": 1791256247665,
+   "name": "双爪",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/双爪/preview.webp",
+   "glb_url": "assets/人形怪物/双爪/双爪.glb"
+  },
+  {
+   "id": "b82bc447-38c5-42e9-9e2b-74bb06cb2c11",
+   "index": 1791256268181,
+   "name": "跳咬",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/跳咬/preview.webp",
+   "glb_url": "assets/人形怪物/跳咬/跳咬.glb"
+  },
+  {
+   "id": "bfa08653-0f9c-49f9-b0e9-4c900abff6de",
+   "index": 1791256286075,
+   "name": "跳双爪",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/跳双爪/preview.webp",
+   "glb_url": "assets/人形怪物/跳双爪/跳双爪.glb"
+  },
+  {
+   "id": "545b44ba-ab86-470f-9566-c495388aa9b4",
+   "index": 1791256301459,
+   "name": "左爪",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/左爪/preview.webp",
+   "glb_url": "assets/人形怪物/左爪/左爪.glb"
+  },
+  {
+   "id": "776753c4-9ec7-4294-a29d-6f889f3026fe",
+   "index": 1791256307627,
+   "name": "左爪_001",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/左爪_001/preview.webp",
+   "glb_url": "assets/人形怪物/左爪_001/左爪_001.glb"
+  },
+  {
+   "id": "6fa16b7e-8ff5-4c77-bed1-4013f3fe97d9",
+   "index": 1791256314032,
+   "name": "重咬",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/重咬/preview.webp",
+   "glb_url": "assets/人形怪物/重咬/重咬.glb"
+  },
+  {
+   "id": "5d29e46d-8bb7-44b1-a694-52afd2595ef4",
+   "index": 1791256331512,
+   "name": "右爪",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/右爪/preview.webp",
+   "glb_url": "assets/人形怪物/右爪/右爪.glb"
+  },
+  {
+   "id": "43fb41f0-bd40-482a-86fc-9f688149d72e",
+   "index": 1791256339638,
+   "name": "右爪_001",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/右爪_001/preview.webp",
+   "glb_url": "assets/人形怪物/右爪_001/右爪_001.glb"
+  },
+  {
+   "id": "5abc77bd-7974-4932-bcb8-4966f09a69ec",
+   "index": 1791256346201,
+   "name": "右爪_002",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/右爪_002/preview.webp",
+   "glb_url": "assets/人形怪物/右爪_002/右爪_002.glb"
+  },
+  {
+   "id": "1a066563-2e31-4134-a2ef-1f299e996459",
+   "index": 1791256365451,
+   "name": "死亡",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/死亡/preview.webp",
+   "glb_url": "assets/人形怪物/死亡/死亡.glb"
+  },
+  {
+   "id": "f6e6dc40-4266-4965-80d3-ba23039b7496",
+   "index": 1791256527220,
+   "name": "后击",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/后击/preview.webp",
+   "glb_url": "assets/人形怪物/后击/后击.glb"
+  },
+  {
+   "id": "78f00ee6-a37f-4a54-8192-9354e079a02e",
+   "index": 1791256532860,
+   "name": "前击",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/前击/preview.webp",
+   "glb_url": "assets/人形怪物/前击/前击.glb"
+  },
+  {
+   "id": "5ea0962d-5a5b-4a32-a024-8b12daa7587c",
+   "index": 1791256540444,
+   "name": "前击_001",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/前击_001/preview.webp",
+   "glb_url": "assets/人形怪物/前击_001/前击_001.glb"
+  },
+  {
+   "id": "ea416da3-3126-410c-904e-c81996033683",
+   "index": 1791256546115,
+   "name": "左击",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/左击/preview.webp",
+   "glb_url": "assets/人形怪物/左击/左击.glb"
+  },
+  {
+   "id": "dcf20384-6531-44f5-935e-91394a219b79",
+   "index": 1791256551748,
+   "name": "右击",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "受击"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/右击/preview.webp",
+   "glb_url": "assets/人形怪物/右击/右击.glb"
+  },
+  {
+   "id": "bfee8998-1a70-47c2-b9f7-8fd276f6778d",
+   "index": 1791256559199,
+   "name": "待机_020",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/待机_020/preview.webp",
+   "glb_url": "assets/人形怪物/待机_020/待机_020.glb"
+  },
+  {
+   "id": "8d052df2-f538-41a3-a0c0-d6bbf990971d",
+   "index": 1791256564453,
+   "name": "巡视待机_011",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/巡视待机_011/preview.webp",
+   "glb_url": "assets/人形怪物/巡视待机_011/巡视待机_011.glb"
+  },
+  {
+   "id": "3ab46f8e-2891-4f12-bf83-0fe6ffa654a7",
+   "index": 1791256573798,
+   "name": "后跳",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/后跳/preview.webp",
+   "glb_url": "assets/人形怪物/后跳/后跳.glb"
+  },
+  {
+   "id": "2498293c-21be-40ce-8bb1-3e7fe30923a3",
+   "index": 1791256582103,
+   "name": "前跳",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/前跳/preview.webp",
+   "glb_url": "assets/人形怪物/前跳/前跳.glb"
+  },
+  {
+   "id": "d89d4652-ab08-4b55-bde2-3d2d9e710eb3",
+   "index": 1791256586253,
+   "name": "左跳",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/左跳/preview.webp",
+   "glb_url": "assets/人形怪物/左跳/左跳.glb"
+  },
+  {
+   "id": "5700c05e-70e4-4644-88e9-2781d8f49334",
+   "index": 1791256824391,
+   "name": "右跳",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/右跳/preview.webp",
+   "glb_url": "assets/人形怪物/右跳/右跳.glb"
+  },
+  {
+   "id": "2da3bc53-6ddb-4662-b153-b0eef041bd7f",
+   "index": 1791256842065,
+   "name": "咆哮",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/咆哮/preview.webp",
+   "glb_url": "assets/人形怪物/咆哮/咆哮.glb"
+  },
+  {
+   "id": "4aa5e72f-9af1-4814-ab21-df28c44ff373",
+   "index": 1791256846680,
+   "name": "咆哮_001",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/咆哮_001/preview.webp",
+   "glb_url": "assets/人形怪物/咆哮_001/咆哮_001.glb"
+  },
+  {
+   "id": "111d4805-0817-4f41-914d-75f03e343fe5",
+   "index": 1791256850444,
+   "name": "咆哮_002",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/咆哮_002/preview.webp",
+   "glb_url": "assets/人形怪物/咆哮_002/咆哮_002.glb"
+  },
+  {
+   "id": "36edad2a-cb41-4aac-9eb3-b260894799ef",
+   "index": 1791256854484,
+   "name": "咆哮_003",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/咆哮_003/preview.webp",
+   "glb_url": "assets/人形怪物/咆哮_003/咆哮_003.glb"
+  },
+  {
+   "id": "40026ffc-3693-429d-9bcd-c75c47ba6934",
+   "index": 1791256862149,
+   "name": "后跑_006",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/后跑_006/preview.webp",
+   "glb_url": "assets/人形怪物/后跑_006/后跑_006.glb"
+  },
+  {
+   "id": "1909c58c-7566-475c-8cf1-cd4a2bc8c1a0",
+   "index": 1791256869115,
+   "name": "后跑_007",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/后跑_007/preview.webp",
+   "glb_url": "assets/人形怪物/后跑_007/后跑_007.glb"
+  },
+  {
+   "id": "1ea0ed23-77a0-487f-ab87-b7c30ab8c3d0",
+   "index": 1791256873354,
+   "name": "前跑_011",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/前跑_011/preview.webp",
+   "glb_url": "assets/人形怪物/前跑_011/前跑_011.glb"
+  },
+  {
+   "id": "402a6818-0c76-4183-9b40-bfffbc0e957b",
+   "index": 1791256876610,
+   "name": "前跑_012",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/前跑_012/preview.webp",
+   "glb_url": "assets/人形怪物/前跑_012/前跑_012.glb"
+  },
+  {
+   "id": "3b97e39f-402b-4fd7-ae32-164a9aaf5563",
+   "index": 1791256965501,
+   "name": "后走_008",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/后走_008/preview.webp",
+   "glb_url": "assets/人形怪物/后走_008/后走_008.glb"
+  },
+  {
+   "id": "f35a5336-3976-4b71-b8fa-68d542d30741",
+   "index": 1791256969258,
+   "name": "后走_009",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/后走_009/preview.webp",
+   "glb_url": "assets/人形怪物/后走_009/后走_009.glb"
+  },
+  {
+   "id": "d0493f81-d6aa-4537-bad3-c3edc1b7f8bd",
+   "index": 1791256975969,
+   "name": "前走_010",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/前走_010/preview.webp",
+   "glb_url": "assets/人形怪物/前走_010/前走_010.glb"
+  },
+  {
+   "id": "404fca97-0fa5-4774-b068-626a55ebdd4c",
+   "index": 1791257002498,
+   "name": "前走_011",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/前走_011/preview.webp",
+   "glb_url": "assets/人形怪物/前走_011/前走_011.glb"
+  },
+  {
+   "id": "a515a3b7-ab96-43f5-bb0f-94e7486ae79c",
+   "index": 1791257092243,
+   "name": "左走_008",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/左走_008/preview.webp",
+   "glb_url": "assets/人形怪物/左走_008/左走_008.glb"
+  },
+  {
+   "id": "737c1a70-355a-4265-95bc-d79ad24e7e6d",
+   "index": 1791257095644,
+   "name": "右走_008",
+   "source": "Humanoid",
+   "race": "人形怪物",
+   "fps": "30",
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形怪物/右走_008/preview.webp",
+   "glb_url": "assets/人形怪物/右走_008/右走_008.glb"
   }
  ],
  "enums": {
@@ -11223,7 +13736,8 @@
    "人类女",
    "人类男",
    "通用",
-   "哥布林"
+   "哥布林",
+   "人形怪物"
   ],
   "tags": [
    "攻击",
@@ -11255,7 +13769,8 @@
    "手枪",
    "步枪",
    "火箭筒",
-   "弓箭"
+   "弓箭",
+   "格斗"
   ]
  }
 }

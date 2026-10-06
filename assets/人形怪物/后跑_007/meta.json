@@ -1,0 +1,15 @@
+{
+ "id": "1909c58c-7566-475c-8cf1-cd4a2bc8c1a0",
+ "index": 1791256869115,
+ "name": "后跑_007",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/后跑_007/preview.webp",
+ "glb_url": "assets/人形怪物/后跑_007/后跑_007.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "8ff0ff43-fd65-4c1d-b464-f37299dd9727",
+ "index": 1791255380571,
+ "name": "轻拳",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/轻拳/preview.webp",
+ "glb_url": "assets/人形/轻拳/轻拳.glb"
+}

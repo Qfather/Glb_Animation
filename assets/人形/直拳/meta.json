@@ -1,0 +1,17 @@
+{
+ "id": "0a7162b1-7720-4909-9a1e-f89e3bc21918",
+ "index": 1791255384888,
+ "name": "直拳",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/直拳/preview.webp",
+ "glb_url": "assets/人形/直拳/直拳.glb"
+}

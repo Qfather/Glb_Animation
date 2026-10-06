@@ -1,0 +1,17 @@
+{
+ "id": "570e3356-4014-4682-b76e-5dcb169a71e7",
+ "index": 1791255775306,
+ "name": "右蓄力重拳",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右蓄力重拳/preview.webp",
+ "glb_url": "assets/人形/右蓄力重拳/右蓄力重拳.glb"
+}

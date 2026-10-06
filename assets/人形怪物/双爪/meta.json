@@ -1,0 +1,15 @@
+{
+ "id": "6351618c-23c2-4ef0-a824-118cf9cbe075",
+ "index": 1791256247665,
+ "name": "双爪",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/双爪/preview.webp",
+ "glb_url": "assets/人形怪物/双爪/双爪.glb"
+}

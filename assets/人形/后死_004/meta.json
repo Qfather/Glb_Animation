@@ -1,0 +1,17 @@
+{
+ "id": "36d57fa2-24a6-4d84-82f2-12053041a42a",
+ "index": 1791255151820,
+ "name": "后死_004",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "死亡"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后死_004/preview.webp",
+ "glb_url": "assets/人形/后死_004/后死_004.glb"
+}

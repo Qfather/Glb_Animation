@@ -1,0 +1,15 @@
+{
+ "id": "3b97e39f-402b-4fd7-ae32-164a9aaf5563",
+ "index": 1791256965501,
+ "name": "后走_008",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/后走_008/preview.webp",
+ "glb_url": "assets/人形怪物/后走_008/后走_008.glb"
+}

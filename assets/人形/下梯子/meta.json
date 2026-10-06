@@ -1,0 +1,15 @@
+{
+ "id": "01d660a9-0cf1-4f89-ad09-fb5588724b1e",
+ "index": 1791254311971,
+ "name": "下梯子",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/下梯子/preview.webp",
+ "glb_url": "assets/人形/下梯子/下梯子.glb"
+}

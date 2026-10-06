@@ -1,0 +1,15 @@
+{
+ "id": "e17eeebc-700b-4892-9b41-7a922e9e688a",
+ "index": 1791254536623,
+ "name": "浮空_005",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/浮空_005/preview.webp",
+ "glb_url": "assets/人形/浮空_005/浮空_005.glb"
+}

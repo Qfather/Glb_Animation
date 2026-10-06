@@ -1,0 +1,15 @@
+{
+ "id": "ea416da3-3126-410c-904e-c81996033683",
+ "index": 1791256546115,
+ "name": "左击",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/左击/preview.webp",
+ "glb_url": "assets/人形怪物/左击/左击.glb"
+}

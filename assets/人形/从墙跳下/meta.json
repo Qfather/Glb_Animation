@@ -1,0 +1,15 @@
+{
+ "id": "37ed8304-a990-4915-b789-b38f06bb8fbe",
+ "index": 1791254446332,
+ "name": "从墙跳下",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/从墙跳下/preview.webp",
+ "glb_url": "assets/人形/从墙跳下/从墙跳下.glb"
+}

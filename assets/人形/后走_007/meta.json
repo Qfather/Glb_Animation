@@ -1,0 +1,17 @@
+{
+ "id": "8b388bd2-3615-4ad4-a85a-9ead843677d0",
+ "index": 1791256007148,
+ "name": "后走_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后走_007/preview.webp",
+ "glb_url": "assets/人形/后走_007/后走_007.glb"
+}

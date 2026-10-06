@@ -1,0 +1,16 @@
+{
+ "id": "d5c48e0f-a7ed-43c5-a4ef-c6384b6ba525",
+ "index": 1791256241193,
+ "name": "两连击",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/两连击/preview.webp",
+ "glb_url": "assets/人形怪物/两连击/两连击.glb"
+}

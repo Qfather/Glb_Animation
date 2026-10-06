@@ -1,0 +1,16 @@
+{
+ "id": "533c5029-7759-436a-b70f-c7fd0c578e7d",
+ "index": 1791254623792,
+ "name": "梯子待机",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/梯子待机/preview.webp",
+ "glb_url": "assets/人形/梯子待机/梯子待机.glb"
+}

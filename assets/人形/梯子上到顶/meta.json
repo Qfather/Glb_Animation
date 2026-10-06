@@ -1,0 +1,15 @@
+{
+ "id": "ae0c188c-b159-43a4-a475-d8a1193ec311",
+ "index": 1791254494347,
+ "name": "梯子上到顶",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/梯子上到顶/preview.webp",
+ "glb_url": "assets/人形/梯子上到顶/梯子上到顶.glb"
+}

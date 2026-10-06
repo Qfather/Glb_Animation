@@ -1,0 +1,16 @@
+{
+ "id": "87e8df42-dceb-4ff3-8db5-11716b00b568",
+ "index": 1791254914636,
+ "name": "右跳爬",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳",
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/右跳爬/preview.webp",
+ "glb_url": "assets/人形/右跳爬/右跳爬.glb"
+}

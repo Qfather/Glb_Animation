@@ -1,0 +1,17 @@
+{
+ "id": "5da47379-acc4-46e5-ad8f-6c2c282fd74e",
+ "index": 1791255701205,
+ "name": "左高踢",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左高踢/preview.webp",
+ "glb_url": "assets/人形/左高踢/左高踢.glb"
+}

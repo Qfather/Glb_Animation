@@ -1,0 +1,15 @@
+{
+ "id": "6ac7e518-2fa1-4ca1-8e17-39bfc8d43de4",
+ "index": 1791254702719,
+ "name": "墙上待机",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/墙上待机/preview.webp",
+ "glb_url": "assets/人形/墙上待机/墙上待机.glb"
+}

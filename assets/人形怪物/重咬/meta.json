@@ -1,0 +1,15 @@
+{
+ "id": "6fa16b7e-8ff5-4c77-bed1-4013f3fe97d9",
+ "index": 1791256314032,
+ "name": "重咬",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/重咬/preview.webp",
+ "glb_url": "assets/人形怪物/重咬/重咬.glb"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "962424d8-bca1-48fe-9e5b-e081d58c2b23",
+ "index": 1791255513671,
+ "name": "四连拳_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/四连拳_001/preview.webp",
+ "glb_url": "assets/人形/四连拳_001/四连拳_001.glb"
+}

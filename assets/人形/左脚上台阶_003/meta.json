@@ -1,0 +1,15 @@
+{
+ "id": "61f3f464-1f86-4a6d-bd14-28ad8efd7dc5",
+ "index": 1791254354807,
+ "name": "左脚上台阶_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/左脚上台阶_003/preview.webp",
+ "glb_url": "assets/人形/左脚上台阶_003/左脚上台阶_003.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "e808b488-cf70-42a0-a2c9-5ef6715561d7",
+ "index": 1791254530300,
+ "name": "上墙",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/上墙/preview.webp",
+ "glb_url": "assets/人形/上墙/上墙.glb"
+}

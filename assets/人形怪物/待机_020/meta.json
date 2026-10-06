@@ -1,0 +1,15 @@
+{
+ "id": "bfee8998-1a70-47c2-b9f7-8fd276f6778d",
+ "index": 1791256559199,
+ "name": "待机_020",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/待机_020/preview.webp",
+ "glb_url": "assets/人形怪物/待机_020/待机_020.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "0184b6cb-a162-4520-9576-88d4b9d62346",
+ "index": 1791255686908,
+ "name": "左正蹬",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左正蹬/preview.webp",
+ "glb_url": "assets/人形/左正蹬/左正蹬.glb"
+}

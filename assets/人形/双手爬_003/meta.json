@@ -1,0 +1,15 @@
+{
+ "id": "65a3f3a4-ca04-44a3-b6ed-89f366894333",
+ "index": 1791254345177,
+ "name": "双手爬_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/双手爬_003/preview.webp",
+ "glb_url": "assets/人形/双手爬_003/双手爬_003.glb"
+}

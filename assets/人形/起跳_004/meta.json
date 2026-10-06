@@ -1,0 +1,15 @@
+{
+ "id": "14144670-3707-44d4-b7a6-14e99f712f35",
+ "index": 1791254738020,
+ "name": "起跳_004",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/起跳_004/preview.webp",
+ "glb_url": "assets/人形/起跳_004/起跳_004.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "14ae68aa-652b-416e-b4a8-14a907b43796",
+ "index": 1791254514693,
+ "name": "下墙",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/下墙/preview.webp",
+ "glb_url": "assets/人形/下墙/下墙.glb"
+}

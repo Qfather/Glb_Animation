@@ -1,0 +1,15 @@
+{
+ "id": "2498293c-21be-40ce-8bb1-3e7fe30923a3",
+ "index": 1791256582103,
+ "name": "前跳",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/前跳/preview.webp",
+ "glb_url": "assets/人形怪物/前跳/前跳.glb"
+}

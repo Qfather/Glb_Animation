@@ -1,0 +1,15 @@
+{
+ "id": "d4fc527e-c8b0-4b6b-8ada-f1adfc47b0a8",
+ "index": 1791254423802,
+ "name": "开始爬墙",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/开始爬墙/preview.webp",
+ "glb_url": "assets/人形/开始爬墙/开始爬墙.glb"
+}

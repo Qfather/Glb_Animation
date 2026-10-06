@@ -1,0 +1,18 @@
+{
+ "id": "e706fc07-f799-4084-aa2f-2d386c53f03a",
+ "index": 1791255457280,
+ "name": "左右拳下踢",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左右拳下踢/preview.webp",
+ "glb_url": "assets/人形/左右拳下踢/左右拳下踢.glb"
+}

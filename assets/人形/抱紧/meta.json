@@ -1,0 +1,17 @@
+{
+ "id": "c5b2541a-b465-40c9-9709-d4a27b75bd3a",
+ "index": 1791255070982,
+ "name": "抱紧",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/抱紧/preview.webp",
+ "glb_url": "assets/人形/抱紧/抱紧.glb"
+}

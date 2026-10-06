@@ -1,0 +1,15 @@
+{
+ "id": "5700c05e-70e4-4644-88e9-2781d8f49334",
+ "index": 1791256824391,
+ "name": "右跳",
+ "source": "Humanoid",
+ "race": "人形怪物",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形怪物/右跳/preview.webp",
+ "glb_url": "assets/人形怪物/右跳/右跳.glb"
+}

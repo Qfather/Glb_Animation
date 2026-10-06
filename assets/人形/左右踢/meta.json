@@ -1,0 +1,18 @@
+{
+ "id": "f6af02cd-6b59-4572-a6ac-68b818ba6998",
+ "index": 1791254994724,
+ "name": "左右踢",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左右踢/preview.webp",
+ "glb_url": "assets/人形/左右踢/左右踢.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "1c2f9e2d-41e8-4c03-9e36-ba6a94a8ebb8",
+ "index": 1791255734465,
+ "name": "右盖帽",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右盖帽/preview.webp",
+ "glb_url": "assets/人形/右盖帽/右盖帽.glb"
+}

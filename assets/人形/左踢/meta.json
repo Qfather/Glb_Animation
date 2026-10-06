@@ -1,0 +1,17 @@
+{
+ "id": "04294267-3a26-4163-9cc2-f75b3d825a6f",
+ "index": 1791255607722,
+ "name": "左踢",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左踢/preview.webp",
+ "glb_url": "assets/人形/左踢/左踢.glb"
+}

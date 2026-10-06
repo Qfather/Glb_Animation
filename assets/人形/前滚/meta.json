@@ -1,0 +1,17 @@
+{
+ "id": "0213b380-138b-4d90-a1c5-dcf7a7e1f32d",
+ "index": 1791255181377,
+ "name": "前滚",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "闪避"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前滚/preview.webp",
+ "glb_url": "assets/人形/前滚/前滚.glb"
+}

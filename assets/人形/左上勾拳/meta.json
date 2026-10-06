@@ -1,0 +1,17 @@
+{
+ "id": "05b66b85-57a0-491b-a8ac-f62ed94d12e4",
+ "index": 1791255673023,
+ "name": "左上勾拳",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左上勾拳/preview.webp",
+ "glb_url": "assets/人形/左上勾拳/左上勾拳.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "73ad3ccd-05cb-4f19-a41a-580d33c50050",
+ "index": 1791254385689,
+ "name": "进入梯子",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/进入梯子/preview.webp",
+ "glb_url": "assets/人形/进入梯子/进入梯子.glb"
+}

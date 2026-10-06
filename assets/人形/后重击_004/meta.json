@@ -1,0 +1,17 @@
+{
+ "id": "40c56d3d-7a2d-48cc-883c-deddbeaa8f6a",
+ "index": 1791255271673,
+ "name": "后重击_004",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后重击_004/preview.webp",
+ "glb_url": "assets/人形/后重击_004/后重击_004.glb"
+}

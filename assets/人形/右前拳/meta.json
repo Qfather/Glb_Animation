@@ -1,0 +1,17 @@
+{
+ "id": "a0b6120d-f9e4-4708-b612-c56c2764255a",
+ "index": 1791255815640,
+ "name": "右前拳",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "格斗"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右前拳/preview.webp",
+ "glb_url": "assets/人形/右前拳/右前拳.glb"
+}

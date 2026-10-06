@@ -1,0 +1,15 @@
+{
+ "id": "2414b55e-7679-41c9-80c3-734c6c921040",
+ "index": 1791254821940,
+ "name": "中着陆_005",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/中着陆_005/preview.webp",
+ "glb_url": "assets/人形/中着陆_005/中着陆_005.glb"
+}
