@@ -1,0 +1,16 @@
+{
+ "id": "36e58e13-bc4e-42a4-8bc9-5047814edf7d",
+ "index": 1791271505945,
+ "name": "哈欠_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/哈欠_001/preview.webp",
+ "glb_url": "assets/人形/哈欠_001/哈欠_001.glb"
+}

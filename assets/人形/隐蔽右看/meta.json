@@ -1,0 +1,17 @@
+{
+ "id": "a684452e-b4d2-499e-96a2-94dd881e9f92",
+ "index": 1791272330123,
+ "name": "隐蔽右看",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/隐蔽右看/preview.webp",
+ "glb_url": "assets/人形/隐蔽右看/隐蔽右看.glb"
+}

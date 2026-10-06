@@ -1,0 +1,15 @@
+{
+ "id": "ae0f3352-ccf2-456e-8c13-b86682a5dc18",
+ "index": 1791270010362,
+ "name": "为什么是我",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/为什么是我/preview.webp",
+ "glb_url": "assets/人形/为什么是我/为什么是我.glb"
+}

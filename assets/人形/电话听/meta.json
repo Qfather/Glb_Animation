@@ -1,0 +1,16 @@
+{
+ "id": "ed22f86c-20db-4bbc-a602-768067a168cb",
+ "index": 1791271599012,
+ "name": "电话听",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/电话听/preview.webp",
+ "glb_url": "assets/人形/电话听/电话听.glb"
+}

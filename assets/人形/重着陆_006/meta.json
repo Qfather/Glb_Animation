@@ -1,0 +1,17 @@
+{
+ "id": "5eab5078-7cad-4656-896b-12d8b3c125f8",
+ "index": 1791272468568,
+ "name": "重着陆_006",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/重着陆_006/preview.webp",
+ "glb_url": "assets/人形/重着陆_006/重着陆_006.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "23767d98-df5b-4685-ba3a-ff680130cd41",
+ "index": 1791270421758,
+ "name": "二郎腿坐着_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/二郎腿坐着_001/preview.webp",
+ "glb_url": "assets/人形/二郎腿坐着_001/二郎腿坐着_001.glb"
+}

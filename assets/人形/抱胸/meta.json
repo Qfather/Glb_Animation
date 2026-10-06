@@ -1,0 +1,15 @@
+{
+ "id": "f455e5b1-d069-4867-9943-d7d4314a4ffc",
+ "index": 1791270123590,
+ "name": "抱胸",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/抱胸/preview.webp",
+ "glb_url": "assets/人形/抱胸/抱胸.glb"
+}

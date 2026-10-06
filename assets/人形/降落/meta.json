@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/降落/降落.glb",
  "weapons": [
   "单手近战"
- ]
+ ],
+ "frame_count": 41
 }

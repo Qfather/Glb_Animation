@@ -1,0 +1,17 @@
+{
+ "id": "983fb0ee-a05f-492f-a944-05dbca7fb9d1",
+ "index": 1791271946199,
+ "name": "左脚爬",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "爬"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左脚爬/preview.webp",
+ "glb_url": "assets/人形/左脚爬/左脚爬.glb"
+}

@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/从梯子下到地面/preview.webp",
- "glb_url": "assets/人形/从梯子下到地面/从梯子下到地面.glb"
+ "glb_url": "assets/人形/从梯子下到地面/从梯子下到地面.glb",
+ "frame_count": 28
 }

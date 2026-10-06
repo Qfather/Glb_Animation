@@ -1,0 +1,16 @@
+{
+ "id": "9141e237-9bf4-4d3c-8921-4c66b752cccf",
+ "index": 1791270493666,
+ "name": "右看_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/右看_001/preview.webp",
+ "glb_url": "assets/人形/右看_001/右看_001.glb"
+}

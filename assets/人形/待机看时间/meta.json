@@ -1,0 +1,16 @@
+{
+ "id": "67af4284-cd0d-4bf8-9888-9fe66737a578",
+ "index": 1791269563091,
+ "name": "待机看时间",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/待机看时间/preview.webp",
+ "glb_url": "assets/人形/待机看时间/待机看时间.glb",
+ "frame_count": 111
+}

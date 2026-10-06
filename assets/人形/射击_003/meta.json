@@ -1,0 +1,18 @@
+{
+ "id": "a2610a55-18f1-4cf3-8861-350db0993abd",
+ "index": 1791272110517,
+ "name": "射击_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "攻击"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/射击_003/preview.webp",
+ "glb_url": "assets/人形/射击_003/射击_003.glb"
+}

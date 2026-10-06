@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/开始爬墙/preview.webp",
- "glb_url": "assets/人形/开始爬墙/开始爬墙.glb"
+ "glb_url": "assets/人形/开始爬墙/开始爬墙.glb",
+ "frame_count": 29
 }

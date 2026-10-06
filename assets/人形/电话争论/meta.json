@@ -1,0 +1,16 @@
+{
+ "id": "b563f878-0578-4060-9ecb-201a63c51297",
+ "index": 1791271573499,
+ "name": "电话争论",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/电话争论/preview.webp",
+ "glb_url": "assets/人形/电话争论/电话争论.glb"
+}

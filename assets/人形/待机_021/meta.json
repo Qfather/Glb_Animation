@@ -1,0 +1,16 @@
+{
+ "id": "06a83327-6b23-4a1c-ac75-70e64dde6d6a",
+ "index": 1791269450064,
+ "name": "待机_021",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/待机_021/preview.webp",
+ "glb_url": "assets/人形/待机_021/待机_021.glb",
+ "frame_count": 91
+}

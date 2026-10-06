@@ -1,0 +1,17 @@
+{
+ "id": "b7822287-9330-49c1-8020-f4288f77ee34",
+ "index": 1791272764247,
+ "name": "后走_011",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后走_011/preview.webp",
+ "glb_url": "assets/人形/后走_011/后走_011.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "8bb3a4b4-af9f-4664-b902-6f4fd4ee3326",
+ "index": 1791269505041,
+ "name": "待机道歉",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/待机道歉/preview.webp",
+ "glb_url": "assets/人形/待机道歉/待机道歉.glb",
+ "frame_count": 121
+}

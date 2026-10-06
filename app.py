@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """本地 GLB 动画资产 WebUI。运行后通过浏览器上传，再手动提交整个目录到 GitHub。"""
-import json, re, uuid, webbrowser, shutil
+import json, re, uuid, webbrowser, shutil, struct
 from datetime import datetime
 from pathlib import Path
 from flask import Flask, jsonify, request, send_from_directory
@@ -13,6 +13,34 @@ DEFAULT_WEAPONS=["单手","双手","手枪"]
 MAX_GLB_SIZE=300*1024
 app=Flask(__name__, static_folder=None)
 
+def glb_frame_count(path, fps):
+    try:
+        raw=Path(path).read_bytes()
+        if raw[:4]!=b"glTF": return None
+        offset=12; document=None
+        while offset+8<=len(raw):
+            length,kind=struct.unpack_from("<II",raw,offset); offset+=8
+            chunk=raw[offset:offset+length]; offset+=length
+            if kind==0x4E4F534A:
+                document=json.loads(chunk.decode("utf-8")); break
+        if not document: return None
+        accessors=document.get("accessors",[])
+        counts=[]
+        for animation in document.get("animations",[]):
+            times=[]
+            for sampler in animation.get("samplers",[]):
+                index=sampler.get("input")
+                if isinstance(index,int) and index<len(accessors):
+                    accessor=accessors[index]
+                    if accessor.get("min") and accessor.get("max"):
+                        times.append((min(accessor["min"]),max(accessor["max"])))
+            if times:
+                start=min(x[0] for x in times); end=max(x[1] for x in times)
+                counts.append(max(1,int((end-start)*float(fps)+0.5)+1))
+        return sum(counts) if counts else None
+    except (OSError, ValueError, TypeError, struct.error):
+        return None
+
 def read_data():
     try: data=json.loads(DATA.read_text(encoding="utf-8"))
     except Exception: data={"version":1,"generated_at":"","items":[],"enums":{"sources":[],"races":DEFAULT_RACES,"tags":[],"fps":DEFAULT_FPS,"weapons":DEFAULT_WEAPONS}}
@@ -23,6 +51,9 @@ def read_data():
     for item in data.get("items",[]):
         old_tags=item.get("tags",[]); item_weapons=list(dict.fromkeys(item.get("weapons",[])+[x for x in old_tags if x in DEFAULT_WEAPONS])); new_tags=[x for x in old_tags if x not in DEFAULT_WEAPONS]
         if item_weapons!=item.get("weapons") or new_tags!=old_tags: item["weapons"]=item_weapons; item["tags"]=new_tags; changed=True
+        if "frame_count" not in item:
+            glb=ROOT/Path(item.get("glb_url", ""))
+            item["frame_count"]=glb_frame_count(glb,item.get("fps") or DEFAULT_FPS[0]); changed=True
     if changed: DATA.write_text(json.dumps(data,ensure_ascii=False,indent=1),encoding="utf-8")
     return data
 
@@ -42,6 +73,20 @@ def status(): return jsonify(local=True)
 
 @app.get("/api/items")
 def items(): return jsonify(read_data())
+
+@app.post("/api/items/frame-counts")
+def generate_frame_counts():
+    data=read_data(); generated=0; failed=[]
+    for item in data.get("items",[]):
+        if item.get("frame_count") is not None: continue
+        item["frame_count"]=glb_frame_count(ROOT/Path(item.get("glb_url", "")),item.get("fps") or DEFAULT_FPS[0])
+        if item["frame_count"] is None: failed.append(item.get("name", "未知动画"))
+        else: generated+=1
+        folder=ROOT/Path(item.get("preview_url", "")).parent
+        if (folder/"meta.json").exists(): (folder/"meta.json").write_text(json.dumps(item,ensure_ascii=False,indent=1),encoding="utf-8")
+    data["generated_at"]=datetime.now().isoformat(timespec="seconds")
+    DATA.write_text(json.dumps(data,ensure_ascii=False,indent=1),encoding="utf-8")
+    return jsonify(generated=generated,failed=failed,remaining=len(failed))
 
 @app.post("/api/upload")
 def upload():
@@ -68,7 +113,7 @@ def upload():
     fps=request.form.get("fps") or DEFAULT_FPS[0]
     data=read_data()
     if fps not in data.get("enums",{}).get("fps",DEFAULT_FPS): return jsonify(error="FPS 无效"),400
-    item={"id":str(uuid.uuid4()),"index":int(datetime.now().timestamp()*1000),"name":name,"source":source,"race":race,"fps":fps,"tags":tags,"weapons":weapons,"category":"","preview_url":f"{key}/preview.webp","glb_url":f"{key}/{safe_name(name)}.glb"}
+    item={"id":str(uuid.uuid4()),"index":int(datetime.now().timestamp()*1000),"name":name,"source":source,"race":race,"fps":fps,"frame_count":glb_frame_count(folder/(safe_name(name)+".glb"),fps),"tags":tags,"weapons":weapons,"category":"","preview_url":f"{key}/preview.webp","glb_url":f"{key}/{safe_name(name)}.glb"}
     (folder/"meta.json").write_text(json.dumps(item,ensure_ascii=False,indent=1),encoding="utf-8")
     data["items"]=[*data.get("items",[]),item];enums=data.setdefault("enums",{});enums["races"]=list(dict.fromkeys([*enums.get("races",DEFAULT_RACES),race]));enums["fps"]=list(dict.fromkeys([*enums.get("fps",DEFAULT_FPS),fps]));enums["tags"]=list(dict.fromkeys([*enums.get("tags",[]),*tags]));enums["weapons"]=list(dict.fromkeys([*enums.get("weapons",DEFAULT_WEAPONS),*weapons]));data["generated_at"]=datetime.now().isoformat(timespec="seconds")
     DATA.write_text(json.dumps(data,ensure_ascii=False,indent=1),encoding="utf-8")
@@ -146,6 +191,7 @@ def edit_item(item_id):
         new_glb_upload.save(new_glb)
     elif old_glb.exists() and old_glb.resolve()!=new_glb.resolve(): old_glb.rename(new_glb)
     item["glb_url"]=(Path("assets")/safe_name(race)/safe_name(name)/(safe_name(name)+".glb")).as_posix()
+    item["frame_count"]=glb_frame_count(new_glb,fps)
     data["generated_at"]=datetime.now().isoformat(timespec="seconds"); DATA.write_text(json.dumps(data,ensure_ascii=False,indent=1),encoding="utf-8"); (folder/"meta.json").write_text(json.dumps(item,ensure_ascii=False,indent=1),encoding="utf-8")
     return jsonify(item=item)
 

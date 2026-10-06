@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/向左跑/向左跑.glb",
  "weapons": [
   "单手近战"
- ]
+ ],
+ "frame_count": 21
 }

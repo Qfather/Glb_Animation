@@ -1,0 +1,15 @@
+{
+ "id": "e0ef0042-7917-405b-af2b-d944434ec245",
+ "index": 1791270018959,
+ "name": "wow",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/wow/preview.webp",
+ "glb_url": "assets/人形/wow/wow.glb"
+}

@@ -12,5 +12,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/隐蔽投掷/preview.webp",
- "glb_url": "assets/人形/隐蔽投掷/隐蔽投掷.glb"
+ "glb_url": "assets/人形/隐蔽投掷/隐蔽投掷.glb",
+ "frame_count": 86
 }

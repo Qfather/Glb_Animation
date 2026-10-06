@@ -1,0 +1,17 @@
+{
+ "id": "4c6e1679-bcb2-4348-bf82-6000f4f726ec",
+ "index": 1791272358344,
+ "name": "瞄准_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/瞄准_001/preview.webp",
+ "glb_url": "assets/人形/瞄准_001/瞄准_001.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "bea86003-d32f-4339-a404-0d15e97ca4c7",
+ "index": 1791270268735,
+ "name": "坐着看时间",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/坐着看时间/preview.webp",
+ "glb_url": "assets/人形/坐着看时间/坐着看时间.glb"
+}

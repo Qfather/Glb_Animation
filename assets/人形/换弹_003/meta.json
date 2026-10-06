@@ -1,0 +1,17 @@
+{
+ "id": "fb7388d3-d075-4fbc-8409-26593c9ecc21",
+ "index": 1791272560760,
+ "name": "换弹_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/换弹_003/preview.webp",
+ "glb_url": "assets/人形/换弹_003/换弹_003.glb"
+}

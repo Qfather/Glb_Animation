@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/烤串/preview.webp",
- "glb_url": "assets/人形/烤串/烤串.glb"
+ "glb_url": "assets/人形/烤串/烤串.glb",
+ "frame_count": 101
 }

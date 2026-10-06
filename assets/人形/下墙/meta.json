@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/下墙/preview.webp",
- "glb_url": "assets/人形/下墙/下墙.glb"
+ "glb_url": "assets/人形/下墙/下墙.glb",
+ "frame_count": 29
 }

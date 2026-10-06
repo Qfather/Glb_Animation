@@ -1,0 +1,15 @@
+{
+ "id": "35703d96-c58f-4420-8b7d-339d9ed13341",
+ "index": 1791270182064,
+ "name": "靠墙看时间",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/靠墙看时间/preview.webp",
+ "glb_url": "assets/人形/靠墙看时间/靠墙看时间.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "4d766404-0150-4f9c-9ba3-76e17cab9aa3",
+ "index": 1791270689783,
+ "name": "同意_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/同意_001/preview.webp",
+ "glb_url": "assets/人形/同意_001/同意_001.glb"
+}

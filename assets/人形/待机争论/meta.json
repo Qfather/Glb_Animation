@@ -1,0 +1,16 @@
+{
+ "id": "433d5b82-b05b-414d-9196-6b5260bffb31",
+ "index": 1791269520746,
+ "name": "待机争论",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/待机争论/preview.webp",
+ "glb_url": "assets/人形/待机争论/待机争论.glb",
+ "frame_count": 101
+}

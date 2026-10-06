@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/隐蔽/preview.webp",
- "glb_url": "assets/人形/隐蔽/隐蔽.glb"
+ "glb_url": "assets/人形/隐蔽/隐蔽.glb",
+ "frame_count": 61
 }

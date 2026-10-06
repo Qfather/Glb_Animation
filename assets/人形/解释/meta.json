@@ -1,0 +1,16 @@
+{
+ "id": "b1988230-6201-404c-9df1-3dec7b58ce4d",
+ "index": 1791269592329,
+ "name": "解释",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/解释/preview.webp",
+ "glb_url": "assets/人形/解释/解释.glb",
+ "frame_count": 191
+}

@@ -1,0 +1,16 @@
+{
+ "id": "04a0b75c-5e8f-406b-a3cb-1413d45d863b",
+ "index": 1791270511559,
+ "name": "看电话",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/看电话/preview.webp",
+ "glb_url": "assets/人形/看电话/看电话.glb"
+}

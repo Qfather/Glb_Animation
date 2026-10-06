@@ -1,0 +1,15 @@
+{
+ "id": "5eb18054-49c2-436d-9dfa-09a934765700",
+ "index": 1791269969720,
+ "name": "摸额头",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/摸额头/preview.webp",
+ "glb_url": "assets/人形/摸额头/摸额头.glb"
+}

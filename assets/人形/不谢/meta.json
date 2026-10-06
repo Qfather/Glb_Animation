@@ -1,0 +1,16 @@
+{
+ "id": "049f0223-ac21-40d8-ab8e-36861f7fb02c",
+ "index": 1791270708051,
+ "name": "不谢",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/不谢/preview.webp",
+ "glb_url": "assets/人形/不谢/不谢.glb"
+}

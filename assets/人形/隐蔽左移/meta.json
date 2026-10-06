@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/隐蔽左移/隐蔽左移.glb",
  "weapons": [
   "手枪"
- ]
+ ],
+ "frame_count": 26
 }

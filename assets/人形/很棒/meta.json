@@ -1,0 +1,15 @@
+{
+ "id": "b9dd0f0e-7550-4b63-9b1c-8189e24c4d39",
+ "index": 1791269620340,
+ "name": "很棒",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/很棒/preview.webp",
+ "glb_url": "assets/人形/很棒/很棒.glb"
+}

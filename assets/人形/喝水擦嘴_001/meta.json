@@ -1,0 +1,16 @@
+{
+ "id": "9caffa3a-d5f3-4b30-b585-3d99067a0fb6",
+ "index": 1791271525984,
+ "name": "喝水擦嘴_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/喝水擦嘴_001/preview.webp",
+ "glb_url": "assets/人形/喝水擦嘴_001/喝水擦嘴_001.glb"
+}

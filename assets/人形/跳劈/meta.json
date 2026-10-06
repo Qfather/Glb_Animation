@@ -14,5 +14,6 @@
  "glb_url": "assets/人形/跳劈/跳劈.glb",
  "weapons": [
   "双手近战"
- ]
+ ],
+ "frame_count": 76
 }

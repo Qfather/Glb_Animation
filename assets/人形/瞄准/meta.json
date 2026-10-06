@@ -1,0 +1,17 @@
+{
+ "id": "e86e67cc-8bab-49e7-a8bd-e1b73d8cf40a",
+ "index": 1791271963180,
+ "name": "瞄准",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/瞄准/preview.webp",
+ "glb_url": "assets/人形/瞄准/瞄准.glb"
+}

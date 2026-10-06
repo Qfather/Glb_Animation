@@ -1,0 +1,16 @@
+{
+ "id": "76b12679-ed53-4dc3-a484-23cac961376a",
+ "index": 1791270580785,
+ "name": "坐着拖头左看",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/坐着拖头左看/preview.webp",
+ "glb_url": "assets/人形/坐着拖头左看/坐着拖头左看.glb"
+}

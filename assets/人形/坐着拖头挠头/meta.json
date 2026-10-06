@@ -1,0 +1,16 @@
+{
+ "id": "94722d4e-8241-4f6b-9caa-d9354a7ef5ad",
+ "index": 1791270591775,
+ "name": "坐着拖头挠头",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/坐着拖头挠头/preview.webp",
+ "glb_url": "assets/人形/坐着拖头挠头/坐着拖头挠头.glb"
+}

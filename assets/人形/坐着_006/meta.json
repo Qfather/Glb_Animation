@@ -1,0 +1,16 @@
+{
+ "id": "49549764-646c-41d8-a302-a6cfa9923877",
+ "index": 1791270632035,
+ "name": "坐着_006",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/坐着_006/preview.webp",
+ "glb_url": "assets/人形/坐着_006/坐着_006.glb"
+}

@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/起床/preview.webp",
- "glb_url": "assets/人形/起床/起床.glb"
+ "glb_url": "assets/人形/起床/起床.glb",
+ "frame_count": 81
 }

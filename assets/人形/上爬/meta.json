@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/上爬/preview.webp",
- "glb_url": "assets/人形/上爬/上爬.glb"
+ "glb_url": "assets/人形/上爬/上爬.glb",
+ "frame_count": 41
 }

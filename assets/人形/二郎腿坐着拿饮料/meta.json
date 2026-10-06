@@ -1,0 +1,16 @@
+{
+ "id": "0ad9758d-1b10-43a8-83c2-3da8827e3986",
+ "index": 1791270458570,
+ "name": "二郎腿坐着拿饮料",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/二郎腿坐着拿饮料/preview.webp",
+ "glb_url": "assets/人形/二郎腿坐着拿饮料/二郎腿坐着拿饮料.glb"
+}

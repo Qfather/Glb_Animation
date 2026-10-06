@@ -1,0 +1,16 @@
+{
+ "id": "df78ec19-523f-4e6a-89a7-ba4d4ff71df5",
+ "index": 1791271557798,
+ "name": "电话同意_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/电话同意_002/preview.webp",
+ "glb_url": "assets/人形/电话同意_002/电话同意_002.glb"
+}

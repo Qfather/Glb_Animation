@@ -1,0 +1,15 @@
+{
+ "id": "c8e96c1f-a741-4f0e-adfd-681fa91406ec",
+ "index": 1791271775146,
+ "name": "走玩手机_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/走玩手机_001/preview.webp",
+ "glb_url": "assets/人形/走玩手机_001/走玩手机_001.glb"
+}

@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/左起身_001/左起身_001.glb",
  "weapons": [
   "双手近战"
- ]
+ ],
+ "frame_count": 106
 }

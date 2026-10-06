@@ -1,0 +1,16 @@
+{
+ "id": "af29ff78-bf56-4376-bb7e-6c224ec7ee78",
+ "index": 1791270666498,
+ "name": "打招呼",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/打招呼/preview.webp",
+ "glb_url": "assets/人形/打招呼/打招呼.glb"
+}

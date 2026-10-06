@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/前跑_001/前跑_001.glb",
  "weapons": [
   "双手近战"
- ]
+ ],
+ "frame_count": 17
 }

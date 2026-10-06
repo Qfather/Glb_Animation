@@ -1,0 +1,15 @@
+{
+ "id": "78dd16b9-5fc3-4b26-9e35-75b3ded175ee",
+ "index": 1791269920484,
+ "name": "握手",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/握手/preview.webp",
+ "glb_url": "assets/人形/握手/握手.glb"
+}

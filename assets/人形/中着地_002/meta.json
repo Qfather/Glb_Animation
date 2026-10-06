@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/中着地_002/中着地_002.glb",
  "weapons": [
   "单手近战"
- ]
+ ],
+ "frame_count": 36
 }

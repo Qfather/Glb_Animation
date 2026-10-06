@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/单膝待机/preview.webp",
- "glb_url": "assets/人形/单膝待机/单膝待机.glb"
+ "glb_url": "assets/人形/单膝待机/单膝待机.glb",
+ "frame_count": 66
 }

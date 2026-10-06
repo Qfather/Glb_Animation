@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/右爬/preview.webp",
- "glb_url": "assets/人形/右爬/右爬.glb"
+ "glb_url": "assets/人形/右爬/右爬.glb",
+ "frame_count": 41
 }

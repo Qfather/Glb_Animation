@@ -1,0 +1,17 @@
+{
+ "id": "081d0268-7178-4470-ac9f-8aa14b08a727",
+ "index": 1791272375060,
+ "name": "待机_023",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/待机_023/preview.webp",
+ "glb_url": "assets/人形/待机_023/待机_023.glb"
+}

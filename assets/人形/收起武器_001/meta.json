@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/收起武器_001/收起武器_001.glb",
  "weapons": [
   "双手近战"
- ]
+ ],
+ "frame_count": 51
 }

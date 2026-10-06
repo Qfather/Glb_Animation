@@ -1,0 +1,15 @@
+{
+ "id": "b726a366-c097-4147-ac56-344eb87c0db8",
+ "index": 1791271749648,
+ "name": "走接电话",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/走接电话/preview.webp",
+ "glb_url": "assets/人形/走接电话/走接电话.glb"
+}

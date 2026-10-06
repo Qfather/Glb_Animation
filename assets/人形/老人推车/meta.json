@@ -1,0 +1,15 @@
+{
+ "id": "967dc3de-1916-40af-bc28-b348b5f856b9",
+ "index": 1791271740506,
+ "name": "老人推车",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/老人推车/preview.webp",
+ "glb_url": "assets/人形/老人推车/老人推车.glb"
+}

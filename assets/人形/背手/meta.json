@@ -1,0 +1,15 @@
+{
+ "id": "dda2b6bc-487b-4132-b070-6c929c142db1",
+ "index": 1791270114054,
+ "name": "背手",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/背手/preview.webp",
+ "glb_url": "assets/人形/背手/背手.glb"
+}

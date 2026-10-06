@@ -1,0 +1,16 @@
+{
+ "id": "0bf7b95b-b558-4ee3-93db-41def78ccef3",
+ "index": 1791270622313,
+ "name": "伸懒腰",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/伸懒腰/preview.webp",
+ "glb_url": "assets/人形/伸懒腰/伸懒腰.glb"
+}

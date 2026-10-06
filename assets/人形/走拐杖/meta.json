@@ -1,0 +1,15 @@
+{
+ "id": "0f82e611-8628-4b0f-8d0b-471d1606d9cc",
+ "index": 1791271800434,
+ "name": "走拐杖",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/走拐杖/preview.webp",
+ "glb_url": "assets/人形/走拐杖/走拐杖.glb"
+}

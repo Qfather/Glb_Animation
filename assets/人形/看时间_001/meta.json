@@ -1,0 +1,16 @@
+{
+ "id": "65671a92-9415-4a53-8fcf-2aa4e7bd0b1d",
+ "index": 1791270609952,
+ "name": "看时间_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/看时间_001/preview.webp",
+ "glb_url": "assets/人形/看时间_001/看时间_001.glb"
+}

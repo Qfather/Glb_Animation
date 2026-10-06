@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形怪物/后击/preview.webp",
- "glb_url": "assets/人形怪物/后击/后击.glb"
+ "glb_url": "assets/人形怪物/后击/后击.glb",
+ "frame_count": 51
 }

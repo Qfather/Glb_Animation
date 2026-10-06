@@ -1,0 +1,17 @@
+{
+ "id": "19b78822-c305-46c7-9631-7433cb67c825",
+ "index": 1791272165660,
+ "name": "拿出武器_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/拿出武器_002/preview.webp",
+ "glb_url": "assets/人形/拿出武器_002/拿出武器_002.glb"
+}

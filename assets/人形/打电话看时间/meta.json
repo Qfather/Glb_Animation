@@ -1,0 +1,15 @@
+{
+ "id": "fbd53c74-12c1-4cef-82ee-3f7309e08ac0",
+ "index": 1791270151585,
+ "name": "打电话看时间",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/打电话看时间/preview.webp",
+ "glb_url": "assets/人形/打电话看时间/打电话看时间.glb"
+}

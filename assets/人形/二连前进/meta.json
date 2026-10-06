@@ -15,5 +15,6 @@
  "glb_url": "assets/人形/二连前进/二连前进.glb",
  "weapons": [
   "单手近战"
- ]
+ ],
+ "frame_count": 37
 }

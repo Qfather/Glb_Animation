@@ -12,5 +12,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/梯子待机/preview.webp",
- "glb_url": "assets/人形/梯子待机/梯子待机.glb"
+ "glb_url": "assets/人形/梯子待机/梯子待机.glb",
+ "frame_count": 61
 }

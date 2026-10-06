@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/睡觉/preview.webp",
- "glb_url": "assets/人形/睡觉/睡觉.glb"
+ "glb_url": "assets/人形/睡觉/睡觉.glb",
+ "frame_count": 60
 }

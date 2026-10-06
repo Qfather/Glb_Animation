@@ -1,0 +1,15 @@
+{
+ "id": "42232096-2db9-4d6a-9a20-f8f1f07b4855",
+ "index": 1791269949101,
+ "name": "惊讶",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/惊讶/preview.webp",
+ "glb_url": "assets/人形/惊讶/惊讶.glb"
+}

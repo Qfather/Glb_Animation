@@ -1,0 +1,16 @@
+{
+ "id": "d0076c0b-d00b-47f6-b5b5-e35f5226be50",
+ "index": 1791270307027,
+ "name": "坐着喝水_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/坐着喝水_001/preview.webp",
+ "glb_url": "assets/人形/坐着喝水_001/坐着喝水_001.glb"
+}

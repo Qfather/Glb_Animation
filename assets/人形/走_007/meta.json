@@ -1,0 +1,15 @@
+{
+ "id": "90ffeca5-1002-4762-b032-68acc1e3ad07",
+ "index": 1791271705332,
+ "name": "走_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/走_007/preview.webp",
+ "glb_url": "assets/人形/走_007/走_007.glb"
+}

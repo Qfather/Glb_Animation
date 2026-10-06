@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形怪物/右击/preview.webp",
- "glb_url": "assets/人形怪物/右击/右击.glb"
+ "glb_url": "assets/人形怪物/右击/右击.glb",
+ "frame_count": 48
 }

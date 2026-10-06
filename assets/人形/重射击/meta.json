@@ -1,0 +1,17 @@
+{
+ "id": "bd7b4ba3-fa1c-40a4-adfa-fcfcffebad59",
+ "index": 1791272622622,
+ "name": "重射击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/重射击/preview.webp",
+ "glb_url": "assets/人形/重射击/重射击.glb"
+}

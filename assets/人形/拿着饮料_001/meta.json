@@ -1,0 +1,15 @@
+{
+ "id": "2d76d665-4afd-4aaa-bacc-192b14e94cf5",
+ "index": 1791270054867,
+ "name": "拿着饮料_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/拿着饮料_001/preview.webp",
+ "glb_url": "assets/人形/拿着饮料_001/拿着饮料_001.glb"
+}

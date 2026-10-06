@@ -1,0 +1,15 @@
+{
+ "id": "3aba7aa0-1cc1-497d-be9d-9c26686d71fe",
+ "index": 1791270023926,
+ "name": "大叫",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/大叫/preview.webp",
+ "glb_url": "assets/人形/大叫/大叫.glb"
+}

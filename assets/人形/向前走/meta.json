@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/向前走/向前走.glb",
  "weapons": [
   "单手近战"
- ]
+ ],
+ "frame_count": 41
 }

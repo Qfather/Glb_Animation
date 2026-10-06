@@ -9,5 +9,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/右观察/preview.webp",
- "glb_url": "assets/人形/右观察/右观察.glb"
+ "glb_url": "assets/人形/右观察/右观察.glb",
+ "frame_count": 27
 }

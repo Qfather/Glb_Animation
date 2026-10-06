@@ -1,0 +1,15 @@
+{
+ "id": "7fb8e1c7-ed55-46cc-9b77-4ab31886c914",
+ "index": 1791269990182,
+ "name": "挥手",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/挥手/preview.webp",
+ "glb_url": "assets/人形/挥手/挥手.glb"
+}

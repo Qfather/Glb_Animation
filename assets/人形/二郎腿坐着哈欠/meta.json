@@ -1,0 +1,16 @@
+{
+ "id": "2d7461bf-49e1-4b96-93f2-c946c0b86abb",
+ "index": 1791270454033,
+ "name": "二郎腿坐着哈欠",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/二郎腿坐着哈欠/preview.webp",
+ "glb_url": "assets/人形/二郎腿坐着哈欠/二郎腿坐着哈欠.glb"
+}

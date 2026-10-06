@@ -1,0 +1,15 @@
+{
+ "id": "3b78beda-2bc6-46f3-b4e4-0f309b1b5f14",
+ "index": 1791270169750,
+ "name": "靠墙_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/靠墙_001/preview.webp",
+ "glb_url": "assets/人形/靠墙_001/靠墙_001.glb"
+}

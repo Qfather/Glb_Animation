@@ -1,0 +1,15 @@
+{
+ "id": "cf967a1f-a6fd-4f2a-81e2-8e98438b740a",
+ "index": 1791269770414,
+ "name": "笑_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/笑_001/preview.webp",
+ "glb_url": "assets/人形/笑_001/笑_001.glb"
+}

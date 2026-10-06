@@ -1,0 +1,16 @@
+{
+ "id": "b30fa96f-c458-4fd5-9c31-6fe49fbabd25",
+ "index": 1791270435927,
+ "name": "二郎腿坐着看时间",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/二郎腿坐着看时间/preview.webp",
+ "glb_url": "assets/人形/二郎腿坐着看时间/二郎腿坐着看时间.glb"
+}

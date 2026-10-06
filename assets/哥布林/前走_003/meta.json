@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/哥布林/前走_003/preview.webp",
- "glb_url": "assets/哥布林/前走_003/前走_003.glb"
+ "glb_url": "assets/哥布林/前走_003/前走_003.glb",
+ "frame_count": 32
 }

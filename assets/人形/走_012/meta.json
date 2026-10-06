@@ -1,0 +1,15 @@
+{
+ "id": "2b7b3af1-e56e-4064-8382-a1e5486a3e8b",
+ "index": 1791271826153,
+ "name": "走_012",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/走_012/preview.webp",
+ "glb_url": "assets/人形/走_012/走_012.glb"
+}

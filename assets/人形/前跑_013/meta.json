@@ -1,0 +1,17 @@
+{
+ "id": "400e1ab2-7661-433e-aa90-e618029831e6",
+ "index": 1791272587864,
+ "name": "前跑_013",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前跑_013/preview.webp",
+ "glb_url": "assets/人形/前跑_013/前跑_013.glb"
+}

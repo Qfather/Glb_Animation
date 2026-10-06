@@ -1,0 +1,16 @@
+{
+ "id": "8f48a94a-412d-48db-b5fa-9922e5963ae0",
+ "index": 1791270373217,
+ "name": "二郎腿东张西望",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/二郎腿东张西望/preview.webp",
+ "glb_url": "assets/人形/二郎腿东张西望/二郎腿东张西望.glb"
+}

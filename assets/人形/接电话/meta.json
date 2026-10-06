@@ -1,0 +1,16 @@
+{
+ "id": "964d30e5-d4ff-4db6-a4cc-6439e8eee629",
+ "index": 1791271484024,
+ "name": "接电话",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/接电话/preview.webp",
+ "glb_url": "assets/人形/接电话/接电话.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "e8cbe3e5-ed52-4b94-860a-dd9f571abeed",
+ "index": 1791269820476,
+ "name": "没头绪",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/没头绪/preview.webp",
+ "glb_url": "assets/人形/没头绪/没头绪.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "ee2fa999-d7a5-40df-a9d3-45baea70c2e2",
+ "index": 1791272483529,
+ "name": "近战",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/近战/preview.webp",
+ "glb_url": "assets/人形/近战/近战.glb"
+}

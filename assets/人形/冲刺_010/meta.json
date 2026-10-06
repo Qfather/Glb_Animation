@@ -1,0 +1,17 @@
+{
+ "id": "f86eb6a7-bd11-4abf-be91-941dee5b18a9",
+ "index": 1791272629106,
+ "name": "冲刺_010",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/冲刺_010/preview.webp",
+ "glb_url": "assets/人形/冲刺_010/冲刺_010.glb"
+}

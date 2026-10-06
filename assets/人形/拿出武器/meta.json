@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/拿出武器/拿出武器.glb",
  "weapons": [
   "单手近战"
- ]
+ ],
+ "frame_count": 46
 }

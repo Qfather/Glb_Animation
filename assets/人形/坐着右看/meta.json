@@ -1,0 +1,16 @@
+{
+ "id": "63224b9f-a438-4928-a2b7-351dccde34f7",
+ "index": 1791270298582,
+ "name": "坐着右看",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/坐着右看/preview.webp",
+ "glb_url": "assets/人形/坐着右看/坐着右看.glb"
+}

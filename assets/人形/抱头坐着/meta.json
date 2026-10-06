@@ -1,0 +1,16 @@
+{
+ "id": "c935abfb-39d7-4a02-9304-b570d2773781",
+ "index": 1791270395837,
+ "name": "抱头坐着",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/抱头坐着/preview.webp",
+ "glb_url": "assets/人形/抱头坐着/抱头坐着.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "00604baf-bd11-4f04-8417-fa696f36c789",
+ "index": 1791269904349,
+ "name": "挠头",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/挠头/preview.webp",
+ "glb_url": "assets/人形/挠头/挠头.glb"
+}

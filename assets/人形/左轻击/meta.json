@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/左轻击/左轻击.glb",
  "weapons": [
   "手枪"
- ]
+ ],
+ "frame_count": 31
 }

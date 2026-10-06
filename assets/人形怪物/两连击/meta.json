@@ -12,5 +12,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形怪物/两连击/preview.webp",
- "glb_url": "assets/人形怪物/两连击/两连击.glb"
+ "glb_url": "assets/人形怪物/两连击/两连击.glb",
+ "frame_count": 101
 }

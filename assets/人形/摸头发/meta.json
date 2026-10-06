@@ -1,0 +1,16 @@
+{
+ "id": "1d66839c-1262-4d82-b191-08c604e80d24",
+ "index": 1791270539848,
+ "name": "摸头发",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/摸头发/preview.webp",
+ "glb_url": "assets/人形/摸头发/摸头发.glb"
+}

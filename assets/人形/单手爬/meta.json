@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/单手爬/单手爬.glb",
  "weapons": [
   "手枪"
- ]
+ ],
+ "frame_count": 43
 }

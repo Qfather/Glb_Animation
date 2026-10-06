@@ -1,0 +1,18 @@
+{
+ "id": "17fbfa6f-6156-493c-b351-7be650ec566a",
+ "index": 1791272047305,
+ "name": "东张西望_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "待机"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/东张西望_001/preview.webp",
+ "glb_url": "assets/人形/东张西望_001/东张西望_001.glb"
+}

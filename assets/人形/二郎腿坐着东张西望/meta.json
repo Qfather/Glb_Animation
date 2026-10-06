@@ -1,0 +1,16 @@
+{
+ "id": "5e60c4c6-1b62-4eb2-8174-764e01787426",
+ "index": 1791270444912,
+ "name": "二郎腿坐着东张西望",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/二郎腿坐着东张西望/preview.webp",
+ "glb_url": "assets/人形/二郎腿坐着东张西望/二郎腿坐着东张西望.glb"
+}

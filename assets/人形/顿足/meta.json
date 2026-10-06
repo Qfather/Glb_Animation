@@ -1,0 +1,16 @@
+{
+ "id": "c3a226dd-8132-4d05-a210-4b9c19e55424",
+ "index": 1791269611658,
+ "name": "顿足",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/顿足/preview.webp",
+ "glb_url": "assets/人形/顿足/顿足.glb",
+ "frame_count": 101
+}

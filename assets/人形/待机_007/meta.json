@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/待机_007/待机_007.glb",
  "weapons": [
   "双手近战"
- ]
+ ],
+ "frame_count": 33
 }

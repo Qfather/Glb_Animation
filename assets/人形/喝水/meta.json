@@ -1,0 +1,15 @@
+{
+ "id": "c1b3d03e-e8d2-4ace-ba5b-0dbcb03c829f",
+ "index": 1791270085955,
+ "name": "喝水",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/喝水/preview.webp",
+ "glb_url": "assets/人形/喝水/喝水.glb"
+}

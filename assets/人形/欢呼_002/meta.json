@@ -1,0 +1,16 @@
+{
+ "id": "edc39a36-28ef-4158-8199-ddad9e5a78c2",
+ "index": 1791269266467,
+ "name": "欢呼_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "欢呼"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/欢呼_002/preview.webp",
+ "glb_url": "assets/人形/欢呼_002/欢呼_002.glb",
+ "frame_count": 101
+}

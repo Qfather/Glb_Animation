@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/后起身/后起身.glb",
  "weapons": [
   "手枪"
- ]
+ ],
+ "frame_count": 97
 }

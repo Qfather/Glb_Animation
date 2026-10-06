@@ -1,0 +1,18 @@
+{
+ "id": "1cc3f910-e4b1-4473-b90c-902c3929fc15",
+ "index": 1791272363576,
+ "name": "投掷_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "投掷"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/投掷_007/preview.webp",
+ "glb_url": "assets/人形/投掷_007/投掷_007.glb"
+}

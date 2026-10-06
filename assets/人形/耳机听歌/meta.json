@@ -1,0 +1,15 @@
+{
+ "id": "ac186254-96e1-44c7-ad5f-27031ceb64b9",
+ "index": 1791271836376,
+ "name": "耳机听歌",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/耳机听歌/preview.webp",
+ "glb_url": "assets/人形/耳机听歌/耳机听歌.glb"
+}

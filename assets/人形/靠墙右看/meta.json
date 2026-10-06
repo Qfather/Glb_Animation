@@ -1,0 +1,15 @@
+{
+ "id": "927f34d6-3f10-4860-897b-5a182694a8fa",
+ "index": 1791270194286,
+ "name": "靠墙右看",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/靠墙右看/preview.webp",
+ "glb_url": "assets/人形/靠墙右看/靠墙右看.glb"
+}

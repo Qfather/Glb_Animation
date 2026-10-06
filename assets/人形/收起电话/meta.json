@@ -1,0 +1,16 @@
+{
+ "id": "f058af8a-ce40-4ea4-a1b2-3ab0d487c6e4",
+ "index": 1791271654002,
+ "name": "收起电话",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/收起电话/preview.webp",
+ "glb_url": "assets/人形/收起电话/收起电话.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "ec406fd0-88e7-4874-8529-4f4748d570cd",
+ "index": 1791270647348,
+ "name": "解释_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/解释_002/preview.webp",
+ "glb_url": "assets/人形/解释_002/解释_002.glb"
+}

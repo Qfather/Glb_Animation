@@ -1,0 +1,15 @@
+{
+ "id": "d9697d50-e7d2-4592-8cca-9e0d333391f4",
+ "index": 1791269835091,
+ "name": "不是我的错",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/不是我的错/preview.webp",
+ "glb_url": "assets/人形/不是我的错/不是我的错.glb"
+}

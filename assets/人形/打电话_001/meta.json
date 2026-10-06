@@ -1,0 +1,16 @@
+{
+ "id": "6f5528e2-665f-46e0-a79e-e3c3fd377cde",
+ "index": 1791271532259,
+ "name": "打电话_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/打电话_001/preview.webp",
+ "glb_url": "assets/人形/打电话_001/打电话_001.glb"
+}

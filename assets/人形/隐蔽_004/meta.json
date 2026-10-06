@@ -1,0 +1,17 @@
+{
+ "id": "b48747e5-e5b8-4996-89c1-8339a20691f5",
+ "index": 1791272422216,
+ "name": "隐蔽_004",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/隐蔽_004/preview.webp",
+ "glb_url": "assets/人形/隐蔽_004/隐蔽_004.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "d54328d9-0eda-45fb-9380-c76de113f8ef",
+ "index": 1791270332580,
+ "name": "伸展双臂坐着",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/伸展双臂坐着/preview.webp",
+ "glb_url": "assets/人形/伸展双臂坐着/伸展双臂坐着.glb"
+}

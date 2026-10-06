@@ -1,0 +1,15 @@
+{
+ "id": "327752b2-aac6-4e62-ba94-9230aee42b19",
+ "index": 1791271745937,
+ "name": "走推车",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/走推车/preview.webp",
+ "glb_url": "assets/人形/走推车/走推车.glb"
+}

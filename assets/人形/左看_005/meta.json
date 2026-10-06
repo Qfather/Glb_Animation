@@ -1,0 +1,17 @@
+{
+ "id": "d9c4c9b9-07e3-4399-942f-b82b815baf9f",
+ "index": 1791272399622,
+ "name": "左看_005",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左看_005/preview.webp",
+ "glb_url": "assets/人形/左看_005/左看_005.glb"
+}

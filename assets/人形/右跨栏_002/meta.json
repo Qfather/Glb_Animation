@@ -1,0 +1,17 @@
+{
+ "id": "aa96b704-acc2-46cf-8dd8-9a26863425d1",
+ "index": 1791272529265,
+ "name": "右跨栏_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "跳"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右跨栏_002/preview.webp",
+ "glb_url": "assets/人形/右跨栏_002/右跨栏_002.glb"
+}

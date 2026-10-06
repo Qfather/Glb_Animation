@@ -1,0 +1,15 @@
+{
+ "id": "6c91cbe0-edf1-42b5-bb8e-be73002814e9",
+ "index": 1791269844029,
+ "name": "指出",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/指出/preview.webp",
+ "glb_url": "assets/人形/指出/指出.glb"
+}

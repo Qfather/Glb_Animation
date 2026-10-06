@@ -1,0 +1,17 @@
+{
+ "id": "ac34e2da-4371-4afc-9f8f-94b75e7dd3fe",
+ "index": 1791272189725,
+ "name": "前起_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "起身"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前起_001/preview.webp",
+ "glb_url": "assets/人形/前起_001/前起_001.glb"
+}

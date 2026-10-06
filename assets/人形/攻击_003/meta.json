@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/攻击_003/攻击_003.glb",
  "weapons": [
   "单手近战"
- ]
+ ],
+ "frame_count": 45
 }

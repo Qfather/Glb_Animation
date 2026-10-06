@@ -1,0 +1,16 @@
+{
+ "id": "406dcd84-5e88-4b8a-8cfd-009cccc37220",
+ "index": 1791270535287,
+ "name": "东张西望",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机",
+  "坐"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/东张西望/preview.webp",
+ "glb_url": "assets/人形/东张西望/东张西望.glb"
+}

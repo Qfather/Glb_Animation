@@ -1,0 +1,17 @@
+{
+ "id": "710b4b90-be41-48e0-af6b-25e1dbc23954",
+ "index": 1791272703691,
+ "name": "隐蔽左投掷_004",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "投掷"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/隐蔽左投掷_004/preview.webp",
+ "glb_url": "assets/人形/隐蔽左投掷_004/隐蔽左投掷_004.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "813af1a6-d9b0-4153-aa63-f6003432291f",
+ "index": 1791271734155,
+ "name": "走看时间",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/走看时间/preview.webp",
+ "glb_url": "assets/人形/走看时间/走看时间.glb"
+}

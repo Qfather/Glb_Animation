@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/起跳/起跳.glb",
  "weapons": [
   "单手近战"
- ]
+ ],
+ "frame_count": 13
 }

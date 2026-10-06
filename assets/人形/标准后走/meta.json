@@ -1,0 +1,18 @@
+{
+ "id": "d9a9732d-542e-4300-b82b-af7458118b75",
+ "index": 1791271978921,
+ "name": "标准后走",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "下蹲",
+  "走"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/标准后走/preview.webp",
+ "glb_url": "assets/人形/标准后走/标准后走.glb"
+}

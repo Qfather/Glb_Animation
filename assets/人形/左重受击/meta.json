@@ -13,5 +13,6 @@
  "glb_url": "assets/人形/左重受击/左重受击.glb",
  "weapons": [
   "单手近战"
- ]
+ ],
+ "frame_count": 51
 }

@@ -1,0 +1,17 @@
+{
+ "id": "b79276d6-3f13-4f85-a067-0d6eb4c56e32",
+ "index": 1791272555783,
+ "name": "快速换弹",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "双枪"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/快速换弹/preview.webp",
+ "glb_url": "assets/人形/快速换弹/快速换弹.glb"
+}

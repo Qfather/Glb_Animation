@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/哥布林/跳跃/preview.webp",
- "glb_url": "assets/哥布林/跳跃/跳跃.glb"
+ "glb_url": "assets/哥布林/跳跃/跳跃.glb",
+ "frame_count": 79
 }

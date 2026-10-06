@@ -1,0 +1,16 @@
+{
+ "id": "11b1abc1-7b66-4666-b0ed-ff3a57566fd7",
+ "index": 1791269543574,
+ "name": "待机冷静",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/待机冷静/preview.webp",
+ "glb_url": "assets/人形/待机冷静/待机冷静.glb",
+ "frame_count": 131
+}

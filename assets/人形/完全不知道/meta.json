@@ -1,0 +1,15 @@
+{
+ "id": "9e04ddbb-b110-4e4c-b8a4-76838f92ade0",
+ "index": 1791269737202,
+ "name": "完全不知道",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/完全不知道/preview.webp",
+ "glb_url": "assets/人形/完全不知道/完全不知道.glb"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "28584040-0165-4397-a054-4771d42bff3a",
+ "index": 1791271720346,
+ "name": "走喝水",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/走喝水/preview.webp",
+ "glb_url": "assets/人形/走喝水/走喝水.glb"
+}

@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形怪物/咆哮/preview.webp",
- "glb_url": "assets/人形怪物/咆哮/咆哮.glb"
+ "glb_url": "assets/人形怪物/咆哮/咆哮.glb",
+ "frame_count": 81
 }

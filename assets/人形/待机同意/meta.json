@@ -1,0 +1,16 @@
+{
+ "id": "66d622f6-35f0-424a-892b-6ad7acfbdbb6",
+ "index": 1791269459827,
+ "name": "待机同意",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/待机同意/preview.webp",
+ "glb_url": "assets/人形/待机同意/待机同意.glb",
+ "frame_count": 61
+}

@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形怪物/右跳/preview.webp",
- "glb_url": "assets/人形怪物/右跳/右跳.glb"
+ "glb_url": "assets/人形怪物/右跳/右跳.glb",
+ "frame_count": 77
 }

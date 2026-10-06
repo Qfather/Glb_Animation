@@ -14,5 +14,6 @@
  "glb_url": "assets/人形/下蹲瞄准后退/下蹲瞄准后退.glb",
  "weapons": [
   "手枪"
- ]
+ ],
+ "frame_count": 51
 }

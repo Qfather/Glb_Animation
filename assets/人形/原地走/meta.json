@@ -1,0 +1,15 @@
+{
+ "id": "46382c6e-1eaa-4246-9215-479079e2d7e6",
+ "index": 1791269796288,
+ "name": "原地走",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/原地走/preview.webp",
+ "glb_url": "assets/人形/原地走/原地走.glb"
+}

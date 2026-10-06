@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/吃/preview.webp",
- "glb_url": "assets/人形/吃/吃.glb"
+ "glb_url": "assets/人形/吃/吃.glb",
+ "frame_count": 351
 }

@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形怪物/右爪/preview.webp",
- "glb_url": "assets/人形怪物/右爪/右爪.glb"
+ "glb_url": "assets/人形怪物/右爪/右爪.glb",
+ "frame_count": 66
 }
