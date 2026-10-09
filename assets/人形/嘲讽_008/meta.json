@@ -1,0 +1,18 @@
+{
+ "id": "f449580e-9b3e-4071-8bdb-1d68e6a560dc",
+ "index": 1791526297033,
+ "name": "嘲讽_008",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 91,
+ "tags": [
+  "嘲讽"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/嘲讽_008/preview.webp",
+ "glb_url": "assets/人形/嘲讽_008/嘲讽_008.glb"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "da12a39f-03b7-4339-8a9b-5866dd574f99",
+ "index": 1791539435665,
+ "name": "攻击_032",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 36,
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/攻击_032/preview.webp",
+ "glb_url": "assets/人形/攻击_032/攻击_032.glb"
+}

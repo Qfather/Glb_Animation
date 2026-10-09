@@ -1,0 +1,16 @@
+{
+ "id": "dcacf735-a152-4618-96f2-1a9f7044ad01",
+ "index": 1791533531568,
+ "name": "跳_004",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 21,
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/跳_004/preview.webp",
+ "glb_url": "assets/人类女/跳_004/跳_004.glb"
+}

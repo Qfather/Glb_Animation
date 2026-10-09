@@ -1,0 +1,18 @@
+{
+ "id": "727cc5bf-4b43-461c-b0f4-0a53aea6ad38",
+ "index": 1791526135051,
+ "name": "左格挡_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 26,
+ "tags": [
+  "格挡"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左格挡_001/preview.webp",
+ "glb_url": "assets/人形/左格挡_001/左格挡_001.glb"
+}

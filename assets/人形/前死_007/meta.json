@@ -1,0 +1,18 @@
+{
+ "id": "2de9c5b9-f9ac-409a-9b08-884e76b240d5",
+ "index": 1791539542338,
+ "name": "前死_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 88,
+ "tags": [
+  "死亡"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前死_007/preview.webp",
+ "glb_url": "assets/人形/前死_007/前死_007.glb"
+}

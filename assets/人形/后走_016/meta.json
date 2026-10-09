@@ -1,0 +1,18 @@
+{
+ "id": "1959ab9b-a53b-45f9-95ad-9a6cf0c2d3b6",
+ "index": 1791539727434,
+ "name": "后走_016",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 41,
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后走_016/preview.webp",
+ "glb_url": "assets/人形/后走_016/后走_016.glb"
+}

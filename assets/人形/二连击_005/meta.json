@@ -1,0 +1,19 @@
+{
+ "id": "ed121160-6f10-400f-b842-995c9e24a8ec",
+ "index": 1791525555040,
+ "name": "二连击_005",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 51,
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/二连击_005/preview.webp",
+ "glb_url": "assets/人形/二连击_005/二连击_005.glb"
+}

@@ -12,5 +12,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/打招呼/preview.webp",
- "glb_url": "assets/人形/打招呼/打招呼.glb"
+ "glb_url": "assets/人形/打招呼/打招呼.glb",
+ "frame_count": 91
 }

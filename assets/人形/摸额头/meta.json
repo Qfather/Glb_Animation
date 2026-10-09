@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/摸额头/preview.webp",
- "glb_url": "assets/人形/摸额头/摸额头.glb"
+ "glb_url": "assets/人形/摸额头/摸额头.glb",
+ "frame_count": 96
 }

@@ -1,0 +1,18 @@
+{
+ "id": "3ca61b50-0ae2-4e83-bcc2-23846f765ecb",
+ "index": 1791526311412,
+ "name": "走路_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 41,
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/走路_001/preview.webp",
+ "glb_url": "assets/人形/走路_001/走路_001.glb"
+}

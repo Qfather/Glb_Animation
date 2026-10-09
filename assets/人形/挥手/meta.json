@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/挥手/preview.webp",
- "glb_url": "assets/人形/挥手/挥手.glb"
+ "glb_url": "assets/人形/挥手/挥手.glb",
+ "frame_count": 81
 }

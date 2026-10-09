@@ -1,0 +1,18 @@
+{
+ "id": "dd0a6400-392a-4179-b928-7c21d0051e76",
+ "index": 1791539721281,
+ "name": "前走_020",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 41,
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前走_020/preview.webp",
+ "glb_url": "assets/人形/前走_020/前走_020.glb"
+}

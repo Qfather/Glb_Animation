@@ -1,0 +1,16 @@
+{
+ "id": "01eda223-7ed7-4cc6-bd10-418bb6d47d01",
+ "index": 1791534155774,
+ "name": "冲刺_011",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 13,
+ "tags": [
+  "跑"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/冲刺_011/preview.webp",
+ "glb_url": "assets/人类女/冲刺_011/冲刺_011.glb"
+}

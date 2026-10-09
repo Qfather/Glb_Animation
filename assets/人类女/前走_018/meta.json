@@ -1,0 +1,16 @@
+{
+ "id": "f7e139ae-459b-47e9-851c-05e9d15fcc9a",
+ "index": 1791534216879,
+ "name": "前走_018",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 37,
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/前走_018/preview.webp",
+ "glb_url": "assets/人类女/前走_018/前走_018.glb"
+}

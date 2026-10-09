@@ -1,0 +1,16 @@
+{
+ "id": "8c7c3093-7ceb-4424-9ef8-fde26cec1d7f",
+ "index": 1791533373940,
+ "name": "浮空_007",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 41,
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/浮空_007/preview.webp",
+ "glb_url": "assets/人类女/浮空_007/浮空_007.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "43134bf3-33ba-48a3-aac7-e05b7fdd2817",
+ "index": 1791534140405,
+ "name": "跑_003",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 19,
+ "tags": [
+  "跑"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/跑_003/preview.webp",
+ "glb_url": "assets/人类女/跑_003/跑_003.glb"
+}

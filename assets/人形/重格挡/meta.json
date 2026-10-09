@@ -1,0 +1,18 @@
+{
+ "id": "1c42684b-3143-4009-bf3a-881297a6194d",
+ "index": 1791525789706,
+ "name": "重格挡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 36,
+ "tags": [
+  "格挡"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/重格挡/preview.webp",
+ "glb_url": "assets/人形/重格挡/重格挡.glb"
+}

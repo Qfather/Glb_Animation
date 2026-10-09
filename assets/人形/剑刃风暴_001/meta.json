@@ -1,0 +1,18 @@
+{
+ "id": "d68b05b2-5700-4254-b4f1-cf3a4548413b",
+ "index": 1791526279117,
+ "name": "剑刃风暴_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 16,
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/剑刃风暴_001/preview.webp",
+ "glb_url": "assets/人形/剑刃风暴_001/剑刃风暴_001.glb"
+}

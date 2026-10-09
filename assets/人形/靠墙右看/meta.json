@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/靠墙右看/preview.webp",
- "glb_url": "assets/人形/靠墙右看/靠墙右看.glb"
+ "glb_url": "assets/人形/靠墙右看/靠墙右看.glb",
+ "frame_count": 81
 }

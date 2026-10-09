@@ -1,0 +1,18 @@
+{
+ "id": "d81bc2f4-220d-4e45-ad1e-3f8dce7d558d",
+ "index": 1791539735291,
+ "name": "右走_018",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 41,
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右走_018/preview.webp",
+ "glb_url": "assets/人形/右走_018/右走_018.glb"
+}

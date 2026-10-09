@@ -1,0 +1,17 @@
+{
+ "id": "8ee35172-852d-48d1-8c3c-a9844d30488c",
+ "index": 1791533339944,
+ "name": "后走_013",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 51,
+ "tags": [
+  "下蹲",
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/后走_013/preview.webp",
+ "glb_url": "assets/人类女/后走_013/后走_013.glb"
+}

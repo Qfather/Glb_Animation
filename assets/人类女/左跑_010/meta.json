@@ -1,0 +1,16 @@
+{
+ "id": "a762d42e-72d5-48a9-a6a3-8f84ce704ccf",
+ "index": 1791534130631,
+ "name": "左跑_010",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 21,
+ "tags": [
+  "跑"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/左跑_010/preview.webp",
+ "glb_url": "assets/人类女/左跑_010/左跑_010.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "7ca661e5-7a92-4d72-9604-aa89ba6a3af9",
+ "index": 1791533440489,
+ "name": "四处观望",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 241,
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/四处观望/preview.webp",
+ "glb_url": "assets/人类女/四处观望/四处观望.glb"
+}

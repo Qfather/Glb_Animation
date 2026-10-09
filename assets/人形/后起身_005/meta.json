@@ -1,0 +1,18 @@
+{
+ "id": "8e29818a-1668-40f8-9a6a-9cdebd81706a",
+ "index": 1791525897558,
+ "name": "后起身_005",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 97,
+ "tags": [
+  "起身"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后起身_005/preview.webp",
+ "glb_url": "assets/人形/后起身_005/后起身_005.glb"
+}

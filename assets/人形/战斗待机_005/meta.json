@@ -1,0 +1,18 @@
+{
+ "id": "73e65945-05d6-41d3-a575-5f3b442d2fbe",
+ "index": 1791539630003,
+ "name": "战斗待机_005",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 31,
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/战斗待机_005/preview.webp",
+ "glb_url": "assets/人形/战斗待机_005/战斗待机_005.glb"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "24bd0638-54a9-4b99-9db5-182e275fa910",
+ "index": 1791525829803,
+ "name": "后滚_002",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 51,
+ "tags": [
+  "走",
+  "下蹲"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后滚_002/preview.webp",
+ "glb_url": "assets/人形/后滚_002/后滚_002.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "228d4b4a-5ad9-4cca-9e92-5c4c9a3f4bd1",
+ "index": 1791534206278,
+ "name": "左走_015",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 41,
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/左走_015/preview.webp",
+ "glb_url": "assets/人类女/左走_015/左走_015.glb"
+}

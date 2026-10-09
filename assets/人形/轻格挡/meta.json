@@ -1,0 +1,18 @@
+{
+ "id": "f9491925-11ef-4781-81ef-daab30e5ab67",
+ "index": 1791525813043,
+ "name": "轻格挡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 21,
+ "tags": [
+  "格挡"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/轻格挡/preview.webp",
+ "glb_url": "assets/人形/轻格挡/轻格挡.glb"
+}

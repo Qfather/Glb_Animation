@@ -1,0 +1,18 @@
+{
+ "id": "7c3a2d76-9e7c-40a4-aad5-82afafcf3def",
+ "index": 1791526058607,
+ "name": "慢跑",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 26,
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/慢跑/preview.webp",
+ "glb_url": "assets/人形/慢跑/慢跑.glb"
+}

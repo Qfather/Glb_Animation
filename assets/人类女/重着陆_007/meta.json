@@ -1,0 +1,16 @@
+{
+ "id": "2e26c1c9-87db-4fab-93c2-36e394ce3654",
+ "index": 1791533545430,
+ "name": "重着陆_007",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 36,
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/重着陆_007/preview.webp",
+ "glb_url": "assets/人类女/重着陆_007/重着陆_007.glb"
+}

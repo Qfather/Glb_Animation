@@ -1,0 +1,16 @@
+{
+ "id": "45bc678b-e640-4985-a6e2-9f58a0a829af",
+ "index": 1791534228186,
+ "name": "右走_016",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 41,
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/右走_016/preview.webp",
+ "glb_url": "assets/人类女/右走_016/右走_016.glb"
+}

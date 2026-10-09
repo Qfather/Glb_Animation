@@ -1,0 +1,16 @@
+{
+ "id": "16500344-3639-48b7-9b15-db0f7e4feac0",
+ "index": 1791533396494,
+ "name": "焦急等待_001",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 101,
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/焦急等待_001/preview.webp",
+ "glb_url": "assets/人类女/焦急等待_001/焦急等待_001.glb"
+}

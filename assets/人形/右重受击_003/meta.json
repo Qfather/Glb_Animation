@@ -1,0 +1,18 @@
+{
+ "id": "0dfbde78-b13c-4e2f-be9c-e67d09f36645",
+ "index": 1791539612033,
+ "name": "右重受击_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 31,
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右重受击_003/preview.webp",
+ "glb_url": "assets/人形/右重受击_003/右重受击_003.glb"
+}

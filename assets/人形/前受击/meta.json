@@ -1,0 +1,18 @@
+{
+ "id": "1ebbdab6-4766-4390-991e-d7ede796e8a1",
+ "index": 1791539586495,
+ "name": "前受击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 26,
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前受击/preview.webp",
+ "glb_url": "assets/人形/前受击/前受击.glb"
+}

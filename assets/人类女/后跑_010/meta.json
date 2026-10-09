@@ -1,0 +1,16 @@
+{
+ "id": "f04a1f88-28fd-4f6d-ba53-dde03c8c5875",
+ "index": 1791534113954,
+ "name": "后跑_010",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 21,
+ "tags": [
+  "跑"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/后跑_010/preview.webp",
+ "glb_url": "assets/人类女/后跑_010/后跑_010.glb"
+}

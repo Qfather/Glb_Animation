@@ -1,0 +1,18 @@
+{
+ "id": "5eae8fa6-8285-478f-86a4-11f3ba8ee786",
+ "index": 1791525767641,
+ "name": "攻击_020",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 36,
+ "tags": [
+  "攻击"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/攻击_020/preview.webp",
+ "glb_url": "assets/人形/攻击_020/攻击_020.glb"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "6e2bf926-0087-477d-a8f7-0112a89c7aae",
+ "index": 1791539669168,
+ "name": "低格挡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 21,
+ "tags": [
+  "格挡"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/低格挡/preview.webp",
+ "glb_url": "assets/人形/低格挡/低格挡.glb"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "87879338-aaf9-48f6-8d43-d91617214f2a",
+ "index": 1791539545264,
+ "name": "左死_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 98,
+ "tags": [
+  "死亡"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左死_007/preview.webp",
+ "glb_url": "assets/人形/左死_007/左死_007.glb"
+}

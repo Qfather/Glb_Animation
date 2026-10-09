@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/惊讶/preview.webp",
- "glb_url": "assets/人形/惊讶/惊讶.glb"
+ "glb_url": "assets/人形/惊讶/惊讶.glb",
+ "frame_count": 96
 }

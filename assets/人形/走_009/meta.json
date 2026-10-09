@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/走_009/preview.webp",
- "glb_url": "assets/人形/走_009/走_009.glb"
+ "glb_url": "assets/人形/走_009/走_009.glb",
+ "frame_count": 36
 }

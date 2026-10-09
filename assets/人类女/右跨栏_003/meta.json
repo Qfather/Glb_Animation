@@ -1,0 +1,16 @@
+{
+ "id": "311849cb-9ffc-4cbb-a217-ff4129f3c09e",
+ "index": 1791534105175,
+ "name": "右跨栏_003",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 46,
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/右跨栏_003/preview.webp",
+ "glb_url": "assets/人类女/右跨栏_003/右跨栏_003.glb"
+}

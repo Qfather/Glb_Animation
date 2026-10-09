@@ -1,0 +1,19 @@
+{
+ "id": "1e88b3d3-dbaf-4a17-8413-3ea3f537b00f",
+ "index": 1791525854084,
+ "name": "右走_011",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 51,
+ "tags": [
+  "下蹲",
+  "走"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右走_011/preview.webp",
+ "glb_url": "assets/人形/右走_011/右走_011.glb"
+}

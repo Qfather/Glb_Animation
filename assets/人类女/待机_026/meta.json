@@ -1,0 +1,16 @@
+{
+ "id": "e90fefc1-20d4-4112-8290-0d511d423c99",
+ "index": 1791533418793,
+ "name": "待机_026",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 191,
+ "tags": [
+  "待机"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/待机_026/preview.webp",
+ "glb_url": "assets/人类女/待机_026/待机_026.glb"
+}

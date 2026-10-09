@@ -1,0 +1,19 @@
+{
+ "id": "48cea251-21c0-4088-82c2-26278e6d40b7",
+ "index": 1791525596216,
+ "name": "三连击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 71,
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/三连击/preview.webp",
+ "glb_url": "assets/人形/三连击/三连击.glb"
+}

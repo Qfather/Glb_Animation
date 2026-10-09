@@ -1,0 +1,16 @@
+{
+ "id": "79fd3eec-9ff2-4b4f-a8ea-935fbba33469",
+ "index": 1791533555695,
+ "name": "轻着陆_007",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 21,
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/轻着陆_007/preview.webp",
+ "glb_url": "assets/人类女/轻着陆_007/轻着陆_007.glb"
+}

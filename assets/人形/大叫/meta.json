@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/大叫/preview.webp",
- "glb_url": "assets/人形/大叫/大叫.glb"
+ "glb_url": "assets/人形/大叫/大叫.glb",
+ "frame_count": 101
 }

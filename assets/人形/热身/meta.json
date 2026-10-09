@@ -1,0 +1,18 @@
+{
+ "id": "6b2244b2-00f7-482a-94cd-1d0398fcd361",
+ "index": 1791526356442,
+ "name": "热身",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 81,
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/热身/preview.webp",
+ "glb_url": "assets/人形/热身/热身.glb"
+}

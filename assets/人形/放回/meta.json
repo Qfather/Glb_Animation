@@ -1,0 +1,18 @@
+{
+ "id": "67530939-af08-4f2d-9087-9adf564fd9c2",
+ "index": 1791526169324,
+ "name": "放回",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 121,
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/放回/preview.webp",
+ "glb_url": "assets/人形/放回/放回.glb"
+}

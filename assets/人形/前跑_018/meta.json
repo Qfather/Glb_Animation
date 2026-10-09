@@ -1,0 +1,18 @@
+{
+ "id": "2c7630de-d2b1-49e4-bff2-b3106b5c9ebf",
+ "index": 1791539698978,
+ "name": "前跑_018",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 16,
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前跑_018/preview.webp",
+ "glb_url": "assets/人形/前跑_018/前跑_018.glb"
+}

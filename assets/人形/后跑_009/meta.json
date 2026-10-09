@@ -1,0 +1,18 @@
+{
+ "id": "61908876-3dbe-491f-871e-0aef5ce5d482",
+ "index": 1791526179866,
+ "name": "后跑_009",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 19,
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/后跑_009/preview.webp",
+ "glb_url": "assets/人形/后跑_009/后跑_009.glb"
+}

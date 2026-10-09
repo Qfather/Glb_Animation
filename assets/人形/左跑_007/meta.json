@@ -1,0 +1,18 @@
+{
+ "id": "4e25b410-2132-423e-980d-421371dc7253",
+ "index": 1791526197373,
+ "name": "左跑_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 19,
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左跑_007/preview.webp",
+ "glb_url": "assets/人形/左跑_007/左跑_007.glb"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "aabec0eb-a0d0-40d6-90f3-884bf80a2fca",
+ "index": 1791525873865,
+ "name": "右死_006",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 76,
+ "tags": [
+  "死亡"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右死_006/preview.webp",
+ "glb_url": "assets/人形/右死_006/右死_006.glb"
+}

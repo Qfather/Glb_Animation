@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/wow/preview.webp",
- "glb_url": "assets/人形/wow/wow.glb"
+ "glb_url": "assets/人形/wow/wow.glb",
+ "frame_count": 96
 }

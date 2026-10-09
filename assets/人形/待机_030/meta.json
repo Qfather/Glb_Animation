@@ -1,0 +1,18 @@
+{
+ "id": "00010b6f-b4ac-46dd-bc6b-c8573c79e040",
+ "index": 1791539618558,
+ "name": "待机_030",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 221,
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/待机_030/preview.webp",
+ "glb_url": "assets/人形/待机_030/待机_030.glb"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "df182388-9850-49fe-857a-4f37c962e02a",
+ "index": 1791533347496,
+ "name": "前走_016",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 51,
+ "tags": [
+  "下蹲",
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/前走_016/preview.webp",
+ "glb_url": "assets/人类女/前走_016/前走_016.glb"
+}

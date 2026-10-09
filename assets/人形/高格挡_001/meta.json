@@ -1,0 +1,18 @@
+{
+ "id": "a86f6c84-a093-4852-86aa-a48b3f405e14",
+ "index": 1791539651898,
+ "name": "高格挡_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 21,
+ "tags": [
+  "格挡"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/高格挡_001/preview.webp",
+ "glb_url": "assets/人形/高格挡_001/高格挡_001.glb"
+}

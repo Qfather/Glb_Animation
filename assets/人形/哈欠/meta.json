@@ -12,5 +12,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/哈欠/preview.webp",
- "glb_url": "assets/人形/哈欠/哈欠.glb"
+ "glb_url": "assets/人形/哈欠/哈欠.glb",
+ "frame_count": 101
 }

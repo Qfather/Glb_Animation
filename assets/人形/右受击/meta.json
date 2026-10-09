@@ -1,0 +1,18 @@
+{
+ "id": "aca1a49f-97a7-4f7c-8880-137788625529",
+ "index": 1791539606991,
+ "name": "右受击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 26,
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右受击/preview.webp",
+ "glb_url": "assets/人形/右受击/右受击.glb"
+}

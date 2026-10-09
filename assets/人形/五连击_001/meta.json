@@ -1,0 +1,19 @@
+{
+ "id": "58735cbb-d5a5-485b-ac9b-9da91c94c30a",
+ "index": 1791525683721,
+ "name": "五连击_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 76,
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/五连击_001/preview.webp",
+ "glb_url": "assets/人形/五连击_001/五连击_001.glb"
+}

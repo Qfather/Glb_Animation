@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-10-06T15:46:26",
+ "generated_at": "2026-10-09T17:55:35",
  "items": [
   {
    "id": "32780085-90b8-4d08-9dde-4287e8e48970",
@@ -91,7 +91,6 @@
    "race": "人类女",
    "fps": "30",
    "tags": [
-    "基础",
     "跳"
    ],
    "category": "",
@@ -15047,7 +15046,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/很棒/preview.webp",
-   "glb_url": "assets/人形/很棒/很棒.glb"
+   "glb_url": "assets/人形/很棒/很棒.glb",
+   "frame_count": 86
   },
   {
    "id": "9e04ddbb-b110-4e4c-b8a4-76838f92ade0",
@@ -15062,7 +15062,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/完全不知道/preview.webp",
-   "glb_url": "assets/人形/完全不知道/完全不知道.glb"
+   "glb_url": "assets/人形/完全不知道/完全不知道.glb",
+   "frame_count": 71
   },
   {
    "id": "1be8f9b2-eeda-4e4b-8946-2513d763f533",
@@ -15077,7 +15078,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/笑/preview.webp",
-   "glb_url": "assets/人形/笑/笑.glb"
+   "glb_url": "assets/人形/笑/笑.glb",
+   "frame_count": 136
   },
   {
    "id": "cf967a1f-a6fd-4f2a-81e2-8e98438b740a",
@@ -15092,7 +15094,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/笑_001/preview.webp",
-   "glb_url": "assets/人形/笑_001/笑_001.glb"
+   "glb_url": "assets/人形/笑_001/笑_001.glb",
+   "frame_count": 146
   },
   {
    "id": "56021628-17d1-43fc-8eb0-c9815c1b85b0",
@@ -15107,7 +15110,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/笑_002/preview.webp",
-   "glb_url": "assets/人形/笑_002/笑_002.glb"
+   "glb_url": "assets/人形/笑_002/笑_002.glb",
+   "frame_count": 126
   },
   {
    "id": "795091dd-d842-472c-831a-afebf48f7798",
@@ -15122,7 +15126,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/笑_003/preview.webp",
-   "glb_url": "assets/人形/笑_003/笑_003.glb"
+   "glb_url": "assets/人形/笑_003/笑_003.glb",
+   "frame_count": 131
   },
   {
    "id": "bcaca8bd-a363-4237-a155-a6d13f1bf590",
@@ -15137,7 +15142,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/左看/preview.webp",
-   "glb_url": "assets/人形/左看/左看.glb"
+   "glb_url": "assets/人形/左看/左看.glb",
+   "frame_count": 111
   },
   {
    "id": "b056a754-534d-46ad-ab4e-f786039fd709",
@@ -15152,7 +15158,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/右看/preview.webp",
-   "glb_url": "assets/人形/右看/右看.glb"
+   "glb_url": "assets/人形/右看/右看.glb",
+   "frame_count": 151
   },
   {
    "id": "46382c6e-1eaa-4246-9215-479079e2d7e6",
@@ -15167,7 +15174,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/原地走/preview.webp",
-   "glb_url": "assets/人形/原地走/原地走.glb"
+   "glb_url": "assets/人形/原地走/原地走.glb",
+   "frame_count": 171
   },
   {
    "id": "e8cbe3e5-ed52-4b94-860a-dd9f571abeed",
@@ -15182,7 +15190,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/没头绪/preview.webp",
-   "glb_url": "assets/人形/没头绪/没头绪.glb"
+   "glb_url": "assets/人形/没头绪/没头绪.glb",
+   "frame_count": 46
   },
   {
    "id": "d9697d50-e7d2-4592-8cca-9e0d333391f4",
@@ -15197,7 +15206,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/不是我的错/preview.webp",
-   "glb_url": "assets/人形/不是我的错/不是我的错.glb"
+   "glb_url": "assets/人形/不是我的错/不是我的错.glb",
+   "frame_count": 61
   },
   {
    "id": "db516366-dabb-4e4a-9bbf-c2fa6bfe844e",
@@ -15212,7 +15222,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/不是我的错_001/preview.webp",
-   "glb_url": "assets/人形/不是我的错_001/不是我的错_001.glb"
+   "glb_url": "assets/人形/不是我的错_001/不是我的错_001.glb",
+   "frame_count": 31
   },
   {
    "id": "6c91cbe0-edf1-42b5-bb8e-be73002814e9",
@@ -15227,7 +15238,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/指出/preview.webp",
-   "glb_url": "assets/人形/指出/指出.glb"
+   "glb_url": "assets/人形/指出/指出.glb",
+   "frame_count": 146
   },
   {
    "id": "00604baf-bd11-4f04-8417-fa696f36c789",
@@ -15242,7 +15254,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/挠头/preview.webp",
-   "glb_url": "assets/人形/挠头/挠头.glb"
+   "glb_url": "assets/人形/挠头/挠头.glb",
+   "frame_count": 121
   },
   {
    "id": "78dd16b9-5fc3-4b26-9e35-75b3ded175ee",
@@ -15257,7 +15270,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/握手/preview.webp",
-   "glb_url": "assets/人形/握手/握手.glb"
+   "glb_url": "assets/人形/握手/握手.glb",
+   "frame_count": 81
   },
   {
    "id": "42232096-2db9-4d6a-9a20-f8f1f07b4855",
@@ -15272,7 +15286,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/惊讶/preview.webp",
-   "glb_url": "assets/人形/惊讶/惊讶.glb"
+   "glb_url": "assets/人形/惊讶/惊讶.glb",
+   "frame_count": 96
   },
   {
    "id": "56277a65-b1cb-4969-815c-a94126889a87",
@@ -15287,7 +15302,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/惊讶_001/preview.webp",
-   "glb_url": "assets/人形/惊讶_001/惊讶_001.glb"
+   "glb_url": "assets/人形/惊讶_001/惊讶_001.glb",
+   "frame_count": 76
   },
   {
    "id": "5eb18054-49c2-436d-9dfa-09a934765700",
@@ -15302,7 +15318,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/摸额头/preview.webp",
-   "glb_url": "assets/人形/摸额头/摸额头.glb"
+   "glb_url": "assets/人形/摸额头/摸额头.glb",
+   "frame_count": 96
   },
   {
    "id": "7fb8e1c7-ed55-46cc-9b77-4ab31886c914",
@@ -15317,7 +15334,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/挥手/preview.webp",
-   "glb_url": "assets/人形/挥手/挥手.glb"
+   "glb_url": "assets/人形/挥手/挥手.glb",
+   "frame_count": 81
   },
   {
    "id": "ae0f3352-ccf2-456e-8c13-b86682a5dc18",
@@ -15332,7 +15350,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/为什么是我/preview.webp",
-   "glb_url": "assets/人形/为什么是我/为什么是我.glb"
+   "glb_url": "assets/人形/为什么是我/为什么是我.glb",
+   "frame_count": 76
   },
   {
    "id": "e0ef0042-7917-405b-af2b-d944434ec245",
@@ -15347,7 +15366,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/wow/preview.webp",
-   "glb_url": "assets/人形/wow/wow.glb"
+   "glb_url": "assets/人形/wow/wow.glb",
+   "frame_count": 96
   },
   {
    "id": "3aba7aa0-1cc1-497d-be9d-9c26686d71fe",
@@ -15362,7 +15382,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/大叫/preview.webp",
-   "glb_url": "assets/人形/大叫/大叫.glb"
+   "glb_url": "assets/人形/大叫/大叫.glb",
+   "frame_count": 101
   },
   {
    "id": "7b38b589-ec2e-4c21-9227-f056b9001192",
@@ -15377,7 +15398,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/拿着饮料/preview.webp",
-   "glb_url": "assets/人形/拿着饮料/拿着饮料.glb"
+   "glb_url": "assets/人形/拿着饮料/拿着饮料.glb",
+   "frame_count": 46
   },
   {
    "id": "2d76d665-4afd-4aaa-bacc-192b14e94cf5",
@@ -15392,7 +15414,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/拿着饮料_001/preview.webp",
-   "glb_url": "assets/人形/拿着饮料_001/拿着饮料_001.glb"
+   "glb_url": "assets/人形/拿着饮料_001/拿着饮料_001.glb",
+   "frame_count": 186
   },
   {
    "id": "c1b3d03e-e8d2-4ace-ba5b-0dbcb03c829f",
@@ -15407,7 +15430,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/喝水/preview.webp",
-   "glb_url": "assets/人形/喝水/喝水.glb"
+   "glb_url": "assets/人形/喝水/喝水.glb",
+   "frame_count": 101
   },
   {
    "id": "bed648ed-acd4-4626-8828-1947225e5f05",
@@ -15422,7 +15446,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/喝水擦嘴/preview.webp",
-   "glb_url": "assets/人形/喝水擦嘴/喝水擦嘴.glb"
+   "glb_url": "assets/人形/喝水擦嘴/喝水擦嘴.glb",
+   "frame_count": 161
   },
   {
    "id": "dda2b6bc-487b-4132-b070-6c929c142db1",
@@ -15437,7 +15462,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/背手/preview.webp",
-   "glb_url": "assets/人形/背手/背手.glb"
+   "glb_url": "assets/人形/背手/背手.glb",
+   "frame_count": 236
   },
   {
    "id": "f455e5b1-d069-4867-9943-d7d4314a4ffc",
@@ -15452,7 +15478,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/抱胸/preview.webp",
-   "glb_url": "assets/人形/抱胸/抱胸.glb"
+   "glb_url": "assets/人形/抱胸/抱胸.glb",
+   "frame_count": 211
   },
   {
    "id": "b541c94a-315b-4417-83be-17ff8c507896",
@@ -15467,7 +15494,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/打电话/preview.webp",
-   "glb_url": "assets/人形/打电话/打电话.glb"
+   "glb_url": "assets/人形/打电话/打电话.glb",
+   "frame_count": 231
   },
   {
    "id": "fbd53c74-12c1-4cef-82ee-3f7309e08ac0",
@@ -15482,7 +15510,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/打电话看时间/preview.webp",
-   "glb_url": "assets/人形/打电话看时间/打电话看时间.glb"
+   "glb_url": "assets/人形/打电话看时间/打电话看时间.glb",
+   "frame_count": 91
   },
   {
    "id": "b65fb335-716a-4d62-9b88-db06c345168a",
@@ -15497,7 +15526,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/靠墙/preview.webp",
-   "glb_url": "assets/人形/靠墙/靠墙.glb"
+   "glb_url": "assets/人形/靠墙/靠墙.glb",
+   "frame_count": 121
   },
   {
    "id": "3b78beda-2bc6-46f3-b4e4-0f309b1b5f14",
@@ -15512,7 +15542,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/靠墙_001/preview.webp",
-   "glb_url": "assets/人形/靠墙_001/靠墙_001.glb"
+   "glb_url": "assets/人形/靠墙_001/靠墙_001.glb",
+   "frame_count": 171
   },
   {
    "id": "35703d96-c58f-4420-8b7d-339d9ed13341",
@@ -15527,7 +15558,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/靠墙看时间/preview.webp",
-   "glb_url": "assets/人形/靠墙看时间/靠墙看时间.glb"
+   "glb_url": "assets/人形/靠墙看时间/靠墙看时间.glb",
+   "frame_count": 91
   },
   {
    "id": "b43da6f3-5494-4b7d-baff-f4f1a0d5a691",
@@ -15542,7 +15574,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/靠墙左看/preview.webp",
-   "glb_url": "assets/人形/靠墙左看/靠墙左看.glb"
+   "glb_url": "assets/人形/靠墙左看/靠墙左看.glb",
+   "frame_count": 111
   },
   {
    "id": "927f34d6-3f10-4860-897b-5a182694a8fa",
@@ -15557,7 +15590,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/靠墙右看/preview.webp",
-   "glb_url": "assets/人形/靠墙右看/靠墙右看.glb"
+   "glb_url": "assets/人形/靠墙右看/靠墙右看.glb",
+   "frame_count": 81
   },
   {
    "id": "2b4772f6-da5d-425d-abd5-253791e6d492",
@@ -15572,7 +15606,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/靠墙抱胸/preview.webp",
-   "glb_url": "assets/人形/靠墙抱胸/靠墙抱胸.glb"
+   "glb_url": "assets/人形/靠墙抱胸/靠墙抱胸.glb",
+   "frame_count": 111
   },
   {
    "id": "a912940e-fba5-49f2-abf1-4ca632c89ad3",
@@ -15587,7 +15622,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/靠墙抱胸_001/preview.webp",
-   "glb_url": "assets/人形/靠墙抱胸_001/靠墙抱胸_001.glb"
+   "glb_url": "assets/人形/靠墙抱胸_001/靠墙抱胸_001.glb",
+   "frame_count": 86
   },
   {
    "id": "62196233-6325-4fe2-96fa-2909e5f0910a",
@@ -15602,7 +15638,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/靠墙抱胸看时间/preview.webp",
-   "glb_url": "assets/人形/靠墙抱胸看时间/靠墙抱胸看时间.glb"
+   "glb_url": "assets/人形/靠墙抱胸看时间/靠墙抱胸看时间.glb",
+   "frame_count": 111
   },
   {
    "id": "b781b7a0-ec5b-4627-87e6-d81ebafecbdf",
@@ -15617,7 +15654,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/靠墙抱胸左看/preview.webp",
-   "glb_url": "assets/人形/靠墙抱胸左看/靠墙抱胸左看.glb"
+   "glb_url": "assets/人形/靠墙抱胸左看/靠墙抱胸左看.glb",
+   "frame_count": 131
   },
   {
    "id": "e511b45a-39fa-4f6a-94c7-9f23ef434c42",
@@ -15632,7 +15670,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/靠墙抱胸右看/preview.webp",
-   "glb_url": "assets/人形/靠墙抱胸右看/靠墙抱胸右看.glb"
+   "glb_url": "assets/人形/靠墙抱胸右看/靠墙抱胸右看.glb",
+   "frame_count": 121
   },
   {
    "id": "7dc6e46a-d9f4-42cc-b067-16764d3682a9",
@@ -15648,7 +15687,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着/preview.webp",
-   "glb_url": "assets/人形/坐着/坐着.glb"
+   "glb_url": "assets/人形/坐着/坐着.glb",
+   "frame_count": 196
   },
   {
    "id": "bea86003-d32f-4339-a404-0d15e97ca4c7",
@@ -15664,7 +15704,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着看时间/preview.webp",
-   "glb_url": "assets/人形/坐着看时间/坐着看时间.glb"
+   "glb_url": "assets/人形/坐着看时间/坐着看时间.glb",
+   "frame_count": 91
   },
   {
    "id": "d587025d-8594-4734-95fb-345d65d96bc3",
@@ -15680,7 +15721,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着喝水/preview.webp",
-   "glb_url": "assets/人形/坐着喝水/坐着喝水.glb"
+   "glb_url": "assets/人形/坐着喝水/坐着喝水.glb",
+   "frame_count": 221
   },
   {
    "id": "14e9116c-eeff-4490-bf22-c05434c9c80a",
@@ -15696,7 +15738,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着左看/preview.webp",
-   "glb_url": "assets/人形/坐着左看/坐着左看.glb"
+   "glb_url": "assets/人形/坐着左看/坐着左看.glb",
+   "frame_count": 81
   },
   {
    "id": "63224b9f-a438-4928-a2b7-351dccde34f7",
@@ -15712,7 +15755,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着右看/preview.webp",
-   "glb_url": "assets/人形/坐着右看/坐着右看.glb"
+   "glb_url": "assets/人形/坐着右看/坐着右看.glb",
+   "frame_count": 86
   },
   {
    "id": "d0076c0b-d00b-47f6-b5b5-e35f5226be50",
@@ -15728,7 +15772,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着喝水_001/preview.webp",
-   "glb_url": "assets/人形/坐着喝水_001/坐着喝水_001.glb"
+   "glb_url": "assets/人形/坐着喝水_001/坐着喝水_001.glb",
+   "frame_count": 121
   },
   {
    "id": "d54328d9-0eda-45fb-9380-c76de113f8ef",
@@ -15744,7 +15789,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/伸展双臂坐着/preview.webp",
-   "glb_url": "assets/人形/伸展双臂坐着/伸展双臂坐着.glb"
+   "glb_url": "assets/人形/伸展双臂坐着/伸展双臂坐着.glb",
+   "frame_count": 501
   },
   {
    "id": "76ceb814-196b-410c-8f5f-628960bc860b",
@@ -15760,7 +15806,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/二郎腿坐着/preview.webp",
-   "glb_url": "assets/人形/二郎腿坐着/二郎腿坐着.glb"
+   "glb_url": "assets/人形/二郎腿坐着/二郎腿坐着.glb",
+   "frame_count": 71
   },
   {
    "id": "6b551e8d-a5ef-4c9a-bf02-fb4799dda1df",
@@ -15776,7 +15823,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/二郎腿看时间/preview.webp",
-   "glb_url": "assets/人形/二郎腿看时间/二郎腿看时间.glb"
+   "glb_url": "assets/人形/二郎腿看时间/二郎腿看时间.glb",
+   "frame_count": 101
   },
   {
    "id": "8f48a94a-412d-48db-b5fa-9922e5963ae0",
@@ -15792,7 +15840,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/二郎腿东张西望/preview.webp",
-   "glb_url": "assets/人形/二郎腿东张西望/二郎腿东张西望.glb"
+   "glb_url": "assets/人形/二郎腿东张西望/二郎腿东张西望.glb",
+   "frame_count": 201
   },
   {
    "id": "2efa186b-d53f-4f47-acbd-325171eaa249",
@@ -15808,7 +15857,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/二郎腿哈欠/preview.webp",
-   "glb_url": "assets/人形/二郎腿哈欠/二郎腿哈欠.glb"
+   "glb_url": "assets/人形/二郎腿哈欠/二郎腿哈欠.glb",
+   "frame_count": 176
   },
   {
    "id": "c935abfb-39d7-4a02-9304-b570d2773781",
@@ -15824,7 +15874,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/抱头坐着/preview.webp",
-   "glb_url": "assets/人形/抱头坐着/抱头坐着.glb"
+   "glb_url": "assets/人形/抱头坐着/抱头坐着.glb",
+   "frame_count": 371
   },
   {
    "id": "cd2ac60d-e36f-4498-96b5-eab702d06216",
@@ -15840,7 +15891,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着_001/preview.webp",
-   "glb_url": "assets/人形/坐着_001/坐着_001.glb"
+   "glb_url": "assets/人形/坐着_001/坐着_001.glb",
+   "frame_count": 291
   },
   {
    "id": "23767d98-df5b-4685-ba3a-ff680130cd41",
@@ -15856,7 +15908,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/二郎腿坐着_001/preview.webp",
-   "glb_url": "assets/人形/二郎腿坐着_001/二郎腿坐着_001.glb"
+   "glb_url": "assets/人形/二郎腿坐着_001/二郎腿坐着_001.glb",
+   "frame_count": 111
   },
   {
    "id": "b30fa96f-c458-4fd5-9c31-6fe49fbabd25",
@@ -15872,7 +15925,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/二郎腿坐着看时间/preview.webp",
-   "glb_url": "assets/人形/二郎腿坐着看时间/二郎腿坐着看时间.glb"
+   "glb_url": "assets/人形/二郎腿坐着看时间/二郎腿坐着看时间.glb",
+   "frame_count": 81
   },
   {
    "id": "5e60c4c6-1b62-4eb2-8174-764e01787426",
@@ -15888,7 +15942,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/二郎腿坐着东张西望/preview.webp",
-   "glb_url": "assets/人形/二郎腿坐着东张西望/二郎腿坐着东张西望.glb"
+   "glb_url": "assets/人形/二郎腿坐着东张西望/二郎腿坐着东张西望.glb",
+   "frame_count": 186
   },
   {
    "id": "2d7461bf-49e1-4b96-93f2-c946c0b86abb",
@@ -15904,7 +15959,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/二郎腿坐着哈欠/preview.webp",
-   "glb_url": "assets/人形/二郎腿坐着哈欠/二郎腿坐着哈欠.glb"
+   "glb_url": "assets/人形/二郎腿坐着哈欠/二郎腿坐着哈欠.glb",
+   "frame_count": 111
   },
   {
    "id": "0ad9758d-1b10-43a8-83c2-3da8827e3986",
@@ -15920,7 +15976,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/二郎腿坐着拿饮料/preview.webp",
-   "glb_url": "assets/人形/二郎腿坐着拿饮料/二郎腿坐着拿饮料.glb"
+   "glb_url": "assets/人形/二郎腿坐着拿饮料/二郎腿坐着拿饮料.glb",
+   "frame_count": 46
   },
   {
    "id": "9208ca83-c4fa-41cf-b20a-9cf31df9dd8d",
@@ -15936,7 +15993,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/二郎腿坐着拿饮料_001/preview.webp",
-   "glb_url": "assets/人形/二郎腿坐着拿饮料_001/二郎腿坐着拿饮料_001.glb"
+   "glb_url": "assets/人形/二郎腿坐着拿饮料_001/二郎腿坐着拿饮料_001.glb",
+   "frame_count": 61
   },
   {
    "id": "a276ce80-a2d7-42c9-b703-039db711bc1d",
@@ -15952,7 +16010,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/左看_001/preview.webp",
-   "glb_url": "assets/人形/左看_001/左看_001.glb"
+   "glb_url": "assets/人形/左看_001/左看_001.glb",
+   "frame_count": 101
   },
   {
    "id": "9141e237-9bf4-4d3c-8921-4c66b752cccf",
@@ -15968,7 +16027,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/右看_001/preview.webp",
-   "glb_url": "assets/人形/右看_001/右看_001.glb"
+   "glb_url": "assets/人形/右看_001/右看_001.glb",
+   "frame_count": 71
   },
   {
    "id": "50dbf254-9580-41f3-8778-52fec73098dd",
@@ -15984,7 +16044,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/喝水_001/preview.webp",
-   "glb_url": "assets/人形/喝水_001/喝水_001.glb"
+   "glb_url": "assets/人形/喝水_001/喝水_001.glb",
+   "frame_count": 91
   },
   {
    "id": "9c2bcc9f-bc90-42fe-b31a-86d87f7fd963",
@@ -16000,7 +16061,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/待机_022/preview.webp",
-   "glb_url": "assets/人形/待机_022/待机_022.glb"
+   "glb_url": "assets/人形/待机_022/待机_022.glb",
+   "frame_count": 221
   },
   {
    "id": "04a0b75c-5e8f-406b-a3cb-1413d45d863b",
@@ -16016,7 +16078,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/看电话/preview.webp",
-   "glb_url": "assets/人形/看电话/看电话.glb"
+   "glb_url": "assets/人形/看电话/看电话.glb",
+   "frame_count": 111
   },
   {
    "id": "4ab6957c-c4d3-4ca4-8a83-cdd07eb0235a",
@@ -16032,7 +16095,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/看时间/preview.webp",
-   "glb_url": "assets/人形/看时间/看时间.glb"
+   "glb_url": "assets/人形/看时间/看时间.glb",
+   "frame_count": 51
   },
   {
    "id": "406dcd84-5e88-4b8a-8cfd-009cccc37220",
@@ -16048,7 +16112,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/东张西望/preview.webp",
-   "glb_url": "assets/人形/东张西望/东张西望.glb"
+   "glb_url": "assets/人形/东张西望/东张西望.glb",
+   "frame_count": 281
   },
   {
    "id": "1d66839c-1262-4d82-b191-08c604e80d24",
@@ -16064,7 +16129,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/摸头发/preview.webp",
-   "glb_url": "assets/人形/摸头发/摸头发.glb"
+   "glb_url": "assets/人形/摸头发/摸头发.glb",
+   "frame_count": 206
   },
   {
    "id": "5f8d1cf0-511d-4dd8-bc00-0eb418fcc36c",
@@ -16080,7 +16146,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着_002/preview.webp",
-   "glb_url": "assets/人形/坐着_002/坐着_002.glb"
+   "glb_url": "assets/人形/坐着_002/坐着_002.glb",
+   "frame_count": 151
   },
   {
    "id": "b873b0ac-af6e-409f-a544-2e9c7429148c",
@@ -16096,7 +16163,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着_003/preview.webp",
-   "glb_url": "assets/人形/坐着_003/坐着_003.glb"
+   "glb_url": "assets/人形/坐着_003/坐着_003.glb",
+   "frame_count": 121
   },
   {
    "id": "460e2a96-2b93-49c5-92c3-4daa152c5a72",
@@ -16112,7 +16180,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着_004/preview.webp",
-   "glb_url": "assets/人形/坐着_004/坐着_004.glb"
+   "glb_url": "assets/人形/坐着_004/坐着_004.glb",
+   "frame_count": 131
   },
   {
    "id": "9b37d7bb-3307-4ec0-b73b-00ae02f9aa8e",
@@ -16128,7 +16197,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着拖头看时间/preview.webp",
-   "glb_url": "assets/人形/坐着拖头看时间/坐着拖头看时间.glb"
+   "glb_url": "assets/人形/坐着拖头看时间/坐着拖头看时间.glb",
+   "frame_count": 111
   },
   {
    "id": "76b12679-ed53-4dc3-a484-23cac961376a",
@@ -16144,7 +16214,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着拖头左看/preview.webp",
-   "glb_url": "assets/人形/坐着拖头左看/坐着拖头左看.glb"
+   "glb_url": "assets/人形/坐着拖头左看/坐着拖头左看.glb",
+   "frame_count": 111
   },
   {
    "id": "d62140eb-18ab-4258-9491-9bd8f557fd83",
@@ -16160,7 +16231,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着拖头右看/preview.webp",
-   "glb_url": "assets/人形/坐着拖头右看/坐着拖头右看.glb"
+   "glb_url": "assets/人形/坐着拖头右看/坐着拖头右看.glb",
+   "frame_count": 121
   },
   {
    "id": "94722d4e-8241-4f6b-9caa-d9354a7ef5ad",
@@ -16176,7 +16248,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着拖头挠头/preview.webp",
-   "glb_url": "assets/人形/坐着拖头挠头/坐着拖头挠头.glb"
+   "glb_url": "assets/人形/坐着拖头挠头/坐着拖头挠头.glb",
+   "frame_count": 71
   },
   {
    "id": "e2ab8237-5eee-4557-88a6-95e6c8048451",
@@ -16192,7 +16265,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着_005/preview.webp",
-   "glb_url": "assets/人形/坐着_005/坐着_005.glb"
+   "glb_url": "assets/人形/坐着_005/坐着_005.glb",
+   "frame_count": 111
   },
   {
    "id": "65671a92-9415-4a53-8fcf-2aa4e7bd0b1d",
@@ -16208,7 +16282,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/看时间_001/preview.webp",
-   "glb_url": "assets/人形/看时间_001/看时间_001.glb"
+   "glb_url": "assets/人形/看时间_001/看时间_001.glb",
+   "frame_count": 101
   },
   {
    "id": "a28db314-f951-40ca-86c6-1f98a177676b",
@@ -16224,7 +16299,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/左看_002/preview.webp",
-   "glb_url": "assets/人形/左看_002/左看_002.glb"
+   "glb_url": "assets/人形/左看_002/左看_002.glb",
+   "frame_count": 91
   },
   {
    "id": "aa75bc8d-2ea4-4ecc-ad80-b306a6b6dc98",
@@ -16240,7 +16316,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/右看_002/preview.webp",
-   "glb_url": "assets/人形/右看_002/右看_002.glb"
+   "glb_url": "assets/人形/右看_002/右看_002.glb",
+   "frame_count": 141
   },
   {
    "id": "0bf7b95b-b558-4ee3-93db-41def78ccef3",
@@ -16256,7 +16333,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/伸懒腰/preview.webp",
-   "glb_url": "assets/人形/伸懒腰/伸懒腰.glb"
+   "glb_url": "assets/人形/伸懒腰/伸懒腰.glb",
+   "frame_count": 106
   },
   {
    "id": "49549764-646c-41d8-a302-a6cfa9923877",
@@ -16272,7 +16350,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着_006/preview.webp",
-   "glb_url": "assets/人形/坐着_006/坐着_006.glb"
+   "glb_url": "assets/人形/坐着_006/坐着_006.glb",
+   "frame_count": 106
   },
   {
    "id": "6805638c-86cb-4683-90e6-1741d5a05fcd",
@@ -16288,7 +16367,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/同意/preview.webp",
-   "glb_url": "assets/人形/同意/同意.glb"
+   "glb_url": "assets/人形/同意/同意.glb",
+   "frame_count": 61
   },
   {
    "id": "5ad77f19-ac4c-45c2-a261-120cfcdd8f00",
@@ -16304,7 +16384,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/看时间_002/preview.webp",
-   "glb_url": "assets/人形/看时间_002/看时间_002.glb"
+   "glb_url": "assets/人形/看时间_002/看时间_002.glb",
+   "frame_count": 91
   },
   {
    "id": "ec406fd0-88e7-4874-8529-4f4748d570cd",
@@ -16320,7 +16401,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/解释_002/preview.webp",
-   "glb_url": "assets/人形/解释_002/解释_002.glb"
+   "glb_url": "assets/人形/解释_002/解释_002.glb",
+   "frame_count": 106
   },
   {
    "id": "4e956935-6255-4e55-b705-092aedd0e731",
@@ -16336,7 +16418,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/打招呼_001/preview.webp",
-   "glb_url": "assets/人形/打招呼_001/打招呼_001.glb"
+   "glb_url": "assets/人形/打招呼_001/打招呼_001.glb",
+   "frame_count": 91
   },
   {
    "id": "af29ff78-bf56-4376-bb7e-6c224ec7ee78",
@@ -16352,7 +16435,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/打招呼/preview.webp",
-   "glb_url": "assets/人形/打招呼/打招呼.glb"
+   "glb_url": "assets/人形/打招呼/打招呼.glb",
+   "frame_count": 91
   },
   {
    "id": "4d766404-0150-4f9c-9ba3-76e17cab9aa3",
@@ -16368,7 +16452,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/同意_001/preview.webp",
-   "glb_url": "assets/人形/同意_001/同意_001.glb"
+   "glb_url": "assets/人形/同意_001/同意_001.glb",
+   "frame_count": 71
   },
   {
    "id": "52e7cbae-5be7-4503-bb1c-56d610760997",
@@ -16384,7 +16469,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/左看_003/preview.webp",
-   "glb_url": "assets/人形/左看_003/左看_003.glb"
+   "glb_url": "assets/人形/左看_003/左看_003.glb",
+   "frame_count": 146
   },
   {
    "id": "6d489dbe-c9a5-4b53-ba97-e45c1db5f9e0",
@@ -16400,7 +16486,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/右看_003/preview.webp",
-   "glb_url": "assets/人形/右看_003/右看_003.glb"
+   "glb_url": "assets/人形/右看_003/右看_003.glb",
+   "frame_count": 171
   },
   {
    "id": "049f0223-ac21-40d8-ab8e-36861f7fb02c",
@@ -16416,7 +16503,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/不谢/preview.webp",
-   "glb_url": "assets/人形/不谢/不谢.glb"
+   "glb_url": "assets/人形/不谢/不谢.glb",
+   "frame_count": 66
   },
   {
    "id": "89688391-bafd-4c59-a988-6ca645405ea1",
@@ -16432,7 +16520,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/挠头_001/preview.webp",
-   "glb_url": "assets/人形/挠头_001/挠头_001.glb"
+   "glb_url": "assets/人形/挠头_001/挠头_001.glb",
+   "frame_count": 81
   },
   {
    "id": "964d30e5-d4ff-4db6-a4cc-6439e8eee629",
@@ -16448,7 +16537,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/接电话/preview.webp",
-   "glb_url": "assets/人形/接电话/接电话.glb"
+   "glb_url": "assets/人形/接电话/接电话.glb",
+   "frame_count": 111
   },
   {
    "id": "3356b46a-b176-4f3d-bad9-3db6019d0a26",
@@ -16464,7 +16554,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/哈欠/preview.webp",
-   "glb_url": "assets/人形/哈欠/哈欠.glb"
+   "glb_url": "assets/人形/哈欠/哈欠.glb",
+   "frame_count": 101
   },
   {
    "id": "36e58e13-bc4e-42a4-8bc9-5047814edf7d",
@@ -16480,7 +16571,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/哈欠_001/preview.webp",
-   "glb_url": "assets/人形/哈欠_001/哈欠_001.glb"
+   "glb_url": "assets/人形/哈欠_001/哈欠_001.glb",
+   "frame_count": 91
   },
   {
    "id": "258f06b6-a656-46c7-ad82-863bf735f4a0",
@@ -16496,7 +16588,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/坐着_007/preview.webp",
-   "glb_url": "assets/人形/坐着_007/坐着_007.glb"
+   "glb_url": "assets/人形/坐着_007/坐着_007.glb",
+   "frame_count": 66
   },
   {
    "id": "f940d115-aded-4134-9798-01bbb88cc185",
@@ -16512,7 +16605,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/喝水_002/preview.webp",
-   "glb_url": "assets/人形/喝水_002/喝水_002.glb"
+   "glb_url": "assets/人形/喝水_002/喝水_002.glb",
+   "frame_count": 91
   },
   {
    "id": "9caffa3a-d5f3-4b30-b585-3d99067a0fb6",
@@ -16528,7 +16622,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/喝水擦嘴_001/preview.webp",
-   "glb_url": "assets/人形/喝水擦嘴_001/喝水擦嘴_001.glb"
+   "glb_url": "assets/人形/喝水擦嘴_001/喝水擦嘴_001.glb",
+   "frame_count": 166
   },
   {
    "id": "6f5528e2-665f-46e0-a79e-e3c3fd377cde",
@@ -16544,7 +16639,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/打电话_001/preview.webp",
-   "glb_url": "assets/人形/打电话_001/打电话_001.glb"
+   "glb_url": "assets/人形/打电话_001/打电话_001.glb",
+   "frame_count": 121
   },
   {
    "id": "3625a0c5-25a5-4fbd-bf5c-56f0bd8fe87b",
@@ -16560,7 +16656,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话同意/preview.webp",
-   "glb_url": "assets/人形/电话同意/电话同意.glb"
+   "glb_url": "assets/人形/电话同意/电话同意.glb",
+   "frame_count": 191
   },
   {
    "id": "46eb402a-e51c-434c-a3c5-2759b8e70721",
@@ -16576,7 +16673,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话同意_001/preview.webp",
-   "glb_url": "assets/人形/电话同意_001/电话同意_001.glb"
+   "glb_url": "assets/人形/电话同意_001/电话同意_001.glb",
+   "frame_count": 171
   },
   {
    "id": "df78ec19-523f-4e6a-89a7-ba4d4ff71df5",
@@ -16592,7 +16690,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话同意_002/preview.webp",
-   "glb_url": "assets/人形/电话同意_002/电话同意_002.glb"
+   "glb_url": "assets/人形/电话同意_002/电话同意_002.glb",
+   "frame_count": 101
   },
   {
    "id": "b563f878-0578-4060-9ecb-201a63c51297",
@@ -16608,7 +16707,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话争论/preview.webp",
-   "glb_url": "assets/人形/电话争论/电话争论.glb"
+   "glb_url": "assets/人形/电话争论/电话争论.glb",
+   "frame_count": 221
   },
   {
    "id": "85ad3501-aca3-4c2c-9ea3-e7488efbdf5e",
@@ -16624,7 +16724,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话争论_001/preview.webp",
-   "glb_url": "assets/人形/电话争论_001/电话争论_001.glb"
+   "glb_url": "assets/人形/电话争论_001/电话争论_001.glb",
+   "frame_count": 141
   },
   {
    "id": "63d1bd1a-9db1-46d1-bccf-6ba045e269d1",
@@ -16640,7 +16741,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话争论_002/preview.webp",
-   "glb_url": "assets/人形/电话争论_002/电话争论_002.glb"
+   "glb_url": "assets/人形/电话争论_002/电话争论_002.glb",
+   "frame_count": 121
   },
   {
    "id": "0b852e4e-aa29-4b1f-8552-fd208b73491a",
@@ -16656,7 +16758,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话解释/preview.webp",
-   "glb_url": "assets/人形/电话解释/电话解释.glb"
+   "glb_url": "assets/人形/电话解释/电话解释.glb",
+   "frame_count": 131
   },
   {
    "id": "ed22f86c-20db-4bbc-a602-768067a168cb",
@@ -16672,7 +16775,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话听/preview.webp",
-   "glb_url": "assets/人形/电话听/电话听.glb"
+   "glb_url": "assets/人形/电话听/电话听.glb",
+   "frame_count": 351
   },
   {
    "id": "a8960cc2-e418-40bf-9227-f9f107976529",
@@ -16688,7 +16792,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话四处张望/preview.webp",
-   "glb_url": "assets/人形/电话四处张望/电话四处张望.glb"
+   "glb_url": "assets/人形/电话四处张望/电话四处张望.glb",
+   "frame_count": 61
   },
   {
    "id": "4d57eeaf-bc46-44c1-b5d8-077e91038f52",
@@ -16704,7 +16809,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话四处张望_001/preview.webp",
-   "glb_url": "assets/人形/电话四处张望_001/电话四处张望_001.glb"
+   "glb_url": "assets/人形/电话四处张望_001/电话四处张望_001.glb",
+   "frame_count": 171
   },
   {
    "id": "8600fe5d-820d-4756-9d6d-933a506b832a",
@@ -16720,7 +16826,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话拒绝/preview.webp",
-   "glb_url": "assets/人形/电话拒绝/电话拒绝.glb"
+   "glb_url": "assets/人形/电话拒绝/电话拒绝.glb",
+   "frame_count": 111
   },
   {
    "id": "a6d4f2fc-8fef-4244-829e-182bed7acfd6",
@@ -16736,7 +16843,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/电话打字/preview.webp",
-   "glb_url": "assets/人形/电话打字/电话打字.glb"
+   "glb_url": "assets/人形/电话打字/电话打字.glb",
+   "frame_count": 236
   },
   {
    "id": "f058af8a-ce40-4ea4-a1b2-3ab0d487c6e4",
@@ -16752,7 +16860,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/收起电话/preview.webp",
-   "glb_url": "assets/人形/收起电话/收起电话.glb"
+   "glb_url": "assets/人形/收起电话/收起电话.glb",
+   "frame_count": 91
   },
   {
    "id": "8f392275-9688-4d54-ae52-97980d5b399b",
@@ -16767,7 +16876,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_002/preview.webp",
-   "glb_url": "assets/人形/走_002/走_002.glb"
+   "glb_url": "assets/人形/走_002/走_002.glb",
+   "frame_count": 41
   },
   {
    "id": "71345fe9-d72f-4c62-b01a-bf26f38772e2",
@@ -16782,7 +16892,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_003/preview.webp",
-   "glb_url": "assets/人形/走_003/走_003.glb"
+   "glb_url": "assets/人形/走_003/走_003.glb",
+   "frame_count": 31
   },
   {
    "id": "a655f76d-df61-4075-98f5-093caf4b170d",
@@ -16797,7 +16908,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_004/preview.webp",
-   "glb_url": "assets/人形/走_004/走_004.glb"
+   "glb_url": "assets/人形/走_004/走_004.glb",
+   "frame_count": 46
   },
   {
    "id": "ce8465fe-90c3-4a10-be71-c3dffcd0ceed",
@@ -16812,7 +16924,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_005/preview.webp",
-   "glb_url": "assets/人形/走_005/走_005.glb"
+   "glb_url": "assets/人形/走_005/走_005.glb",
+   "frame_count": 41
   },
   {
    "id": "e88dbf7f-5105-45fe-8570-060dab3905d2",
@@ -16827,7 +16940,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_006/preview.webp",
-   "glb_url": "assets/人形/走_006/走_006.glb"
+   "glb_url": "assets/人形/走_006/走_006.glb",
+   "frame_count": 31
   },
   {
    "id": "90ffeca5-1002-4762-b032-68acc1e3ad07",
@@ -16842,7 +16956,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_007/preview.webp",
-   "glb_url": "assets/人形/走_007/走_007.glb"
+   "glb_url": "assets/人形/走_007/走_007.glb",
+   "frame_count": 41
   },
   {
    "id": "5f18b795-1611-48a8-811a-e0272d3954b1",
@@ -16857,7 +16972,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_008/preview.webp",
-   "glb_url": "assets/人形/走_008/走_008.glb"
+   "glb_url": "assets/人形/走_008/走_008.glb",
+   "frame_count": 41
   },
   {
    "id": "5b600dc8-68d8-45cd-8d88-e978b726aef2",
@@ -16872,7 +16988,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_009/preview.webp",
-   "glb_url": "assets/人形/走_009/走_009.glb"
+   "glb_url": "assets/人形/走_009/走_009.glb",
+   "frame_count": 36
   },
   {
    "id": "bb086093-b73d-4a2b-83e3-2d2d168a4f7a",
@@ -16887,7 +17004,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_010/preview.webp",
-   "glb_url": "assets/人形/走_010/走_010.glb"
+   "glb_url": "assets/人形/走_010/走_010.glb",
+   "frame_count": 36
   },
   {
    "id": "28584040-0165-4397-a054-4771d42bff3a",
@@ -16902,7 +17020,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走喝水/preview.webp",
-   "glb_url": "assets/人形/走喝水/走喝水.glb"
+   "glb_url": "assets/人形/走喝水/走喝水.glb",
+   "frame_count": 71
   },
   {
    "id": "0eee3776-d350-4251-a4e5-21a278d67c32",
@@ -16917,7 +17036,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_011/preview.webp",
-   "glb_url": "assets/人形/走_011/走_011.glb"
+   "glb_url": "assets/人形/走_011/走_011.glb",
+   "frame_count": 37
   },
   {
    "id": "813af1a6-d9b0-4153-aa63-f6003432291f",
@@ -16932,7 +17052,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走看时间/preview.webp",
-   "glb_url": "assets/人形/走看时间/走看时间.glb"
+   "glb_url": "assets/人形/走看时间/走看时间.glb",
+   "frame_count": 111
   },
   {
    "id": "967dc3de-1916-40af-bc28-b348b5f856b9",
@@ -16947,7 +17068,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/老人推车/preview.webp",
-   "glb_url": "assets/人形/老人推车/老人推车.glb"
+   "glb_url": "assets/人形/老人推车/老人推车.glb",
+   "frame_count": 46
   },
   {
    "id": "327752b2-aac6-4e62-ba94-9230aee42b19",
@@ -16962,7 +17084,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走推车/preview.webp",
-   "glb_url": "assets/人形/走推车/走推车.glb"
+   "glb_url": "assets/人形/走推车/走推车.glb",
+   "frame_count": 36
   },
   {
    "id": "b726a366-c097-4147-ac56-344eb87c0db8",
@@ -16977,7 +17100,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走接电话/preview.webp",
-   "glb_url": "assets/人形/走接电话/走接电话.glb"
+   "glb_url": "assets/人形/走接电话/走接电话.glb",
+   "frame_count": 41
   },
   {
    "id": "f293ee23-56af-4d01-8be6-a872c88b4217",
@@ -16992,7 +17116,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走玩手机/preview.webp",
-   "glb_url": "assets/人形/走玩手机/走玩手机.glb"
+   "glb_url": "assets/人形/走玩手机/走玩手机.glb",
+   "frame_count": 40
   },
   {
    "id": "c8e96c1f-a741-4f0e-adfd-681fa91406ec",
@@ -17007,7 +17132,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走玩手机_001/preview.webp",
-   "glb_url": "assets/人形/走玩手机_001/走玩手机_001.glb"
+   "glb_url": "assets/人形/走玩手机_001/走玩手机_001.glb",
+   "frame_count": 76
   },
   {
    "id": "d43dbfad-7daf-4b26-b41a-13545f0ca053",
@@ -17022,7 +17148,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_014/preview.webp",
-   "glb_url": "assets/人形/走_014/走_014.glb"
+   "glb_url": "assets/人形/走_014/走_014.glb",
+   "frame_count": 41
   },
   {
    "id": "ef571eaf-cdf2-42e5-9b9f-cdbcad6fb9c5",
@@ -17037,7 +17164,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_015/preview.webp",
-   "glb_url": "assets/人形/走_015/走_015.glb"
+   "glb_url": "assets/人形/走_015/走_015.glb",
+   "frame_count": 36
   },
   {
    "id": "0f82e611-8628-4b0f-8d0b-471d1606d9cc",
@@ -17052,7 +17180,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走拐杖/preview.webp",
-   "glb_url": "assets/人形/走拐杖/走拐杖.glb"
+   "glb_url": "assets/人形/走拐杖/走拐杖.glb",
+   "frame_count": 41
   },
   {
    "id": "2b7b3af1-e56e-4064-8382-a1e5486a3e8b",
@@ -17067,7 +17196,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_012/preview.webp",
-   "glb_url": "assets/人形/走_012/走_012.glb"
+   "glb_url": "assets/人形/走_012/走_012.glb",
+   "frame_count": 41
   },
   {
    "id": "ac186254-96e1-44c7-ad5f-27031ceb64b9",
@@ -17082,7 +17212,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/耳机听歌/preview.webp",
-   "glb_url": "assets/人形/耳机听歌/耳机听歌.glb"
+   "glb_url": "assets/人形/耳机听歌/耳机听歌.glb",
+   "frame_count": 101
   },
   {
    "id": "3bcee7b7-d0fc-4aa9-a728-58a41d2cb25d",
@@ -17097,7 +17228,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_013/preview.webp",
-   "glb_url": "assets/人形/走_013/走_013.glb"
+   "glb_url": "assets/人形/走_013/走_013.glb",
+   "frame_count": 81
   },
   {
    "id": "1f5b4c1a-7c86-451a-b1bd-9ee690ff40c9",
@@ -17112,7 +17244,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_016/preview.webp",
-   "glb_url": "assets/人形/走_016/走_016.glb"
+   "glb_url": "assets/人形/走_016/走_016.glb",
+   "frame_count": 36
   },
   {
    "id": "fae6ae85-28dd-41b3-96bc-c22749883cac",
@@ -17127,7 +17260,8 @@
    "weapons": [],
    "category": "",
    "preview_url": "assets/人形/走_017/preview.webp",
-   "glb_url": "assets/人形/走_017/走_017.glb"
+   "glb_url": "assets/人形/走_017/走_017.glb",
+   "frame_count": 31
   },
   {
    "id": "f525fd3d-4d33-4bc6-8b7c-9559cf4d9137",
@@ -17144,7 +17278,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/单手爬_004/preview.webp",
-   "glb_url": "assets/人形/单手爬_004/单手爬_004.glb"
+   "glb_url": "assets/人形/单手爬_004/单手爬_004.glb",
+   "frame_count": 44
   },
   {
    "id": "d4e6ca6b-7287-47aa-af60-2e953f37f481",
@@ -17161,7 +17296,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/双手爬_004/preview.webp",
-   "glb_url": "assets/人形/双手爬_004/双手爬_004.glb"
+   "glb_url": "assets/人形/双手爬_004/双手爬_004.glb",
+   "frame_count": 104
   },
   {
    "id": "983fb0ee-a05f-492f-a944-05dbca7fb9d1",
@@ -17178,7 +17314,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左脚爬/preview.webp",
-   "glb_url": "assets/人形/左脚爬/左脚爬.glb"
+   "glb_url": "assets/人形/左脚爬/左脚爬.glb",
+   "frame_count": 34
   },
   {
    "id": "4a88a461-2cc6-4307-b8ae-3ea710224296",
@@ -17195,7 +17332,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右脚爬/preview.webp",
-   "glb_url": "assets/人形/右脚爬/右脚爬.glb"
+   "glb_url": "assets/人形/右脚爬/右脚爬.glb",
+   "frame_count": 31
   },
   {
    "id": "e86e67cc-8bab-49e7-a8bd-e1b73d8cf40a",
@@ -17212,7 +17350,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/瞄准/preview.webp",
-   "glb_url": "assets/人形/瞄准/瞄准.glb"
+   "glb_url": "assets/人形/瞄准/瞄准.glb",
+   "frame_count": 61
   },
   {
    "id": "cc5ef9f0-42c3-4ccf-855e-d7fe449a58ab",
@@ -17230,7 +17369,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/后走_010/preview.webp",
-   "glb_url": "assets/人形/后走_010/后走_010.glb"
+   "glb_url": "assets/人形/后走_010/后走_010.glb",
+   "frame_count": 51
   },
   {
    "id": "d9a9732d-542e-4300-b82b-af7458118b75",
@@ -17248,7 +17388,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/标准后走/preview.webp",
-   "glb_url": "assets/人形/标准后走/标准后走.glb"
+   "glb_url": "assets/人形/标准后走/标准后走.glb",
+   "frame_count": 51
   },
   {
    "id": "3ef7b7bd-4111-4f13-89bb-6b567f4dd533",
@@ -17266,7 +17407,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/前走_012/preview.webp",
-   "glb_url": "assets/人形/前走_012/前走_012.glb"
+   "glb_url": "assets/人形/前走_012/前走_012.glb",
+   "frame_count": 51
   },
   {
    "id": "e3e88ccd-36d2-408e-b95c-db63e3728bbb",
@@ -17284,7 +17426,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/瞄准前走_003/preview.webp",
-   "glb_url": "assets/人形/瞄准前走_003/瞄准前走_003.glb"
+   "glb_url": "assets/人形/瞄准前走_003/瞄准前走_003.glb",
+   "frame_count": 51
   },
   {
    "id": "46de508e-b282-4529-b8d2-38b8d30d1685",
@@ -17301,7 +17444,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽_001/preview.webp",
-   "glb_url": "assets/人形/隐蔽_001/隐蔽_001.glb"
+   "glb_url": "assets/人形/隐蔽_001/隐蔽_001.glb",
+   "frame_count": 31
   },
   {
    "id": "7e2823b5-08ef-45f7-b9aa-f71cffeb824c",
@@ -17319,7 +17463,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/下蹲待机_008/preview.webp",
-   "glb_url": "assets/人形/下蹲待机_008/下蹲待机_008.glb"
+   "glb_url": "assets/人形/下蹲待机_008/下蹲待机_008.glb",
+   "frame_count": 73
   },
   {
    "id": "a3342f2d-0ee2-49f7-8621-12de9eb0d105",
@@ -17337,7 +17482,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽_002/preview.webp",
-   "glb_url": "assets/人形/隐蔽_002/隐蔽_002.glb"
+   "glb_url": "assets/人形/隐蔽_002/隐蔽_002.glb",
+   "frame_count": 61
   },
   {
    "id": "17fbfa6f-6156-493c-b351-7be650ec566a",
@@ -17355,7 +17501,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/东张西望_001/preview.webp",
-   "glb_url": "assets/人形/东张西望_001/东张西望_001.glb"
+   "glb_url": "assets/人形/东张西望_001/东张西望_001.glb",
+   "frame_count": 126
   },
   {
    "id": "e93147e1-e113-4747-b519-ea3afe896c84",
@@ -17373,7 +17520,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左走_009/preview.webp",
-   "glb_url": "assets/人形/左走_009/左走_009.glb"
+   "glb_url": "assets/人形/左走_009/左走_009.glb",
+   "frame_count": 51
   },
   {
    "id": "5e7cc2a3-f4e2-4f59-9565-5cc989c57daf",
@@ -17391,7 +17539,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右走_009/preview.webp",
-   "glb_url": "assets/人形/右走_009/右走_009.glb"
+   "glb_url": "assets/人形/右走_009/右走_009.glb",
+   "frame_count": 51
   },
   {
    "id": "078036f4-359e-46ee-a71f-fffa4e07439a",
@@ -17409,7 +17558,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/射击_002/preview.webp",
-   "glb_url": "assets/人形/射击_002/射击_002.glb"
+   "glb_url": "assets/人形/射击_002/射击_002.glb",
+   "frame_count": 19
   },
   {
    "id": "a2610a55-18f1-4cf3-8861-350db0993abd",
@@ -17427,7 +17577,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/射击_003/preview.webp",
-   "glb_url": "assets/人形/射击_003/射击_003.glb"
+   "glb_url": "assets/人形/射击_003/射击_003.glb",
+   "frame_count": 34
   },
   {
    "id": "b36322a8-5991-4897-ac7c-b19091df5b4f",
@@ -17444,7 +17595,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/后死_005/preview.webp",
-   "glb_url": "assets/人形/后死_005/后死_005.glb"
+   "glb_url": "assets/人形/后死_005/后死_005.glb",
+   "frame_count": 96
   },
   {
    "id": "e5e95156-e5e9-428c-a385-46fee89469f4",
@@ -17461,7 +17613,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/前死_005/preview.webp",
-   "glb_url": "assets/人形/前死_005/前死_005.glb"
+   "glb_url": "assets/人形/前死_005/前死_005.glb",
+   "frame_count": 88
   },
   {
    "id": "6b621943-37f3-408d-851a-d729e6dc0256",
@@ -17478,7 +17631,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左死_005/preview.webp",
-   "glb_url": "assets/人形/左死_005/左死_005.glb"
+   "glb_url": "assets/人形/左死_005/左死_005.glb",
+   "frame_count": 97
   },
   {
    "id": "a1ddc026-5525-4fea-8648-1d483b704a58",
@@ -17495,7 +17649,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右死_005/preview.webp",
-   "glb_url": "assets/人形/右死_005/右死_005.glb"
+   "glb_url": "assets/人形/右死_005/右死_005.glb",
+   "frame_count": 76
   },
   {
    "id": "c2e1cf19-66fb-48cd-9718-cfff7eb6345f",
@@ -17512,7 +17667,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/后滚_001/preview.webp",
-   "glb_url": "assets/人形/后滚_001/后滚_001.glb"
+   "glb_url": "assets/人形/后滚_001/后滚_001.glb",
+   "frame_count": 43
   },
   {
    "id": "01c27320-e0ab-4ac5-a96a-6382c8146ebc",
@@ -17529,7 +17685,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/前滚_001/preview.webp",
-   "glb_url": "assets/人形/前滚_001/前滚_001.glb"
+   "glb_url": "assets/人形/前滚_001/前滚_001.glb",
+   "frame_count": 51
   },
   {
    "id": "c0cd9b0c-9481-4718-b110-2e6669f3a45b",
@@ -17546,7 +17703,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左滚_001/preview.webp",
-   "glb_url": "assets/人形/左滚_001/左滚_001.glb"
+   "glb_url": "assets/人形/左滚_001/左滚_001.glb",
+   "frame_count": 48
   },
   {
    "id": "042f95f3-723e-43f9-9fb9-dc3013f9e671",
@@ -17563,7 +17721,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右滚_001/preview.webp",
-   "glb_url": "assets/人形/右滚_001/右滚_001.glb"
+   "glb_url": "assets/人形/右滚_001/右滚_001.glb",
+   "frame_count": 48
   },
   {
    "id": "19b78822-c305-46c7-9631-7433cb67c825",
@@ -17580,7 +17739,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/拿出武器_002/preview.webp",
-   "glb_url": "assets/人形/拿出武器_002/拿出武器_002.glb"
+   "glb_url": "assets/人形/拿出武器_002/拿出武器_002.glb",
+   "frame_count": 46
   },
   {
    "id": "fa74b5a8-5968-41d2-b18a-d22a4afeb129",
@@ -17597,7 +17757,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/浮空_006/preview.webp",
-   "glb_url": "assets/人形/浮空_006/浮空_006.glb"
+   "glb_url": "assets/人形/浮空_006/浮空_006.glb",
+   "frame_count": 41
   },
   {
    "id": "f33bc5ab-96a4-4dde-96cb-525f0e5eac30",
@@ -17614,7 +17775,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/后起_001/preview.webp",
-   "glb_url": "assets/人形/后起_001/后起_001.glb"
+   "glb_url": "assets/人形/后起_001/后起_001.glb",
+   "frame_count": 97
   },
   {
    "id": "ac34e2da-4371-4afc-9f8f-94b75e7dd3fe",
@@ -17631,7 +17793,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/前起_001/preview.webp",
-   "glb_url": "assets/人形/前起_001/前起_001.glb"
+   "glb_url": "assets/人形/前起_001/前起_001.glb",
+   "frame_count": 82
   },
   {
    "id": "9b891495-5916-4778-b511-09258ddbca22",
@@ -17648,7 +17811,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左起_001/preview.webp",
-   "glb_url": "assets/人形/左起_001/左起_001.glb"
+   "glb_url": "assets/人形/左起_001/左起_001.glb",
+   "frame_count": 106
   },
   {
    "id": "1bb28da3-df58-46b6-acf8-b4a6b76bfc78",
@@ -17665,7 +17829,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右起_001/preview.webp",
-   "glb_url": "assets/人形/右起_001/右起_001.glb"
+   "glb_url": "assets/人形/右起_001/右起_001.glb",
+   "frame_count": 91
   },
   {
    "id": "7576ece3-58ba-4181-8176-c2d85f53430d",
@@ -17682,7 +17847,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/后重击_005/preview.webp",
-   "glb_url": "assets/人形/后重击_005/后重击_005.glb"
+   "glb_url": "assets/人形/后重击_005/后重击_005.glb",
+   "frame_count": 36
   },
   {
    "id": "40e9a63b-9748-47d2-a576-99af3c365c81",
@@ -17699,7 +17865,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/后轻击_005/preview.webp",
-   "glb_url": "assets/人形/后轻击_005/后轻击_005.glb"
+   "glb_url": "assets/人形/后轻击_005/后轻击_005.glb",
+   "frame_count": 31
   },
   {
    "id": "fb94c7c5-5dc8-4809-a21c-17663bd3e6e0",
@@ -17716,7 +17883,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/前重击_005/preview.webp",
-   "glb_url": "assets/人形/前重击_005/前重击_005.glb"
+   "glb_url": "assets/人形/前重击_005/前重击_005.glb",
+   "frame_count": 31
   },
   {
    "id": "27d00506-9649-4496-ab6d-3936d1b09e7c",
@@ -17733,7 +17901,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/前轻击_005/preview.webp",
-   "glb_url": "assets/人形/前轻击_005/前轻击_005.glb"
+   "glb_url": "assets/人形/前轻击_005/前轻击_005.glb",
+   "frame_count": 31
   },
   {
    "id": "11886d24-db17-4c49-84ed-09a28b832f15",
@@ -17750,7 +17919,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左重击_006/preview.webp",
-   "glb_url": "assets/人形/左重击_006/左重击_006.glb"
+   "glb_url": "assets/人形/左重击_006/左重击_006.glb",
+   "frame_count": 36
   },
   {
    "id": "48d5b71e-ce77-42bf-8ced-d47b0d8ce12d",
@@ -17767,7 +17937,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左轻击_005/preview.webp",
-   "glb_url": "assets/人形/左轻击_005/左轻击_005.glb"
+   "glb_url": "assets/人形/左轻击_005/左轻击_005.glb",
+   "frame_count": 31
   },
   {
    "id": "5f873217-1d1e-407c-9570-7c79effa7467",
@@ -17784,7 +17955,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右重击_004/preview.webp",
-   "glb_url": "assets/人形/右重击_004/右重击_004.glb"
+   "glb_url": "assets/人形/右重击_004/右重击_004.glb",
+   "frame_count": 36
   },
   {
    "id": "f2233871-8f42-4acc-be1b-636bf7dd63c3",
@@ -17801,7 +17973,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右轻击_005/preview.webp",
-   "glb_url": "assets/人形/右轻击_005/右轻击_005.glb"
+   "glb_url": "assets/人形/右轻击_005/右轻击_005.glb",
+   "frame_count": 31
   },
   {
    "id": "af44aa95-9074-4589-b4ea-0e0e4a3c9098",
@@ -17818,7 +17991,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/投掷瞄准_003/preview.webp",
-   "glb_url": "assets/人形/投掷瞄准_003/投掷瞄准_003.glb"
+   "glb_url": "assets/人形/投掷瞄准_003/投掷瞄准_003.glb",
+   "frame_count": 61
   },
   {
    "id": "9e8d8803-3630-41fe-b9be-edc88edb1bb6",
@@ -17835,7 +18009,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽左看/preview.webp",
-   "glb_url": "assets/人形/隐蔽左看/隐蔽左看.glb"
+   "glb_url": "assets/人形/隐蔽左看/隐蔽左看.glb",
+   "frame_count": 19
   },
   {
    "id": "a453a02f-8517-4031-b584-89c628baae20",
@@ -17850,7 +18025,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽左看_001/preview.webp",
-   "glb_url": "assets/人形/隐蔽左看_001/隐蔽左看_001.glb"
+   "glb_url": "assets/人形/隐蔽左看_001/隐蔽左看_001.glb",
+   "frame_count": 28
   },
   {
    "id": "a684452e-b4d2-499e-96a2-94dd881e9f92",
@@ -17867,7 +18043,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽右看/preview.webp",
-   "glb_url": "assets/人形/隐蔽右看/隐蔽右看.glb"
+   "glb_url": "assets/人形/隐蔽右看/隐蔽右看.glb",
+   "frame_count": 19
   },
   {
    "id": "999d038d-6f4e-43cc-9ec2-08ce3d454229",
@@ -17882,7 +18059,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽右看_001/preview.webp",
-   "glb_url": "assets/人形/隐蔽右看_001/隐蔽右看_001.glb"
+   "glb_url": "assets/人形/隐蔽右看_001/隐蔽右看_001.glb",
+   "frame_count": 28
   },
   {
    "id": "28e3e386-de69-49ab-8552-556ba6b66f15",
@@ -17897,7 +18075,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽_003/preview.webp",
-   "glb_url": "assets/人形/隐蔽_003/隐蔽_003.glb"
+   "glb_url": "assets/人形/隐蔽_003/隐蔽_003.glb",
+   "frame_count": 31
   },
   {
    "id": "4c6e1679-bcb2-4348-bf82-6000f4f726ec",
@@ -17914,7 +18093,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/瞄准_001/preview.webp",
-   "glb_url": "assets/人形/瞄准_001/瞄准_001.glb"
+   "glb_url": "assets/人形/瞄准_001/瞄准_001.glb",
+   "frame_count": 61
   },
   {
    "id": "1cc3f910-e4b1-4473-b90c-902c3929fc15",
@@ -17932,7 +18112,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/投掷_007/preview.webp",
-   "glb_url": "assets/人形/投掷_007/投掷_007.glb"
+   "glb_url": "assets/人形/投掷_007/投掷_007.glb",
+   "frame_count": 61
   },
   {
    "id": "081d0268-7178-4470-ac9f-8aa14b08a727",
@@ -17949,7 +18130,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/待机_023/preview.webp",
-   "glb_url": "assets/人形/待机_023/待机_023.glb"
+   "glb_url": "assets/人形/待机_023/待机_023.glb",
+   "frame_count": 71
   },
   {
    "id": "07a0688c-3cc7-4bd5-aaa5-81ae014de6e5",
@@ -17966,7 +18148,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/东张西望_002/preview.webp",
-   "glb_url": "assets/人形/东张西望_002/东张西望_002.glb"
+   "glb_url": "assets/人形/东张西望_002/东张西望_002.glb",
+   "frame_count": 166
   },
   {
    "id": "6aca4870-a727-4b4a-95bd-fbede7533f39",
@@ -17984,7 +18167,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左看_004/preview.webp",
-   "glb_url": "assets/人形/左看_004/左看_004.glb"
+   "glb_url": "assets/人形/左看_004/左看_004.glb",
+   "frame_count": 61
   },
   {
    "id": "d9c4c9b9-07e3-4399-942f-b82b815baf9f",
@@ -18001,7 +18185,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左看_005/preview.webp",
-   "glb_url": "assets/人形/左看_005/左看_005.glb"
+   "glb_url": "assets/人形/左看_005/左看_005.glb",
+   "frame_count": 61
   },
   {
    "id": "0b13dd60-838a-46d3-b84e-8f692caa96f7",
@@ -18019,7 +18204,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右看_004/preview.webp",
-   "glb_url": "assets/人形/右看_004/右看_004.glb"
+   "glb_url": "assets/人形/右看_004/右看_004.glb",
+   "frame_count": 61
   },
   {
    "id": "22f1ece0-486e-4143-ade9-8b320a767a99",
@@ -18036,7 +18222,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右看_005/preview.webp",
-   "glb_url": "assets/人形/右看_005/右看_005.glb"
+   "glb_url": "assets/人形/右看_005/右看_005.glb",
+   "frame_count": 61
   },
   {
    "id": "b48747e5-e5b8-4996-89c1-8339a20691f5",
@@ -18053,7 +18240,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽_004/preview.webp",
-   "glb_url": "assets/人形/隐蔽_004/隐蔽_004.glb"
+   "glb_url": "assets/人形/隐蔽_004/隐蔽_004.glb",
+   "frame_count": 28
   },
   {
    "id": "ca17b475-cd56-427d-ab4b-2f3232b55cd4",
@@ -18070,7 +18258,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/待机_024/preview.webp",
-   "glb_url": "assets/人形/待机_024/待机_024.glb"
+   "glb_url": "assets/人形/待机_024/待机_024.glb",
+   "frame_count": 121
   },
   {
    "id": "1c0d0de3-11c7-4e29-b0b9-0a8a27d51aed",
@@ -18087,7 +18276,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽_005/preview.webp",
-   "glb_url": "assets/人形/隐蔽_005/隐蔽_005.glb"
+   "glb_url": "assets/人形/隐蔽_005/隐蔽_005.glb",
+   "frame_count": 61
   },
   {
    "id": "31642845-2b95-443e-9838-2e792110c78c",
@@ -18104,7 +18294,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/起跳_005/preview.webp",
-   "glb_url": "assets/人形/起跳_005/起跳_005.glb"
+   "glb_url": "assets/人形/起跳_005/起跳_005.glb",
+   "frame_count": 13
   },
   {
    "id": "5eab5078-7cad-4656-896b-12d8b3c125f8",
@@ -18121,7 +18312,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/重着陆_006/preview.webp",
-   "glb_url": "assets/人形/重着陆_006/重着陆_006.glb"
+   "glb_url": "assets/人形/重着陆_006/重着陆_006.glb",
+   "frame_count": 45
   },
   {
    "id": "10973504-7e88-43d7-890e-12bce623d5cf",
@@ -18138,7 +18330,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/轻着陆_006/preview.webp",
-   "glb_url": "assets/人形/轻着陆_006/轻着陆_006.glb"
+   "glb_url": "assets/人形/轻着陆_006/轻着陆_006.glb",
+   "frame_count": 11
   },
   {
    "id": "40af1a4a-3e3c-42e3-9817-6028defff3ef",
@@ -18155,7 +18348,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/中着陆_006/preview.webp",
-   "glb_url": "assets/人形/中着陆_006/中着陆_006.glb"
+   "glb_url": "assets/人形/中着陆_006/中着陆_006.glb",
+   "frame_count": 36
   },
   {
    "id": "ee2fa999-d7a5-40df-a9d3-45baea70c2e2",
@@ -18172,7 +18366,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/近战/preview.webp",
-   "glb_url": "assets/人形/近战/近战.glb"
+   "glb_url": "assets/人形/近战/近战.glb",
+   "frame_count": 36
   },
   {
    "id": "defca93e-f0e1-452c-9ff6-3ae4a1804af9",
@@ -18189,7 +18384,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/近战_001/preview.webp",
-   "glb_url": "assets/人形/近战_001/近战_001.glb"
+   "glb_url": "assets/人形/近战_001/近战_001.glb",
+   "frame_count": 25
   },
   {
    "id": "615a5062-141c-4575-bad5-194bef0d842e",
@@ -18207,7 +18403,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/近战连击_002/preview.webp",
-   "glb_url": "assets/人形/近战连击_002/近战连击_002.glb"
+   "glb_url": "assets/人形/近战连击_002/近战连击_002.glb",
+   "frame_count": 46
   },
   {
    "id": "ef1fa58b-98d5-4cdf-94ed-d1eb48cc453a",
@@ -18224,7 +18421,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左跨栏_002/preview.webp",
-   "glb_url": "assets/人形/左跨栏_002/左跨栏_002.glb"
+   "glb_url": "assets/人形/左跨栏_002/左跨栏_002.glb",
+   "frame_count": 47
   },
   {
    "id": "aa96b704-acc2-46cf-8dd8-9a26863425d1",
@@ -18241,7 +18439,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右跨栏_002/preview.webp",
-   "glb_url": "assets/人形/右跨栏_002/右跨栏_002.glb"
+   "glb_url": "assets/人形/右跨栏_002/右跨栏_002.glb",
+   "frame_count": 45
   },
   {
    "id": "144f5244-10df-4496-8785-47efed6cc194",
@@ -18258,7 +18457,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/收起武器_004/preview.webp",
-   "glb_url": "assets/人形/收起武器_004/收起武器_004.glb"
+   "glb_url": "assets/人形/收起武器_004/收起武器_004.glb",
+   "frame_count": 76
   },
   {
    "id": "b79276d6-3f13-4f85-a067-0d6eb4c56e32",
@@ -18275,7 +18475,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/快速换弹/preview.webp",
-   "glb_url": "assets/人形/快速换弹/快速换弹.glb"
+   "glb_url": "assets/人形/快速换弹/快速换弹.glb",
+   "frame_count": 141
   },
   {
    "id": "fb7388d3-d075-4fbc-8409-26593c9ecc21",
@@ -18292,7 +18493,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/换弹_003/preview.webp",
-   "glb_url": "assets/人形/换弹_003/换弹_003.glb"
+   "glb_url": "assets/人形/换弹_003/换弹_003.glb",
+   "frame_count": 226
   },
   {
    "id": "94ce2d3d-a88e-4820-a576-2c7ca7000bd2",
@@ -18309,7 +18511,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/后跑_008/preview.webp",
-   "glb_url": "assets/人形/后跑_008/后跑_008.glb"
+   "glb_url": "assets/人形/后跑_008/后跑_008.glb",
+   "frame_count": 19
   },
   {
    "id": "400e1ab2-7661-433e-aa90-e618029831e6",
@@ -18326,7 +18529,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/前跑_013/preview.webp",
-   "glb_url": "assets/人形/前跑_013/前跑_013.glb"
+   "glb_url": "assets/人形/前跑_013/前跑_013.glb",
+   "frame_count": 19
   },
   {
    "id": "b92b636e-df27-4c03-8e1a-67e86315ed1c",
@@ -18343,7 +18547,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/瞄准前跑_003/preview.webp",
-   "glb_url": "assets/人形/瞄准前跑_003/瞄准前跑_003.glb"
+   "glb_url": "assets/人形/瞄准前跑_003/瞄准前跑_003.glb",
+   "frame_count": 19
   },
   {
    "id": "764ae294-7ade-42ac-ba3d-55ea2ef251d3",
@@ -18360,7 +18565,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/瞄准左跑_002/preview.webp",
-   "glb_url": "assets/人形/瞄准左跑_002/瞄准左跑_002.glb"
+   "glb_url": "assets/人形/瞄准左跑_002/瞄准左跑_002.glb",
+   "frame_count": 19
   },
   {
    "id": "044f4e6d-c4de-4c22-bcd5-f2e7bf09a931",
@@ -18377,7 +18583,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/瞄准右跑_002/preview.webp",
-   "glb_url": "assets/人形/瞄准右跑_002/瞄准右跑_002.glb"
+   "glb_url": "assets/人形/瞄准右跑_002/瞄准右跑_002.glb",
+   "frame_count": 19
   },
   {
    "id": "0389c7a6-b1fa-43e8-aa7e-a20684924e4b",
@@ -18394,7 +18601,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/射击_004/preview.webp",
-   "glb_url": "assets/人形/射击_004/射击_004.glb"
+   "glb_url": "assets/人形/射击_004/射击_004.glb",
+   "frame_count": 19
   },
   {
    "id": "bd7b4ba3-fa1c-40a4-adfa-fcfcffebad59",
@@ -18411,7 +18619,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/重射击/preview.webp",
-   "glb_url": "assets/人形/重射击/重射击.glb"
+   "glb_url": "assets/人形/重射击/重射击.glb",
+   "frame_count": 34
   },
   {
    "id": "f86eb6a7-bd11-4abf-be91-941dee5b18a9",
@@ -18428,7 +18637,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/冲刺_010/preview.webp",
-   "glb_url": "assets/人形/冲刺_010/冲刺_010.glb"
+   "glb_url": "assets/人形/冲刺_010/冲刺_010.glb",
+   "frame_count": 13
   },
   {
    "id": "1d2fba03-08aa-47b1-9528-720115b37c6c",
@@ -18446,7 +18656,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽左走_003/preview.webp",
-   "glb_url": "assets/人形/隐蔽左走_003/隐蔽左走_003.glb"
+   "glb_url": "assets/人形/隐蔽左走_003/隐蔽左走_003.glb",
+   "frame_count": 26
   },
   {
    "id": "aff52fd2-7d3c-4aca-a1de-425d430a43bc",
@@ -18463,7 +18674,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽左走_004/preview.webp",
-   "glb_url": "assets/人形/隐蔽左走_004/隐蔽左走_004.glb"
+   "glb_url": "assets/人形/隐蔽左走_004/隐蔽左走_004.glb",
+   "frame_count": 26
   },
   {
    "id": "cdac8efe-49b2-4748-82ef-dd6cbb9212f3",
@@ -18481,7 +18693,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽右走_002/preview.webp",
-   "glb_url": "assets/人形/隐蔽右走_002/隐蔽右走_002.glb"
+   "glb_url": "assets/人形/隐蔽右走_002/隐蔽右走_002.glb",
+   "frame_count": 26
   },
   {
    "id": "ece58554-8373-4da8-bf6c-2fdec2193585",
@@ -18498,7 +18711,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽右走_003/preview.webp",
-   "glb_url": "assets/人形/隐蔽右走_003/隐蔽右走_003.glb"
+   "glb_url": "assets/人形/隐蔽右走_003/隐蔽右走_003.glb",
+   "frame_count": 26
   },
   {
    "id": "324cf5ab-5c70-41ea-9410-07e7e26a5d00",
@@ -18516,7 +18730,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽左投掷_003/preview.webp",
-   "glb_url": "assets/人形/隐蔽左投掷_003/隐蔽左投掷_003.glb"
+   "glb_url": "assets/人形/隐蔽左投掷_003/隐蔽左投掷_003.glb",
+   "frame_count": 86
   },
   {
    "id": "710b4b90-be41-48e0-af6b-25e1dbc23954",
@@ -18533,7 +18748,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽左投掷_004/preview.webp",
-   "glb_url": "assets/人形/隐蔽左投掷_004/隐蔽左投掷_004.glb"
+   "glb_url": "assets/人形/隐蔽左投掷_004/隐蔽左投掷_004.glb",
+   "frame_count": 101
   },
   {
    "id": "d4fb250c-90f2-4fd3-9099-1a3a7dd4aca7",
@@ -18551,7 +18767,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽右投掷_003/preview.webp",
-   "glb_url": "assets/人形/隐蔽右投掷_003/隐蔽右投掷_003.glb"
+   "glb_url": "assets/人形/隐蔽右投掷_003/隐蔽右投掷_003.glb",
+   "frame_count": 96
   },
   {
    "id": "2d43edf6-447e-4dfd-be73-8bd6d452fd0b",
@@ -18568,7 +18785,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/隐蔽右投掷_004/preview.webp",
-   "glb_url": "assets/人形/隐蔽右投掷_004/隐蔽右投掷_004.glb"
+   "glb_url": "assets/人形/隐蔽右投掷_004/隐蔽右投掷_004.glb",
+   "frame_count": 106
   },
   {
    "id": "2077ec09-fc29-4e1b-ba59-8bbfeac1089c",
@@ -18585,7 +18803,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/投掷_008/preview.webp",
-   "glb_url": "assets/人形/投掷_008/投掷_008.glb"
+   "glb_url": "assets/人形/投掷_008/投掷_008.glb",
+   "frame_count": 46
   },
   {
    "id": "3523f22a-37e5-4179-97df-c6a3c44260c0",
@@ -18603,7 +18822,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/投掷_009/preview.webp",
-   "glb_url": "assets/人形/投掷_009/投掷_009.glb"
+   "glb_url": "assets/人形/投掷_009/投掷_009.glb",
+   "frame_count": 81
   },
   {
    "id": "aaf30513-7e7c-4f07-9013-408922124e87",
@@ -18620,7 +18840,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/投掷_010/preview.webp",
-   "glb_url": "assets/人形/投掷_010/投掷_010.glb"
+   "glb_url": "assets/人形/投掷_010/投掷_010.glb",
+   "frame_count": 81
   },
   {
    "id": "2fe7b1fa-ca04-4f55-8325-af217cb92615",
@@ -18638,7 +18859,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/下投掷_002/preview.webp",
-   "glb_url": "assets/人形/下投掷_002/下投掷_002.glb"
+   "glb_url": "assets/人形/下投掷_002/下投掷_002.glb",
+   "frame_count": 91
   },
   {
    "id": "401b808d-977f-4615-964b-38823b0b5126",
@@ -18655,7 +18877,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/下投掷_003/preview.webp",
-   "glb_url": "assets/人形/下投掷_003/下投掷_003.glb"
+   "glb_url": "assets/人形/下投掷_003/下投掷_003.glb",
+   "frame_count": 86
   },
   {
    "id": "b7822287-9330-49c1-8020-f4288f77ee34",
@@ -18672,7 +18895,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/后走_011/preview.webp",
-   "glb_url": "assets/人形/后走_011/后走_011.glb"
+   "glb_url": "assets/人形/后走_011/后走_011.glb",
+   "frame_count": 41
   },
   {
    "id": "e1ba2797-0352-4b6f-a3e6-7cfbf8260bc4",
@@ -18689,7 +18913,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/后瞄准走/preview.webp",
-   "glb_url": "assets/人形/后瞄准走/后瞄准走.glb"
+   "glb_url": "assets/人形/后瞄准走/后瞄准走.glb",
+   "frame_count": 41
   },
   {
    "id": "924cc4f4-f5b4-4d68-93e2-224730eaab1e",
@@ -18706,7 +18931,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/前走_013/preview.webp",
-   "glb_url": "assets/人形/前走_013/前走_013.glb"
+   "glb_url": "assets/人形/前走_013/前走_013.glb",
+   "frame_count": 41
   },
   {
    "id": "de6bc629-2ad3-4024-8fa3-2fcb3df3a3bd",
@@ -18723,7 +18949,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/前瞄准走/preview.webp",
-   "glb_url": "assets/人形/前瞄准走/前瞄准走.glb"
+   "glb_url": "assets/人形/前瞄准走/前瞄准走.glb",
+   "frame_count": 41
   },
   {
    "id": "67d3a88d-3b43-49ba-8933-361fe762eeb5",
@@ -18740,7 +18967,8 @@
    ],
    "category": "",
    "preview_url": "assets/人形/左走_010/preview.webp",
-   "glb_url": "assets/人形/左走_010/左走_010.glb"
+   "glb_url": "assets/人形/左走_010/左走_010.glb",
+   "frame_count": 41
   },
   {
    "id": "6dc75899-f7f2-4045-835d-6d8293fb0907",
@@ -18757,7 +18985,3332 @@
    ],
    "category": "",
    "preview_url": "assets/人形/右走_010/preview.webp",
-   "glb_url": "assets/人形/右走_010/右走_010.glb"
+   "glb_url": "assets/人形/右走_010/右走_010.glb",
+   "frame_count": 41
+  },
+  {
+   "id": "0b2ba486-165a-4b0f-a8d8-1e782ae61199",
+   "index": 1791525519786,
+   "name": "二连击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 56,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击/preview.webp",
+   "glb_url": "assets/人形/二连击/二连击.glb"
+  },
+  {
+   "id": "a40f8682-cd60-4f78-88e4-bb9dba59f2e5",
+   "index": 1791525539168,
+   "name": "二连击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 56,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_001/preview.webp",
+   "glb_url": "assets/人形/二连击_001/二连击_001.glb"
+  },
+  {
+   "id": "182c21a1-614b-4401-98db-93af056a594b",
+   "index": 1791525544068,
+   "name": "二连击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 56,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_002/preview.webp",
+   "glb_url": "assets/人形/二连击_002/二连击_002.glb"
+  },
+  {
+   "id": "2f500934-50d9-40f8-b31b-ac7526b0ec9c",
+   "index": 1791525548316,
+   "name": "二连击_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_003/preview.webp",
+   "glb_url": "assets/人形/二连击_003/二连击_003.glb"
+  },
+  {
+   "id": "17b32c7a-6101-49b2-b3c2-8e424d640775",
+   "index": 1791525551619,
+   "name": "二连击_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_004/preview.webp",
+   "glb_url": "assets/人形/二连击_004/二连击_004.glb"
+  },
+  {
+   "id": "ed121160-6f10-400f-b842-995c9e24a8ec",
+   "index": 1791525555040,
+   "name": "二连击_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_005/preview.webp",
+   "glb_url": "assets/人形/二连击_005/二连击_005.glb"
+  },
+  {
+   "id": "44485940-7634-4bd4-87d9-3e7940fa30ae",
+   "index": 1791525558310,
+   "name": "二连击_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 56,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_006/preview.webp",
+   "glb_url": "assets/人形/二连击_006/二连击_006.glb"
+  },
+  {
+   "id": "760da900-c8af-4a9c-a227-d0573c6d5df5",
+   "index": 1791525562251,
+   "name": "二连击_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_007/preview.webp",
+   "glb_url": "assets/人形/二连击_007/二连击_007.glb"
+  },
+  {
+   "id": "963a6546-73a6-4999-baf0-95f1c6f4ca34",
+   "index": 1791525566066,
+   "name": "二连击_008",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_008/preview.webp",
+   "glb_url": "assets/人形/二连击_008/二连击_008.glb"
+  },
+  {
+   "id": "f0f70774-14d7-4024-8be9-bbad1b3b39fc",
+   "index": 1791525570803,
+   "name": "二连击_009",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_009/preview.webp",
+   "glb_url": "assets/人形/二连击_009/二连击_009.glb"
+  },
+  {
+   "id": "48cea251-21c0-4088-82c2-26278e6d40b7",
+   "index": 1791525596216,
+   "name": "三连击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 71,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/三连击/preview.webp",
+   "glb_url": "assets/人形/三连击/三连击.glb"
+  },
+  {
+   "id": "7ebe1b85-b466-446c-a008-b9a9622103b9",
+   "index": 1791525619699,
+   "name": "三连击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 61,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/三连击_001/preview.webp",
+   "glb_url": "assets/人形/三连击_001/三连击_001.glb"
+  },
+  {
+   "id": "b5f3c240-4a04-4471-812b-6330cdb0ceac",
+   "index": 1791525626139,
+   "name": "三连击_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 61,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/三连击_002/preview.webp",
+   "glb_url": "assets/人形/三连击_002/三连击_002.glb"
+  },
+  {
+   "id": "6c7e6d1a-7784-490b-adb5-8eeb732eb30d",
+   "index": 1791525641555,
+   "name": "三连击_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 71,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/三连击_003/preview.webp",
+   "glb_url": "assets/人形/三连击_003/三连击_003.glb"
+  },
+  {
+   "id": "d93b5072-1ec0-47e2-8836-8cfae3fdf3f4",
+   "index": 1791525647254,
+   "name": "三连击_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 71,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/三连击_004/preview.webp",
+   "glb_url": "assets/人形/三连击_004/三连击_004.glb"
+  },
+  {
+   "id": "49057c46-f8a1-44f0-bf7c-07d507851e48",
+   "index": 1791525654511,
+   "name": "四连击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 71,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/四连击/preview.webp",
+   "glb_url": "assets/人形/四连击/四连击.glb"
+  },
+  {
+   "id": "56b34e61-9e43-4c30-8190-0629f3ccb853",
+   "index": 1791525660401,
+   "name": "四连击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 61,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/四连击_001/preview.webp",
+   "glb_url": "assets/人形/四连击_001/四连击_001.glb"
+  },
+  {
+   "id": "5e8fb1eb-faa2-4ac8-aec2-3958b268d21a",
+   "index": 1791525674233,
+   "name": "五连击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 66,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/五连击/preview.webp",
+   "glb_url": "assets/人形/五连击/五连击.glb"
+  },
+  {
+   "id": "58735cbb-d5a5-485b-ac9b-9da91c94c30a",
+   "index": 1791525683721,
+   "name": "五连击_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 76,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/五连击_001/preview.webp",
+   "glb_url": "assets/人形/五连击_001/五连击_001.glb"
+  },
+  {
+   "id": "89666bbc-c530-4882-8ecc-9f302672d1dc",
+   "index": 1791525709486,
+   "name": "攻击_013",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_013/preview.webp",
+   "glb_url": "assets/人形/攻击_013/攻击_013.glb"
+  },
+  {
+   "id": "ee0da2ba-de5f-4340-aa11-4aa52bac6c79",
+   "index": 1791525724697,
+   "name": "攻击_014",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_014/preview.webp",
+   "glb_url": "assets/人形/攻击_014/攻击_014.glb"
+  },
+  {
+   "id": "86dbceff-c865-400e-844e-8d39c37bacc0",
+   "index": 1791525728251,
+   "name": "攻击_015",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_015/preview.webp",
+   "glb_url": "assets/人形/攻击_015/攻击_015.glb"
+  },
+  {
+   "id": "080d3c24-e00d-4e4a-86cd-78495acab7f8",
+   "index": 1791525731626,
+   "name": "攻击_016",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_016/preview.webp",
+   "glb_url": "assets/人形/攻击_016/攻击_016.glb"
+  },
+  {
+   "id": "980d08cd-4097-4942-a644-968610fbf33c",
+   "index": 1791525734813,
+   "name": "攻击_017",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_017/preview.webp",
+   "glb_url": "assets/人形/攻击_017/攻击_017.glb"
+  },
+  {
+   "id": "4fa36ce3-069b-4e1c-928d-ca7883d55de0",
+   "index": 1791525738014,
+   "name": "攻击_018",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_018/preview.webp",
+   "glb_url": "assets/人形/攻击_018/攻击_018.glb"
+  },
+  {
+   "id": "a853c48b-45a8-4236-9a50-2debcb51e65e",
+   "index": 1791525762952,
+   "name": "攻击_019",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_019/preview.webp",
+   "glb_url": "assets/人形/攻击_019/攻击_019.glb"
+  },
+  {
+   "id": "5eae8fa6-8285-478f-86a4-11f3ba8ee786",
+   "index": 1791525767641,
+   "name": "攻击_020",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_020/preview.webp",
+   "glb_url": "assets/人形/攻击_020/攻击_020.glb"
+  },
+  {
+   "id": "a1160241-edfa-491b-b0ad-9f195258562e",
+   "index": 1791525773085,
+   "name": "攻击_021",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_021/preview.webp",
+   "glb_url": "assets/人形/攻击_021/攻击_021.glb"
+  },
+  {
+   "id": "68d450be-b578-4620-92bc-a480461687d8",
+   "index": 1791525778000,
+   "name": "攻击_022",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 56,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_022/preview.webp",
+   "glb_url": "assets/人形/攻击_022/攻击_022.glb"
+  },
+  {
+   "id": "ff0d094d-7a15-49b3-976f-ed6e969d0191",
+   "index": 1791525782237,
+   "name": "攻击_023",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_023/preview.webp",
+   "glb_url": "assets/人形/攻击_023/攻击_023.glb"
+  },
+  {
+   "id": "1c42684b-3143-4009-bf3a-881297a6194d",
+   "index": 1791525789706,
+   "name": "重格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/重格挡/preview.webp",
+   "glb_url": "assets/人形/重格挡/重格挡.glb"
+  },
+  {
+   "id": "f9491925-11ef-4781-81ef-daab30e5ab67",
+   "index": 1791525813043,
+   "name": "轻格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 21,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/轻格挡/preview.webp",
+   "glb_url": "assets/人形/轻格挡/轻格挡.glb"
+  },
+  {
+   "id": "bd7520b6-05cc-4ef0-b50a-2a3e53f458ce",
+   "index": 1791525819528,
+   "name": "中格挡_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/中格挡_001/preview.webp",
+   "glb_url": "assets/人形/中格挡_001/中格挡_001.glb"
+  },
+  {
+   "id": "24bd0638-54a9-4b99-9db5-182e275fa910",
+   "index": 1791525829803,
+   "name": "后滚_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "走",
+    "下蹲"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后滚_002/preview.webp",
+   "glb_url": "assets/人形/后滚_002/后滚_002.glb"
+  },
+  {
+   "id": "6c8f89b8-6307-40d0-91a5-f4db6138dc73",
+   "index": 1791525844502,
+   "name": "前走_014",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前走_014/preview.webp",
+   "glb_url": "assets/人形/前走_014/前走_014.glb"
+  },
+  {
+   "id": "b198f231-9cd6-481f-9f33-7b2c593f6153",
+   "index": 1791525850807,
+   "name": "左走_011",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左走_011/preview.webp",
+   "glb_url": "assets/人形/左走_011/左走_011.glb"
+  },
+  {
+   "id": "1e88b3d3-dbaf-4a17-8413-3ea3f537b00f",
+   "index": 1791525854084,
+   "name": "右走_011",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右走_011/preview.webp",
+   "glb_url": "assets/人形/右走_011/右走_011.glb"
+  },
+  {
+   "id": "8a6119c9-65be-4f1d-a673-694b6d8e433e",
+   "index": 1791525863875,
+   "name": "后死_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 96,
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后死_006/preview.webp",
+   "glb_url": "assets/人形/后死_006/后死_006.glb"
+  },
+  {
+   "id": "e44f23f5-c170-45c9-b23b-c2df0af036aa",
+   "index": 1791525867460,
+   "name": "前死_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 88,
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前死_006/preview.webp",
+   "glb_url": "assets/人形/前死_006/前死_006.glb"
+  },
+  {
+   "id": "0687b9e5-b22e-46ac-9fdc-df77d8f61167",
+   "index": 1791525870626,
+   "name": "左死_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 97,
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左死_006/preview.webp",
+   "glb_url": "assets/人形/左死_006/左死_006.glb"
+  },
+  {
+   "id": "aabec0eb-a0d0-40d6-90f3-884bf80a2fca",
+   "index": 1791525873865,
+   "name": "右死_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 76,
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右死_006/preview.webp",
+   "glb_url": "assets/人形/右死_006/右死_006.glb"
+  },
+  {
+   "id": "3420e6fd-56b5-4ed8-96fd-72b37e033282",
+   "index": 1791525884779,
+   "name": "装备_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 121,
+   "tags": [
+    "装配"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/装备_002/preview.webp",
+   "glb_url": "assets/人形/装备_002/装备_002.glb"
+  },
+  {
+   "id": "8e29818a-1668-40f8-9a6a-9cdebd81706a",
+   "index": 1791525897558,
+   "name": "后起身_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 97,
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后起身_005/preview.webp",
+   "glb_url": "assets/人形/后起身_005/后起身_005.glb"
+  },
+  {
+   "id": "ee125457-d01b-4847-8c61-a1cc1b2ab04e",
+   "index": 1791525904236,
+   "name": "前起身_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 82,
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前起身_005/preview.webp",
+   "glb_url": "assets/人形/前起身_005/前起身_005.glb"
+  },
+  {
+   "id": "60284480-e5e3-40a0-ad48-eacf1a5218af",
+   "index": 1791525910095,
+   "name": "左起身_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 106,
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左起身_005/preview.webp",
+   "glb_url": "assets/人形/左起身_005/左起身_005.glb"
+  },
+  {
+   "id": "1c01b3f9-2a1c-44eb-9ef3-f371422ce6dd",
+   "index": 1791525920427,
+   "name": "右起身_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 91,
+   "tags": [
+    "起身"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右起身_005/preview.webp",
+   "glb_url": "assets/人形/右起身_005/右起身_005.glb"
+  },
+  {
+   "id": "6169ade3-f0c8-429d-8911-c2d034f9fa54",
+   "index": 1791525935859,
+   "name": "后重击_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后重击_006/preview.webp",
+   "glb_url": "assets/人形/后重击_006/后重击_006.glb"
+  },
+  {
+   "id": "d30a0d4d-2466-47ce-abc1-79c8b9467fd5",
+   "index": 1791525939775,
+   "name": "后轻击_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后轻击_006/preview.webp",
+   "glb_url": "assets/人形/后轻击_006/后轻击_006.glb"
+  },
+  {
+   "id": "d2c5aa4e-13f0-4b02-8489-20c553ea9a79",
+   "index": 1791525943604,
+   "name": "前重击_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前重击_006/preview.webp",
+   "glb_url": "assets/人形/前重击_006/前重击_006.glb"
+  },
+  {
+   "id": "023c48f4-c541-4db9-9a9d-86c2a79775a0",
+   "index": 1791525948926,
+   "name": "前轻击_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前轻击_006/preview.webp",
+   "glb_url": "assets/人形/前轻击_006/前轻击_006.glb"
+  },
+  {
+   "id": "3fa10b0b-a13b-448b-9a75-e421620e8b9a",
+   "index": 1791525954985,
+   "name": "左重击_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左重击_007/preview.webp",
+   "glb_url": "assets/人形/左重击_007/左重击_007.glb"
+  },
+  {
+   "id": "2710dee5-65b3-4793-9002-91da328677d4",
+   "index": 1791525958903,
+   "name": "左轻击_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左轻击_006/preview.webp",
+   "glb_url": "assets/人形/左轻击_006/左轻击_006.glb"
+  },
+  {
+   "id": "2b84004a-911e-40ab-b256-c560fc34c8df",
+   "index": 1791525963889,
+   "name": "右重击_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右重击_005/preview.webp",
+   "glb_url": "assets/人形/右重击_005/右重击_005.glb"
+  },
+  {
+   "id": "fa9862a8-2732-4240-97e6-31f57b300926",
+   "index": 1791525985474,
+   "name": "右轻击_006",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右轻击_006/preview.webp",
+   "glb_url": "assets/人形/右轻击_006/右轻击_006.glb"
+  },
+  {
+   "id": "10c185c8-c0d4-46e1-a55f-4cf4b8622693",
+   "index": 1791526009693,
+   "name": "呼吸待机",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 66,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/呼吸待机/preview.webp",
+   "glb_url": "assets/人形/呼吸待机/呼吸待机.glb"
+  },
+  {
+   "id": "7b970d14-7f02-4a8a-a662-55d9b945a5bc",
+   "index": 1791526028134,
+   "name": "战斗待机_004",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/战斗待机_004/preview.webp",
+   "glb_url": "assets/人形/战斗待机_004/战斗待机_004.glb"
+  },
+  {
+   "id": "7534db95-da4c-4999-bc44-43a8df1fe06b",
+   "index": 1791526035927,
+   "name": "环顾四周",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 121,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/环顾四周/preview.webp",
+   "glb_url": "assets/人形/环顾四周/环顾四周.glb"
+  },
+  {
+   "id": "7c3a2d76-9e7c-40a4-aad5-82afafcf3def",
+   "index": 1791526058607,
+   "name": "慢跑",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/慢跑/preview.webp",
+   "glb_url": "assets/人形/慢跑/慢跑.glb"
+  },
+  {
+   "id": "727cc5bf-4b43-461c-b0f4-0a53aea6ad38",
+   "index": 1791526135051,
+   "name": "左格挡_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左格挡_001/preview.webp",
+   "glb_url": "assets/人形/左格挡_001/左格挡_001.glb"
+  },
+  {
+   "id": "86296ad1-4ffe-438d-acd6-2dbe170658e5",
+   "index": 1791526143663,
+   "name": "下格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下格挡/preview.webp",
+   "glb_url": "assets/人形/下格挡/下格挡.glb"
+  },
+  {
+   "id": "256e7f2a-1def-4c82-9f6f-9024968d50ef",
+   "index": 1791526155709,
+   "name": "右格挡_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右格挡_001/preview.webp",
+   "glb_url": "assets/人形/右格挡_001/右格挡_001.glb"
+  },
+  {
+   "id": "ecf2887c-3fa5-45a9-9c84-6b0a480169df",
+   "index": 1791526160697,
+   "name": "上格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/上格挡/preview.webp",
+   "glb_url": "assets/人形/上格挡/上格挡.glb"
+  },
+  {
+   "id": "67530939-af08-4f2d-9087-9adf564fd9c2",
+   "index": 1791526169324,
+   "name": "放回",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 121,
+   "tags": [
+    "装配"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/放回/preview.webp",
+   "glb_url": "assets/人形/放回/放回.glb"
+  },
+  {
+   "id": "61908876-3dbe-491f-871e-0aef5ce5d482",
+   "index": 1791526179866,
+   "name": "后跑_009",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 19,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后跑_009/preview.webp",
+   "glb_url": "assets/人形/后跑_009/后跑_009.glb"
+  },
+  {
+   "id": "0dfe352a-dcc2-4b07-a188-83913f3df59b",
+   "index": 1791526185034,
+   "name": "前跑_014",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 18,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前跑_014/preview.webp",
+   "glb_url": "assets/人形/前跑_014/前跑_014.glb"
+  },
+  {
+   "id": "aac21008-84e4-4568-9721-2965a06d1dfd",
+   "index": 1791526190486,
+   "name": "前跑_015",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 19,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前跑_015/preview.webp",
+   "glb_url": "assets/人形/前跑_015/前跑_015.glb"
+  },
+  {
+   "id": "4e25b410-2132-423e-980d-421371dc7253",
+   "index": 1791526197373,
+   "name": "左跑_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 19,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左跑_007/preview.webp",
+   "glb_url": "assets/人形/左跑_007/左跑_007.glb"
+  },
+  {
+   "id": "c4df3eee-b356-409a-b60e-4b21bf918bcb",
+   "index": 1791526206205,
+   "name": "右跑_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 19,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右跑_007/preview.webp",
+   "glb_url": "assets/人形/右跑_007/右跑_007.glb"
+  },
+  {
+   "id": "1a61340c-d4b9-412f-ad09-b862834fff02",
+   "index": 1791526241186,
+   "name": "左跑_008",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 25,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左跑_008/preview.webp",
+   "glb_url": "assets/人形/左跑_008/左跑_008.glb"
+  },
+  {
+   "id": "266f5b53-b65a-4b52-8110-e87226a5adea",
+   "index": 1791526245884,
+   "name": "左跑_009",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 25,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左跑_009/preview.webp",
+   "glb_url": "assets/人形/左跑_009/左跑_009.glb"
+  },
+  {
+   "id": "565fc6da-7815-46f6-95c9-23b877380ab4",
+   "index": 1791526253041,
+   "name": "右跑_008",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 25,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右跑_008/preview.webp",
+   "glb_url": "assets/人形/右跑_008/右跑_008.glb"
+  },
+  {
+   "id": "e6f05527-4ebe-464d-9ecc-4f3af7218137",
+   "index": 1791526256151,
+   "name": "右跑_009",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 25,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右跑_009/preview.webp",
+   "glb_url": "assets/人形/右跑_009/右跑_009.glb"
+  },
+  {
+   "id": "7a2b8f82-40cb-47db-bba8-27a34f561e5f",
+   "index": 1791526272677,
+   "name": "剑刃风暴",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 16,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/剑刃风暴/preview.webp",
+   "glb_url": "assets/人形/剑刃风暴/剑刃风暴.glb"
+  },
+  {
+   "id": "d68b05b2-5700-4254-b4f1-cf3a4548413b",
+   "index": 1791526279117,
+   "name": "剑刃风暴_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 16,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/剑刃风暴_001/preview.webp",
+   "glb_url": "assets/人形/剑刃风暴_001/剑刃风暴_001.glb"
+  },
+  {
+   "id": "86ab3577-72c3-4693-8bf8-0c38a71d48ca",
+   "index": 1791526293828,
+   "name": "嘲讽_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 91,
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_007/preview.webp",
+   "glb_url": "assets/人形/嘲讽_007/嘲讽_007.glb"
+  },
+  {
+   "id": "f449580e-9b3e-4071-8bdb-1d68e6a560dc",
+   "index": 1791526297033,
+   "name": "嘲讽_008",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 91,
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_008/preview.webp",
+   "glb_url": "assets/人形/嘲讽_008/嘲讽_008.glb"
+  },
+  {
+   "id": "34384064-b8cb-498d-98e2-dfa384638bad",
+   "index": 1791526300283,
+   "name": "嘲讽_009",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 76,
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_009/preview.webp",
+   "glb_url": "assets/人形/嘲讽_009/嘲讽_009.glb"
+  },
+  {
+   "id": "d190bbfb-6eaa-48b5-85e2-efe915e67480",
+   "index": 1791526304618,
+   "name": "嘲讽_010",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_010/preview.webp",
+   "glb_url": "assets/人形/嘲讽_010/嘲讽_010.glb"
+  },
+  {
+   "id": "2e19b3a7-4027-426d-a114-05b456789653",
+   "index": 1791526307159,
+   "name": "嘲讽_011",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 71,
+   "tags": [
+    "嘲讽"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/嘲讽_011/preview.webp",
+   "glb_url": "assets/人形/嘲讽_011/嘲讽_011.glb"
+  },
+  {
+   "id": "3ca61b50-0ae2-4e83-bcc2-23846f765ecb",
+   "index": 1791526311412,
+   "name": "走路_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/走路_001/preview.webp",
+   "glb_url": "assets/人形/走路_001/走路_001.glb"
+  },
+  {
+   "id": "cbeda53e-f879-45cd-9240-0c1176578e7a",
+   "index": 1791526315998,
+   "name": "走路_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/走路_002/preview.webp",
+   "glb_url": "assets/人形/走路_002/走路_002.glb"
+  },
+  {
+   "id": "986031e2-8e7d-4300-97df-01dad007ac03",
+   "index": 1791526320311,
+   "name": "后走_012",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后走_012/preview.webp",
+   "glb_url": "assets/人形/后走_012/后走_012.glb"
+  },
+  {
+   "id": "fb92483a-3f84-4183-ac3d-6f796d3509a1",
+   "index": 1791526325914,
+   "name": "前走_015",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前走_015/preview.webp",
+   "glb_url": "assets/人形/前走_015/前走_015.glb"
+  },
+  {
+   "id": "d76d481f-b120-4845-8b8a-796a93134fa2",
+   "index": 1791526339143,
+   "name": "左走_012",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左走_012/preview.webp",
+   "glb_url": "assets/人形/左走_012/左走_012.glb"
+  },
+  {
+   "id": "1cda6ed1-15c7-471c-8603-43df74df84a5",
+   "index": 1791526342486,
+   "name": "右走_012",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右走_012/preview.webp",
+   "glb_url": "assets/人形/右走_012/右走_012.glb"
+  },
+  {
+   "id": "6b2244b2-00f7-482a-94cd-1d0398fcd361",
+   "index": 1791526356442,
+   "name": "热身",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 81,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/热身/preview.webp",
+   "glb_url": "assets/人形/热身/热身.glb"
+  },
+  {
+   "id": "7bd5e7ee-71a3-4799-a798-ed1b5d11d6c8",
+   "index": 1791526370173,
+   "name": "热身_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 96,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "双剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/热身_001/preview.webp",
+   "glb_url": "assets/人形/热身_001/热身_001.glb"
+  },
+  {
+   "id": "11865766-af18-44bd-9c0b-22f0b33b7df2",
+   "index": 1791533324820,
+   "name": "双手爬_005",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 61,
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/双手爬_005/preview.webp",
+   "glb_url": "assets/人类女/双手爬_005/双手爬_005.glb"
+  },
+  {
+   "id": "8ee35172-852d-48d1-8c3c-a9844d30488c",
+   "index": 1791533339944,
+   "name": "后走_013",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/后走_013/preview.webp",
+   "glb_url": "assets/人类女/后走_013/后走_013.glb"
+  },
+  {
+   "id": "df182388-9850-49fe-857a-4f37c962e02a",
+   "index": 1791533347496,
+   "name": "前走_016",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/前走_016/preview.webp",
+   "glb_url": "assets/人类女/前走_016/前走_016.glb"
+  },
+  {
+   "id": "c6535bb6-cddb-4c7b-ae36-f87abaf621d8",
+   "index": 1791533353860,
+   "name": "左走_013",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/左走_013/preview.webp",
+   "glb_url": "assets/人类女/左走_013/左走_013.glb"
+  },
+  {
+   "id": "b829e488-7b20-4bf7-84a5-daccab1e9382",
+   "index": 1791533357372,
+   "name": "右走_013",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "下蹲",
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/右走_013/preview.webp",
+   "glb_url": "assets/人类女/右走_013/右走_013.glb"
+  },
+  {
+   "id": "8c7c3093-7ceb-4424-9ef8-fde26cec1d7f",
+   "index": 1791533373940,
+   "name": "浮空_007",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/浮空_007/preview.webp",
+   "glb_url": "assets/人类女/浮空_007/浮空_007.glb"
+  },
+  {
+   "id": "aefd667c-998f-401c-8f8a-995dc35c8259",
+   "index": 1791533383393,
+   "name": "焦急等待",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 281,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/焦急等待/preview.webp",
+   "glb_url": "assets/人类女/焦急等待/焦急等待.glb"
+  },
+  {
+   "id": "16500344-3639-48b7-9b15-db0f7e4feac0",
+   "index": 1791533396494,
+   "name": "焦急等待_001",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 101,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/焦急等待_001/preview.webp",
+   "glb_url": "assets/人类女/焦急等待_001/焦急等待_001.glb"
+  },
+  {
+   "id": "6586f67f-0d9a-43b3-bfd1-878f1ed32a51",
+   "index": 1791533411744,
+   "name": "待机_025",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 121,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/待机_025/preview.webp",
+   "glb_url": "assets/人类女/待机_025/待机_025.glb"
+  },
+  {
+   "id": "e90fefc1-20d4-4112-8290-0d511d423c99",
+   "index": 1791533418793,
+   "name": "待机_026",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 191,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/待机_026/preview.webp",
+   "glb_url": "assets/人类女/待机_026/待机_026.glb"
+  },
+  {
+   "id": "37ad8428-76cc-4d1e-a2d7-fda6a3653cbb",
+   "index": 1791533426512,
+   "name": "下蹲待机_009",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 56,
+   "tags": [
+    "待机",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/下蹲待机_009/preview.webp",
+   "glb_url": "assets/人类女/下蹲待机_009/下蹲待机_009.glb"
+  },
+  {
+   "id": "7ca661e5-7a92-4d72-9604-aa89ba6a3af9",
+   "index": 1791533440489,
+   "name": "四处观望",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 241,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/四处观望/preview.webp",
+   "glb_url": "assets/人类女/四处观望/四处观望.glb"
+  },
+  {
+   "id": "aa6a634d-f260-4d5a-bec8-482e7de35956",
+   "index": 1791533445586,
+   "name": "四处观望_001",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 321,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/四处观望_001/preview.webp",
+   "glb_url": "assets/人类女/四处观望_001/四处观望_001.glb"
+  },
+  {
+   "id": "d7b52e93-6f06-4cc5-ac44-4a1bac102426",
+   "index": 1791533454098,
+   "name": "四处观望_002",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 221,
+   "tags": [
+    "待机",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/四处观望_002/preview.webp",
+   "glb_url": "assets/人类女/四处观望_002/四处观望_002.glb"
+  },
+  {
+   "id": "1db1d994-df48-4233-b4be-bd57fb58b305",
+   "index": 1791533468815,
+   "name": "四处观望_003",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 231,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/四处观望_003/preview.webp",
+   "glb_url": "assets/人类女/四处观望_003/四处观望_003.glb"
+  },
+  {
+   "id": "1198a7dc-7af5-44e5-a8f8-c1720f8074df",
+   "index": 1791533484087,
+   "name": "四处观望_004",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 401,
+   "tags": [
+    "待机",
+    "下蹲"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/四处观望_004/preview.webp",
+   "glb_url": "assets/人类女/四处观望_004/四处观望_004.glb"
+  },
+  {
+   "id": "61cbe59d-a23a-4094-a8f2-2badc7bc51ea",
+   "index": 1791533493357,
+   "name": "四处观望_005",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 391,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/四处观望_005/preview.webp",
+   "glb_url": "assets/人类女/四处观望_005/四处观望_005.glb"
+  },
+  {
+   "id": "1a510c85-9136-425d-a21f-375006bc5c4d",
+   "index": 1791533498548,
+   "name": "待机_027",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 311,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/待机_027/preview.webp",
+   "glb_url": "assets/人类女/待机_027/待机_027.glb"
+  },
+  {
+   "id": "7965e203-9e23-406e-a800-acd206bf4be8",
+   "index": 1791533503920,
+   "name": "待机_028",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 141,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/待机_028/preview.webp",
+   "glb_url": "assets/人类女/待机_028/待机_028.glb"
+  },
+  {
+   "id": "abad3962-71c7-4c4b-8ed3-cbbd369b45bf",
+   "index": 1791533510921,
+   "name": "待机_029",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 151,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/待机_029/preview.webp",
+   "glb_url": "assets/人类女/待机_029/待机_029.glb"
+  },
+  {
+   "id": "9e5fc384-9800-47de-962a-43a90240e5d5",
+   "index": 1791533523861,
+   "name": "慢跑_001",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 25,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/慢跑_001/preview.webp",
+   "glb_url": "assets/人类女/慢跑_001/慢跑_001.glb"
+  },
+  {
+   "id": "dcacf735-a152-4618-96f2-1a9f7044ad01",
+   "index": 1791533531568,
+   "name": "跳_004",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 21,
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/跳_004/preview.webp",
+   "glb_url": "assets/人类女/跳_004/跳_004.glb"
+  },
+  {
+   "id": "2e26c1c9-87db-4fab-93c2-36e394ce3654",
+   "index": 1791533545430,
+   "name": "重着陆_007",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/重着陆_007/preview.webp",
+   "glb_url": "assets/人类女/重着陆_007/重着陆_007.glb"
+  },
+  {
+   "id": "d5e2e110-e4c2-48e1-9fb8-978bbe2a35bb",
+   "index": 1791533551401,
+   "name": "重着陆_008",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/重着陆_008/preview.webp",
+   "glb_url": "assets/人类女/重着陆_008/重着陆_008.glb"
+  },
+  {
+   "id": "79fd3eec-9ff2-4b4f-a8ea-935fbba33469",
+   "index": 1791533555695,
+   "name": "轻着陆_007",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 21,
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/轻着陆_007/preview.webp",
+   "glb_url": "assets/人类女/轻着陆_007/轻着陆_007.glb"
+  },
+  {
+   "id": "b96a4e5c-c608-4218-84b6-645be6cef809",
+   "index": 1791533560489,
+   "name": "中着陆_007",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/中着陆_007/preview.webp",
+   "glb_url": "assets/人类女/中着陆_007/中着陆_007.glb"
+  },
+  {
+   "id": "48ea5b54-f934-4e72-bf30-5c53953ba8d0",
+   "index": 1791534089202,
+   "name": "左跨栏_003",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/左跨栏_003/preview.webp",
+   "glb_url": "assets/人类女/左跨栏_003/左跨栏_003.glb"
+  },
+  {
+   "id": "311849cb-9ffc-4cbb-a217-ff4129f3c09e",
+   "index": 1791534105175,
+   "name": "右跨栏_003",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "跳"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/右跨栏_003/preview.webp",
+   "glb_url": "assets/人类女/右跨栏_003/右跨栏_003.glb"
+  },
+  {
+   "id": "f04a1f88-28fd-4f6d-ba53-dde03c8c5875",
+   "index": 1791534113954,
+   "name": "后跑_010",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 21,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/后跑_010/preview.webp",
+   "glb_url": "assets/人类女/后跑_010/后跑_010.glb"
+  },
+  {
+   "id": "e424d74f-e581-4f91-b38c-16ec9b9d0271",
+   "index": 1791534117867,
+   "name": "前跑_016",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 22,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/前跑_016/preview.webp",
+   "glb_url": "assets/人类女/前跑_016/前跑_016.glb"
+  },
+  {
+   "id": "a762d42e-72d5-48a9-a6a3-8f84ce704ccf",
+   "index": 1791534130631,
+   "name": "左跑_010",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 21,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/左跑_010/preview.webp",
+   "glb_url": "assets/人类女/左跑_010/左跑_010.glb"
+  },
+  {
+   "id": "48ab47c7-cecc-4344-979f-9104fb15c01d",
+   "index": 1791534135622,
+   "name": "左跑_011",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 16,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/左跑_011/preview.webp",
+   "glb_url": "assets/人类女/左跑_011/左跑_011.glb"
+  },
+  {
+   "id": "43134bf3-33ba-48a3-aac7-e05b7fdd2817",
+   "index": 1791534140405,
+   "name": "跑_003",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 19,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/跑_003/preview.webp",
+   "glb_url": "assets/人类女/跑_003/跑_003.glb"
+  },
+  {
+   "id": "0d7788f2-2044-40df-a2b1-600adeafe0ab",
+   "index": 1791534144916,
+   "name": "右跑_010",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 21,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/右跑_010/preview.webp",
+   "glb_url": "assets/人类女/右跑_010/右跑_010.glb"
+  },
+  {
+   "id": "f1e83a54-ff77-4a0e-990e-b855a63dc4d6",
+   "index": 1791534148637,
+   "name": "右跑_011",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 16,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/右跑_011/preview.webp",
+   "glb_url": "assets/人类女/右跑_011/右跑_011.glb"
+  },
+  {
+   "id": "01eda223-7ed7-4cc6-bd10-418bb6d47d01",
+   "index": 1791534155774,
+   "name": "冲刺_011",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 13,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/冲刺_011/preview.webp",
+   "glb_url": "assets/人类女/冲刺_011/冲刺_011.glb"
+  },
+  {
+   "id": "e23e0962-c6d8-485d-9cbe-44edb80f1a5e",
+   "index": 1791534161491,
+   "name": "左脚上台阶_004",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/左脚上台阶_004/preview.webp",
+   "glb_url": "assets/人类女/左脚上台阶_004/左脚上台阶_004.glb"
+  },
+  {
+   "id": "8a07b078-2bb1-4a1d-882b-fd19bf35891a",
+   "index": 1791534184473,
+   "name": "右脚上台阶_004",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "爬"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/右脚上台阶_004/preview.webp",
+   "glb_url": "assets/人类女/右脚上台阶_004/右脚上台阶_004.glb"
+  },
+  {
+   "id": "534ebbc9-1c04-47b1-a52f-2d83a02d9f3b",
+   "index": 1791534193405,
+   "name": "后走_014",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/后走_014/preview.webp",
+   "glb_url": "assets/人类女/后走_014/后走_014.glb"
+  },
+  {
+   "id": "d0fdc588-7b66-4c45-973a-da9b2dd1d16b",
+   "index": 1791534196740,
+   "name": "前走_017",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/前走_017/preview.webp",
+   "glb_url": "assets/人类女/前走_017/前走_017.glb"
+  },
+  {
+   "id": "b02e6fa7-2fae-4ff1-b24b-fd9c0fe327a0",
+   "index": 1791534203148,
+   "name": "左走_014",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/左走_014/preview.webp",
+   "glb_url": "assets/人类女/左走_014/左走_014.glb"
+  },
+  {
+   "id": "228d4b4a-5ad9-4cca-9e92-5c4c9a3f4bd1",
+   "index": 1791534206278,
+   "name": "左走_015",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/左走_015/preview.webp",
+   "glb_url": "assets/人类女/左走_015/左走_015.glb"
+  },
+  {
+   "id": "72f16272-1f18-4e5d-a5a7-de2b5d51a541",
+   "index": 1791534212185,
+   "name": "左走_016",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/左走_016/preview.webp",
+   "glb_url": "assets/人类女/左走_016/左走_016.glb"
+  },
+  {
+   "id": "f7e139ae-459b-47e9-851c-05e9d15fcc9a",
+   "index": 1791534216879,
+   "name": "前走_018",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 37,
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/前走_018/preview.webp",
+   "glb_url": "assets/人类女/前走_018/前走_018.glb"
+  },
+  {
+   "id": "3c552f12-2944-4236-89b8-df7b89ea656f",
+   "index": 1791534221631,
+   "name": "右走_014",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/右走_014/preview.webp",
+   "glb_url": "assets/人类女/右走_014/右走_014.glb"
+  },
+  {
+   "id": "0777b519-8296-4035-81d8-96cfd1d18b11",
+   "index": 1791534224936,
+   "name": "右走_015",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/右走_015/preview.webp",
+   "glb_url": "assets/人类女/右走_015/右走_015.glb"
+  },
+  {
+   "id": "45bc678b-e640-4985-a6e2-9f58a0a829af",
+   "index": 1791534228186,
+   "name": "右走_016",
+   "source": "Humanoid",
+   "race": "人类女",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人类女/右走_016/preview.webp",
+   "glb_url": "assets/人类女/右走_016/右走_016.glb"
+  },
+  {
+   "id": "6f16c4d4-00e0-4bb7-bd15-b99ca3a1087f",
+   "index": 1791539368154,
+   "name": "攻击_024",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_024/preview.webp",
+   "glb_url": "assets/人形/攻击_024/攻击_024.glb"
+  },
+  {
+   "id": "82e5ea91-c17f-4edc-afc1-0fb3e8558493",
+   "index": 1791539372844,
+   "name": "攻击_025",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_025/preview.webp",
+   "glb_url": "assets/人形/攻击_025/攻击_025.glb"
+  },
+  {
+   "id": "c884fa54-74e9-4251-9ba7-9e7561adf43f",
+   "index": 1791539379244,
+   "name": "攻击_026",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_026/preview.webp",
+   "glb_url": "assets/人形/攻击_026/攻击_026.glb"
+  },
+  {
+   "id": "965ab6ad-b1bd-4a5a-b0cc-a6fe319fe6af",
+   "index": 1791539384379,
+   "name": "攻击_027",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_027/preview.webp",
+   "glb_url": "assets/人形/攻击_027/攻击_027.glb"
+  },
+  {
+   "id": "f623895b-61ad-478e-9a74-05ffc35cc90b",
+   "index": 1791539388689,
+   "name": "攻击_028",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_028/preview.webp",
+   "glb_url": "assets/人形/攻击_028/攻击_028.glb"
+  },
+  {
+   "id": "af08c084-4762-440a-a377-9855b4b699c3",
+   "index": 1791539392138,
+   "name": "攻击_029",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_029/preview.webp",
+   "glb_url": "assets/人形/攻击_029/攻击_029.glb"
+  },
+  {
+   "id": "19470fb2-bb2a-425e-b56d-66647af465a4",
+   "index": 1791539406212,
+   "name": "二连击_010",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 61,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_010/preview.webp",
+   "glb_url": "assets/人形/二连击_010/二连击_010.glb"
+  },
+  {
+   "id": "bec135fa-375c-4c24-8fb9-8bdf014c9e00",
+   "index": 1791539410865,
+   "name": "二连击_011",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 56,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/二连击_011/preview.webp",
+   "glb_url": "assets/人形/二连击_011/二连击_011.glb"
+  },
+  {
+   "id": "4e97c2ff-0cc7-4aab-9857-e94c1e35417e",
+   "index": 1791539416224,
+   "name": "攻击_030",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_030/preview.webp",
+   "glb_url": "assets/人形/攻击_030/攻击_030.glb"
+  },
+  {
+   "id": "6b1b1709-363f-4948-aac3-e9f3da7b65f5",
+   "index": 1791539420882,
+   "name": "攻击_031",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_031/preview.webp",
+   "glb_url": "assets/人形/攻击_031/攻击_031.glb"
+  },
+  {
+   "id": "27992b6b-e078-42ed-8a84-fa81f2c31c95",
+   "index": 1791539428560,
+   "name": "3连击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 81,
+   "tags": [
+    "攻击",
+    "连击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/3连击/preview.webp",
+   "glb_url": "assets/人形/3连击/3连击.glb"
+  },
+  {
+   "id": "da12a39f-03b7-4339-8a9b-5866dd574f99",
+   "index": 1791539435665,
+   "name": "攻击_032",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_032/preview.webp",
+   "glb_url": "assets/人形/攻击_032/攻击_032.glb"
+  },
+  {
+   "id": "6ebef98c-c983-49b1-a430-5aea5a57a07e",
+   "index": 1791539468877,
+   "name": "攻击_033",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_033/preview.webp",
+   "glb_url": "assets/人形/攻击_033/攻击_033.glb"
+  },
+  {
+   "id": "b9f6f33e-3727-43c2-bf14-431a8a5b99cf",
+   "index": 1791539478354,
+   "name": "攻击_034",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_034/preview.webp",
+   "glb_url": "assets/人形/攻击_034/攻击_034.glb"
+  },
+  {
+   "id": "74c9b679-a428-4a76-9154-5004b311e621",
+   "index": 1791539484116,
+   "name": "攻击_035",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_035/preview.webp",
+   "glb_url": "assets/人形/攻击_035/攻击_035.glb"
+  },
+  {
+   "id": "49aac3e0-daae-4042-abad-9ab084dd7578",
+   "index": 1791539488878,
+   "name": "攻击_036",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_036/preview.webp",
+   "glb_url": "assets/人形/攻击_036/攻击_036.glb"
+  },
+  {
+   "id": "e75690a4-f902-41c3-ad42-40041f44e0ab",
+   "index": 1791539492823,
+   "name": "攻击_037",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_037/preview.webp",
+   "glb_url": "assets/人形/攻击_037/攻击_037.glb"
+  },
+  {
+   "id": "a69418e9-bae4-4d16-a98c-2977096c53c8",
+   "index": 1791539496690,
+   "name": "攻击_038",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_038/preview.webp",
+   "glb_url": "assets/人形/攻击_038/攻击_038.glb"
+  },
+  {
+   "id": "5c83bbe8-5a34-460e-a72e-9849a9d06fc8",
+   "index": 1791539499852,
+   "name": "攻击_039",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "攻击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/攻击_039/preview.webp",
+   "glb_url": "assets/人形/攻击_039/攻击_039.glb"
+  },
+  {
+   "id": "87029a7e-f52d-4a1d-a406-da75a3ea77e3",
+   "index": 1791539509466,
+   "name": "后走_015",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后走_015/preview.webp",
+   "glb_url": "assets/人形/后走_015/后走_015.glb"
+  },
+  {
+   "id": "36ceae26-90e0-40aa-b7bc-55b49569261d",
+   "index": 1791539516655,
+   "name": "前走_019",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前走_019/preview.webp",
+   "glb_url": "assets/人形/前走_019/前走_019.glb"
+  },
+  {
+   "id": "013ebb26-02db-4ad1-bffc-14a1bf6428c4",
+   "index": 1791539520302,
+   "name": "左走_017",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左走_017/preview.webp",
+   "glb_url": "assets/人形/左走_017/左走_017.glb"
+  },
+  {
+   "id": "f2d271e7-9527-457c-b7fd-3615015470c4",
+   "index": 1791539524800,
+   "name": "右走_017",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右走_017/preview.webp",
+   "glb_url": "assets/人形/右走_017/右走_017.glb"
+  },
+  {
+   "id": "fd957a73-6820-452f-ae82-e28afe5eef4d",
+   "index": 1791539539164,
+   "name": "后死_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 96,
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后死_007/preview.webp",
+   "glb_url": "assets/人形/后死_007/后死_007.glb"
+  },
+  {
+   "id": "2de9c5b9-f9ac-409a-9b08-884e76b240d5",
+   "index": 1791539542338,
+   "name": "前死_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 88,
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前死_007/preview.webp",
+   "glb_url": "assets/人形/前死_007/前死_007.glb"
+  },
+  {
+   "id": "87879338-aaf9-48f6-8d43-d91617214f2a",
+   "index": 1791539545264,
+   "name": "左死_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 98,
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左死_007/preview.webp",
+   "glb_url": "assets/人形/左死_007/左死_007.glb"
+  },
+  {
+   "id": "6cfa2b8a-673b-4946-acd2-a954556e475b",
+   "index": 1791539548442,
+   "name": "右死_007",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 76,
+   "tags": [
+    "死亡"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右死_007/preview.webp",
+   "glb_url": "assets/人形/右死_007/右死_007.glb"
+  },
+  {
+   "id": "764565a8-abb4-446e-91c1-16cd0d936917",
+   "index": 1791539556493,
+   "name": "装备_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 91,
+   "tags": [
+    "装配"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/装备_003/preview.webp",
+   "glb_url": "assets/人形/装备_003/装备_003.glb"
+  },
+  {
+   "id": "174899e4-b09f-48af-9ca1-1bf929f5c577",
+   "index": 1791539572549,
+   "name": "后受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后受击/preview.webp",
+   "glb_url": "assets/人形/后受击/后受击.glb"
+  },
+  {
+   "id": "d5533a15-125b-4a73-b29b-35e1ac0bb8fd",
+   "index": 1791539577502,
+   "name": "后重受击_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 36,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后重受击_003/preview.webp",
+   "glb_url": "assets/人形/后重受击_003/后重受击_003.glb"
+  },
+  {
+   "id": "1ebbdab6-4766-4390-991e-d7ede796e8a1",
+   "index": 1791539586495,
+   "name": "前受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前受击/preview.webp",
+   "glb_url": "assets/人形/前受击/前受击.glb"
+  },
+  {
+   "id": "df044734-8645-479e-80da-75833b6ba981",
+   "index": 1791539591190,
+   "name": "前重受击_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前重受击_003/preview.webp",
+   "glb_url": "assets/人形/前重受击_003/前重受击_003.glb"
+  },
+  {
+   "id": "b48e5a60-a731-453e-a05f-61ae35a6a462",
+   "index": 1791539598047,
+   "name": "左受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左受击/preview.webp",
+   "glb_url": "assets/人形/左受击/左受击.glb"
+  },
+  {
+   "id": "b55a0c51-7678-4074-aa32-bcaf317a255b",
+   "index": 1791539602960,
+   "name": "左重受击_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左重受击_003/preview.webp",
+   "glb_url": "assets/人形/左重受击_003/左重受击_003.glb"
+  },
+  {
+   "id": "aca1a49f-97a7-4f7c-8880-137788625529",
+   "index": 1791539606991,
+   "name": "右受击",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 26,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右受击/preview.webp",
+   "glb_url": "assets/人形/右受击/右受击.glb"
+  },
+  {
+   "id": "0dfbde78-b13c-4e2f-be9c-e67d09f36645",
+   "index": 1791539612033,
+   "name": "右重受击_003",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "受击"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右重受击_003/preview.webp",
+   "glb_url": "assets/人形/右重受击_003/右重受击_003.glb"
+  },
+  {
+   "id": "00010b6f-b4ac-46dd-bc6b-c8573c79e040",
+   "index": 1791539618558,
+   "name": "待机_030",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 221,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/待机_030/preview.webp",
+   "glb_url": "assets/人形/待机_030/待机_030.glb"
+  },
+  {
+   "id": "e3ca4b31-78a0-43a8-8f63-5deb1f73ea44",
+   "index": 1791539622631,
+   "name": "呼吸待机_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 56,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/呼吸待机_001/preview.webp",
+   "glb_url": "assets/人形/呼吸待机_001/呼吸待机_001.glb"
+  },
+  {
+   "id": "73e65945-05d6-41d3-a575-5f3b442d2fbe",
+   "index": 1791539630003,
+   "name": "战斗待机_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/战斗待机_005/preview.webp",
+   "glb_url": "assets/人形/战斗待机_005/战斗待机_005.glb"
+  },
+  {
+   "id": "5277ba7a-0862-4de7-aae5-e2fd8b1b6aec",
+   "index": 1791539634025,
+   "name": "下蹲待机_010",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 56,
+   "tags": [
+    "待机",
+    "下蹲"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/下蹲待机_010/preview.webp",
+   "glb_url": "assets/人形/下蹲待机_010/下蹲待机_010.glb"
+  },
+  {
+   "id": "eaf0eb0f-80ff-4c7f-a52d-9fcedfed2fce",
+   "index": 1791539643354,
+   "name": "四处张望",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 101,
+   "tags": [
+    "待机"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/四处张望/preview.webp",
+   "glb_url": "assets/人形/四处张望/四处张望.glb"
+  },
+  {
+   "id": "a86f6c84-a093-4852-86aa-a48b3f405e14",
+   "index": 1791539651898,
+   "name": "高格挡_001",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 21,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/高格挡_001/preview.webp",
+   "glb_url": "assets/人形/高格挡_001/高格挡_001.glb"
+  },
+  {
+   "id": "fdf7ccb7-b634-4b11-a2ef-cb3f27caa793",
+   "index": 1791539664811,
+   "name": "左格挡_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 21,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左格挡_002/preview.webp",
+   "glb_url": "assets/人形/左格挡_002/左格挡_002.glb"
+  },
+  {
+   "id": "6e2bf926-0087-477d-a8f7-0112a89c7aae",
+   "index": 1791539669168,
+   "name": "低格挡",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 21,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/低格挡/preview.webp",
+   "glb_url": "assets/人形/低格挡/低格挡.glb"
+  },
+  {
+   "id": "993424c8-5a2b-4873-b070-47efe601a196",
+   "index": 1791539677723,
+   "name": "右格挡_002",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 21,
+   "tags": [
+    "格挡"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右格挡_002/preview.webp",
+   "glb_url": "assets/人形/右格挡_002/右格挡_002.glb"
+  },
+  {
+   "id": "7a746bab-f178-4bdf-a6b5-5e124064059a",
+   "index": 1791539686393,
+   "name": "收起武器_005",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 101,
+   "tags": [
+    "装配"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/收起武器_005/preview.webp",
+   "glb_url": "assets/人形/收起武器_005/收起武器_005.glb"
+  },
+  {
+   "id": "72b4c7e9-fe24-4db5-954c-b0acd3280865",
+   "index": 1791539694575,
+   "name": "后跑_011",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 16,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后跑_011/preview.webp",
+   "glb_url": "assets/人形/后跑_011/后跑_011.glb"
+  },
+  {
+   "id": "2c7630de-d2b1-49e4-bff2-b3106b5c9ebf",
+   "index": 1791539698978,
+   "name": "前跑_018",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 16,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前跑_018/preview.webp",
+   "glb_url": "assets/人形/前跑_018/前跑_018.glb"
+  },
+  {
+   "id": "d79d0305-4162-47bc-abe7-1e9e1512f8db",
+   "index": 1791539709551,
+   "name": "左跑_012",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 16,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左跑_012/preview.webp",
+   "glb_url": "assets/人形/左跑_012/左跑_012.glb"
+  },
+  {
+   "id": "cac84e3e-5351-4ad7-bf6b-e172ff08ead6",
+   "index": 1791539714407,
+   "name": "右跑_012",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 16,
+   "tags": [
+    "跑"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右跑_012/preview.webp",
+   "glb_url": "assets/人形/右跑_012/右跑_012.glb"
+  },
+  {
+   "id": "dd0a6400-392a-4179-b928-7c21d0051e76",
+   "index": 1791539721281,
+   "name": "前走_020",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/前走_020/preview.webp",
+   "glb_url": "assets/人形/前走_020/前走_020.glb"
+  },
+  {
+   "id": "1959ab9b-a53b-45f9-95ad-9a6cf0c2d3b6",
+   "index": 1791539727434,
+   "name": "后走_016",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/后走_016/preview.webp",
+   "glb_url": "assets/人形/后走_016/后走_016.glb"
+  },
+  {
+   "id": "37505ec4-c6ae-4f74-9d84-031c5d782682",
+   "index": 1791539731964,
+   "name": "左走_018",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/左走_018/preview.webp",
+   "glb_url": "assets/人形/左走_018/左走_018.glb"
+  },
+  {
+   "id": "d81bc2f4-220d-4e45-ad1e-3f8dce7d558d",
+   "index": 1791539735291,
+   "name": "右走_018",
+   "source": "Humanoid",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 41,
+   "tags": [
+    "走"
+   ],
+   "weapons": [
+    "击剑"
+   ],
+   "category": "",
+   "preview_url": "assets/人形/右走_018/preview.webp",
+   "glb_url": "assets/人形/右走_018/右走_018.glb"
   }
  ],
  "enums": {
@@ -18783,7 +22336,6 @@
    "死亡",
    "下蹲",
    "受击",
-   "基础",
    "嘲讽",
    "投掷",
    "格挡",
@@ -18809,7 +22361,8 @@
    "弓箭",
    "格斗",
    "双枪",
-   "双剑"
+   "双剑",
+   "击剑"
   ]
  }
 }

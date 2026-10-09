@@ -1,0 +1,18 @@
+{
+ "id": "e44f23f5-c170-45c9-b23b-c2df0af036aa",
+ "index": 1791525867460,
+ "name": "前死_006",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 88,
+ "tags": [
+  "死亡"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前死_006/preview.webp",
+ "glb_url": "assets/人形/前死_006/前死_006.glb"
+}

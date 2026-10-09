@@ -1,0 +1,18 @@
+{
+ "id": "10c185c8-c0d4-46e1-a55f-4cf4b8622693",
+ "index": 1791526009693,
+ "name": "呼吸待机",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 66,
+ "tags": [
+  "待机"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/呼吸待机/preview.webp",
+ "glb_url": "assets/人形/呼吸待机/呼吸待机.glb"
+}

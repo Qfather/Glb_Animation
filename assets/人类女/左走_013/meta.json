@@ -1,0 +1,17 @@
+{
+ "id": "c6535bb6-cddb-4c7b-ae36-f87abaf621d8",
+ "index": 1791533353860,
+ "name": "左走_013",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 51,
+ "tags": [
+  "下蹲",
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/左走_013/preview.webp",
+ "glb_url": "assets/人类女/左走_013/左走_013.glb"
+}

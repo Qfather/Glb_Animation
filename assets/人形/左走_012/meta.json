@@ -1,0 +1,18 @@
+{
+ "id": "d76d481f-b120-4845-8b8a-796a93134fa2",
+ "index": 1791526339143,
+ "name": "左走_012",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 41,
+ "tags": [
+  "走"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/左走_012/preview.webp",
+ "glb_url": "assets/人形/左走_012/左走_012.glb"
+}

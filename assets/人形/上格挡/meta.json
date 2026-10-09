@@ -1,0 +1,18 @@
+{
+ "id": "ecf2887c-3fa5-45a9-9c84-6b0a480169df",
+ "index": 1791526160697,
+ "name": "上格挡",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 26,
+ "tags": [
+  "格挡"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/上格挡/preview.webp",
+ "glb_url": "assets/人形/上格挡/上格挡.glb"
+}

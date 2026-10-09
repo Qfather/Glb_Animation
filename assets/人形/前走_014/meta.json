@@ -1,0 +1,19 @@
+{
+ "id": "6c8f89b8-6307-40d0-91a5-f4db6138dc73",
+ "index": 1791525844502,
+ "name": "前走_014",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 51,
+ "tags": [
+  "下蹲",
+  "走"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/前走_014/preview.webp",
+ "glb_url": "assets/人形/前走_014/前走_014.glb"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "49057c46-f8a1-44f0-bf7c-07d507851e48",
+ "index": 1791525654511,
+ "name": "四连击",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 71,
+ "tags": [
+  "攻击",
+  "连击"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/四连击/preview.webp",
+ "glb_url": "assets/人形/四连击/四连击.glb"
+}

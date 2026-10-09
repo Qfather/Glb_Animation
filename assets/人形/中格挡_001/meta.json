@@ -1,0 +1,18 @@
+{
+ "id": "bd7520b6-05cc-4ef0-b50a-2a3e53f458ce",
+ "index": 1791525819528,
+ "name": "中格挡_001",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 26,
+ "tags": [
+  "格挡"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/中格挡_001/preview.webp",
+ "glb_url": "assets/人形/中格挡_001/中格挡_001.glb"
+}

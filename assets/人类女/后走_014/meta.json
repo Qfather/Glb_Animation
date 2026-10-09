@@ -1,0 +1,16 @@
+{
+ "id": "534ebbc9-1c04-47b1-a52f-2d83a02d9f3b",
+ "index": 1791534193405,
+ "name": "后走_014",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 41,
+ "tags": [
+  "走"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/后走_014/preview.webp",
+ "glb_url": "assets/人类女/后走_014/后走_014.glb"
+}

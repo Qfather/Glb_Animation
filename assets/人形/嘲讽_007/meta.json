@@ -1,0 +1,18 @@
+{
+ "id": "86ab3577-72c3-4693-8bf8-0c38a71d48ca",
+ "index": 1791526293828,
+ "name": "嘲讽_007",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 91,
+ "tags": [
+  "嘲讽"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/嘲讽_007/preview.webp",
+ "glb_url": "assets/人形/嘲讽_007/嘲讽_007.glb"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "565fc6da-7815-46f6-95c9-23b877380ab4",
+ "index": 1791526253041,
+ "name": "右跑_008",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 25,
+ "tags": [
+  "跑"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右跑_008/preview.webp",
+ "glb_url": "assets/人形/右跑_008/右跑_008.glb"
+}

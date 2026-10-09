@@ -1,0 +1,16 @@
+{
+ "id": "d5e2e110-e4c2-48e1-9fb8-978bbe2a35bb",
+ "index": 1791533551401,
+ "name": "重着陆_008",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 36,
+ "tags": [
+  "跳"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/重着陆_008/preview.webp",
+ "glb_url": "assets/人类女/重着陆_008/重着陆_008.glb"
+}

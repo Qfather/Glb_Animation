@@ -1,0 +1,18 @@
+{
+ "id": "fa9862a8-2732-4240-97e6-31f57b300926",
+ "index": 1791525985474,
+ "name": "右轻击_006",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 31,
+ "tags": [
+  "受击"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右轻击_006/preview.webp",
+ "glb_url": "assets/人形/右轻击_006/右轻击_006.glb"
+}

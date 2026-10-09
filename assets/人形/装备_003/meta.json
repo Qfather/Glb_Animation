@@ -1,0 +1,18 @@
+{
+ "id": "764565a8-abb4-446e-91c1-16cd0d936917",
+ "index": 1791539556493,
+ "name": "装备_003",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 91,
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/装备_003/preview.webp",
+ "glb_url": "assets/人形/装备_003/装备_003.glb"
+}

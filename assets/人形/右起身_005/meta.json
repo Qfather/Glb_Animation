@@ -1,0 +1,18 @@
+{
+ "id": "1c01b3f9-2a1c-44eb-9ef3-f371422ce6dd",
+ "index": 1791525920427,
+ "name": "右起身_005",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 91,
+ "tags": [
+  "起身"
+ ],
+ "weapons": [
+  "双剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/右起身_005/preview.webp",
+ "glb_url": "assets/人形/右起身_005/右起身_005.glb"
+}

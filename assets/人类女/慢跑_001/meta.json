@@ -1,0 +1,16 @@
+{
+ "id": "9e5fc384-9800-47de-962a-43a90240e5d5",
+ "index": 1791533523861,
+ "name": "慢跑_001",
+ "source": "Humanoid",
+ "race": "人类女",
+ "fps": "30",
+ "frame_count": 25,
+ "tags": [
+  "跑"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人类女/慢跑_001/preview.webp",
+ "glb_url": "assets/人类女/慢跑_001/慢跑_001.glb"
+}

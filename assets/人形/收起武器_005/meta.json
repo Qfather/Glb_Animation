@@ -1,0 +1,18 @@
+{
+ "id": "7a746bab-f178-4bdf-a6b5-5e124064059a",
+ "index": 1791539686393,
+ "name": "收起武器_005",
+ "source": "Humanoid",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 101,
+ "tags": [
+  "装配"
+ ],
+ "weapons": [
+  "击剑"
+ ],
+ "category": "",
+ "preview_url": "assets/人形/收起武器_005/preview.webp",
+ "glb_url": "assets/人形/收起武器_005/收起武器_005.glb"
+}

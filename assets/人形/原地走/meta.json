@@ -11,5 +11,6 @@
  "weapons": [],
  "category": "",
  "preview_url": "assets/人形/原地走/preview.webp",
- "glb_url": "assets/人形/原地走/原地走.glb"
+ "glb_url": "assets/人形/原地走/原地走.glb",
+ "frame_count": 171
 }
