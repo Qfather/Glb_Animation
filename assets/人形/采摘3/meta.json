@@ -1,0 +1,16 @@
+{
+ "id": "3b694585-ad6a-41fb-9447-bf0bb599ea96",
+ "index": 1791614840500,
+ "name": "采摘3",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 30,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/采摘3/preview.webp",
+ "glb_url": "assets/人形/采摘3/采摘3.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "c6312470-90cc-44f6-948a-507d5b2d7528",
+ "index": 1791614842365,
+ "name": "锤子建造",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 18,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/锤子建造/preview.webp",
+ "glb_url": "assets/人形/锤子建造/锤子建造.glb"
+}

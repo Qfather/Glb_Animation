@@ -1,0 +1,16 @@
+{
+ "id": "6d0b6ce6-6704-4d99-90b1-e6de9a5d0446",
+ "index": 1791614729446,
+ "name": "待机2",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 83,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/待机2/preview.webp",
+ "glb_url": "assets/人形/待机2/待机2.glb"
+}

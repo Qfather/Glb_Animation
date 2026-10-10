@@ -1,0 +1,16 @@
+{
+ "id": "3a65b626-9b37-489b-8763-0ef8bbea8c65",
+ "index": 1791614878527,
+ "name": "浇水",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 102,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/浇水/preview.webp",
+ "glb_url": "assets/人形/浇水/浇水.glb"
+}

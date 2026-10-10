@@ -1,0 +1,16 @@
+{
+ "id": "1d0b2523-a782-4dc7-8d5b-aca8d5ccecab",
+ "index": 1791614767895,
+ "name": "钓鱼1",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 40,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/钓鱼1/preview.webp",
+ "glb_url": "assets/人形/钓鱼1/钓鱼1.glb"
+}

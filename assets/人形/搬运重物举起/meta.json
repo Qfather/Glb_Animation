@@ -1,0 +1,16 @@
+{
+ "id": "3b36ef15-10aa-4591-9566-d026717a179b",
+ "index": 1791614709752,
+ "name": "搬运重物举起",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 73,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/搬运重物举起/preview.webp",
+ "glb_url": "assets/人形/搬运重物举起/搬运重物举起.glb"
+}

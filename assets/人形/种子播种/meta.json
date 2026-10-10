@@ -1,0 +1,16 @@
+{
+ "id": "b8197490-35af-40bd-a8e3-ccae39446b7a",
+ "index": 1791614928510,
+ "name": "种子播种",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 31,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/种子播种/preview.webp",
+ "glb_url": "assets/人形/种子播种/种子播种.glb"
+}

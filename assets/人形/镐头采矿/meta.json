@@ -1,0 +1,16 @@
+{
+ "id": "7c64cdb3-bbea-4feb-b717-562ace16d9df",
+ "index": 1791614870108,
+ "name": "镐头采矿",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 50,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/镐头采矿/preview.webp",
+ "glb_url": "assets/人形/镐头采矿/镐头采矿.glb"
+}

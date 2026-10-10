@@ -1,0 +1,16 @@
+{
+ "id": "a1fa174a-0a70-4e18-9ede-c43ab32ac50d",
+ "index": 1791614706939,
+ "name": "搬运重物待机",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 81,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/搬运重物待机/preview.webp",
+ "glb_url": "assets/人形/搬运重物待机/搬运重物待机.glb"
+}

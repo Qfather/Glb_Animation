@@ -1,0 +1,16 @@
+{
+ "id": "0dabb747-6c73-44cd-8d3b-8647b1e0b46a",
+ "index": 1791614904010,
+ "name": "农夫干活",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 50,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/农夫干活/preview.webp",
+ "glb_url": "assets/人形/农夫干活/农夫干活.glb"
+}

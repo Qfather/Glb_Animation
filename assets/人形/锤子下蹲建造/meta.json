@@ -1,0 +1,16 @@
+{
+ "id": "dd96ccfd-a5f3-4cf2-9b95-7db4884c3b4e",
+ "index": 1791614860155,
+ "name": "锤子下蹲建造",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 24,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/锤子下蹲建造/preview.webp",
+ "glb_url": "assets/人形/锤子下蹲建造/锤子下蹲建造.glb"
+}

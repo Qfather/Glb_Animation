@@ -1,0 +1,16 @@
+{
+ "id": "e13c8ca6-94dc-4724-baa8-bb6f7ea9e8dc",
+ "index": 1791614913487,
+ "name": "受击",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 24,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/受击/preview.webp",
+ "glb_url": "assets/人形/受击/受击.glb"
+}

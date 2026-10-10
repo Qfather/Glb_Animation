@@ -1,0 +1,16 @@
+{
+ "id": "8ada7ab3-4b45-49f0-81c9-a4f0c05ea350",
+ "index": 1791614905620,
+ "name": "农夫走路1",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 27,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/农夫走路1/preview.webp",
+ "glb_url": "assets/人形/农夫走路1/农夫走路1.glb"
+}

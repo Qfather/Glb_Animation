@@ -1,0 +1,16 @@
+{
+ "id": "41092ec9-2e0a-4538-938a-14dba06cac61",
+ "index": 1791614670380,
+ "name": "斧头_走路",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 27,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/斧头_走路/preview.webp",
+ "glb_url": "assets/人形/斧头_走路/斧头_走路.glb"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "dc017718-fd5e-4e5c-8fe6-73ae366648a7",
+ "index": 1791614697330,
+ "name": "搬运重物方向",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 75,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/搬运重物方向/preview.webp",
+ "glb_url": "assets/人形/搬运重物方向/搬运重物方向.glb"
+}

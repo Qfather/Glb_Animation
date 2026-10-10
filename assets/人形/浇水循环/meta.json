@@ -1,0 +1,16 @@
+{
+ "id": "964876d5-c04c-4fa7-bc8b-38669c487f77",
+ "index": 1791614880120,
+ "name": "浇水循环",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 61,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/浇水循环/preview.webp",
+ "glb_url": "assets/人形/浇水循环/浇水循环.glb"
+}

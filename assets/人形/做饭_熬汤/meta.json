@@ -1,0 +1,16 @@
+{
+ "id": "4777e6c6-38ce-44ba-a80f-5d2240b97ccd",
+ "index": 1791614947494,
+ "name": "做饭_熬汤",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 49,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/做饭_熬汤/preview.webp",
+ "glb_url": "assets/人形/做饭_熬汤/做饭_熬汤.glb"
+}

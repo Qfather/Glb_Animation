@@ -1,0 +1,16 @@
+{
+ "id": "1ecfc2ff-adac-442d-aa41-30b86187e34d",
+ "index": 1791614925265,
+ "name": "铁锹",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 45,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/铁锹/preview.webp",
+ "glb_url": "assets/人形/铁锹/铁锹.glb"
+}

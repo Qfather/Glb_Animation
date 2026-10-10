@@ -1,0 +1,16 @@
+{
+ "id": "e9e2438f-1afa-440b-81fa-afbfdf5e7cba",
+ "index": 1791614897846,
+ "name": "锯木",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 49,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/锯木/preview.webp",
+ "glb_url": "assets/人形/锯木/锯木.glb"
+}

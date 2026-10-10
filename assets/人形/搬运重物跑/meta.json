@@ -1,0 +1,16 @@
+{
+ "id": "ef6244c8-e265-4d9b-9ad1-5e9e6f9bdac5",
+ "index": 1791614692629,
+ "name": "搬运重物跑",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 23,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/搬运重物跑/preview.webp",
+ "glb_url": "assets/人形/搬运重物跑/搬运重物跑.glb"
+}

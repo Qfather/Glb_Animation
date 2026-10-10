@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-10-09T17:55:35",
+ "generated_at": "2026-10-10T14:49:46",
  "items": [
   {
    "id": "32780085-90b8-4d08-9dde-4287e8e48970",
@@ -22311,13 +22311,1182 @@
    "category": "",
    "preview_url": "assets/人形/右走_018/preview.webp",
    "glb_url": "assets/人形/右走_018/右走_018.glb"
+  },
+  {
+   "id": "41092ec9-2e0a-4538-938a-14dba06cac61",
+   "index": 1791614670380,
+   "name": "斧头_走路",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 27,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/斧头_走路/preview.webp",
+   "glb_url": "assets/人形/斧头_走路/斧头_走路.glb"
+  },
+  {
+   "id": "67f4b301-f058-4bee-ae17-78699351847c",
+   "index": 1791614678515,
+   "name": "斧头_待机",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 68,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/斧头_待机/preview.webp",
+   "glb_url": "assets/人形/斧头_待机/斧头_待机.glb"
+  },
+  {
+   "id": "5a1c5088-315f-4167-9d23-0cae7e773b7d",
+   "index": 1791614682100,
+   "name": "斧头_劈砍2",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 50,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/斧头_劈砍2/preview.webp",
+   "glb_url": "assets/人形/斧头_劈砍2/斧头_劈砍2.glb"
+  },
+  {
+   "id": "34ef433a-9ce2-4a2e-923c-7e2dc5ba74ef",
+   "index": 1791614687277,
+   "name": "斧头_劈砍",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 49,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/斧头_劈砍/preview.webp",
+   "glb_url": "assets/人形/斧头_劈砍/斧头_劈砍.glb"
+  },
+  {
+   "id": "ef6244c8-e265-4d9b-9ad1-5e9e6f9bdac5",
+   "index": 1791614692629,
+   "name": "搬运重物跑",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 23,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/搬运重物跑/preview.webp",
+   "glb_url": "assets/人形/搬运重物跑/搬运重物跑.glb"
+  },
+  {
+   "id": "057c1892-c2a2-415a-98a4-0e62385cff4b",
+   "index": 1791614695358,
+   "name": "搬运重物走",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 27,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/搬运重物走/preview.webp",
+   "glb_url": "assets/人形/搬运重物走/搬运重物走.glb"
+  },
+  {
+   "id": "dc017718-fd5e-4e5c-8fe6-73ae366648a7",
+   "index": 1791614697330,
+   "name": "搬运重物方向",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 75,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/搬运重物方向/preview.webp",
+   "glb_url": "assets/人形/搬运重物方向/搬运重物方向.glb"
+  },
+  {
+   "id": "a1fa174a-0a70-4e18-9ede-c43ab32ac50d",
+   "index": 1791614706939,
+   "name": "搬运重物待机",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 81,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/搬运重物待机/preview.webp",
+   "glb_url": "assets/人形/搬运重物待机/搬运重物待机.glb"
+  },
+  {
+   "id": "3b36ef15-10aa-4591-9566-d026717a179b",
+   "index": 1791614709752,
+   "name": "搬运重物举起",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 73,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/搬运重物举起/preview.webp",
+   "glb_url": "assets/人形/搬运重物举起/搬运重物举起.glb"
+  },
+  {
+   "id": "3df9f65f-f95b-4ade-981e-39abb39920ab",
+   "index": 1791614712074,
+   "name": "搬运跑",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 24,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/搬运跑/preview.webp",
+   "glb_url": "assets/人形/搬运跑/搬运跑.glb"
+  },
+  {
+   "id": "7daf0e2e-1ca8-4bb2-ba46-c343ce69e58e",
+   "index": 1791614717728,
+   "name": "搬运走",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 27,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/搬运走/preview.webp",
+   "glb_url": "assets/人形/搬运走/搬运走.glb"
+  },
+  {
+   "id": "a5504fd3-97b9-489f-8264-59b6635da897",
+   "index": 1791614719455,
+   "name": "搬运放下",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 70,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/搬运放下/preview.webp",
+   "glb_url": "assets/人形/搬运放下/搬运放下.glb"
+  },
+  {
+   "id": "cb0a1bfa-36b7-45c9-824d-b41ffc794196",
+   "index": 1791614721271,
+   "name": "搬运待机",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 65,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/搬运待机/preview.webp",
+   "glb_url": "assets/人形/搬运待机/搬运待机.glb"
+  },
+  {
+   "id": "a6754660-e5d7-4bf1-a724-6c457391881a",
+   "index": 1791614723004,
+   "name": "搬运举起",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 73,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/搬运举起/preview.webp",
+   "glb_url": "assets/人形/搬运举起/搬运举起.glb"
+  },
+  {
+   "id": "78cdf37d-6517-435f-9d3b-e648e14bfd04",
+   "index": 1791614724693,
+   "name": "待机3",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 73,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/待机3/preview.webp",
+   "glb_url": "assets/人形/待机3/待机3.glb"
+  },
+  {
+   "id": "6d0b6ce6-6704-4d99-90b1-e6de9a5d0446",
+   "index": 1791614729446,
+   "name": "待机2",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 83,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/待机2/preview.webp",
+   "glb_url": "assets/人形/待机2/待机2.glb"
+  },
+  {
+   "id": "48269c55-273e-4624-a09f-44a305273dd2",
+   "index": 1791614731229,
+   "name": "待机_031",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 68,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/待机_031/preview.webp",
+   "glb_url": "assets/人形/待机_031/待机_031.glb"
+  },
+  {
+   "id": "1d0b2523-a782-4dc7-8d5b-aca8d5ccecab",
+   "index": 1791614767895,
+   "name": "钓鱼1",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 40,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/钓鱼1/preview.webp",
+   "glb_url": "assets/人形/钓鱼1/钓鱼1.glb"
+  },
+  {
+   "id": "73c2c8d4-7f6c-4693-b3b8-83c8521e894f",
+   "index": 1791614803193,
+   "name": "钓鱼2",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 119,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/钓鱼2/preview.webp",
+   "glb_url": "assets/人形/钓鱼2/钓鱼2.glb"
+  },
+  {
+   "id": "3ceee4c0-f27b-4499-9020-b5ac2213c6ee",
+   "index": 1791614805788,
+   "name": "钓鱼3",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 58,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/钓鱼3/preview.webp",
+   "glb_url": "assets/人形/钓鱼3/钓鱼3.glb"
+  },
+  {
+   "id": "1d923e5a-7e4c-490b-af4c-480bf1e24c69",
+   "index": 1791614807425,
+   "name": "钓鱼4",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/钓鱼4/preview.webp",
+   "glb_url": "assets/人形/钓鱼4/钓鱼4.glb"
+  },
+  {
+   "id": "2783b88a-8558-4414-ac88-9e1fd1f098a0",
+   "index": 1791614830663,
+   "name": "剥皮1",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/剥皮1/preview.webp",
+   "glb_url": "assets/人形/剥皮1/剥皮1.glb"
+  },
+  {
+   "id": "6d47c8f4-7f46-4651-a2c3-9d42ecb1bdd6",
+   "index": 1791614832454,
+   "name": "剥皮2",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 35,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/剥皮2/preview.webp",
+   "glb_url": "assets/人形/剥皮2/剥皮2.glb"
+  },
+  {
+   "id": "6c8c4d99-3aad-499b-97c8-aeef36029ffe",
+   "index": 1791614834454,
+   "name": "采摘1",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 30,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/采摘1/preview.webp",
+   "glb_url": "assets/人形/采摘1/采摘1.glb"
+  },
+  {
+   "id": "349df865-aeb8-47b2-a188-e552f8aedf87",
+   "index": 1791614838326,
+   "name": "采摘2",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 30,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/采摘2/preview.webp",
+   "glb_url": "assets/人形/采摘2/采摘2.glb"
+  },
+  {
+   "id": "3b694585-ad6a-41fb-9447-bf0bb599ea96",
+   "index": 1791614840500,
+   "name": "采摘3",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 30,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/采摘3/preview.webp",
+   "glb_url": "assets/人形/采摘3/采摘3.glb"
+  },
+  {
+   "id": "c6312470-90cc-44f6-948a-507d5b2d7528",
+   "index": 1791614842365,
+   "name": "锤子建造",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 18,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/锤子建造/preview.webp",
+   "glb_url": "assets/人形/锤子建造/锤子建造.glb"
+  },
+  {
+   "id": "c16c5a6d-b55d-4a53-a18a-c0656b79b1a8",
+   "index": 1791614846216,
+   "name": "锤子建造_001",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 18,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/锤子建造_001/preview.webp",
+   "glb_url": "assets/人形/锤子建造_001/锤子建造_001.glb"
+  },
+  {
+   "id": "05ca07d1-d2d4-41b8-ba77-9f7fd4006222",
+   "index": 1791614849330,
+   "name": "锤子建造_002",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 18,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/锤子建造_002/preview.webp",
+   "glb_url": "assets/人形/锤子建造_002/锤子建造_002.glb"
+  },
+  {
+   "id": "da9e4172-ae28-41a6-bdf9-cfef0f0b552c",
+   "index": 1791614855751,
+   "name": "锤子建造_003",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 18,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/锤子建造_003/preview.webp",
+   "glb_url": "assets/人形/锤子建造_003/锤子建造_003.glb"
+  },
+  {
+   "id": "dd96ccfd-a5f3-4cf2-9b95-7db4884c3b4e",
+   "index": 1791614860155,
+   "name": "锤子下蹲建造",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 24,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/锤子下蹲建造/preview.webp",
+   "glb_url": "assets/人形/锤子下蹲建造/锤子下蹲建造.glb"
+  },
+  {
+   "id": "58d997f5-8d04-4758-9a89-b1254a139f1b",
+   "index": 1791614861629,
+   "name": "锤子站立建造",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 17,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/锤子站立建造/preview.webp",
+   "glb_url": "assets/人形/锤子站立建造/锤子站立建造.glb"
+  },
+  {
+   "id": "c18d24f1-0364-4559-b620-0638be609130",
+   "index": 1791614863443,
+   "name": "锤子站立建造2",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 17,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/锤子站立建造2/preview.webp",
+   "glb_url": "assets/人形/锤子站立建造2/锤子站立建造2.glb"
+  },
+  {
+   "id": "7c64cdb3-bbea-4feb-b717-562ace16d9df",
+   "index": 1791614870108,
+   "name": "镐头采矿",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 50,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/镐头采矿/preview.webp",
+   "glb_url": "assets/人形/镐头采矿/镐头采矿.glb"
+  },
+  {
+   "id": "36871d59-a514-4c4a-9d5d-871bcfb5800a",
+   "index": 1791614871886,
+   "name": "镐头采矿.001",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 50,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/镐头采矿-001/preview.webp",
+   "glb_url": "assets/人形/镐头采矿-001/镐头采矿-001.glb"
+  },
+  {
+   "id": "9283d1c3-6575-42e2-b28f-37d386b03dc6",
+   "index": 1791614873462,
+   "name": "镐头采矿.002",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 28,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/镐头采矿-002/preview.webp",
+   "glb_url": "assets/人形/镐头采矿-002/镐头采矿-002.glb"
+  },
+  {
+   "id": "1bc6bf9c-e441-43ea-a84c-caff35e1f239",
+   "index": 1791614875499,
+   "name": "镐头待机",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 68,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/镐头待机/preview.webp",
+   "glb_url": "assets/人形/镐头待机/镐头待机.glb"
+  },
+  {
+   "id": "f5c9310d-0fbc-4162-8a01-eca713d3cc45",
+   "index": 1791614876804,
+   "name": "镐头走",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 27,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/镐头走/preview.webp",
+   "glb_url": "assets/人形/镐头走/镐头走.glb"
+  },
+  {
+   "id": "3a65b626-9b37-489b-8763-0ef8bbea8c65",
+   "index": 1791614878527,
+   "name": "浇水",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 102,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/浇水/preview.webp",
+   "glb_url": "assets/人形/浇水/浇水.glb"
+  },
+  {
+   "id": "964876d5-c04c-4fa7-bc8b-38669c487f77",
+   "index": 1791614880120,
+   "name": "浇水循环",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 61,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/浇水循环/preview.webp",
+   "glb_url": "assets/人形/浇水循环/浇水循环.glb"
+  },
+  {
+   "id": "aaa19e6d-73c3-4834-8d33-2f61368395bf",
+   "index": 1791614893208,
+   "name": "锯木1",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 29,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/锯木1/preview.webp",
+   "glb_url": "assets/人形/锯木1/锯木1.glb"
+  },
+  {
+   "id": "e9e2438f-1afa-440b-81fa-afbfdf5e7cba",
+   "index": 1791614897846,
+   "name": "锯木",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 49,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/锯木/preview.webp",
+   "glb_url": "assets/人形/锯木/锯木.glb"
+  },
+  {
+   "id": "ecf1e657-9152-48e5-8761-cd3a9f5fb824",
+   "index": 1791614899690,
+   "name": "农夫待机1",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 68,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/农夫待机1/preview.webp",
+   "glb_url": "assets/人形/农夫待机1/农夫待机1.glb"
+  },
+  {
+   "id": "c4074da5-554b-4b1d-b960-63fa22587c86",
+   "index": 1791614902441,
+   "name": "农夫待机2",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 68,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/农夫待机2/preview.webp",
+   "glb_url": "assets/人形/农夫待机2/农夫待机2.glb"
+  },
+  {
+   "id": "0dabb747-6c73-44cd-8d3b-8647b1e0b46a",
+   "index": 1791614904010,
+   "name": "农夫干活",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 50,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/农夫干活/preview.webp",
+   "glb_url": "assets/人形/农夫干活/农夫干活.glb"
+  },
+  {
+   "id": "8ada7ab3-4b45-49f0-81c9-a4f0c05ea350",
+   "index": 1791614905620,
+   "name": "农夫走路1",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 27,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/农夫走路1/preview.webp",
+   "glb_url": "assets/人形/农夫走路1/农夫走路1.glb"
+  },
+  {
+   "id": "999892d2-8bbe-484d-95cf-60e3e0d35029",
+   "index": 1791614908316,
+   "name": "农夫走路2",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 27,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/农夫走路2/preview.webp",
+   "glb_url": "assets/人形/农夫走路2/农夫走路2.glb"
+  },
+  {
+   "id": "bcc06dac-c2da-4aaf-98f8-cba047a9ed2d",
+   "index": 1791614909923,
+   "name": "跑_004",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 23,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/跑_004/preview.webp",
+   "glb_url": "assets/人形/跑_004/跑_004.glb"
+  },
+  {
+   "id": "e13c8ca6-94dc-4724-baa8-bb6f7ea9e8dc",
+   "index": 1791614913487,
+   "name": "受击",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 24,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/受击/preview.webp",
+   "glb_url": "assets/人形/受击/受击.glb"
+  },
+  {
+   "id": "b33fe718-d355-439b-8739-870638b17401",
+   "index": 1791614916419,
+   "name": "受击1",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 24,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/受击1/preview.webp",
+   "glb_url": "assets/人形/受击1/受击1.glb"
+  },
+  {
+   "id": "6275489d-385a-495b-b0a9-5146d26f9f52",
+   "index": 1791614917949,
+   "name": "死亡1",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 28,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/死亡1/preview.webp",
+   "glb_url": "assets/人形/死亡1/死亡1.glb"
+  },
+  {
+   "id": "7f9d2955-742e-4e9f-80ad-1f981efcae86",
+   "index": 1791614923326,
+   "name": "死亡2",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/死亡2/preview.webp",
+   "glb_url": "assets/人形/死亡2/死亡2.glb"
+  },
+  {
+   "id": "1ecfc2ff-adac-442d-aa41-30b86187e34d",
+   "index": 1791614925265,
+   "name": "铁锹",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 45,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/铁锹/preview.webp",
+   "glb_url": "assets/人形/铁锹/铁锹.glb"
+  },
+  {
+   "id": "dda04656-77b2-48f2-b3d1-7e330f53ff44",
+   "index": 1791614926725,
+   "name": "铁锹.001",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 63,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/铁锹-001/preview.webp",
+   "glb_url": "assets/人形/铁锹-001/铁锹-001.glb"
+  },
+  {
+   "id": "b8197490-35af-40bd-a8e3-ccae39446b7a",
+   "index": 1791614928510,
+   "name": "种子播种",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 31,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/种子播种/preview.webp",
+   "glb_url": "assets/人形/种子播种/种子播种.glb"
+  },
+  {
+   "id": "7f54962e-3204-435c-923f-4b3a7fc4b87e",
+   "index": 1791614934537,
+   "name": "种子播种.001",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/种子播种-001/preview.webp",
+   "glb_url": "assets/人形/种子播种-001/种子播种-001.glb"
+  },
+  {
+   "id": "63fe43f5-30bf-4263-aa34-2c9919927492",
+   "index": 1791614938969,
+   "name": "种子待机",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 68,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/种子待机/preview.webp",
+   "glb_url": "assets/人形/种子待机/种子待机.glb"
+  },
+  {
+   "id": "17328537-f63e-4d97-8e88-dd64067fbdcc",
+   "index": 1791614940738,
+   "name": "种子跑",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 23,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/种子跑/preview.webp",
+   "glb_url": "assets/人形/种子跑/种子跑.glb"
+  },
+  {
+   "id": "699d2339-a497-4696-af94-29776dd4c916",
+   "index": 1791614942342,
+   "name": "种子走",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 27,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/种子走/preview.webp",
+   "glb_url": "assets/人形/种子走/种子走.glb"
+  },
+  {
+   "id": "2c035379-be15-4f09-a7a9-d4837bcc0e88",
+   "index": 1791614944352,
+   "name": "走_018",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 27,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/走_018/preview.webp",
+   "glb_url": "assets/人形/走_018/走_018.glb"
+  },
+  {
+   "id": "4777e6c6-38ce-44ba-a80f-5d2240b97ccd",
+   "index": 1791614947494,
+   "name": "做饭_熬汤",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 49,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭_熬汤/preview.webp",
+   "glb_url": "assets/人形/做饭_熬汤/做饭_熬汤.glb"
+  },
+  {
+   "id": "c667a6b0-2723-4090-aa06-3835506cf433",
+   "index": 1791614949330,
+   "name": "做饭_熬汤结束",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 46,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭_熬汤结束/preview.webp",
+   "glb_url": "assets/人形/做饭_熬汤结束/做饭_熬汤结束.glb"
+  },
+  {
+   "id": "c04f6f14-3809-4777-ae6f-403e78941270",
+   "index": 1791614952750,
+   "name": "做饭_熬汤开始",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 51,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭_熬汤开始/preview.webp",
+   "glb_url": "assets/人形/做饭_熬汤开始/做饭_熬汤开始.glb"
+  },
+  {
+   "id": "2142aa27-1734-436f-8276-039a38ea73b2",
+   "index": 1791614954416,
+   "name": "做饭2",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 57,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭2/preview.webp",
+   "glb_url": "assets/人形/做饭2/做饭2.glb"
+  },
+  {
+   "id": "1d87c192-8586-45c3-b33e-2a76303e3691",
+   "index": 1791614955983,
+   "name": "做饭2结束",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 30,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭2结束/preview.webp",
+   "glb_url": "assets/人形/做饭2结束/做饭2结束.glb"
+  },
+  {
+   "id": "cf40dceb-a20b-44f4-b12a-e38fb79ed49c",
+   "index": 1791614958336,
+   "name": "做饭2开始",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 28,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭2开始/preview.webp",
+   "glb_url": "assets/人形/做饭2开始/做饭2开始.glb"
+  },
+  {
+   "id": "1df63c1a-668b-4ed1-be8e-58513f46c732",
+   "index": 1791614962031,
+   "name": "做饭3放下",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 34,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭3放下/preview.webp",
+   "glb_url": "assets/人形/做饭3放下/做饭3放下.glb"
+  },
+  {
+   "id": "7b5ad7a3-db9f-4844-9218-9f68d104e0d9",
+   "index": 1791614964030,
+   "name": "做饭3放下1",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 38,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭3放下1/preview.webp",
+   "glb_url": "assets/人形/做饭3放下1/做饭3放下1.glb"
+  },
+  {
+   "id": "981cdfcb-bdb8-4324-93ab-f954594ed3e9",
+   "index": 1791614965384,
+   "name": "做饭3拿起",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 34,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭3拿起/preview.webp",
+   "glb_url": "assets/人形/做饭3拿起/做饭3拿起.glb"
+  },
+  {
+   "id": "d3fef81b-c8e8-495e-a17f-4bd36cc102fd",
+   "index": 1791614971049,
+   "name": "做饭3拿起1",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 34,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭3拿起1/preview.webp",
+   "glb_url": "assets/人形/做饭3拿起1/做饭3拿起1.glb"
+  },
+  {
+   "id": "b6d87077-cf0d-45e3-90af-4c02408ad32c",
+   "index": 1791614983524,
+   "name": "做饭4",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 127,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭4/preview.webp",
+   "glb_url": "assets/人形/做饭4/做饭4.glb"
+  },
+  {
+   "id": "0b540fcc-9a52-4af0-b7cd-20ccf5d019ce",
+   "index": 1791614985003,
+   "name": "做饭4结束",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 28,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭4结束/preview.webp",
+   "glb_url": "assets/人形/做饭4结束/做饭4结束.glb"
+  },
+  {
+   "id": "43059ca0-a0a5-4b98-af73-47c2f46cd801",
+   "index": 1791614986513,
+   "name": "做饭4开始",
+   "source": "keviniglesias",
+   "race": "人形",
+   "fps": "30",
+   "frame_count": 28,
+   "tags": [
+    "村民"
+   ],
+   "weapons": [],
+   "category": "",
+   "preview_url": "assets/人形/做饭4开始/preview.webp",
+   "glb_url": "assets/人形/做饭4开始/做饭4开始.glb"
   }
  ],
  "enums": {
   "sources": [
    "Humanoid",
    "Mixamo",
-   "Synty"
+   "Synty",
+   "keviniglesias"
   ],
   "races": [
    "人形",
@@ -22346,7 +23515,8 @@
    "闪避",
    "篝火",
    "欢呼",
-   "坐"
+   "坐",
+   "村民"
   ],
   "fps": [
    "30",

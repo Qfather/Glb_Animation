@@ -1,0 +1,16 @@
+{
+ "id": "34ef433a-9ce2-4a2e-923c-7e2dc5ba74ef",
+ "index": 1791614687277,
+ "name": "斧头_劈砍",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 49,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/斧头_劈砍/preview.webp",
+ "glb_url": "assets/人形/斧头_劈砍/斧头_劈砍.glb"
+}

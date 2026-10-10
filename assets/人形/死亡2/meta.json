@@ -1,0 +1,16 @@
+{
+ "id": "7f9d2955-742e-4e9f-80ad-1f981efcae86",
+ "index": 1791614923326,
+ "name": "死亡2",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 51,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/死亡2/preview.webp",
+ "glb_url": "assets/人形/死亡2/死亡2.glb"
+}

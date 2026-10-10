@@ -1,0 +1,16 @@
+{
+ "id": "67f4b301-f058-4bee-ae17-78699351847c",
+ "index": 1791614678515,
+ "name": "斧头_待机",
+ "source": "keviniglesias",
+ "race": "人形",
+ "fps": "30",
+ "frame_count": 68,
+ "tags": [
+  "村民"
+ ],
+ "weapons": [],
+ "category": "",
+ "preview_url": "assets/人形/斧头_待机/preview.webp",
+ "glb_url": "assets/人形/斧头_待机/斧头_待机.glb"
+}
